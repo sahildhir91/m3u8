@@ -474,5 +474,31 @@ http://iptv.speedviz.net:1202/room/room/193
 http://iptv.speedviz.net:1202/room/room/156
 #EXTINF:-1,Premier Sports
 http://iptv.speedviz.net:1202/room/room/157
+#EXTINF:-1,DISNEY JUNIOR HD
+http://unlockyourtv.com:8000/barry/barry123/604
+#EXTINF:-1,Disney XD HD
+http://unlockyourtv.com:8000/barry/barry123/614
+#EXTINF:-1,DISCOVERY HD
+http://unlockyourtv.com:8000/barry/barry123/542
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://unlockyourtv.com:8000/barry/barry123/543
+#EXTINF:-1,E! HD
+http://unlockyourtv.com:8000/barry/barry123/605
+#EXTINF:-1,HBO
+http://unlockyourtv.com:8000/barry/barry123/616
+#EXTINF:-1,HALLMARK HD
+http://unlockyourtv.com:8000/barry/barry123/550
+#EXTINF:-1,HALLMARK MOVIE HD
+http://unlockyourtv.com:8000/barry/barry123/569
+#EXTINF:-1,MTV HD
+http://unlockyourtv.com:8000/barry/barry123/1099
+#EXTINF:-1,MTV 2
+http://unlockyourtv.com:8000/barry/barry123/1159
+#EXTINF:-1,NAT GEO HD
+http://unlockyourtv.com:8000/barry/barry123/1164
+#EXTINF:-1,NAT GEO WILD HD
+http://unlockyourtv.com:8000/barry/barry123/573
+
+
 
 
