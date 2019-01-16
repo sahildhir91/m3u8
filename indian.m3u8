@@ -78,6 +78,25 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Hindi",& TV
 http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Hindi",& TV HD
+#EXTINF:-1,Zee Action
+http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Cinema HD
+http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Cinema
+http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Cinema SD
+http://z5ams.akamaized.net/zcinemalusd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee News
+http://z5ams.akamaized.net/zeenews/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Punjabi
+http://z5ams.akamaized.net/punjabi/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Salaam
+http://z5ams.akamaized.net/zeesalaam/tracks-v1a1/index.m3u8
+#EXTINF:-1,BBC World News
+http://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
+#EXTINF:-1,DD India
+http://z5ams.akamaized.net/ddindia/tracks-v1a1/index.m3u8
+
 
 
 
