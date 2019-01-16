@@ -308,4 +308,171 @@ http://23.237.22.82:8086/udp/127.0.0.1:56067
 http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/505.m3u8
 #EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/59463/logo_hbo%204.png" group-title="USA",HBO 2
 http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/2670.m3u8
+#EXTINF:-1,SyFy
+http://iptv.speedviz.net:1202/room/room/28
+#EXTINF:-1,BBC News
+http://iptv.speedviz.net:1202/room/room/74
+#EXTINF:-1, News
+http://iptv.speedviz.net:1202/room/room/79
+#EXTINF:-1,CNN News
+http://iptv.speedviz.net:1202/room/room/109
+#EXTINF:-1,Nicktoons
+http://iptv.speedviz.net:1202/room/room/180
+#EXTINF:-1,Disney XD
+http://iptv.speedviz.net:1202/room/room/183
+#EXTINF:-1,Disney Junior
+http://iptv.speedviz.net:1202/room/room/182
+#EXTINF:-1,Disney Channel
+http://iptv.speedviz.net:1202/room/room/181
+#EXTINF:-1,Cartoon Network
+http://iptv.speedviz.net:1202/room/room/177
+#EXTINF:-1,Nickelodeon
+http://iptv.speedviz.net:1202/room/room/224
+#EXTINF:-1,Nick Jr
+http://iptv.speedviz.net:1202/room/room/222
+#EXTINF:-1,Boomerang
+http://iptv.speedviz.net:1202/room/room/223
+#EXTINF:-1,Baby TV
+http://iptv.speedviz.net:1202/room/room/225
+#EXTINF:-1,Discovery
+http://iptv.speedviz.net:1202/room/room/166
+#EXTINF:-1,Discovery History
+http://iptv.speedviz.net:1202/room/room/165
+#EXTINF:-1,Discovery Science
+http://iptv.speedviz.net:1202/room/room/168
+#EXTINF:-1,Discovery Shed
+http://iptv.speedviz.net:1202/room/room/169
+#EXTINF:-1,Discovery Turbo
+http://iptv.speedviz.net:1202/room/room/170
+#EXTINF:-1,DMAX
+http://iptv.speedviz.net:1202/room/room/176
+#EXTINF:-1,Quest
+http://iptv.speedviz.net:1202/room/room/198
+#EXTINF:-1,ID Investigation
+http://iptv.speedviz.net:1202/room/room/171
+#EXTINF:-1,Crime & Investigation
+http://iptv.speedviz.net:1202/room/room/172
+#EXTINF:-1,National Geographic
+http://iptv.speedviz.net:1202/room/room/124
+#EXTINF:-1,Nat Geo Wild
+http://iptv.speedviz.net:1202/room/room/139
+#EXTINF:-1,Animal Planet
+http://iptv.speedviz.net:1202/room/room/173
+#EXTINF:-1,History
+http://iptv.speedviz.net:1202/room/room/163
+#EXTINF:-1,H2
+http://iptv.speedviz.net:1202/room/room/164
+#EXTINF:-1, Arts
+http://iptv.speedviz.net:1202/room/room/174
+#EXTINF:-1,Yesterday
+http://iptv.speedviz.net:1202/room/room/101
+#EXTINF:-1,Eden
+http://iptv.speedviz.net:1202/room/room/102
+#EXTINF:-1,PBS America
+http://iptv.speedviz.net:1202/room/room/103
+#EXTINF:-1,Food Network
+http://iptv.speedviz.net:1202/room/room/104
+#EXTINF:-1, Atlantic SD
+http://iptv.speedviz.net:1202/room/room/185
+#EXTINF:-1, Atlantic HD
+http://iptv.speedviz.net:1202/room/room/184
+#EXTINF:-1,Sony Movies
+http://iptv.speedviz.net:1202/room/room/107
+#EXTINF:-1, Cinema Select HD
+http://iptv.speedviz.net:1202/room/room/131
+#EXTINF:-1, Cinema Premiere HD
+http://iptv.speedviz.net:1202/room/room/126
+#EXTINF:-1, Cinema Disney HD
+http://iptv.speedviz.net:1202/room/room/127
+#EXTINF:-1, Cinema Hits HD
+http://iptv.speedviz.net:1202/room/room/213
+#EXTINF:-1, Cinema Family HD
+http://iptv.speedviz.net:1202/room/room/135
+#EXTINF:-1, Cinema Action HD
+http://iptv.speedviz.net:1202/room/room/128
+#EXTINF:-1, Cinema Comedy HD
+http://iptv.speedviz.net:1202/room/room/129
+#EXTINF:-1, Cinema Thriller HD
+http://iptv.speedviz.net:1202/room/room/132
+#EXTINF:-1, Cinema Drama HD
+http://iptv.speedviz.net:1202/room/room/130
+#EXTINF:-1, Cinema Greats HD
+http://iptv.speedviz.net:1202/room/room/155
+#EXTINF:-1, Cinema Sci-Fi HD
+http://iptv.speedviz.net:1202/room/room/134
+#EXTINF:-1, Sports News SD
+http://iptv.speedviz.net:1202/room/room/152
+#EXTINF:-1, Sports News HD
+http://iptv.speedviz.net:1202/room/room/113
+#EXTINF:-1, Sports Main Event SD
+http://iptv.speedviz.net:1202/room/room/146
+#EXTINF:-1, Sports Main Event HD
+http://iptv.speedviz.net:1202/room/room/115
+#EXTINF:-1, Sports Premier League SD
+http://iptv.speedviz.net:1202/room/room/147
+#EXTINF:-1, Sports Premier League HD
+http://iptv.speedviz.net:1202/room/room/116
+#EXTINF:-1, Sports Football SD
+http://iptv.speedviz.net:1202/room/room/148
+#EXTINF:-1, Sports Football HD
+http://iptv.speedviz.net:1202/room/room/117
+#EXTINF:-1, Sports Cricket SD
+http://iptv.speedviz.net:1202/room/room/149
+#EXTINF:-1, Sports Cricket HD
+http://iptv.speedviz.net:1202/room/room/118
+#EXTINF:-1, Sports Golf SD
+http://iptv.speedviz.net:1202/room/room/150
+#EXTINF:-1, Sports Golf HD
+http://iptv.speedviz.net:1202/room/room/119
+#EXTINF:-1, Sports Action SD
+http://iptv.speedviz.net:1202/room/room/186
+#EXTINF:-1, Sports Action HD
+http://iptv.speedviz.net:1202/room/room/188
+#EXTINF:-1, Sports Darts SD
+http://iptv.speedviz.net:1202/room/room/187
+#EXTINF:-1, Sports Darts HD
+http://iptv.speedviz.net:1202/room/room/189
+#EXTINF:-1, Sports F1 SD
+http://iptv.speedviz.net:1202/room/room/151
+#EXTINF:-1, Sports F1 HD
+http://iptv.speedviz.net:1202/room/room/138
+#EXTINF:-1,Eleven Sports 1 HD
+http://iptv.speedviz.net:1202/room/room/219
+#EXTINF:-1,Eleven Sports 2 HD
+http://iptv.speedviz.net:1202/room/room/220
+#EXTINF:-1,Eleven Sports LaLiga HD
+http://iptv.speedviz.net:1202/room/room/221
+#EXTINF:-1,EIR Spors 1
+http://iptv.speedviz.net:1202/room/room/158
+#EXTINF:-1,EIR Sports 2
+http://iptv.speedviz.net:1202/room/room/159
+#EXTINF:-1,Eurosport 1 SD
+http://iptv.speedviz.net:1202/room/room/153
+#EXTINF:-1,Eurosport 1 HD
+http://iptv.speedviz.net:1202/room/room/194
+#EXTINF:-1,Eurosport 2 SD
+http://iptv.speedviz.net:1202/room/room/154
+#EXTINF:-1,Eurosport 2 HD
+http://iptv.speedviz.net:1202/room/room/195
+#EXTINF:-1, Sport 1 SD
+http://iptv.speedviz.net:1202/room/room/18
+#EXTINF:-1, Sport 1 HD
+http://iptv.speedviz.net:1202/room/room/190
+#EXTINF:-1, Sport 2 SD
+http://iptv.speedviz.net:1202/room/room/17
+#EXTINF:-1, Sport 2 HD
+http://iptv.speedviz.net:1202/room/room/191
+#EXTINF:-1, Sport 3 SD
+http://iptv.speedviz.net:1202/room/room/93
+#EXTINF:-1, Sport 3 HD
+http://iptv.speedviz.net:1202/room/room/192
+#EXTINF:-1, Sport ESPN SD
+http://iptv.speedviz.net:1202/room/room/95
+#EXTINF:-1, Sport ESPN HD
+http://iptv.speedviz.net:1202/room/room/193
+#EXTINF:-1,Boxnation
+http://iptv.speedviz.net:1202/room/room/156
+#EXTINF:-1,Premier Sports
+http://iptv.speedviz.net:1202/room/room/157
+
 
