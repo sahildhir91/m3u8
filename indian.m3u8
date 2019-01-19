@@ -48,14 +48,7 @@ http://z5ams.akamaized.net/zeetalkies/tracks-v1a1/index.m3u8
 http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226202/index.m3u8
 #EXTINF:0, group-title="Marathi",Zee Talkies HD
 http://z5ams.akamaized.net/ztalkieshd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Tamil",Zee Tamil
-http://cshms2.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:0, group-title="Tamil",Zee Tamil
-http://z5ams.akamaized.net/zeetamil/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Telugu",Zee Telugu
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225936/index.m3u8
-#EXTINF:0, group-title="Telugu",Zee Telugu Cinema
-http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226098/index.m3u8
+
 #EXTINF:0, group-title="Hindi",Zee TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225878/index.m3u8
 #EXTINF:0, group-title="Hindi",Zee TV
