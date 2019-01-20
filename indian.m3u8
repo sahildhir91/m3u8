@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0,HBO 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/132.ts
+#EXTINF:0,HBO HD
+http://maxptv.ddns.net:25461/live/MA020/0706/128.ts
 #EXTINF:-1,PB: Prime + HD
 http://23.186.192.55:8080/live/primeplus/index.m3u8
 #EXTINF:-1,H2
