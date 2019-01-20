@@ -1,5 +1,10 @@
 #EXTM3U
-
+#EXTINF:-1,PB: Prime + HD
+http://23.186.192.55:8080/live/primeplus/index.m3u8
+#EXTINF:-1,H2
+http://158.69.199.190/LIVE/H02/H2/playlist.m3u8
+#EXTINF:-1,HBO 2
+http://158.69.199.190/LIVE/H02/HBO2/playlist.m3u8
 #EXTINF:-1,|IN| &Picture_HD
 http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24693
 #EXTINF:-1,|IN| &Tv_HD
