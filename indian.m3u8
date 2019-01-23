@@ -1,4 +1,128 @@
 #EXTM3U
+#EXTINF:0 group-title="IN: India",IN: AKARAM GALLATA TV 
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+#EXTINF:0 group-title="IN: India",IN: AMAR UJALA 
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:0 group-title="IN: India",IN: ANALAI EXPRESS 
+http://live.streamjo.com:1935/sarastv/sarastv.m3u8
+#EXTINF:0 group-title="IN: India",IN: AND PICTURES OPT 1 
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: AND PRIV HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: AND TV OPT 2 
+http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: AND TV OPT 4 
+http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: CANADA STAR TV 
+http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
+#EXTINF:0 group-title="IN: India",IN: CHANNEL Y 
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:0 group-title="IN: India",IN: DEEPAM TV 
+http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: DY365 
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh1.stream_aac/playlist.m3u8
+#EXTINF:0 group-title="IN: India",IN: EET TV TAMIL CANADA 
+http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+#EXTINF:0 group-title="IN: India",IN: EKTA TV 
+http://fastway.ddns.net:6421/fastway/alive/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: FASTWAY TV 
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: GABRUU TV 
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:0 group-title="IN: India",IN: GLOBAL PUNJAB TV 
+http://207.244.112.71/globalpunjabhls/live.m3u8
+#EXTINF:0 group-title="IN: India",IN: GURBANI HEALING 
+http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: JANTA TV 
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: JONACK TV 
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh2.stream_aac/playlist.m3u8
+#EXTINF:0 group-title="IN: India",IN: KAUMUDY 
+http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: MBL 
+http://tvpremiumhd.club/lista-gratuita/210002/on/in/YB1rwf.ts
+#EXTINF:0 group-title="IN: India",IN: MIAMI TV 
+http://tvpremiumhd.club/lista-gratuita/210002/on/in/nvg8m7.ts
+#EXTINF:0 group-title="IN: India",IN: NDTV OPT 2 
+https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
+#EXTINF:0 group-title="IN: India",IN: NETHRA TV 
+http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
+#EXTINF:0 group-title="IN: India",IN: PEPPERS TV 
+http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: PRIME ASIA TV 
+http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: SAINT TV 
+http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
+#EXTINF:0 group-title="IN: India",IN: SANTHORA TV 
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
+#EXTINF:0 group-title="IN: India",IN: SARDARI TV 
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:0 group-title="IN: India",IN: SKTAT TV 
+http://ealing.zecast.net/ealing-live-2/sktat.stream/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: SUBRANG TV 
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:0 group-title="IN: India",IN: TAMIL VISION 
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:0 group-title="IN: India",IN: TEHLKA 
+http://162.244.80.110:1935/amarpadda1/live/livestream/chunklist.m3u8
+#EXTINF:0 group-title="IN: India",IN: TEZ 
+http://stream.jeem.tv/geo/geotezz/playlist.m3u8
+#EXTINF:0 group-title="IN: India",IN: TORONTO 360 TV 
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:0 group-title="IN: India",IN: TOTAL TV 
+http://172.104.54.227:1935/trans/totaltv.stream_aac/chunklist.m3u8
+#EXTINF:0 group-title="IN: India",IN: TV 100 
+http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
+#EXTINF:0 group-title="IN: India",IN: TV 16 TORONTO 
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:0 group-title="IN: India",IN: TV PUNJAB 
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: TV84 
+http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
+#EXTINF:0 group-title="IN: India",IN: VELICHAM TV 
+http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: 2 TV 
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: ALTO ADIGE TV 
+http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: ALTO ADIGE TV (1+) 
+http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=77.72.196.214:8554/live/AltoAdigeTV/livestream.ts
+#EXTINF:0 group-title="IT: Italy",IT: ANTENNA TRE NORDEST 
+http://wms.shared.streamshow.it/antennatre/antennatre/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: BLAZE HD
+http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1971.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CAFETV24 VENETO OPT 1 
+http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 10 
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 10 (1+) 
+http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 5 HD
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.ts
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 7 
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 7 (1+) 
+http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 7 (2+) 
+http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=wms.shared.streamshow.it:1935/canale7/canale7/live.ts
+#EXTINF:0 group-title="IT: Italy",IT: CANALE 8 
+http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CARINA TV 
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CARINA TV (1+) 
+http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=wms.shared.streamshow.it/carinatv/carinatv/playlist.ts
+#EXTINF:0 group-title="IT: Italy",IT: COMPANY TV 
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_240p/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: COMPANY TV (1+) 
+http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.ts
+#EXTINF:0 group-title="IT: Italy",IT: COMPANY TV OPT 1 
+http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CREMONA 1 
+http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0 group-title="IT: Italy",IT: CREMONA 1 (1+) 
+http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).ts
+#EXTINF:0 group-title="IT: Italy",IT: DEEJAY TV 
+http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.ts
 http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24692
 #EXTINF:-1,STAR SPORTS FIRST
 http://142.93.219.225:8081/StarSportsFirst/index.m3u8
