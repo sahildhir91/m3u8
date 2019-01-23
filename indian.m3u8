@@ -83,49 +83,10 @@ http://cdn.samtv.ca/tvpunjab/index.m3u8
 http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
 #EXTINF:0 group-title="IN: India",IN: VELICHAM TV 
 http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: 2 TV 
-http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: ALTO ADIGE TV 
-http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: ALTO ADIGE TV (1+) 
-http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=77.72.196.214:8554/live/AltoAdigeTV/livestream.ts
-#EXTINF:0 group-title="IT: Italy",IT: ANTENNA TRE NORDEST 
-http://wms.shared.streamshow.it/antennatre/antennatre/playlist.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: BLAZE HD
-http://163.172.36.103:7070/live/AmnRook_Iptv/KS@wwJH7_9jhGyyd-Afd678waAh76/1971.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: CAFETV24 VENETO OPT 1 
-http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: CANALE 10 
-http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: CANALE 10 (1+) 
-http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: CANALE 5 HD
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.ts
-#EXTINF:0 group-title="IT: Italy",IT: CANALE 7 
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: CANALE 7 (1+) 
-http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: CANALE 7 (2+) 
-http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=wms.shared.streamshow.it:1935/canale7/canale7/live.ts
-#EXTINF:0 group-title="IT: Italy",IT: CANALE 8 
-http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: CARINA TV 
-http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: CARINA TV (1+) 
-http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=wms.shared.streamshow.it/carinatv/carinatv/playlist.ts
-#EXTINF:0 group-title="IT: Italy",IT: COMPANY TV 
-http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_240p/playlist.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: COMPANY TV (1+) 
-http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.ts
-#EXTINF:0 group-title="IT: Italy",IT: COMPANY TV OPT 1 
-http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
-#EXTINF:0 group-title="IT: Italy",IT: CREMONA 1 
-http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:0 group-title="IT: Italy",IT: CREMONA 1 (1+) 
-http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).ts
-#EXTINF:0 group-title="IT: Italy",IT: DEEJAY TV 
-http://tvpremiumhd.club/lista-gratuita/210002/on/live.php?id=deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.ts
-http://iptvpro.premium-itv.com:8789/almag200/4pc5Kd5R1y/24692
+#EXTINF:0 group-title="US: United States",US: FOX HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11071.ts
+#EXTINF:0 group-title="US: United States",US: FOX (1+) HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14492.ts
 #EXTINF:-1,STAR SPORTS FIRST
 http://142.93.219.225:8081/StarSportsFirst/index.m3u8
 #EXTINF:-1,STAR SPORTS 1HD
