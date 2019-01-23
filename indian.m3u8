@@ -87,6 +87,10 @@ http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8
 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11071.ts
 #EXTINF:0 group-title="US: United States",US: FOX (1+) HD
 http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14492.ts
+#EXTINF:0 group-title="US: United States",US: NATGEO WILD HD
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11134.ts
+#EXTINF:0 group-title="US: United States",US: NATIONAL GEOGRAPHIC 
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14479.ts
 #EXTINF:-1,STAR SPORTS FIRST
 http://142.93.219.225:8081/StarSportsFirst/index.m3u8
 #EXTINF:-1,STAR SPORTS 1HD
