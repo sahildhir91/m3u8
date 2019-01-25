@@ -25,10 +25,6 @@ http://212.8.243.9:80/adnan/123456/7814
 http://212.8.243.9:80/adnan/123456/7805
 #EXTINF:-1,Indian: Kids Sonic
 http://212.8.243.9:80/adnan/123456/7812
-
-#EXTINF:-1,Indian: Living Foodz
-http://212.8.243.9:80/adnan/123456/1516
-
 #EXTINF:-1,Indian: E24
 http://212.8.243.9:80/adnan/123456/3088
 #EXTINF:-1,Indian: Nd Tv 24x7
@@ -53,7 +49,6 @@ http://212.8.243.9:80/adnan/123456/7841
 http://212.8.243.9:80/adnan/123456/7840
 #EXTINF:-1,Indian: Punjabi Chakde TV
 http://212.8.243.9:80/adnan/123456/7838
-
 #EXTINF:-1,Indian: & Prive
 http://212.8.243.9:80/adnan/123456/7836
 #EXTINF:-1,Bangla: Anando
@@ -76,7 +71,6 @@ http://212.8.243.9:80/adnan/123456/7826
 http://212.8.243.9:80/adnan/123456/7825
 #EXTINF:-1,Indian: Punjabi Sanjh TV
 http://212.8.243.9:80/adnan/123456/7822
-
 #EXTINF:-1,Indian: Punjabi ZEE
 http://212.8.243.9:80/adnan/123456/7844
 #EXTINF:-1,Indian: Raj Musix
@@ -117,7 +111,6 @@ http://212.8.243.9:80/adnan/123456/1536
 http://212.8.243.9:80/adnan/123456/1535
 #EXTINF:-1,Indian: Star Utsav
 http://212.8.243.9:80/adnan/123456/7797
-
 #EXTINF:-1,Indian: ZEE BUSINESS
 http://212.8.243.9:80/adnan/123456/7929
 #EXTINF:-1,Indian: Zee Cinema
@@ -206,19 +199,16 @@ http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 http://ealing.zecast.net/ealing-live-2/sktat.stream/index.m3u8
 #EXTINF:0 group-title="IN: India",IN: SUBRANG TV 
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-
 #EXTINF:0 group-title="IN: India",IN: TEHLKA 
 http://162.244.80.110:1935/amarpadda1/live/livestream/chunklist.m3u8
 #EXTINF:0 group-title="IN: India",IN: TEZ 
 http://stream.jeem.tv/geo/geotezz/playlist.m3u8
 #EXTINF:0 group-title="IN: India",IN: TORONTO 360 TV 
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-
 #EXTINF:0 group-title="IN: India",IN: TV PUNJAB 
 http://cdn.samtv.ca/tvpunjab/index.m3u8
 #EXTINF:0 group-title="IN: India",IN: TV84 
 http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
-
 #EXTINF:-1,STAR SPORTS FIRST
 http://142.93.219.225:8081/StarSportsFirst/index.m3u8
 #EXTINF:-1,STAR SPORTS 1HD
@@ -229,15 +219,12 @@ http://142.93.219.225:8081/StarSports2HD/index.m3u8
 http://142.93.219.225:8081/StarSports3/index.m3u8
 #EXTINF:0, group-title="Hindi",Zee Etc
 http://z5ams.akamaized.net/etc/tracks-v1a1/index.m3u8
-
 #EXTINF:0, group-title="Punjabi",Zee Punjabi
 http://z5ams.akamaized.net/punjabi/tracks-v1a1/index.m3u8
-
 #EXTINF:0, group-title="Urdu",Zee Salaam
 http://z5ams.akamaized.net/zeesalaam/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Oriya",Zee Sarthak
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226107/index.m3u8
-
 #EXTINF:0,In- B4U Movies
 #EXTVLCOPT:network-caching=1000
 http://m-iptv.net:6204/jackeline/jackeline1234/8385
@@ -601,7 +588,6 @@ http://gorillaiptv.online:25461/abc123/abc123/1327
 http://gorillaiptv.online:25461/abc123/abc123/1319
 #EXTINF:0,PAK: Samaa News
 #EXTVLCOPT:network-caching=1000
-
 #EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 1
 http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 2
@@ -637,7 +623,6 @@ http://gorillaiptv.online:25461/movie/abc123/abc123/1707.mp4
 #EXTVLCOPT:network-caching=1000
 http://gorillaiptv.online:25461/movie/abc123/abc123/2553.mp4
 #EXTINF:0,The Mummy: Tomb of the Dragon Emperor
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/FOXActionMovies_logo_2.png" group-title="USA",Fox Action Movies (UAE)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:-1,DISNEY JUNIOR HD
