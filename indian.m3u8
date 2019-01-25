@@ -501,26 +501,26 @@ http://212.8.243.9:80/adnan/123456/1528
 http://212.8.243.9:80/adnan/123456/4064
 #EXTINF:-1,Indian: Zoom
 http://212.8.243.9:80/adnan/123456/5619
-
-#EXTINF:-1,OSN First HBO HD
-http://212.8.243.9:80/adnan/123456/9425
-#EXTINF:-1,OSN Star Movie
-http://212.8.243.9:80/adnan/123456/9418
-#EXTINF:-1,BeinHD: FOX MOVIES
-http://212.8.243.9:80/adnan/123456/8130
-#EXTINF:-1,BeinHD: FOX MOVIES ACTION
-http://212.8.243.9:80/adnan/123456/8131
-#EXTINF:-1,BeinHD: FOX MOVIES FAMILY
-http://212.8.243.9:80/adnan/123456/8132
-#EXTINF:-1,BeinHD: Movies Premiere HD1
-http://212.8.243.9:80/adnan/123456/1471
-#EXTINF:-1,BeinHD: Movies Action HD2
-http://212.8.243.9:80/adnan/123456/1472
-#EXTINF:-1,BeinHD: Movies Drama HD3
-http://212.8.243.9:80/adnan/123456/2677
-#EXTINF:-1,BeinHD: Movies Family HD4
-http://212.8.243.9:80/adnan/123456/2776
 #EXTINF:0 group-title="UK: United Kingdom",UK: AND FLIX OPT 1 
+#EXTINF:-1,FOX PREMIUM 2
+http://streamtv.com.br:80/natalia1/natalia1/1623
+#EXTINF:-1,HBO
+http://streamtv.com.br:80/natalia1/natalia1/1599
+#EXTINF:-1,DISNEY JUNIOR
+http://streamtv.com.br:80/natalia1/natalia1/1638
+#EXTINF:-1,DISNEY JR HD
+http://streamtv.com.br:80/natalia1/natalia1/234
+#EXTINF:-1,DISNEY XD
+http://streamtv.com.br:80/natalia1/natalia1/1637
+#EXTINF:-1,Sony Channel
+http://gorillaiptv.online:25461/abc123/abc123/824
+#EXTINF:-1,Sony Crime
+http://gorillaiptv.online:25461/abc123/abc123/823
+#EXTINF:-1,B4U Movies
+http://gorillaiptv.online:25461/abc123/abc123/2971
+#EXTINF:-1,B4U Music
+http://gorillaiptv.online:25461/abc123/abc123/2970
+
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="IN: India",IN: AKARAM GALLATA TV 
 http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
@@ -658,6 +658,78 @@ http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 http://z5ams.akamaized.net/ztalkieshd/tracks-v1a1/index.m3u8
 #EXTINF:-1,CNN HD
 http://unlockyourtv.com:8000/barry/barry123/885
+#EXTINF:0,In- B4U Movies
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/8385
+#EXTINF:0,In- B4U Music
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/8384
+#EXTINF:0,In- B4u Plus
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/10968
+#EXTINF:0,In- &TV
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/8382
+#EXTINF:0,In- SONY MAX 2 HD
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/10951
+#EXTINF:0,In- SONY MAX HD
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/8645
+#EXTINF:0,In- SONY MIX
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/8391
+#EXTINF:0,In- SONY SAB
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/8388
+#EXTINF:0,In- Sony TV
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/8390
+#EXTINF:0,In- Star Plus
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/8938
+#EXTINF:0,In- COLORS TV UK
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/8394
+#EXTINF:0,In- Rishte Asia
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/10954
+#EXTINF:0,AFG- Varzish Sport HD
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/1925
+#EXTINF:0,In- UTV Movies
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/8379
+#EXTINF:0,In- Zee Cafe
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/10953
+#EXTINF:0,In- Zee Cinema
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/8378
+#EXTINF:0,In-Zee Bollywood
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/10374
+#EXTINF:0,In- Zee TV
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/8377
+#EXTINF:0,In- Zing Music
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/10373
+#EXTINF:0,In- Zing TV
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/8947
+#EXTINF:0,In- Sport Cricket HD
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/13447
+#EXTINF:0,In- Sports Cricket HD Backup
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/13446
+#EXTINF:0,In- Sony Ten 1 HD
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/8931
+#EXTINF:0,In- Sony Ten 2 HD
+#EXTVLCOPT:network-caching=1000
+http://m-iptv.net:6204/jackeline/jackeline1234/8930
 #EXTINF:0, group-title="Hindi",Zee TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225878/index.m3u8
 #EXTINF:0, group-title="Hindi",Zee TV
