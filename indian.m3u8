@@ -610,6 +610,10 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
 #EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1,FOX PREMIUM 2
+http://streamtv.com.br:80/natalia1/natalia1/1623
+#EXTINF:-1,DISNEY JUNIOR
+http://streamtv.com.br:80/natalia1/natalia1/1638
 #EXTINF:0,The Mummy
 #EXTVLCOPT:network-caching=1000
 http://gorillaiptv.online:25461/movie/abc123/abc123/2038.mp4
@@ -625,23 +629,6 @@ http://gorillaiptv.online:25461/movie/abc123/abc123/2553.mp4
 #EXTINF:0,The Mummy: Tomb of the Dragon Emperor
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/FOXActionMovies_logo_2.png" group-title="USA",Fox Action Movies (UAE)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-#EXTINF:-1,DISNEY JUNIOR HD
-http://unlockyourtv.com:8000/barry/barry123/604
-#EXTINF:-1,Disney XD HD
-http://unlockyourtv.com:8000/barry/barry123/614
-#EXTINF:-1,DISCOVERY HD
-http://unlockyourtv.com:8000/barry/barry123/542
-#EXTINF:-1,Fox News
-http://unlockyourtv.com:8000/barry/barry123/1107
-#EXTINF:-1,History Channel HD
-http://unlockyourtv.com:8000/barry/barry123/1428
-#EXTINF:-1,HSN
-http://unlockyourtv.com:8000/barry/barry123/1165
-#EXTINF:-1,HLN
-http://unlockyourtv.com:8000/barry/barry123/2153
-#EXTINF:-1,NAT GEO HD
-http://unlockyourtv.com:8000/barry/barry123/1164
-#EXTINF:-1,NAT GEO WILD HD
-http://unlockyourtv.com:8000/barry/barry123/573
+
 
 
