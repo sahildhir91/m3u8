@@ -3,44 +3,10 @@
 http://212.8.243.9:80/adnan/123456/5627
 #EXTINF:-1,Indian: & Picture
 http://212.8.243.9:80/adnan/123456/4070
-#EXTINF:-1,Indian: & TvHD
-http://212.8.243.9:80/adnan/123456/1510
-#EXTINF:-1,Indian: 9x Jalwa
-http://212.8.243.9:80/adnan/123456/1554
-#EXTINF:-1,Indian: 9x Jhakaas
-http://212.8.243.9:80/adnan/123456/5632
-#EXTINF:-1,Indian: 9x M Music
-http://212.8.243.9:80/adnan/123456/5636
-#EXTINF:-1,Indian: AAJTAK
-http://212.8.243.9:80/adnan/123456/7914
-#EXTINF:-1,Indian: B4U Movies
-http://212.8.243.9:80/adnan/123456/6936
-#EXTINF:-1,Indian: B4U Music
-http://212.8.243.9:80/adnan/123456/6937
-#EXTINF:-1,Indian: Kids pogo
-http://212.8.243.9:80/adnan/123456/7815
-#EXTINF:-1,Indian: Kids Nick
-http://212.8.243.9:80/adnan/123456/7814
-#EXTINF:-1,Indian: Sony Mix
-http://212.8.243.9:80/adnan/123456/7805
-#EXTINF:-1,Indian: Kids Sonic
-http://212.8.243.9:80/adnan/123456/7812
 #EXTINF:-1,Indian: E24
 http://212.8.243.9:80/adnan/123456/3088
-#EXTINF:-1,Indian: Nd Tv 24x7
-http://212.8.243.9:80/adnan/123456/3089
-#EXTINF:-1,Indian: NDTV 24x7
-http://212.8.243.9:80/adnan/123456/7920
-#EXTINF:-1,Indian: NDTV GOODTIMES
-http://212.8.243.9:80/adnan/123456/7921
-#EXTINF:-1,Indian: NDTV INDIA
-http://212.8.243.9:80/adnan/123456/7922
 #EXTINF:-1,Indian: Jalsha Movies
 http://212.8.243.9:80/adnan/123456/7923
-#EXTINF:-1,Indian: NDTV PROFIT
-http://212.8.243.9:80/adnan/123456/7924
-#EXTINF:-1,Indian: Kannada Public
-http://212.8.243.9:80/adnan/123456/5592
 #EXTINF:-1,Indian: Punjabi 9xTashan
 http://212.8.243.9:80/adnan/123456/7842
 #EXTINF:-1,Indian: Punjabi A One Pujabi
@@ -49,10 +15,6 @@ http://212.8.243.9:80/adnan/123456/7841
 http://212.8.243.9:80/adnan/123456/7838
 #EXTINF:-1,Indian: & Prive
 http://212.8.243.9:80/adnan/123456/7836
-#EXTINF:-1,Bangla: Anando
-http://212.8.243.9:80/adnan/123456/7845
-#EXTINF:-1,Indian: Punjabi Garv
-http://212.8.243.9:80/adnan/123456/7835
 #EXTINF:-1,Indian: Discovery Ch
 http://212.8.243.9:80/adnan/123456/7829
 #EXTINF:-1,Indian: Animal Planet
@@ -71,10 +33,6 @@ http://212.8.243.9:80/adnan/123456/7825
 http://212.8.243.9:80/adnan/123456/7822
 #EXTINF:-1,Indian: Punjabi ZEE
 http://212.8.243.9:80/adnan/123456/7844
-#EXTINF:-1,Indian: Raj Musix
-http://212.8.243.9:80/adnan/123456/5600
-#EXTINF:-1,Indian: REPUBLIC TV NEWS
-http://212.8.243.9:80/adnan/123456/8123
 #EXTINF:-1,Indian: Rishtey
 http://212.8.243.9:80/adnan/123456/7803
 #EXTINF:-1,Indian: Rishtey Cineplex
@@ -141,8 +99,6 @@ http://gorillaiptv.online:25461/abc123/abc123/823
 #EXTINF:-1,B4U Movies
 http://gorillaiptv.online:25461/abc123/abc123/2971
 #EXTINF:-1,B4U Music
-#EXTINF:0 group-title="IN: India",IN: AMAR UJALA 
-https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:0 group-title="IN: India",IN: AND PICTURES OPT 1 
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="IN: India",IN: AND PRIV HD
@@ -153,60 +109,6 @@ http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="IN: India",IN: CANADA STAR TV 
 http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
-#EXTINF:0 group-title="IN: India",IN: CHANNEL Y 
-http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:0 group-title="IN: India",IN: DEEPAM TV 
-http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
-#EXTINF:0 group-title="IN: India",IN: DY365 
-http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh1.stream_aac/playlist.m3u8
-#EXTINF:0 group-title="IN: India",IN: EET TV TAMIL CANADA 
-http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
-#EXTINF:0 group-title="IN: India",IN: EKTA TV 
-http://fastway.ddns.net:6421/fastway/alive/index.m3u8
-#EXTINF:0 group-title="IN: India",IN: FASTWAY TV 
-http://fastway.ddns.net:6421/fastway/live10/index.m3u8
-#EXTINF:0 group-title="IN: India",IN: GABRUU TV 
-http://104.237.60.234/live/gabruutv.m3u8
-#EXTINF:0 group-title="IN: India",IN: GLOBAL PUNJAB TV 
-http://207.244.112.71/globalpunjabhls/live.m3u8
-#EXTINF:0 group-title="IN: India",IN: GURBANI HEALING 
-http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
-#EXTINF:0 group-title="IN: India",IN: JANTA TV 
-http://live.wmncdn.net/jantatv/live.stream/index.m3u8
-#EXTINF:0 group-title="IN: India",IN: JONACK TV 
-http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh2.stream_aac/playlist.m3u8
-#EXTINF:0 group-title="IN: India",IN: KAUMUDY 
-http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="IN: India",IN: MBL 
-http://tvpremiumhd.club/lista-gratuita/210002/on/in/YB1rwf.ts
-#EXTINF:0 group-title="IN: India",IN: MIAMI TV 
-http://tvpremiumhd.club/lista-gratuita/210002/on/in/nvg8m7.ts
-#EXTINF:0 group-title="IN: India",IN: NDTV OPT 2 
-https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
-#EXTINF:0 group-title="IN: India",IN: NETHRA TV 
-http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
-#EXTINF:0 group-title="IN: India",IN: PRIME ASIA TV 
-http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="IN: India",IN: SAINT TV 
-http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
-#EXTINF:0 group-title="IN: India",IN: SANTHORA TV 
-http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
-#EXTINF:0 group-title="IN: India",IN: SARDARI TV 
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:0 group-title="IN: India",IN: SKTAT TV 
-http://ealing.zecast.net/ealing-live-2/sktat.stream/index.m3u8
-#EXTINF:0 group-title="IN: India",IN: SUBRANG TV 
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:0 group-title="IN: India",IN: TEHLKA 
-http://162.244.80.110:1935/amarpadda1/live/livestream/chunklist.m3u8
-#EXTINF:0 group-title="IN: India",IN: TEZ 
-http://stream.jeem.tv/geo/geotezz/playlist.m3u8
-#EXTINF:0 group-title="IN: India",IN: TORONTO 360 TV 
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:0 group-title="IN: India",IN: TV PUNJAB 
-http://cdn.samtv.ca/tvpunjab/index.m3u8
-#EXTINF:0 group-title="IN: India",IN: TV84 
-http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
 #EXTINF:-1,STAR SPORTS FIRST
 http://142.93.219.225:8081/StarSportsFirst/index.m3u8
 #EXTINF:-1,STAR SPORTS 1HD
@@ -219,10 +121,22 @@ http://142.93.219.225:8081/StarSports3/index.m3u8
 http://z5ams.akamaized.net/etc/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",Zee Punjabi
 http://z5ams.akamaized.net/punjabi/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: AMAR UJALA 
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:0 group-title="IN: India",IN: CHANNEL Y 
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:0 group-title="IN: India",IN: PRIME ASIA TV 
+http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: TEHLKA 
+http://162.244.80.110:1935/amarpadda1/live/livestream/chunklist.m3u8
+#EXTINF:-1,Zee Punjabi
+http://z5ams.akamaized.net/punjabi/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="IN: India",IN: TEZ 
+http://stream.jeem.tv/geo/geotezz/playlist.m3u8
+#EXTINF:0 group-title="IN: India",IN: TV PUNJAB 
+http://cdn.samtv.ca/tvpunjab/index.m3u8
 #EXTINF:0, group-title="Urdu",Zee Salaam
 http://z5ams.akamaized.net/zeesalaam/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Oriya",Zee Sarthak
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226107/index.m3u8
 #EXTINF:0,In- B4U Movies
 #EXTVLCOPT:network-caching=1000
 http://m-iptv.net:6204/jackeline/jackeline1234/8385
@@ -331,8 +245,6 @@ http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/zcinemalusd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee News
 http://z5ams.akamaized.net/zeenews/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Punjabi
-http://z5ams.akamaized.net/punjabi/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Salaam
 http://z5ams.akamaized.net/zeesalaam/tracks-v1a1/index.m3u8
 #EXTINF:-1,BBC World News
