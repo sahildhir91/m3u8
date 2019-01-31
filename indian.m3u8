@@ -7,7 +7,6 @@ http://pro.falconiptv.com:25461/123456123456/123456123456/64461
 http://pro.falconiptv.com:25461/123456123456/123456123456/50790
 #EXTINF:0,BeIN FOX MOVIES FAMILY HD
 http://pro.falconiptv.com:25461/123456123456/123456123456/50789
-
 EXTINF:0,BeiN HGTV
 http://pro.falconiptv.com:25461/123456123456/123456123456/64460
 #EXTINF:0,BeIN Movies HD1 (Premiere)
@@ -66,7 +65,6 @@ http://pro.falconiptv.com:25461/123456123456/123456123456/56201
 http://pro.falconiptv.com:25461/123456123456/123456123456/56202
 #EXTINF:0,BeIN Animal Planet HD
 http://pro.falconiptv.com:25461/123456123456/123456123456/56198
-
 #EXTINF:0 group-title="UK: United Kingdom",UK: AND FLIX OPT 1 
 #EXTINF:-1,FOX PREMIUM 2
 http://streamtv.com.br:80/natalia1/natalia1/1623
@@ -95,7 +93,6 @@ http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="IN: India",IN: CANADA STAR TV 
 http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
-
 #EXTINF:0, group-title="Hindi",Zee Etc
 http://z5ams.akamaized.net/etc/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",Zee Punjabi
@@ -158,51 +155,8 @@ http://m-iptv.net:6204/jackeline/jackeline1234/1925
 #EXTINF:0,In- UTV Movies
 #EXTVLCOPT:network-caching=1000
 http://m-iptv.net:6204/jackeline/jackeline1234/8379
-#EXTINF:0,In- Zee Cafe
-#EXTVLCOPT:network-caching=1000
-http://m-iptv.net:6204/jackeline/jackeline1234/10953
-#EXTINF:0,In- Zee Cinema
-#EXTVLCOPT:network-caching=1000
-http://m-iptv.net:6204/jackeline/jackeline1234/8378
-#EXTINF:0,In-Zee Bollywood
-#EXTVLCOPT:network-caching=1000
-http://m-iptv.net:6204/jackeline/jackeline1234/10374
-#EXTINF:0,In- Zee TV
-#EXTVLCOPT:network-caching=1000
-http://m-iptv.net:6204/jackeline/jackeline1234/8377
-#EXTINF:0,In- Zing Music
-#EXTVLCOPT:network-caching=1000
-http://m-iptv.net:6204/jackeline/jackeline1234/10373
-#EXTINF:0,In- Zing TV
-#EXTVLCOPT:network-caching=1000
-http://m-iptv.net:6204/jackeline/jackeline1234/8947
-#EXTINF:0,In- Sport Cricket HD
-#EXTVLCOPT:network-caching=1000
-http://m-iptv.net:6204/jackeline/jackeline1234/13447
-#EXTINF:0,In- Sports Cricket HD Backup
-#EXTVLCOPT:network-caching=1000
-http://m-iptv.net:6204/jackeline/jackeline1234/13446
-#EXTINF:0,In- Sony Ten 1 HD
-#EXTVLCOPT:network-caching=1000
-http://m-iptv.net:6204/jackeline/jackeline1234/8931
-#EXTINF:0,In- Sony Ten 2 HD
-#EXTVLCOPT:network-caching=1000
-http://m-iptv.net:6204/jackeline/jackeline1234/8930
-#EXTINF:0, group-title="Hindi",Zee TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225878/index.m3u8
-#EXTINF:0, group-title="Hindi",Zee TV
-http://z5ams.akamaized.net/zeetvsd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Hindi",Zee TV HD
-http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Hindi",Zee UP UK
-http://z5ams.akamaized.net/zeenewsupuk/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Marathi",Zee Yuva
-http://z5ams.akamaized.net/zyuva/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Hindi",Zing
-http://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Hindi",Zoom
-http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
-#EXTINF:0, group-title="English",BollyWood Masala TV
+
+
 #EXTINF:0, group-title="English",& Flix
 http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Hindi",& Pictures	
@@ -214,23 +168,116 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Hindi",& TV
 http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Hindi",& TV HD
-#EXTINF:-1,Zee Action
-http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Cinema HD
-http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Cinema
-http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Cinema SD
-http://z5ams.akamaized.net/zcinemalusd/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee News
-http://z5ams.akamaized.net/zeenews/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Salaam
-http://z5ams.akamaized.net/zeesalaam/tracks-v1a1/index.m3u8
-#EXTINF:-1,BBC World News
-http://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
-#EXTINF:-1,DD India
-http://z5ams.akamaized.net/ddindia/tracks-v1a1/index.m3u8
-http://185.12.12.103:8000/Rtb0K2ssa/28mkberTT2/4963
+#EXTINF:-1,IND: Star Bharat HD
+http://gorillaiptv.online:25461/20102010/20102010/139
+#EXTINF:-1,IND: Star Gold HD
+http://gorillaiptv.online:25461/20102010/20102010/140
+#EXTINF:-1,IND: Star Plus
+http://gorillaiptv.online:25461/20102010/20102010/141
+#EXTINF:-1,IND: Zee Action
+http://gorillaiptv.online:25461/20102010/20102010/142
+#EXTINF:-1,IND: Zee Bollywood
+http://gorillaiptv.online:25461/20102010/20102010/145
+#EXTINF:-1,IND: Zee Business
+http://gorillaiptv.online:25461/20102010/20102010/146
+#EXTINF:-1,IND: Zee Cafe
+http://gorillaiptv.online:25461/20102010/20102010/143
+#EXTINF:-1,IND: Zee Cinema HD
+http://gorillaiptv.online:25461/20102010/20102010/147
+#EXTINF:-1,IND: Zee News
+http://gorillaiptv.online:25461/20102010/20102010/144
+#EXTINF:-1,IND: Zee TV HD
+http://gorillaiptv.online:25461/20102010/20102010/148
+#EXTINF:-1,PAK: 7 News
+http://gorillaiptv.online:25461/20102010/20102010/1315
+#EXTINF:-1,PAK: 92 News
+http://gorillaiptv.online:25461/20102010/20102010/1314
+#EXTINF:-1,PAK: A Plus
+http://gorillaiptv.online:25461/20102010/20102010/1313
+#EXTINF:-1,PAK: AAJ News
+http://gorillaiptv.online:25461/20102010/20102010/1312
+#EXTINF:-1,PAK: ABB TAK News
+http://gorillaiptv.online:25461/20102010/20102010/1311
+#EXTINF:-1,PAK: Apna
+http://gorillaiptv.online:25461/20102010/20102010/1310
+#EXTINF:-1,PAK: Aruj
+http://gorillaiptv.online:25461/20102010/20102010/1309
+#EXTINF:-1,PAK: ARY Digital
+http://gorillaiptv.online:25461/20102010/20102010/1324
+#EXTINF:-1,PAK: ARY Musik
+http://gorillaiptv.online:25461/20102010/20102010/1325
+#EXTINF:-1,PAK: ARY News
+http://gorillaiptv.online:25461/20102010/20102010/1308
+#EXTINF:-1,PAK: ARY News World
+http://gorillaiptv.online:25461/20102010/20102010/1307
+#EXTINF:-1,PAK: ARY One World
+http://gorillaiptv.online:25461/20102010/20102010/1306
+#EXTINF:-1,PAK: ARY QTV
+http://gorillaiptv.online:25461/20102010/20102010/1305
+#EXTINF:-1,PAK: ARY Zauq
+http://gorillaiptv.online:25461/20102010/20102010/1318
+#EXTINF:-1,PAK: ARY Zindagi
+http://gorillaiptv.online:25461/20102010/20102010/1323
+#EXTINF:-1,PAK: ATV
+http://gorillaiptv.online:25461/20102010/20102010/1304
+#EXTINF:-1,PAK: Awami Awaz
+http://gorillaiptv.online:25461/20102010/20102010/1302
+#EXTINF:-1,PAK: Awaz News
+http://gorillaiptv.online:25461/20102010/20102010/1301
+#EXTINF:-1,PAK: Barkat TV
+http://gorillaiptv.online:25461/20102010/20102010/1300
+#EXTINF:-1,PAK: Bol News
+http://gorillaiptv.online:25461/20102010/20102010/1299
+#EXTINF:-1,PAK: Capital News
+http://gorillaiptv.online:25461/20102010/20102010/1298
+#EXTINF:-1,PAK: City 41 News
+http://gorillaiptv.online:25461/20102010/20102010/1297
+#EXTINF:-1,PAK: City 42 News
+http://gorillaiptv.online:25461/20102010/20102010/1296
+#EXTINF:-1,PAK: Din News
+http://gorillaiptv.online:25461/20102010/20102010/1330
+#EXTINF:-1,PAK: Dunya News
+http://gorillaiptv.online:25461/20102010/20102010/1329
+#EXTINF:-1,PAK: Express Entertainment
+http://gorillaiptv.online:25461/20102010/20102010/1317
+#EXTINF:-1,PAK: Film World
+http://gorillaiptv.online:25461/20102010/20102010/1295
+#EXTINF:-1,PAK: FilmMasia HD
+http://gorillaiptv.online:25461/20102010/20102010/1294
+#EXTINF:-1,PAK: Geo Entertainment
+http://gorillaiptv.online:25461/20102010/20102010/1322
+#EXTINF:-1,PAK: GEO Kahani
+http://gorillaiptv.online:25461/20102010/20102010/1293
+#EXTINF:-1,PAK: Geo News
+http://gorillaiptv.online:25461/20102010/20102010/1328
+#EXTINF:-1,PAK: Geo Super
+http://gorillaiptv.online:25461/20102010/20102010/1321
+#EXTINF:-1,PAK: GEO Tez
+http://gorillaiptv.online:25461/20102010/20102010/1292
+#EXTINF:-1,PAK: Health TV
+http://gorillaiptv.online:25461/20102010/20102010/1291
+#EXTINF:-1,PAK: Hum Masala
+http://gorillaiptv.online:25461/20102010/20102010/1290
+#EXTINF:-1,PAK: Hum News
+http://gorillaiptv.online:25461/20102010/20102010/1289
+#EXTINF:-1,PAK: Hum Sitaray
+http://gorillaiptv.online:25461/20102010/20102010/1288
+#EXTINF:-1,PAK: Hum TV
+http://gorillaiptv.online:25461/20102010/20102010/1320
+#EXTINF:-1,PAK: Hum World
+http://gorillaiptv.online:25461/20102010/20102010/1287
+#EXTINF:-1,PAK: Jalwa TV
+http://gorillaiptv.online:25461/20102010/20102010/1286
+#EXTINF:-1,PAK: Khyber TV
+http://gorillaiptv.online:25461/20102010/20102010/1303
+#EXTINF:-1,PAK: Madni TV
+http://gorillaiptv.online:25461/20102010/20102010/1316
+#EXTINF:-1,PAK: Neo News
+http://gorillaiptv.online:25461/20102010/20102010/1327
+#EXTINF:-1,PAK: PTV Sports
+http://gorillaiptv.online:25461/20102010/20102010/1319
+#EXTINF:-1,PAK: Samaa News
+http://gorillaiptv.online:25461/20102010/20102010/1326
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="INDIA",Pitaara TV
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="INDIA",Pop Pataka
