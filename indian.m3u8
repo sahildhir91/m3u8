@@ -1,86 +1,63 @@
 #EXTM3U
-#EXTINF:-1,Indian:  DD Indian
-http://212.8.243.9:80/adnan/123456/5627
-#EXTINF:-1,Indian: & Picture
-http://212.8.243.9:80/adnan/123456/4070
-#EXTINF:-1,Indian: E24
-http://212.8.243.9:80/adnan/123456/3088
-#EXTINF:-1,Indian: Jalsha Movies
-http://212.8.243.9:80/adnan/123456/7923
-#EXTINF:-1,Indian: Punjabi 9xTashan
-http://212.8.243.9:80/adnan/123456/7842
-#EXTINF:-1,Indian: Punjabi A One Pujabi
-http://212.8.243.9:80/adnan/123456/7841
-#EXTINF:-1,Indian: Punjabi Chakde TV
-http://212.8.243.9:80/adnan/123456/7838
-#EXTINF:-1,Indian: & Prive
-http://212.8.243.9:80/adnan/123456/7836
-#EXTINF:-1,Indian: Discovery Ch
-http://212.8.243.9:80/adnan/123456/7829
-#EXTINF:-1,Indian: Animal Planet
-http://212.8.243.9:80/adnan/123456/7830
-#EXTINF:-1,Indian: Punjabi Media
-http://212.8.243.9:80/adnan/123456/5611
-#EXTINF:-1,Indian: Punjabi PBN MUSIC
-http://212.8.243.9:80/adnan/123456/7828
-#EXTINF:-1,Indian: Punjabi PTC
-http://212.8.243.9:80/adnan/123456/7827
-#EXTINF:-1,Indian: Punjabi PTC Chak De
-http://212.8.243.9:80/adnan/123456/7826
-#EXTINF:-1,Indian: Punjabi PTC News
-http://212.8.243.9:80/adnan/123456/7825
-#EXTINF:-1,Indian: Punjabi Sanjh TV
-http://212.8.243.9:80/adnan/123456/7822
-#EXTINF:-1,Indian: Punjabi ZEE
-http://212.8.243.9:80/adnan/123456/7844
-#EXTINF:-1,Indian: Rishtey
-http://212.8.243.9:80/adnan/123456/7803
-#EXTINF:-1,Indian: Rishtey Cineplex
-http://212.8.243.9:80/adnan/123456/7802
-#EXTINF:-1,Indian: Rishtey Europ
-http://212.8.243.9:80/adnan/123456/7804
-#EXTINF:-1,Indian: DISCOVERY WORLD
-http://212.8.243.9:80/adnan/123456/7926
-#EXTINF:-1,Indian: Sony Max2
-http://212.8.243.9:80/adnan/123456/5574
-#EXTINF:-1,Indian: Sony Sab
-http://212.8.243.9:80/adnan/123456/1543
-#EXTINF:-1,Indian: Sony Six
-http://212.8.243.9:80/adnan/123456/1553
-#EXTINF:-1,Indian: Sony Tv
-http://212.8.243.9:80/adnan/123456/1542
-#EXTINF:-1,Indian: Star Gold
-http://212.8.243.9:80/adnan/123456/1540
-#EXTINF:-1,Bangla: Star Jalsha
-http://212.8.243.9:80/adnan/123456/1544
-#EXTINF:-1,Indian: Star Plus
-http://212.8.243.9:80/adnan/123456/1541
-#EXTINF:-1,Indian: Star Bharat
-http://212.8.243.9:80/adnan/123456/1521
-#EXTINF:-1,Indian: Star Sport 1
-http://212.8.243.9:80/adnan/123456/1538
-#EXTINF:-1,Indian: Star Sport 2
-http://212.8.243.9:80/adnan/123456/1537
-#EXTINF:-1,Indian: Neo Sport
-http://212.8.243.9:80/adnan/123456/1536
-#EXTINF:-1,Indian: Neo Prime Sport
-http://212.8.243.9:80/adnan/123456/1535
-#EXTINF:-1,Indian: Star Utsav
-http://212.8.243.9:80/adnan/123456/7797
-#EXTINF:-1,Indian: ZEE BUSINESS
-http://212.8.243.9:80/adnan/123456/7929
-#EXTINF:-1,Indian: Zee Cinema
-http://212.8.243.9:80/adnan/123456/1525
-#EXTINF:-1,Indian: Zee Classic
-http://212.8.243.9:80/adnan/123456/1524
-#EXTINF:-1,Indian: Zee Etc
-http://212.8.243.9:80/adnan/123456/1515
-#EXTINF:-1,Indian: Zee TV
-http://212.8.243.9:80/adnan/123456/1528
-#EXTINF:-1,Indian: Zing
-http://212.8.243.9:80/adnan/123456/4064
-#EXTINF:-1,Indian: Zoom
-http://212.8.243.9:80/adnan/123456/5619
+EXTINF:0,BeiN HGTV
+http://pro.falconiptv.com:25461/123456123456/123456123456/64460
+#EXTINF:0,BeIN Movies HD1 (Premiere)
+http://pro.falconiptv.com:25461/123456123456/123456123456/40773
+#EXTINF:0,BeIN Movies HD2 (Action)
+http://pro.falconiptv.com:25461/123456123456/123456123456/35030
+#EXTINF:0,BeIN Movies HD3 (Drama)
+http://pro.falconiptv.com:25461/123456123456/123456123456/35029
+#EXTINF:0,BeIN Movies HD4 (Family)
+http://pro.falconiptv.com:25461/123456123456/123456123456/35028
+#EXTINF:0,BeIN Drama Arabic HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/35026
+#EXTINF:0,BeIN BBC First HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/56831
+#EXTINF:0,BeIN Series HD 1
+http://pro.falconiptv.com:25461/123456123456/123456123456/35024
+#EXTINF:0,BeIN Series HD 2
+http://pro.falconiptv.com:25461/123456123456/123456123456/40790
+#EXTINF:0,BeiN Fatafeat FULL HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/64588
+#EXTINF:0,BeIN Fatafeat HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/35020
+#EXTINF:0,BeiN GOURMET FULL HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/64589
+#EXTINF:0,BeIN Gourmet HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/35021
+#EXTINF:0,BeIN FX HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/56448
+#EXTINF:0,BeIN FOX HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/50791
+#EXTINF:0,BeiN FOX MOVIES FULL HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/64461
+#EXTINF:0,BeIN FOX MOVIES ACTION HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/50790
+#EXTINF:0,BeIN FOX MOVIES FAMILY HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/50789
+#EXTINF:0,BeIN FOX LIFE
+http://pro.falconiptv.com:25461/123456123456/123456123456/56082
+#EXTINF:0,BeIN FOX REWAYAT
+http://pro.falconiptv.com:25461/123456123456/123456123456/56081
+#EXTINF:0,BeIN AMC HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/35019
+#EXTINF:0,BeIN DMAX HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/35015
+#EXTINF:0,BeIN DTX HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/35013
+#EXTINF:0,BeIN Outdoor HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/35014
+#EXTINF:0,BeIN Discovery HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/56834
+#EXTINF:0,BeIN Nat Geographic HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/56199
+#EXTINF:0,BeIN Nat Geo People HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/56201
+#EXTINF:0,BeIN Nat Geo Wild HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/56202
+#EXTINF:0,BeIN Animal Planet HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/56198
+
 #EXTINF:0 group-title="UK: United Kingdom",UK: AND FLIX OPT 1 
 #EXTINF:-1,FOX PREMIUM 2
 http://streamtv.com.br:80/natalia1/natalia1/1623
