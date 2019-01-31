@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:0,BeIN FOX HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/50791
+#EXTINF:0,BeiN FOX MOVIES FULL HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/64461
+#EXTINF:0,BeIN FOX MOVIES ACTION HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/50790
+#EXTINF:0,BeIN FOX MOVIES FAMILY HD
+http://pro.falconiptv.com:25461/123456123456/123456123456/50789
+
 EXTINF:0,BeiN HGTV
 http://pro.falconiptv.com:25461/123456123456/123456123456/64460
 #EXTINF:0,BeIN Movies HD1 (Premiere)
@@ -86,14 +95,7 @@ http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="IN: India",IN: CANADA STAR TV 
 http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
-#EXTINF:-1,STAR SPORTS FIRST
-http://142.93.219.225:8081/StarSportsFirst/index.m3u8
-#EXTINF:-1,STAR SPORTS 1HD
-http://142.93.219.225:8081/StarSports1HD/index.m3u8
-#EXTINF:-1,STAR SPORTS 2HD
-http://142.93.219.225:8081/StarSports2HD/index.m3u8
-#EXTINF:-1,STAR SPORTS 3
-http://142.93.219.225:8081/StarSports3/index.m3u8
+
 #EXTINF:0, group-title="Hindi",Zee Etc
 http://z5ams.akamaized.net/etc/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="Punjabi",Zee Punjabi
