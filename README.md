@@ -1,5 +1,38 @@
 #EXTM3U
 #EXTINF:0,GEM Junior Livertmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-junior-live-25f-4x3-SDq?ref=www.gemonline.tv&USER=GEM+Junior
+#EXTINF:0 group-title="UK: United Kingdom",UK: B4U MOVIES 
+http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
+#EXTINF:0 group-title="IN: India",IN: CINE VOICE 
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTM3U https://hdbox.ws 
+#EXTINF:-1 tvg-name="UK 92 NEWS" tvg-logo="",UK 92 NEWS
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 tvg-name="UK 92 NEWS (1+)" tvg-logo="",UK 92 NEWS (1+)
+http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
+#EXTINF:0,Star Bharat
+#EXTVLCOPT:network-caching=1000
+http://gorillaiptv.online:25461/abc123/abc123/2931
+#EXTINF:0,Star GOLD
+#EXTVLCOPT:network-caching=1000
+http://gorillaiptv.online:25461/abc123/abc123/2930
+#EXTINF:0,Star Plus
+#EXTVLCOPT:network-caching=1000
+http://gorillaiptv.online:25461/abc123/abc123/2929
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,Music India
 http://176.110.19.177:8008/1
 #EXTINF:-1,PITARA
