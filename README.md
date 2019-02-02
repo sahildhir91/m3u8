@@ -32,8 +32,8 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3
 http://80.80.160.168/live/7/2500000/live.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",CMC TV [720p]
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-
-
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",HBO
+http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
 #EXTM3U https://hdbox.ws 
 #EXTINF:-1,USA: A&E
 http://gorillaiptv.online:25461/abc123/abc123/122
