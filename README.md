@@ -7,8 +7,12 @@ http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTM3U https://hdbox.ws 
 #EXTINF:-1 tvg-name="UK 92 NEWS" tvg-logo="",UK 92 NEWS
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 tvg-name="UK 92 NEWS (1+)" tvg-logo="",UK 92 NEWS (1+)
-http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ARY DIGITAL
+http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",Geo News [360p]
+http://stream.jeem.tv/geo/geonews/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",PTV News
+http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
 #EXTINF:0,Star Bharat
 #EXTVLCOPT:network-caching=1000
 http://gorillaiptv.online:25461/abc123/abc123/2931
