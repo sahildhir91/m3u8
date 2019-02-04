@@ -125,9 +125,18 @@ http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
 #EXTINF:0 group-title="IN: India",IN: CINE VOICE 
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTM3U https://hdbox.ws 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="INDIA",Pitaara TV
+https://livepitaara.planetcast.in/pitaaraTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="INDIA",Pop Pataka
+http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
 #EXTINF:-1 tvg-name="UK 92 NEWS" tvg-logo="",UK 92 NEWS
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1,PAK: Bol News
+http://gorillaiptv.online:25461/20102010/20102010/1299
+#EXTINF:-1,PAK: Dunya News
+http://gorillaiptv.online:25461/20102010/20102010/1329
+#EXTINF:-1,PAK: ARY News
+http://gorillaiptv.online:25461/20102010/20102010/1308
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ARY DIGITAL
 http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",Geo News [360p]
@@ -147,10 +156,6 @@ http://gorillaiptv.online:25461/abc123/abc123/2929
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Pluto Movies
 https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Sony Movie Channel
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Sony Movie Channel
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8?hdnts=exp%3D1512080426%7Eacl%3D%2Fi%2F%2A569927%2F%2A%7Ehmac%3D00bf27551374ebc12bc4ebe53e3c5ffd8c3a958231238b907e04fad220dc0b25
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Sony Movie Network
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1570px-Showtime.svg.png",Showtime
@@ -336,8 +341,6 @@ http://gorillaiptv.online:25461/abc123/abc123/121
 http://gorillaiptv.online:25461/abc123/abc123/95
 #EXTINF:-1,Music India
 http://176.110.19.177:8008/1
-#EXTINF:-1,PITARA
-http://176.110.19.177:8008/2
 #EXTINF:-1,MOVIE HOUSE
 http://176.110.19.177:8008/6
 #EXTINF:-1,KHUSHBOO
@@ -376,12 +379,6 @@ http://161.0.157.38/PLTV/88888888/224/3221226848/index.m3u8
 http://161.0.157.38/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1,FLOW Sports 1 HD
 http://161.0.157.38/PLTV/88888888/224/3221226899/index.m3u8
-#EXTINF:-1,my9
-http://161.0.157.38/PLTV/88888888/224/3221226727/index.m3u8
-#EXTINF:-1,GBV 
-http://161.0.157.38/PLTV/88888888/224/3221226729/index.m3u8
-#EXTINF:-1,HYPE
-http://161.0.157.38/PLTV/88888888/224/3221226726/index.m3u8
 #EXTINF:-1,SPORTS MAX
 http://161.0.157.38/PLTV/88888888/224/3221226766/index.m3u8
 #EXTINF:-1,CNN
@@ -414,12 +411,8 @@ http://161.0.157.38/PLTV/88888888/224/3221226299/index.m3u8
 http://161.0.157.38/PLTV/88888888/224/3221226255/index.m3u8
 #EXTINF:-1,TELESHOP HD
 http://161.0.157.38/PLTV/88888888/224/3221226207/index.m3u8
-#EXTINF:-1,145 HD
-http://161.0.157.38/PLTV/88888888/224/3221226145/index.m3u8
 #EXTINF:-1,HBO HD
 http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
-#EXTINF:-1,568 HD
-http://161.0.157.38/PLTV/88888888/224/3221226568/index.m3u8
 #EXTINF:-1,HBO 2 HD
 http://maxptv.ddns.net:25461/zac/zac/132
 #EXTINF:-1,HBO 2 SD
@@ -564,166 +557,3 @@ http://gorillaiptv.online:25461/live/young/young/2604.m3u8
 http://gorillaiptv.online:25461/live/young/young/2603.m3u8
 #EXTINF:0,IND: Zing
 http://gorillaiptv.online:25461/live/young/young/2601.m3u8
-#EXTM3U
-#EXTINF:-1,CU | Cubavision HD-
-http://192.99.150.25:25461/Jazmin1/Jazmin1/248374
-#EXTINF:-1,CU | EDUCATIVO 1
-http://192.99.150.25:25461/Jazmin1/Jazmin1/262603
-#EXTINF:-1,CU | Max TV
-http://192.99.150.25:25461/Jazmin1/Jazmin1/280357
-#EXTINF:-1,CU | Cubavision Int-
-http://192.99.150.25:25461/Jazmin1/Jazmin1/248384
-#EXTINF:-1,CU | Multivision HD-
-http://192.99.150.25:25461/Jazmin1/Jazmin1/248385
-#EXTINF:-1,CU | Tele Rebelde-
-http://192.99.150.25:25461/Jazmin1/Jazmin1/248386
-#EXTINF:-1,BG | FilmBox Extra HD HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253075
-#EXTINF:-1,BG | Folklor TV HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253076
-#EXTINF:-1,BG | Travel TV HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253077
-#EXTINF:-1,BG | Planeta HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253078
-#EXTINF:-1,BG | Nova TV HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253079
-#EXTINF:-1,BG | Nova Sport HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253080
-#EXTINF:-1,BG | NICK JR HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253081
-#EXTINF:-1,BG | National Geographic HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253082
-#EXTINF:-1,BG | Nat Geo Wild HD HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253083
-#EXTINF:-1,BG | Music Channel HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253084
-#EXTINF:-1,BG | HBO 3 HD 1080 HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253085
-#EXTINF:-1,BG | HBO 2 HD 1080 HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253086
-#EXTINF:-1,BG | Planeta HD HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253087
-#EXTINF:-1,BG | Food Network HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253088
-#EXTINF:-1,BG | Tiankov Folk HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253089
-#EXTINF:-1,BG | bTV HD HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253090
-#EXTINF:-1,BG | bTV Action HD 1080 HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253091
-#EXTINF:-1,BG | Fox Tv HD 1080 HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253092
-#EXTINF:-1,BG | BNT HD HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253093
-#EXTINF:-1,BG | Destination HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253094
-#EXTINF:-1,BG | EuroSport 2 HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253095
-#EXTINF:-1,BG | EuroSport HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253096
-#EXTINF:-1,BG | Diema Spor 2 HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253097
-#EXTINF:-1,BG | Diema Spor 1 HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253098
-#EXTINF:-1,BG | Diema HD HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253099
-#EXTINF:-1,BG | CineMax 2 HD HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253100
-#EXTINF:-1,BG | CineMax 1 HD HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253101
-#EXTINF:-1,BG | BNT 2 HD HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253102
-#EXTINF:-1,BG | BNT 1 HD HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/253103
-#EXTINF:-1,Latino | RT en Espanol
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266007
-#EXTINF:-1,Bolivia | Bolivision Santa Cruz
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266008
-#EXTINF:-1,Bolivia | Bolivision
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266009
-#EXTINF:-1,COL | Cantinazo TV HD
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266011
-#EXTINF:-1,COL |TELEENVIGADO
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266012
-#EXTINF:-1,AR | ALJAZEERA HD 1080P
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266013
-#EXTINF:-1,CL | Mega SD
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266014
-#EXTINF:-1,HND | Canal 9 HD
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266016
-#EXTINF:-1,HND | Cercano TV
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266017
-#EXTINF:-1,HND | Campus TV
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266018
-#EXTINF:-1,HND | Ebenzer TV
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266019
-#EXTINF:-1,Latino | Canal Plus Guatemala
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266020
-#EXTINF:-1,Bolivia | Canal 7
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266023
-#EXTINF:-1,Bolivia | Cadena A
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266024
-#EXTINF:-1,Bolivia | Bolivision SD
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266025
-#EXTINF:-1,Bolovia | Bolivia TV 1
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266026
-#EXTINF:-1,Bolivia | Bolivia TV
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266027
-#EXTINF:-1,Bolivia | Gigavision
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266028
-#EXTINF:-1,USA | Telemundo Tucson FHD
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266039
-#EXTINF:-1,USA | Telemundo San FCO FHD
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266040
-#EXTINF:-1,USA | Telemundo San Diego FHD
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266041
-#EXTINF:-1,USA | Telemundo San Antonio FHD
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266049
-#EXTINF:-1,PY | PARAVISION
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266050
-#EXTINF:-1,US |  NBC 6 Miami
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266061
-#EXTINF:-1,US |  CBS 4 Miami
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266062
-#EXTINF:-1,US | FOX 7 Miami
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266063
-#EXTINF:-1,US | ABC 10 Miami
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266068
-#EXTINF:-1,USA | Unimas Miami
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266073
-#EXTINF:-1,SL | SPORT TV HD 1080P*
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266098
-#EXTINF:-1,SL | RTP 1 FHD 4K
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266101
-#EXTINF:-1,SL | BEIN MAX 8 HD ARABIC
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266102
-#EXTINF:-1,SL | BEIN MAX 7 HD ARAB
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266103
-#EXTINF:-1,Channel 98
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266107
-#EXTINF:-1,Channel 97
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266108
-#EXTINF:-1,Channel 96
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266109
-#EXTINF:-1,Channel 95
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266110
-#EXTINF:-1,Channel 94
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266111
-#EXTINF:-1,Channel 93
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266112
-#EXTINF:-1,Channel 92
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266113
-#EXTINF:-1,Channel 91
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266114
-#EXTINF:-1,Channel 90
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266115
-#EXTINF:-1,Channel 89
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266116
-#EXTINF:-1,Channel 88
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266117
-#EXTINF:-1,Channel 87
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266118
-#EXTINF:-1,Channel 86
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266119
-#EXTINF:-1,Channel 83
-http://192.99.150.25:25461/Jazmin1/Jazmin1/266120
