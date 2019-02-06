@@ -127,6 +127,17 @@ http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="INDIA",Pitaara TV
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
+#EXTINF:0, group-title="Punjabi",Life Punjabi
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b8388
+#EXTINF:0, group-title="Punjabi",mh1 Shardha
+http://mhonestream.in:1935/mhone/mhoneshraddha/index.m3u8
+#EXTINF:0, group-title="Urdu",Nazrana (Ghazals)
+http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
+#EXTINF:0, group-title="Punjabi",TV Punjab
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTINF:0, group-title="Punjabi",Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="INDIA",Pop Pataka
 http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
 #EXTINF:-1 tvg-name="UK 92 NEWS" tvg-logo="",UK 92 NEWS
