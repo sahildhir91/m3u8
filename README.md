@@ -137,7 +137,6 @@ http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 http://cdn.samtv.ca/tvpunjab/index.m3u8
 #EXTINF:0, group-title="Punjabi",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="INDIA",Pop Pataka
 http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
 #EXTINF:-1 tvg-name="UK 92 NEWS" tvg-logo="",UK 92 NEWS
@@ -478,74 +477,6 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/chunklist.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",CMC TV [720p]
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing [540p]
-http://www.djing.com/tv/live.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Animation [540p]
-http://www.djing.com/tv/animation.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Animation [540p]
-https://www.djing.com/tv/animation.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Avicii [720p]
-http://www.djing.com/tv/session_avicii.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Classic [540p]
-http://www.djing.com/tv/classics.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Classic [540p]
-https://www.djing.com/tv/classics.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Dance Floor [540p]
-http://djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Dance Floor [540p]
-http://djing.com/tv/ibiza.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Dance Floor [540p]
-http://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Dance Floor [540p]
-http://www.djing.com/tv/dancefloor.m3u8?
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Dance Floor [540p]
-https://www.djing.com/tv/dancefloor.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Dancefloor [540p]
-https://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Electro rock [540p]
-https://www.djing.com/tv/session_electro-rock.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Electro Rock [720p]
-http://www.djing.com/tv/session_electro-rock.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Electro Rock [720p]
-https://www.djing.com/tv/session_electro-rock.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing French touch [540p]
-https://www.djing.com/tv/session_french-touch.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing French Touch [720p]
-http://www.djing.com/tv/session_french-touch.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Hedonist [720p]
-http://www.djing.com/tv/session_hedonist.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Hits [540p]
-http://www.djing.com/tv/04.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Hits [540p]
-http://www.djing.com/tv/hits.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Hits [540p]
-https://www.djing.com/tv/hits.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Hot Hot Hot [720p]
-http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Hot Hot Hot [720p]
-http://www.djing.com/tv/hothothot.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Ibiza [540p]
-http://www.djing.com/tv/ibiza.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Ibiza [540p]
-http://www.djing.com/tv/ibiza.m3u8?
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Karaoke [540p]
-https://www.djing.com/tv/karaoke.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Karaoke [720p]
-http://www.djing.com/tv/karaoke.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Live [540p]
-https://www.djing.com/tv/live.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Summer Vibes [720p]
-http://www.djing.com/tv/session_summer-vibes.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Summer Vibes [720p]
-https://www.djing.com/tv/session_summer-vibes.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Underground [540p]
-http://www.djing.com/tv/underground.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Underground [540p]
-https://www.djing.com/tv/underground.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Underground [540p]
-https://www.djing.com/tv/underground.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DJing Underground
-http://www.djing.com/tv/underground.m3u8?
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="https://gg.gg/ms-country",The Country Network
 http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News [720p]
@@ -652,7 +583,6 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLB
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",NULL
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-
 #EXTINF:-1,Big Ten Network
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
 #EXTINF:-1,Cartoon Network HD
@@ -739,129 +669,105 @@ http://maxptv.ddns.net:25461/zac/zac/3
 http://maxptv.ddns.net:25461/zac/zac/12
 #EXTINF:0,IND: & Picture HD
 http://gorillaiptv.online:25461/live/young/young/2631.m3u8
-#EXTINF:0,IND: & TV
-http://gorillaiptv.online:25461/live/young/young/2632.m3u8
-#EXTINF:0,IND: 9X Jalwa
-http://gorillaiptv.online:25461/live/young/young/2630.m3u8
-#EXTINF:0,IND: 9X Tashann
-http://gorillaiptv.online:25461/live/young/young/2629.m3u8
-#EXTINF:0,IND: B4U Movies
-http://gorillaiptv.online:25461/live/young/young/2627.m3u8
-#EXTINF:0,IND: B4U Music
-http://gorillaiptv.online:25461/live/young/young/2626.m3u8
-#EXTINF:0,IND: B4U Plus
-http://gorillaiptv.online:25461/live/young/young/2628.m3u8
-#EXTINF:0,IND: Colors
-http://gorillaiptv.online:25461/live/young/young/2624.m3u8
-#EXTINF:0,IND: Colors HD
-http://gorillaiptv.online:25461/live/young/young/2625.m3u8
-#EXTINF:0,IND: Gold Select
-http://gorillaiptv.online:25461/live/young/young/2607.m3u8
-#EXTINF:0,IND: JUS Punjabi TV
-http://gorillaiptv.online:25461/live/young/young/2622.m3u8
-#EXTINF:0,IND: Movies OK
-http://gorillaiptv.online:25461/live/young/young/2623.m3u8
-#EXTINF:0,IND: Rishtey Cineplex
-http://gorillaiptv.online:25461/live/young/young/2620.m3u8
-#EXTINF:0,IND: Sony Max
-http://gorillaiptv.online:25461/live/young/young/2614.m3u8
-#EXTINF:0,IND: Sony Max 2
-http://gorillaiptv.online:25461/live/young/young/2618.m3u8
-#EXTINF:0,IND: Sony Pix
-http://gorillaiptv.online:25461/live/young/young/2617.m3u8
-#EXTINF:0,IND: SONY SAB
-http://gorillaiptv.online:25461/live/young/young/2616.m3u8
-#EXTINF:0,IND: SONY SIX
-http://gorillaiptv.online:25461/live/young/young/2615.m3u8
-#EXTINF:0,IND: Sony TV HD
-http://gorillaiptv.online:25461/live/young/young/2613.m3u8
-#EXTINF:0,IND: Sony UK
-http://gorillaiptv.online:25461/live/young/young/2612.m3u8
-#EXTINF:0,IND: Star Bharat.
-http://gorillaiptv.online:25461/live/young/young/2619.m3u8
-#EXTINF:0,IND: Star Gold
-http://gorillaiptv.online:25461/live/young/young/2611.m3u8
-#EXTINF:0,IND: STAR Movies
-http://gorillaiptv.online:25461/live/young/young/2609.m3u8
-#EXTINF:0,IND: Star Plus SD/HD
-http://gorillaiptv.online:25461/live/young/young/2610.m3u8
-#EXTINF:0,IND: STAR Select 1 HD
-http://gorillaiptv.online:25461/live/young/young/2608.m3u8
-#EXTINF:0,IND: UTV Movies
-http://gorillaiptv.online:25461/live/young/young/2621.m3u8
-#EXTINF:0,IND: Zee Anmol
-http://gorillaiptv.online:25461/live/young/young/2602.m3u8
-#EXTINF:0,IND: Zee Cafe HD
-http://gorillaiptv.online:25461/live/young/young/2606.m3u8
-#EXTINF:0,IND: Zee Cinema
-http://gorillaiptv.online:25461/live/young/young/2605.m3u8
-#EXTINF:0,IND: Zee Classic
-http://gorillaiptv.online:25461/live/young/young/2604.m3u8
-#EXTINF:0,IND: Zee Living
-http://gorillaiptv.online:25461/live/young/young/2603.m3u8
-#EXTINF:0,IND: Zing
-http://gorillaiptv.online:25461/live/young/young/2601.m3u8
-#EXTINF:0,IND: & Picture HD
-http://gorillaiptv.online:25461/live/young/young/2631.m3u8
-#EXTINF:0,IND: & TV
-http://gorillaiptv.online:25461/live/young/young/2632.m3u8
-#EXTINF:0,IND: 9X Jalwa
-http://gorillaiptv.online:25461/live/young/young/2630.m3u8
-#EXTINF:0,IND: 9X Tashann
-http://gorillaiptv.online:25461/live/young/young/2629.m3u8
-#EXTINF:0,IND: B4U Movies
-http://gorillaiptv.online:25461/live/young/young/2627.m3u8
-#EXTINF:0,IND: B4U Music
-http://gorillaiptv.online:25461/live/young/young/2626.m3u8
-#EXTINF:0,IND: B4U Plus
-http://gorillaiptv.online:25461/live/young/young/2628.m3u8
-#EXTINF:0,IND: Colors
-http://gorillaiptv.online:25461/live/young/young/2624.m3u8
-#EXTINF:0,IND: Colors HD
-http://gorillaiptv.online:25461/live/young/young/2625.m3u8
-#EXTINF:0,IND: Gold Select
-http://gorillaiptv.online:25461/live/young/young/2607.m3u8
-#EXTINF:0,IND: JUS Punjabi TV
-http://gorillaiptv.online:25461/live/young/young/2622.m3u8
-#EXTINF:0,IND: Movies OK
-http://gorillaiptv.online:25461/live/young/young/2623.m3u8
-#EXTINF:0,IND: Rishtey Cineplex
-http://gorillaiptv.online:25461/live/young/young/2620.m3u8
-#EXTINF:0,IND: Sony Max
-http://gorillaiptv.online:25461/live/young/young/2614.m3u8
-#EXTINF:0,IND: Sony Max 2
-http://gorillaiptv.online:25461/live/young/young/2618.m3u8
-#EXTINF:0,IND: Sony Pix
-http://gorillaiptv.online:25461/live/young/young/2617.m3u8
-#EXTINF:0,IND: SONY SAB
-http://gorillaiptv.online:25461/live/young/young/2616.m3u8
-#EXTINF:0,IND: SONY SIX
-http://gorillaiptv.online:25461/live/young/young/2615.m3u8
-#EXTINF:0,IND: Sony TV HD
-http://gorillaiptv.online:25461/live/young/young/2613.m3u8
-#EXTINF:0,IND: Sony UK
-http://gorillaiptv.online:25461/live/young/young/2612.m3u8
-#EXTINF:0,IND: Star Bharat.
-http://gorillaiptv.online:25461/live/young/young/2619.m3u8
-#EXTINF:0,IND: Star Gold
-http://gorillaiptv.online:25461/live/young/young/2611.m3u8
-#EXTINF:0,IND: STAR Movies
-http://gorillaiptv.online:25461/live/young/young/2609.m3u8
-#EXTINF:0,IND: Star Plus SD/HD
-http://gorillaiptv.online:25461/live/young/young/2610.m3u8
-#EXTINF:0,IND: STAR Select 1 HD
-http://gorillaiptv.online:25461/live/young/young/2608.m3u8
-#EXTINF:0,IND: UTV Movies
-http://gorillaiptv.online:25461/live/young/young/2621.m3u8
-#EXTINF:0,IND: Zee Anmol
-http://gorillaiptv.online:25461/live/young/young/2602.m3u8
-#EXTINF:0,IND: Zee Cafe HD
-http://gorillaiptv.online:25461/live/young/young/2606.m3u8
-#EXTINF:0,IND: Zee Cinema
-http://gorillaiptv.online:25461/live/young/young/2605.m3u8
-#EXTINF:0,IND: Zee Classic
-http://gorillaiptv.online:25461/live/young/young/2604.m3u8
-#EXTINF:0,IND: Zee Living
-http://gorillaiptv.online:25461/live/young/young/2603.m3u8
-#EXTINF:0,IND: Zing
-http://gorillaiptv.online:25461/live/young/young/2601.m3u8
+#EXTINF:-1,In- B4U Movies
+http://smart-hdip.com:6204/RDWAN/123/8385
+#EXTINF:-1,In- B4U Music
+http://smart-hdip.com:6204/RDWAN/123/8384
+#EXTINF:-1,In- B4u Plus
+http://smart-hdip.com:6204/RDWAN/123/10968
+#EXTINF:-1,In- &TV
+http://smart-hdip.com:6204/RDWAN/123/8382
+#EXTINF:-1,In- SONY MAX 2 HD
+http://smart-hdip.com:6204/RDWAN/123/10951
+#EXTINF:-1,In- SONY MAX HD
+http://smart-hdip.com:6204/RDWAN/123/8645
+#EXTINF:-1,In- SONY MIX
+http://smart-hdip.com:6204/RDWAN/123/8391
+#EXTINF:-1,In- SONY SAB
+http://smart-hdip.com:6204/RDWAN/123/8388
+#EXTINF:-1,In- Sony TV
+http://smart-hdip.com:6204/RDWAN/123/8390
+#EXTINF:-1,In- Star Plus
+http://smart-hdip.com:6204/RDWAN/123/8938
+#EXTINF:-1,In- Star Gold
+http://smart-hdip.com:6204/RDWAN/123/8380
+#EXTINF:-1,In- COLORS TV UK
+http://smart-hdip.com:6204/RDWAN/123/8394
+#EXTINF:-1,In- Rishte Asia
+http://smart-hdip.com:6204/RDWAN/123/10954
+#EXTINF:-1,AFG- Varzish Sport HD
+http://smart-hdip.com:6204/RDWAN/123/1925
+#EXTINF:-1,In- UTV Movies
+http://smart-hdip.com:6204/RDWAN/123/8379
+#EXTINF:-1,In- Zee Cafe
+http://smart-hdip.com:6204/RDWAN/123/10953
+#EXTINF:-1,In- Zee Cinema
+http://smart-hdip.com:6204/RDWAN/123/8378
+#EXTINF:-1,In-Zee Bollywood
+http://smart-hdip.com:6204/RDWAN/123/10374
+#EXTINF:-1,In- Zee TV
+http://smart-hdip.com:6204/RDWAN/123/8377
+#EXTINF:-1,In- Zing Music
+http://smart-hdip.com:6204/RDWAN/123/10373
+#EXTINF:-1,In- Zing TV
+http://smart-hdip.com:6204/RDWAN/123/8947
+#EXTINF:-1,In- Sport Cricket HD
+http://smart-hdip.com:6204/RDWAN/123/13447
+#EXTINF:-1,In- Sports Cricket HD Backup
+http://smart-hdip.com:6204/RDWAN/123/13446
+#EXTINF:-1,In- Sony Ten 1 HD
+http://smart-hdip.com:6204/RDWAN/123/8931
+#EXTINF:-1,In- Sony Ten 2 HD
+http://smart-hdip.com:6204/RDWAN/123/8930
+#EXTINF:-1,Pk- 92 News Hd
+http://smart-hdip.com:6204/RDWAN/123/8925
+#EXTINF:-1,Pk- A-Plus Tv
+http://smart-hdip.com:6204/RDWAN/123/8924
+#EXTINF:-1,Pk- Aaj News
+http://smart-hdip.com:6204/RDWAN/123/8923
+#EXTINF:-1,Pk- Apna Channel
+http://smart-hdip.com:6204/RDWAN/123/8922
+#EXTINF:-1,Pk- Ary Digital
+http://smart-hdip.com:6204/RDWAN/123/8921
+#EXTINF:-1,Pk- ARY News
+http://smart-hdip.com:6204/RDWAN/123/8920
+#EXTINF:-1,Pk- Ary QTV
+http://smart-hdip.com:6204/RDWAN/123/8919
+#EXTINF:-1,Pk- Ary Zindagi
+http://smart-hdip.com:6204/RDWAN/123/8918
+#EXTINF:-1,Pk- Bol News
+http://smart-hdip.com:6204/RDWAN/123/8916
+#EXTINF:-1,Pk- Dunya News
+http://smart-hdip.com:6204/RDWAN/123/8913
+#EXTINF:-1,Pk- Express News
+http://smart-hdip.com:6204/RDWAN/123/8912
+#EXTINF:-1,Pk- Geo News
+http://smart-hdip.com:6204/RDWAN/123/8910
+#EXTINF:-1,Pk- Geo Tez
+http://smart-hdip.com:6204/RDWAN/123/8908
+#EXTINF:-1,Pk- HUM Masala TV
+http://smart-hdip.com:6204/RDWAN/123/8906
+#EXTINF:-1,Pk- Hum Sitaray
+http://smart-hdip.com:6204/RDWAN/123/8905
+#EXTINF:-1,Pk- Islam Tv
+http://smart-hdip.com:6204/RDWAN/123/8903
+#EXTINF:-1,Pk- Lahore News
+http://smart-hdip.com:6204/RDWAN/123/8900
+#EXTINF:-1,Pk- News One
+http://smart-hdip.com:6204/RDWAN/123/8895
+#EXTINF:-1,Pk- Pak News HD
+http://smart-hdip.com:6204/RDWAN/123/8894
+#EXTINF:-1,Pk- Peace Tv
+http://smart-hdip.com:6204/RDWAN/123/8893
+#EXTINF:-1,Pk- Ptv Sports
+http://smart-hdip.com:6204/RDWAN/123/8891
+#EXTINF:-1,Pk- Samaa
+http://smart-hdip.com:6204/RDWAN/123/8890
+#EXTINF:-1,Pk- Urdu 1
+http://smart-hdip.com:6204/RDWAN/123/8888
+#EXTINF:-1,Pk- Waqt News
+http://smart-hdip.com:6204/RDWAN/123/8887
+#EXTINF:-1,Pk- Sport Cricket HD
+http://smart-hdip.com:6204/RDWAN/123/13444
+#EXTINF:-1,Pk- Ten Cricket HD
+http://smart-hdip.com:6204/RDWAN/123/13443
