@@ -188,7 +188,10 @@ http://smart-hdip.com:6204/faiez/123/13446
 http://smart-hdip.com:6204/faiez/123/8931
 #EXTINF:-1,In- Sony Ten 2 HD
 http://smart-hdip.com:6204/faiez/123/8930
-
+#EXTINF:-1,HBO HD
+http://210.210.155.35/session/98bcfbb2-cd03-11e8-8197-b82a72d63267/uq2663/h/h231/index2.m3u8
+#EXTINF:-1,HBO 2 https://iptv.zone
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1 tvg-name="UK 92 NEWS" tvg-logo="",UK 92 NEWS
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1,PAK: Bol News
