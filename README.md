@@ -174,6 +174,129 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1,US:NBC
 
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+#EXTM3U
+#EXTINF:-1,Da Vinci
+http://210.210.155.35/uq2663/h/h01/index.m3u8
+#EXTINF:-1,ANIPLUS
+http://210.210.155.35/uq2663/h/h02/index.m3u8
+#EXTINF:-1,FOXlife
+http://210.210.155.35/uq2663/h/h03/index.m3u8
+#EXTINF:-1,FOX
+http://210.210.155.35/uq2663/h/h04/index.m3u8
+#EXTINF:-1,Metro TV
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+#EXTINF:-1,Sony Channel
+http://210.210.155.35/uq2663/h/h06/index.m3u8
+#EXTINF:-1,KIX
+http://210.210.155.35/uq2663/h/h07/index.m3u8
+#EXTINF:-1,K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1,AXN
+http://210.210.155.35/uq2663/h/h09/index.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://210.210.155.35/uq2663/h/h11/index.m3u8
+#EXTINF:-1,NATGEO WILD
+http://210.210.155.35/uq2663/h/h12/index.m3u8
+#EXTINF:-1,SONY ONE
+http://210.210.155.35/uq2663/h/h13/index.m3u8
+#EXTINF:-1,FOX MOVIES
+http://210.210.155.35/uq2663/h/h14/index.m3u8
+#EXTINF:-1,FOX MOVIES ACTION
+http://210.210.155.35/uq2663/h/h15/index.m3u8
+#EXTINF:-1,FOX MOVIES FAMILY HD
+http://210.210.155.35/uq2663/h/h16/index.m3u8
+#EXTINF:-1,ANIMAX
+http://210.210.155.35/uq2663/h/h18/index.m3u8
+#EXTINF:-1,FOX SPORTS
+http://210.210.155.35/uq2663/h/h19/index.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://210.210.155.35/uq2663/h/h20/index.m3u8
+#EXTINF:-1,FOX SPORTS 3 
+http://210.210.155.35/uq2663/h/h21/index.m3u8
+#EXTINF:-1,FOX MOVIES ACTION
+http://210.210.155.35/uq2663/h/h22/index.m3u8
+#EXTINF:-1,NHK WORLD
+http://210.210.155.35/uq2663/h/h23/index.m3u8
+#EXTINF:-1,FOX MOVIES
+http://210.210.155.35/uq2663/h/h24/index.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://210.210.155.35/uq2663/h/h25/index.m3u8
+#EXTINF:-1,FOX SPORTS 3
+http://210.210.155.35/uq2663/h/h26/index.m3u8
+#EXTINF:-1,SBS in HD
+http://210.210.155.35/uq2663/h/h28/index.m3u8
+#EXTINF:-1,NEW ASIA CHANNEL
+http://210.210.155.35/uq2663/h/h29/index.m3u8
+#EXTINF:-1,CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1,THRILL
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1,ZEE BIOSKOP
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+#EXTINF:-1,TVRI SPORTS
+http://210.210.155.35/qwr9ew/s/s48/index.m3u8
+#EXTINF:-1,SCTV
+http://210.210.155.35/uq2663/h/h27/index.m3u8
+#EXTINF:-1,CNTV 2
+http://210.210.155.35/qwr9ew/s/s29/index.m3u8
+#EXTINF:-1,CNTV 3
+http://210.210.155.35/qwr9ew/s/s37/index.m3u8
+#EXTINF:-1,RTP
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1,TBN
+http://210.210.155.35/qwr9ew/s/s39/index.m3u8
+#EXTINF:-1,U Channel
+http://210.210.155.35/qwr9ew/s/s41/index.m3u8
+#EXTINF:-1,SBS
+http://210.210.155.35/qwr9ew/s/s42/index.m3u8
+#EXTINF:-1,IN TV
+http://210.210.155.35/qwr9ew/s/s46/index.m3u8
+#EXTINF:-1,UA TV
+http://210.210.155.35/qwr9ew/s/s47/index.m3u8
+#EXTINF:-1,Metro TV
+http://210.210.155.35/qwr9ew/s/s49/index.m3u8
+#EXTINF:-1,DAAI TV
+http://210.210.155.35/session/4ad0585c-b725-11e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1,THRILL
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1,ANIPLUS
+http://210.210.155.35/session/246832f6-a7f4-11e8-94b1-b82a72d63267/uq2663/h/h02/02.m3u8
+#EXTINF:-1,my KIDS
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+#EXTINF:-1,MY CINEMA
+http://210.210.155.35/qwr9ew/s/s31/index2.m3u8
+#EXTINF:-1,50
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1,HBO
+http://210.210.155.35/session/e9ee1104-f3d4-11e8-8306-8525aa85b8b1/uq2663/h/h231/01.m3u8
+#EXTINF:-1,Golf HD
+http://210.210.155.35/session/81387560-f3e2-11e8-bc1d-82c283e4e411/uq2663/h/h232/01.m3u8
+#EXTINF:-1,WB TV
+http://210.210.155.35/session/a31f4294-f3e2-11e8-b199-94e798af0a05/uq2663/h/h233/01.m3u8
+#EXTINF:-1,CNN Indo
+http://210.210.155.35/session/c0f1c15c-f3e2-11e8-bd11-86e98ac99cd8/uq2663/h/h234/01.m3u8
+#EXTINF:-1,TransVision (LifeTime)
+http://210.210.155.35/session/d4a9cde8-f3e2-11e8-8120-b7c09ffd257f/uq2663/h/h235/01.m3u8
+#EXTINF:-1,Al Jazeera eng
+http://210.210.155.35/session/f1a22d04-f3de-11e8-b90e-997d9209e1ea/qwr9ew/s/s17/01.m3u8
+#EXTINF:-1,J Channel
+http://210.210.155.35/session/ab482d7a-f3e0-11e8-ba81-ac53b5fd5dd9/qwr9ew/s/s41/01.m3u8
+#EXTINF:-1,SUPER Soccer TV
+http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/01.m3u8
+#EXTINF:-1,AniPlus 
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1,Channel A
+http://210.210.155.35/session/5f5291e8-f3f5-11e8-a084-882a82612570/dr9445/h/h29/01.m3u8
+#EXTINF:-1,AXN HD
+http://210.210.155.35/session/d8419838-f3fa-11e8-8d71-9ffa8b547eb8/dr9445/h/h141/01.m3u8
+#EXTINF:-1,AniMAX
+http://210.210.155.35/session/13bc0916-f3fb-11e8-9765-822bbdd32828/dr9445/h/h144/01.m3u8
+#EXTINF:-1,CelestialMovie
+http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1,Kix
+http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
+#EXTINF:-1,ZEE Bioskop
+http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1,Life Punjabi
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF:-1,Boogel Bollywod
