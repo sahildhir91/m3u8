@@ -127,8 +127,10 @@ http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="INDIA",Pitaara TV
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
-#EXTINF:0, group-title="Punjabi",Life Punjabi
-http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b8388
+#EXTINF:-1,Life Punjabi
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1,Boogel Bollywod
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:0, group-title="Punjabi",mh1 Shardha
 http://mhonestream.in:1935/mhone/mhoneshraddha/index.m3u8
 #EXTINF:0, group-title="Urdu",Nazrana (Ghazals)
