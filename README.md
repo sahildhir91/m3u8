@@ -319,8 +319,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",SCIENCE CHANNEL
 http://80.80.160.168/live/9/live.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",SHOWTIME
-http://80.80.160.168/live/7/live.m3u8
+
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",SINOVISION
 http://ec.sinovision.net/video/ts/lv.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Southeastern Channel
@@ -491,18 +490,14 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Sony Movie Channel
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Sony Movie Channel
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8?hdnts=exp%3D1512080426%7Eacl%3D%2Fi%2F%2A569927%2F%2A%7Ehmac%3D00bf27551374ebc12bc4ebe53e3c5ffd8c3a958231238b907e04fad220dc0b25
+hdnts=exp%3D1512080426%7Eacl%3D%2Fi%2F%2A569927%2F%2A%7Ehmac%3D00bf27551374ebc12bc4ebe53e3c5ffd8c3a958231238b907e04fad220dc0b25
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Sony Movie Network
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1570px-Showtime.svg.png",Showtime
 http://80.80.160.168/live/7/2500000/live.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",CMC TV [720p]
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",CMC TV [720p]
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/chunklist.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",CMC TV [720p]
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="https://gg.gg/ms-country",The Country Network
 http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News [720p]
@@ -531,14 +526,7 @@ http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-id="" tvg-name="" tvg-logo="",CATHOLIC TV [720p]
 http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
-#EXTINF:-1 group-title="Religious" tvg-id="" tvg-name="" tvg-logo="",CBN [480p]
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1 group-title="Religious" tvg-id="" tvg-name="" tvg-logo="",CBN Espanol [720p]
-http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
-#EXTINF:-1 group-title="Religious" tvg-id="" tvg-name="" tvg-logo="",CBN News [480p]
-http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
-#EXTINF:-1 group-title="Religious" tvg-id="" tvg-name="" tvg-logo="",CBN News [480p]
-https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+
 #EXTINF:-1 group-title="Religious" tvg-id="" tvg-name="" tvg-logo="",Christian Hip Hop Television [360p]
 http://telvuehls_t01997-i.akamaihd.net/hls/live/218552/T01997-2/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-id="" tvg-name="" tvg-logo="",CORNERSTONE TV [640p]
@@ -635,23 +623,3 @@ http://161.0.157.38/PLTV/88888888/224/3221226299/index.m3u8
 http://161.0.157.38/PLTV/88888888/224/3221226255/index.m3u8
 #EXTINF:-1,TELESHOP HD
 http://161.0.157.38/PLTV/88888888/224/3221226207/index.m3u8
-#EXTINF:-1,HBO HD
-http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
-#EXTINF:-1,HBO 2 HD
-http://maxptv.ddns.net:25461/zac/zac/132
-#EXTINF:-1,HBO 2 SD
-http://maxptv.ddns.net:25461/zac/zac/131
-#EXTINF:-1,HBO Family HD
-http://maxptv.ddns.net:25461/zac/zac/130
-#EXTINF:-1,HBO Family SD
-http://maxptv.ddns.net:25461/zac/zac/129
-#EXTINF:-1,HBO HD
-http://maxptv.ddns.net:25461/zac/zac/128
-#EXTINF:-1,Warner Bros HD
-http://maxptv.ddns.net:25461/zac/zac/4
-#EXTINF:-1,Warner Bros SD
-http://maxptv.ddns.net:25461/zac/zac/3
-#EXTINF:-1,Universal Channel HD
-http://maxptv.ddns.net:25461/zac/zac/12
-http://smart-hdip.com:6204/RDWAN/123/13443
-
