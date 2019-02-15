@@ -181,6 +181,8 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1,Boogel Bollywod
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ARY DIGITAL
+http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
 #EXTINF:0, group-title="Urdu",Nazrana (Ghazals)
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 #EXTINF:0, group-title="Punjabi",TV Punjab
@@ -190,8 +192,7 @@ http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="INDIA",Pop Pataka
 http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
 http://www.sansat.net:25461/029935610678/029935610678/12403
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ARY DIGITAL
-http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
+
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",Geo News [360p]
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",PTV News
