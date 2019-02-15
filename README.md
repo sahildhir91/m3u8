@@ -1,8 +1,11 @@
 #EXTM3U
-#EXTINF:0 group-title="IN: India",IN: CINE VOICE 
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="INDIA",Pitaara TV
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",SUBRANG TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1,Boogel Bollywod
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1,And TV
 
 http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
@@ -187,64 +190,6 @@ http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="INDIA",Pop Pataka
 http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
 http://www.sansat.net:25461/029935610678/029935610678/12403
-#EXTINF:-1,In- SONY MAX 2 HD
-http://smart-hdip.com:6204/faiez/123/10951
-#EXTINF:-1,In- Zee Cafe
-http://smart-hdip.com:6204/faiez/123/10953
-#EXTINF:-1,In- Zing Music
-http://smart-hdip.com:6204/faiez/123/10373
-#EXTINF:-1,In- Zee TV
-http://smart-hdip.com:6204/faiez/123/8377
-#EXTINF:-1,In-Zee Bollywood
-http://smart-hdip.com:6204/faiez/123/10374
-#EXTINF:-1,In- Zing TV
-http://smart-hdip.com:6204/faiez/123/8947
-#EXTINF:-1,In- Star Gold
-http://smart-hdip.com:6204/faiez/123/8380
-#EXTINF:-1,In- Star Plus
-http://smart-hdip.com:6204/faiez/123/8938
-#EXTINF:-1,In- &TV
-http://smart-hdip.com:6204/faiez/123/8382
-#EXTINF:-1,In- UTV Movies
-http://smart-hdip.com:6204/faiez/123/8379
-#EXTINF:-1,In- B4u Plus
-http://smart-hdip.com:6204/faiez/123/10968
-#EXTINF:-1,In- B4U Movies
-http://smart-hdip.com:6204/faiez/123/8385
-#EXTINF:-1,In- B4U Music
-http://smart-hdip.com:6204/faiez/123/8384
-#EXTINF:-1,In- Rishte Asia
-http://smart-hdip.com:6204/faiez/123/10954
-#EXTINF:-1,In- Sony TV
-http://smart-hdip.com:6204/faiez/123/8390
-#EXTINF:-1,In- SONY MIX
-http://smart-hdip.com:6204/faiez/123/8391
-#EXTINF:-1,In- SONY SAB
-http://smart-hdip.com:6204/faiez/123/8388
-#EXTINF:-1,In- SONY MAX HD
-http://smart-hdip.com:6204/faiez/123/8645
-#EXTINF:-1,In- COLORS TV UK
-http://smart-hdip.com:6204/faiez/123/8394
-#EXTINF:-1,In- Sport Cricket HD
-http://smart-hdip.com:6204/faiez/123/13447
-#EXTINF:-1,In- Sports Cricket HD Backup
-http://smart-hdip.com:6204/faiez/123/13446
-#EXTINF:-1,In- Sony Ten 1 HD
-http://smart-hdip.com:6204/faiez/123/8931
-#EXTINF:-1,In- Sony Ten 2 HD
-http://smart-hdip.com:6204/faiez/123/8930
-#EXTINF:-1,HBO HD
-http://210.210.155.35/session/98bcfbb2-cd03-11e8-8197-b82a72d63267/uq2663/h/h231/index2.m3u8
-#EXTINF:-1,HBO 2 https://iptv.zone
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1 tvg-name="UK 92 NEWS" tvg-logo="",UK 92 NEWS
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1,PAK: Bol News
-http://gorillaiptv.online:25461/20102010/20102010/1299
-#EXTINF:-1,PAK: Dunya News
-http://gorillaiptv.online:25461/20102010/20102010/1329
-#EXTINF:-1,PAK: ARY News
-http://gorillaiptv.online:25461/20102010/20102010/1308
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ARY DIGITAL
 http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",Geo News [360p]
@@ -387,8 +332,6 @@ http://80.80.160.168/live/7/live.m3u8
 http://ec.sinovision.net/video/ts/lv.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Southeastern Channel
 http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",SUBRANG TV
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TeleBoston TV
@@ -421,12 +364,6 @@ http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",VICTORY TV NETWORK
 http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",VOA
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",VOA
-http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",VOA
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",VTV CHANNEL 6 COLORADO
 http://hls.ksl.com/t/strata/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",WARROOM
@@ -555,8 +492,6 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",FOX Premium Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",HBO2 [360p]
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",HBO2 [720p]
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Pluto Movies
@@ -578,51 +513,11 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="https://gg.gg/ms-country",The Country Network
 http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News [720p]
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News [720p]
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News [720p]
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News Digital 11 [720p]
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News Digital 2 [720p]
-https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News Digital 3 [720p]
-https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News Digital 4 [720p]
-https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News Digital 5 [720p]
-https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News Digital 6 [720p]
-https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News Digital 7 [720p]
-https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News Digital 8 [720p]
-https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News Digital 9 [720p]
-https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News Digital [720p]
-https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News Live [720p]
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",Action News Now (KNVN) [432p]
 https://api.new.livestream.com/accounts/26511688/events/7954874/live.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",CBS 4 News [360p]
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",CBS 4 News [720p]
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",CBS 4 News [720p]
-http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",CBS News [360p]
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",CBS News [540p]
-http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",CBS News [720p]
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",CBS News [720p]
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",CBS News [720p]
-http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",CBS News [720p]
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",CNN
