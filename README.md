@@ -197,15 +197,7 @@ http://www.sansat.net:25461/029935610678/029935610678/12403
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",PTV News
 http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
-#EXTINF:0,Star Bharat
-#EXTVLCOPT:network-caching=1000
-http://gorillaiptv.online:25461/abc123/abc123/2931
-#EXTINF:0,Star GOLD
-#EXTVLCOPT:network-caching=1000
-http://gorillaiptv.online:25461/abc123/abc123/2930
-#EXTINF:0,Star Plus
-#EXTVLCOPT:network-caching=1000
-http://gorillaiptv.online:25461/abc123/abc123/2929
+
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",HBO2 [720p]
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Pluto Movies
