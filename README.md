@@ -1,11 +1,4 @@
 #EXTM3U
-http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="INDIA",Pitaara TV
-https://livepitaara.planetcast.in/pitaaraTV.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",SUBRANG TV
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1,Boogel Bollywod
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1,And TV
 
 http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
@@ -175,12 +168,19 @@ http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/
 http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
 #EXTINF:-1,ZEE Bioskop
 http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
+#EXTINF:0, group-title="Punjabi",mh1 Shardha
+http://mhonestream.in:1935/mhone/mhoneshraddha/index.m3u8
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="INDIA",Pitaara TV
+https://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1,Life Punjabi
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF:-1,Boogel Bollywod
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:0, group-title="Punjabi",mh1 Shardha
-http://mhonestream.in:1935/mhone/mhoneshraddha/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",SUBRANG TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1,Boogel Bollywod
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:0, group-title="Urdu",Nazrana (Ghazals)
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 #EXTINF:0, group-title="Punjabi",TV Punjab
