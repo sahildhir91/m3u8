@@ -544,7 +544,7 @@ https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",ESPN [720p]
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",MLB Network [540p]
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+http://mlbliveakc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",MLB USA [720p]
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",NULL
