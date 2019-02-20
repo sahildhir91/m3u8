@@ -345,7 +345,32 @@ http://92.30.108.254:8002/play/a00b/index.m3u8
 http://92.30.108.254:8002/play/a00a/index.m3u8
 #EXTINF:-1,ZooMoo HD
 http://92.30.108.254:8002/play/a00e/index.m3u8
-
+#EXTINF:-1,colors
+http://103.205.133.14/hls/colors.m3u8
+#EXTINF:-1,rtv
+http://103.205.133.14/hls/rtv.m3u8
+#EXTINF:-1,discovery
+http://103.205.133.14/hls/discovery.m3u8
+#EXTINF:-1,ntv
+http://103.205.133.14/hls/ntv.m3u8
+#EXTINF:-1,news24
+http://103.205.133.14/hls/news24.m3u8
+#EXTINF:-1,natgeo
+http://103.205.133.14/hls/natgeo.m3u8
+#EXTINF:-1,gtv
+http://103.205.133.14/hls/gtv.m3u8
+#EXTINF:-1,Sony Ten 1
+http://103.205.133.14/hls/ten1.m3u8
+#EXTINF:-1,Sony Ten 2
+http://103.205.133.14/hls/ten2.m3u8
+#EXTINF:-1,Sony ESPN
+http://103.205.133.14/hls/sonyespn.m3u8
+#EXTINF:-1,zeetvhd
+http://103.205.133.14/hls/zeetvhd.m3u8
+#EXTINF:-1,hbo HD
+http://103.205.133.14/hls/hbo.m3u8
+#EXTINF:-1,axn HD
+http://103.205.133.14/hls/axn.m3u8
 
 
  
