@@ -963,3 +963,40 @@ http://www.sansat.net:25461/024710090110/024710090110/25809
 #EXTINF:-1,OSN: OSN: FOX HD
 http://www.sansat.net:25461/024710090110/024710090110/25811
 
+http://123orca.com:25461/amina2/amina2/4009
+#EXTINF:-1,B4U Movies
+http://123orca.com:25461/amina2/amina2/3998
+#EXTINF:-1,B4U Plus
+http://123orca.com:25461/amina2/amina2/4003
+#EXTINF:-1,B4U Music
+http://123orca.com:25461/amina2/amina2/3970
+#EXTINF:-1,Starz TV
+http://123orca.com:25461/amina2/amina2/4876
+#EXTINF:-1,Star Plus
+http://123orca.com:25461/amina2/amina2/3978
+#EXTINF:-1,Star Gold HD
+http://123orca.com:25461/amina2/amina2/8684
+#EXTINF:-1,Star Jalsha
+http://123orca.com:25461/amina2/amina2/8685
+#EXTINF:-1,Sony
+http://123orca.com:25461/amina2/amina2/4794
+#EXTINF:-1,Sony Six
+http://123orca.com:25461/amina2/amina2/8668
+#EXTINF:-1,Zee Cinema HD
+http://123orca.com:25461/amina2/amina2/4004
+#EXTINF:-1,Zee Action
+http://123orca.com:25461/amina2/amina2/3984
+#EXTINF:-1,Zee tv
+http://123orca.com:25461/amina2/amina2/3973
+#EXTINF:-1,Zee Etc
+http://123orca.com:25461/amina2/amina2/4001
+#EXTINF:-1,TV9 Gujarati
+http://123orca.com:25461/amina2/amina2/3995
+#EXTINF:-1,UTV Movies International
+http://123orca.com:25461/amina2/amina2/3988
+#EXTINF:-1,Star Sport 1 HD
+http://123orca.com:25461/amina2/amina2/3976
+#EXTINF:-1,Star Sport4 HD
+http://123orca.com:25461/amina2/amina2/3979
+
+
