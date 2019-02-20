@@ -23,37 +23,8 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1,US:NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-#EXTINF:-1,FOXlife
-http://210.210.155.35/uq2663/h/h03/index.m3u8
-#EXTINF:-1,FOX
-http://210.210.155.35/uq2663/h/h04/index.m3u8
-#EXTINF:-1,Metro TV
-http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:-1,Sony Channel
-http://210.210.155.35/uq2663/h/h06/index.m3u8
-#EXTINF:-1,KIX
-http://210.210.155.35/uq2663/h/h07/index.m3u8
-#EXTINF:-1,K+
-http://210.210.155.35/uq2663/h/h08/index.m3u8
-#EXTINF:-1,AXN
-http://210.210.155.35/uq2663/h/h09/index.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://210.210.155.35/uq2663/h/h11/index.m3u8
-#EXTINF:-1,SONY ONE
-http://210.210.155.35/uq2663/h/h13/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="LATINO",Fox
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/262.m3u8?fluxustv.m3u8
- #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/FOXActionMovies_logo_2.png/revision/latest?cb=20170928080759" group-title="Peliculas",Fox Action Movies
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/610.m3u8?fluxustv.m3u8
- #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-ZNZUnRwSXyo/VMf0ZtvKY-I/AAAAAAAAACY/HK_ur9NSdbI/s1600/Fox%2BClassics%2Ben%2Bvivo%2Bonline.jpg" group-title="LATINO",Fox Classics
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/608.m3u8?fluxustv.m3u8
- #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logosfake/images/c/c8/Fox_comedy.png" group-title="LATINO",Fox Comedy
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/607.m3u8?fluxustv.m3u8
- #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_family-mediano.png" group-title="LATINO",Fox Family
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/606.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="LATINO",Fox Movies
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/604.m3u8?fluxustv.m3u8
+
+
  
 #EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="LATINO",Fox Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
@@ -61,64 +32,9 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="LATINO",Fox Premium Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 1 (Opt-1)
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2795.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 1 (Opt-2)
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1709.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 2
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/3272.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Fox_Sports.png" group-title="LATINO",Fox Sports 3
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1714.m3u8?
-
-#EXTINF:-1,NHK WORLD
-http://210.210.155.35/uq2663/h/h23/index.m3u8
 
 
-#EXTINF:-1,NEW ASIA CHANNEL
-http://210.210.155.35/uq2663/h/h29/index.m3u8
-#EXTINF:-1,CELESTIAL MOVIES
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1,THRILL
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1,ZEE BIOSKOP
-http://210.210.155.35/qwr9ew/s/s32/index.m3u8
-#EXTINF:-1,TVRI SPORTS
-http://210.210.155.35/qwr9ew/s/s48/index.m3u8
-#EXTINF:-1,SCTV
-http://210.210.155.35/uq2663/h/h27/index.m3u8
-#EXTINF:-1,CNTV 2
-http://210.210.155.35/qwr9ew/s/s29/index.m3u8
-#EXTINF:-1,CNTV 3
-http://210.210.155.35/qwr9ew/s/s37/index.m3u8
-#EXTINF:-1,RTP
-http://210.210.155.35/qwr9ew/s/s38/index.m3u8
-#EXTINF:-1,TBN
-http://210.210.155.35/qwr9ew/s/s39/index.m3u8
-#EXTINF:-1,U Channel
-http://210.210.155.35/qwr9ew/s/s41/index.m3u8
-#EXTINF:-1,SBS
-http://210.210.155.35/qwr9ew/s/s42/index.m3u8
-#EXTINF:-1,IN TV
-http://210.210.155.35/qwr9ew/s/s46/index.m3u8
-#EXTINF:-1,UA TV
-http://210.210.155.35/qwr9ew/s/s47/index.m3u8
-#EXTINF:-1,Metro TV
-http://210.210.155.35/qwr9ew/s/s49/index.m3u8
-#EXTINF:-1,DAAI TV
-http://210.210.155.35/session/4ad0585c-b725-11e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
-#EXTINF:-1,THRILL
-http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1,ANIPLUS
-http://210.210.155.35/session/246832f6-a7f4-11e8-94b1-b82a72d63267/uq2663/h/h02/02.m3u8
-#EXTINF:-1,my KIDS
-http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
-#EXTINF:-1,MY CINEMA
-http://210.210.155.35/qwr9ew/s/s31/index2.m3u8
-#EXTINF:-1,50
-http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+
 #EXTINF:-1,HBO
 http://210.210.155.35/session/e9ee1104-f3d4-11e8-8306-8525aa85b8b1/uq2663/h/h231/01.m3u8
 #EXTINF:-1,Golf HD
