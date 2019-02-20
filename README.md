@@ -1,4 +1,320 @@
 #EXTM3U
+#EXTINF:-1,CRICKET | WILLOW HD
+http://p5.giffy.be:8080/cecilia/cecilia/92666
+#EXTINF:-1,HINDI | 9X JALWA
+http://p5.giffy.be:8080/cecilia/cecilia/92587
+#EXTINF:-1,HINDI | 9X MUSIC
+http://p5.giffy.be:8080/cecilia/cecilia/92518
+#EXTINF:-1,HINDI | AAJ TAK HD
+http://p5.giffy.be:8080/cecilia/cecilia/92532
+#EXTINF:-1,HINDI | AAJ TAK TEJ HD
+http://p5.giffy.be:8080/cecilia/cecilia/92531
+#EXTINF:-1,HINDI | AASTHA
+http://p5.giffy.be:8080/cecilia/cecilia/92598
+#EXTINF:-1,HINDI | AASTHA BHAJAN
+http://p5.giffy.be:8080/cecilia/cecilia/92552
+#EXTINF:-1,HINDI | ABP NEWS INDIA
+http://p5.giffy.be:8080/cecilia/cecilia/92586
+#EXTINF:-1,HINDI | ADHYTAM
+http://p5.giffy.be:8080/cecilia/cecilia/92557
+#EXTINF:-1,HINDI | AND PICTURES HD
+http://p5.giffy.be:8080/cecilia/cecilia/92624
+#EXTINF:-1,HINDI | AND TV INDIA HD
+http://p5.giffy.be:8080/cecilia/cecilia/92623
+#EXTINF:-1,HINDI | AND TV USA HD
+http://p5.giffy.be:8080/cecilia/cecilia/92553
+#EXTINF:-1,HINDI | ANIMAL PLANET HD
+http://p5.giffy.be:8080/cecilia/cecilia/92542
+#EXTINF:-1,HINDI | APN NEWS
+http://p5.giffy.be:8080/cecilia/cecilia/92540
+#EXTINF:-1,HINDI | ARIHANT
+http://p5.giffy.be:8080/cecilia/cecilia/92523
+#EXTINF:-1,HINDI | B-FLIX MOVIES
+http://p5.giffy.be:8080/cecilia/cecilia/92573
+#EXTINF:-1,HINDI | B4U MOVIES
+http://p5.giffy.be:8080/cecilia/cecilia/92585
+#EXTINF:-1,HINDI | BABY TV HD
+http://p5.giffy.be:8080/cecilia/cecilia/92622
+#EXTINF:-1,HINDI | BIG MAGIC HD
+http://p5.giffy.be:8080/cecilia/cecilia/92574
+#EXTINF:-1,HINDI | BINDAS
+http://p5.giffy.be:8080/cecilia/cecilia/92535
+#EXTINF:-1,HINDI | BOLLYWOOD PREMIERE HD
+http://p5.giffy.be:8080/cecilia/cecilia/92546
+#EXTINF:-1,HINDI | CINEMA TV
+http://p5.giffy.be:8080/cecilia/cecilia/92558
+#EXTINF:-1,HINDI | CINEPLEX HD
+http://p5.giffy.be:8080/cecilia/cecilia/92621
+#EXTINF:-1,HINDI | COLORS INDIA HD
+http://p5.giffy.be:8080/cecilia/cecilia/92620
+#EXTINF:-1,HINDI | COMEDY ACTIVE
+http://p5.giffy.be:8080/cecilia/cecilia/92538
+#EXTINF:-1,HINDI | D2H CINEMA HD
+http://p5.giffy.be:8080/cecilia/cecilia/92619
+#EXTINF:-1,HINDI | D2H EVERGREEN CLASSIC HD*
+http://p5.giffy.be:8080/cecilia/cecilia/92618
+#EXTINF:-1,HINDI | DD BHARATI
+http://p5.giffy.be:8080/cecilia/cecilia/92659
+#EXTINF:-1,HINDI | DD BIHAR
+http://p5.giffy.be:8080/cecilia/cecilia/92658
+#EXTINF:-1,HINDI | DD INDIA
+http://p5.giffy.be:8080/cecilia/cecilia/92657
+#EXTINF:-1,HINDI | DD MADHYA PRADESH
+http://p5.giffy.be:8080/cecilia/cecilia/92656
+#EXTINF:-1,HINDI | DD NATIONAL HD
+http://p5.giffy.be:8080/cecilia/cecilia/92581
+#EXTINF:-1,HINDI | DD NEWS HD
+http://p5.giffy.be:8080/cecilia/cecilia/92522
+#EXTINF:-1,HINDI | DD RAJASTHAN
+http://p5.giffy.be:8080/cecilia/cecilia/92601
+#EXTINF:-1,HINDI | DD SPORTS*
+http://p5.giffy.be:8080/cecilia/cecilia/92521
+#EXTINF:-1,HINDI | DD UP
+http://p5.giffy.be:8080/cecilia/cecilia/92655
+#EXTINF:-1,HINDI | DELHI AAJ TAK HD
+http://p5.giffy.be:8080/cecilia/cecilia/92530
+#EXTINF:-1,HINDI | DISCOVERY JEET HD
+http://p5.giffy.be:8080/cecilia/cecilia/92541
+#EXTINF:-1,HINDI | DISCOVERY KIDS
+http://p5.giffy.be:8080/cecilia/cecilia/92654
+#EXTINF:-1,HINDI | DISCOVERY WORLD HD*
+http://p5.giffy.be:8080/cecilia/cecilia/92539
+#EXTINF:-1,HINDI | DISH BOX OFFICE PREMIER
+http://p5.giffy.be:8080/cecilia/cecilia/92537
+#EXTINF:-1,HINDI | DIVYA TV
+http://p5.giffy.be:8080/cecilia/cecilia/92645
+#EXTINF:-1,HINDI | E 24
+http://p5.giffy.be:8080/cecilia/cecilia/92582
+#EXTINF:-1,HINDI | ENTER 10 MOVIES
+http://p5.giffy.be:8080/cecilia/cecilia/92597
+#EXTINF:-1,HINDI | EPIC HD
+http://p5.giffy.be:8080/cecilia/cecilia/92630
+#EXTINF:-1,HINDI | FILMY
+http://p5.giffy.be:8080/cecilia/cecilia/92556
+#EXTINF:-1,HINDI | FOOD FOOD HD
+http://p5.giffy.be:8080/cecilia/cecilia/92653
+#EXTINF:-1,HINDI | FOX LIFE HD
+http://p5.giffy.be:8080/cecilia/cecilia/92629
+#EXTINF:-1,HINDI | GANGA
+http://p5.giffy.be:8080/cecilia/cecilia/92520
+#EXTINF:-1,HINDI | HARE KRISHNA HD
+http://p5.giffy.be:8080/cecilia/cecilia/92583
+#EXTINF:-1,HINDI | HINDI KHABAR
+http://p5.giffy.be:8080/cecilia/cecilia/92632
+#EXTINF:-1,HINDI | HISTORY TV18 HD
+http://p5.giffy.be:8080/cecilia/cecilia/92617
+#EXTINF:-1,HINDI | HOUSEFULL ACTION
+http://p5.giffy.be:8080/cecilia/cecilia/92584
+#EXTINF:-1,HINDI | HOUSEFULL MOVIES*
+http://p5.giffy.be:8080/cecilia/cecilia/92564
+#EXTINF:-1,HINDI | HUNGAMA BHAKTI SAGAR HD
+http://p5.giffy.be:8080/cecilia/cecilia/92572
+#EXTINF:-1,HINDI | HUNGAMA DIL SE HD
+http://p5.giffy.be:8080/cecilia/cecilia/92571
+#EXTINF:-1,HINDI | HUNGAMA KADAK HITS HD
+http://p5.giffy.be:8080/cecilia/cecilia/92570
+#EXTINF:-1,HINDI | HUNGAMA NAZRANA HD
+http://p5.giffy.be:8080/cecilia/cecilia/92569
+#EXTINF:-1,HINDI | HUNGAMA POP PATAKA HD
+http://p5.giffy.be:8080/cecilia/cecilia/92568
+#EXTINF:-1,HINDI | IBC 24
+http://p5.giffy.be:8080/cecilia/cecilia/92652
+#EXTINF:-1,HINDI | INDIA NEWS
+http://p5.giffy.be:8080/cecilia/cecilia/92651
+#EXTINF:-1,HINDI | INDIA TV
+http://p5.giffy.be:8080/cecilia/cecilia/92664
+#EXTINF:-1,HINDI | INDIA TV NEWS
+http://p5.giffy.be:8080/cecilia/cecilia/92663
+#EXTINF:-1,HINDI | JANTA TV
+http://p5.giffy.be:8080/cecilia/cecilia/92551
+#EXTINF:-1,HINDI | JINVANI TV HD
+http://p5.giffy.be:8080/cecilia/cecilia/92549
+#EXTINF:-1,HINDI | LIFESTYLE ASIA
+http://p5.giffy.be:8080/cecilia/cecilia/92565
+#EXTINF:-1,HINDI | LIVING FOODZ HD
+http://p5.giffy.be:8080/cecilia/cecilia/92602
+#EXTINF:-1,HINDI | MASTIII
+http://p5.giffy.be:8080/cecilia/cecilia/92650
+#EXTINF:-1,HINDI | MAX 2
+http://p5.giffy.be:8080/cecilia/cecilia/92662
+#EXTINF:-1,HINDI | MINIPLEX HD
+http://p5.giffy.be:8080/cecilia/cecilia/92616
+#EXTINF:-1,HINDI | MOVIES ACTIVE
+http://p5.giffy.be:8080/cecilia/cecilia/92536
+#EXTINF:-1,HINDI | MOVIES OK
+http://p5.giffy.be:8080/cecilia/cecilia/92578
+#EXTINF:-1,HINDI | MTV BEATS HD
+http://p5.giffy.be:8080/cecilia/cecilia/92615
+#EXTINF:-1,HINDI | MTV PLUS HD
+http://p5.giffy.be:8080/cecilia/cecilia/92628
+#EXTINF:-1,HINDI | MUBU TV
+http://p5.giffy.be:8080/cecilia/cecilia/92576
+#EXTINF:-1,HINDI | MUSIC INDIA
+http://p5.giffy.be:8080/cecilia/cecilia/92575
+#EXTINF:-1,HINDI | NAT GEO WILD HD
+http://p5.giffy.be:8080/cecilia/cecilia/92627
+#EXTINF:-1,HINDI | NATIONAL GEOGRAPHIC HD
+http://p5.giffy.be:8080/cecilia/cecilia/92614
+#EXTINF:-1,HINDI | NATIONAL VOICE
+http://p5.giffy.be:8080/cecilia/cecilia/92519
+#EXTINF:-1,HINDI | NDTV INDIA
+http://p5.giffy.be:8080/cecilia/cecilia/92661
+#EXTINF:-1,HINDI | NDTV PROFIT
+http://p5.giffy.be:8080/cecilia/cecilia/92660
+#EXTINF:-1,HINDI | NEWS 18 BIHAR
+http://p5.giffy.be:8080/cecilia/cecilia/92528
+#EXTINF:-1,HINDI | NEWS 18 INDIA
+http://p5.giffy.be:8080/cecilia/cecilia/92527
+#EXTINF:-1,HINDI | NEWS 18 LOKMAT
+http://p5.giffy.be:8080/cecilia/cecilia/92529
+#EXTINF:-1,HINDI | NEWS 18 MP & CHATTISGARH
+http://p5.giffy.be:8080/cecilia/cecilia/92526
+#EXTINF:-1,HINDI | NEWS 18 RAJASTHAN
+http://p5.giffy.be:8080/cecilia/cecilia/92525
+#EXTINF:-1,HINDI | NEWS 18 UP & UK
+http://p5.giffy.be:8080/cecilia/cecilia/92524
+#EXTINF:-1,HINDI | NEWS 24
+http://p5.giffy.be:8080/cecilia/cecilia/92649
+#EXTINF:-1,HINDI | NEWS NATION
+http://p5.giffy.be:8080/cecilia/cecilia/92580
+#EXTINF:-1,HINDI | NEWS STATE
+http://p5.giffy.be:8080/cecilia/cecilia/92579
+#EXTINF:-1,HINDI | NICK PLUS HD*
+http://p5.giffy.be:8080/cecilia/cecilia/92613
+#EXTINF:-1,HINDI | OM SHANTI
+http://p5.giffy.be:8080/cecilia/cecilia/92633
+#EXTINF:-1,HINDI | PARAS TV
+http://p5.giffy.be:8080/cecilia/cecilia/92548
+#EXTINF:-1,HINDI | PEACE OF MIND HD
+http://p5.giffy.be:8080/cecilia/cecilia/92547
+#EXTINF:-1,HINDI | POGO KIDS
+http://p5.giffy.be:8080/cecilia/cecilia/92648
+#EXTINF:-1,HINDI | RADIO MIRCHI 98.3 FM NEW DELHI
+http://p5.giffy.be:8080/cecilia/cecilia/92637
+#EXTINF:-1,HINDI | REPUBLIC TV HD
+http://p5.giffy.be:8080/cecilia/cecilia/92665
+#EXTINF:-1,HINDI | SAHARA ONE
+http://p5.giffy.be:8080/cecilia/cecilia/92588
+#EXTINF:-1,HINDI | SANSKAR
+http://p5.giffy.be:8080/cecilia/cecilia/92644
+#EXTINF:-1,HINDI | SATSANG TV
+http://p5.giffy.be:8080/cecilia/cecilia/92643
+#EXTINF:-1,HINDI | SILVER SCREEN
+http://p5.giffy.be:8080/cecilia/cecilia/92577
+#EXTINF:-1,HINDI | SKY STAR MOVIES
+http://p5.giffy.be:8080/cecilia/cecilia/92559
+#EXTINF:-1,HINDI | SOHAM TV
+http://p5.giffy.be:8080/cecilia/cecilia/92566
+#EXTINF:-1,HINDI | SONY BBC EARTH HD
+http://p5.giffy.be:8080/cecilia/cecilia/92626
+#EXTINF:-1,HINDI | SONY INDIA HD
+http://p5.giffy.be:8080/cecilia/cecilia/92631
+#EXTINF:-1,HINDI | SONY MAX INDIA HD
+http://p5.giffy.be:8080/cecilia/cecilia/92612
+#EXTINF:-1,HINDI | SONY MIX
+http://p5.giffy.be:8080/cecilia/cecilia/92516
+#EXTINF:-1,HINDI | SONY PAL
+http://p5.giffy.be:8080/cecilia/cecilia/92517
+#EXTINF:-1,HINDI | SONY ROX HD
+http://p5.giffy.be:8080/cecilia/cecilia/92611
+#EXTINF:-1,HINDI | SONY SAB HD
+http://p5.giffy.be:8080/cecilia/cecilia/92610
+#EXTINF:-1,HINDI | SONY WAH
+http://p5.giffy.be:8080/cecilia/cecilia/92515
+#EXTINF:-1,HINDI | SONY YAY
+http://p5.giffy.be:8080/cecilia/cecilia/92647
+#EXTINF:-1,HINDI | STAR BHARAT HD
+http://p5.giffy.be:8080/cecilia/cecilia/92603
+#EXTINF:-1,HINDI | STAR BHARAT HD (Back Up)
+http://p5.giffy.be:8080/cecilia/cecilia/92544
+#EXTINF:-1,HINDI | STAR GOLD HD
+http://p5.giffy.be:8080/cecilia/cecilia/92609
+#EXTINF:-1,HINDI | STAR GOLD SELECT HD
+http://p5.giffy.be:8080/cecilia/cecilia/92608
+#EXTINF:-1,HINDI | STAR PLUS INDIA HD
+http://p5.giffy.be:8080/cecilia/cecilia/92607
+#EXTINF:-1,HINDI | STAR PLUS INDIA HD (Back Up)
+http://p5.giffy.be:8080/cecilia/cecilia/92543
+#EXTINF:-1,HINDI | STAR UTSAV
+http://p5.giffy.be:8080/cecilia/cecilia/92589
+#EXTINF:-1,HINDI | STAR UTSAV MOVIES
+http://p5.giffy.be:8080/cecilia/cecilia/92560
+#EXTINF:-1,HINDI | SUDARSHAN NEWS
+http://p5.giffy.be:8080/cecilia/cecilia/92646
+#EXTINF:-1,HINDI | TRAVEL XP HD
+http://p5.giffy.be:8080/cecilia/cecilia/92606
+#EXTINF:-1,HINDI | TRUE SPORTS*
+http://p5.giffy.be:8080/cecilia/cecilia/92561
+#EXTINF:-1,HINDI | UTV ACTION
+http://p5.giffy.be:8080/cecilia/cecilia/92534
+#EXTINF:-1,HINDI | UTV HD
+http://p5.giffy.be:8080/cecilia/cecilia/92545
+#EXTINF:-1,HINDI | UTV MOVIES
+http://p5.giffy.be:8080/cecilia/cecilia/92533
+#EXTINF:-1,HINDI | VEDIC TV
+http://p5.giffy.be:8080/cecilia/cecilia/92550
+#EXTINF:-1,HINDI | WOW CINEMA
+http://p5.giffy.be:8080/cecilia/cecilia/92563
+#EXTINF:-1,HINDI | WOW MUSIC
+http://p5.giffy.be:8080/cecilia/cecilia/92562
+#EXTINF:-1,HINDI | ZEE ACTION
+http://p5.giffy.be:8080/cecilia/cecilia/92639
+#EXTINF:-1,HINDI | ZEE ANMOL
+http://p5.giffy.be:8080/cecilia/cecilia/92590
+#EXTINF:-1,HINDI | ZEE ANMOL CINEMA
+http://p5.giffy.be:8080/cecilia/cecilia/92591
+#EXTINF:-1,HINDI | ZEE BUSINESS
+http://p5.giffy.be:8080/cecilia/cecilia/92642
+#EXTINF:-1,HINDI | ZEE CINEMA HD
+http://p5.giffy.be:8080/cecilia/cecilia/92625
+#EXTINF:-1,HINDI | ZEE CLASSIC
+http://p5.giffy.be:8080/cecilia/cecilia/92638
+#EXTINF:-1,HINDI | ZEE ETC BOLLYWOOD
+http://p5.giffy.be:8080/cecilia/cecilia/92641
+#EXTINF:-1,HINDI | ZEE HINDUSTAN
+http://p5.giffy.be:8080/cecilia/cecilia/92640
+#EXTINF:-1,HINDI | ZEE HINDUSTAN NEWS
+http://p5.giffy.be:8080/cecilia/cecilia/92604
+#EXTINF:-1,HINDI | ZEE MADHYA PRADESH
+http://p5.giffy.be:8080/cecilia/cecilia/92636
+#EXTINF:-1,HINDI | ZEE NEWS
+http://p5.giffy.be:8080/cecilia/cecilia/92595
+#EXTINF:-1,HINDI | ZEE NEWS BIHAR
+http://p5.giffy.be:8080/cecilia/cecilia/92594
+#EXTINF:-1,HINDI | ZEE NEWS MP/CHATTISGARH
+http://p5.giffy.be:8080/cecilia/cecilia/92593
+#EXTINF:-1,HINDI | ZEE NEWS UP
+http://p5.giffy.be:8080/cecilia/cecilia/92592
+#EXTINF:-1,HINDI | ZEE RAJASTHAN
+http://p5.giffy.be:8080/cecilia/cecilia/92600
+#EXTINF:-1,HINDI | ZEE SINE
+http://p5.giffy.be:8080/cecilia/cecilia/92567
+#EXTINF:-1,HINDI | ZEE TV INDIA HD
+http://p5.giffy.be:8080/cecilia/cecilia/92605
+#EXTINF:-1,HINDI | ZEE TV UK
+http://p5.giffy.be:8080/cecilia/cecilia/92555
+#EXTINF:-1,HINDI | ZEE TV USA HD
+http://p5.giffy.be:8080/cecilia/cecilia/92554
+#EXTINF:-1,HINDI | ZEE YUVA
+http://p5.giffy.be:8080/cecilia/cecilia/92634
+#EXTINF:-1,HINDI | ZING
+http://p5.giffy.be:8080/cecilia/cecilia/92596
+#EXTINF:-1,HINDI | ZOOM TV HD
+http://p5.giffy.be:8080/cecilia/cecilia/92599
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,SONY MAX HD
+http://92.30.108.254:8002/play/a00f/index.m3u8
 #EXTINF:-1,And TV
 http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
 #EXTINF:-1,Animal Planet HD
@@ -23,6 +339,13 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1,US:NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+#EXTINF:-1,Sky Action HD
+http://92.30.108.254:8002/play/a00b/index.m3u8
+#EXTINF:-1,Sky Thriller HD
+http://92.30.108.254:8002/play/a00a/index.m3u8
+#EXTINF:-1,ZooMoo HD
+http://92.30.108.254:8002/play/a00e/index.m3u8
+
 
 
  
