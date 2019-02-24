@@ -80,7 +80,8 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 
 
 
-
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",DHAMAAL [720p]
+http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
 #EXTINF:0, group-title="Punjabi",mh1 Shardha
 http://mhonestream.in:1935/mhone/mhoneshraddha/index.m3u8
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
