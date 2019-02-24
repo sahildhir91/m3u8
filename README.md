@@ -2,6 +2,8 @@
 
 #EXTINF:-1,And TV
 http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
+#EXTINF:-1,National Geographic Wild
+http://www.freeiptvdaily.net:8000/live/lbuTky368b/9484AMKnUh/35.
 #EXTINF:-1,Animal Planet HD
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 #EXTINF:-1,Cooking Channel
