@@ -105,7 +105,8 @@ http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="INDIA",Pop Pataka
 http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
 http://www.sansat.net:25461/029935610678/029935610678/12403
-
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",AAJ TAK [576p]
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",PTV News
 http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/2hoemb9.png" group-title="PAKISTAN",Tez
