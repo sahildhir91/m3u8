@@ -52,6 +52,18 @@ http://103.205.133.14/hls/ten2.m3u8
 http://103.205.133.14/hls/sonyespn.m3u8
 #EXTINF:-1,zeetvhd
 http://103.205.133.14/hls/zeetvhd.m3u8
+#EXTINF:-1 group-title="Intertainment" tvg-id="" tvg-name="" tvg-logo="",ZOOM
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DIL SE [720p]
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CHANNEL WIN [720p]
+http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CHANNEL Y [720p]
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",APNA PUNJAB [720p]
+http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
+
+
 #EXTINF:-1,hbo HD
 http://103.205.133.14/hls/hbo.m3u8
 #EXTINF:-1,axn HD
@@ -107,7 +119,10 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",Geo News [360p]
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
-
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",CNC3 [720p]
+http://161.0.157.8/PLTV/88888888/224/3221226845/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",DD News [576p]
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",HBO2 [720p]
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
