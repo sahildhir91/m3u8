@@ -24,12 +24,164 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1,US:NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-#EXTINF:-1,Sky Action HD
-http://92.30.108.254:8002/play/a00b/index.m3u8
-#EXTINF:-1,Sky Thriller HD
-http://92.30.108.254:8002/play/a00a/index.m3u8
-#EXTINF:-1,ZooMoo HD
-http://92.30.108.254:8002/play/a00e/index.m3u8
+#EXTINF:-1 tvg-name="UK ARISE NEWS" tvg-logo="",UK ARISE NEWS
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-name="UK FLOW SPORTS" tvg-logo="",UK FLOW SPORTS
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 tvg-name="UK INDIA NEWS" tvg-logo="",UK INDIA NEWS
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
+#EXTINF:-1 tvg-name="UK SKY NEWS (1+)" tvg-logo="",UK SKY NEWS (1+)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-name="US ESPN" tvg-logo="",US ESPN
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 tvg-name="US ESPN 2" tvg-logo="",US ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 tvg-name="US ESPN NEWS ENGLISH" tvg-logo="",US ESPN NEWS ENGLISH
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-name="US BLOOMBERG TV" tvg-logo="",US BLOOMBERG TV
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-name="UK DIGI 24 NEWS RO" tvg-logo="",UK DIGI 24 NEWS RO
+http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
+
+
+#EXTINF:0,IND: Star Bharat HD
+http://gorillaiptv.online:25461/dickie1/1dickie/139
+#EXTINF:0,IND: Star Gold HD
+http://gorillaiptv.online:25461/dickie1/1dickie/140
+#EXTINF:0,IND: Star Plus
+http://gorillaiptv.online:25461/dickie1/1dickie/141
+#EXTINF:0,IND: Zee Action
+http://gorillaiptv.online:25461/dickie1/1dickie/142
+#EXTINF:0,IND: Zee Bollywood
+http://gorillaiptv.online:25461/dickie1/1dickie/145
+#EXTINF:0,IND: Zee Business
+http://gorillaiptv.online:25461/dickie1/1dickie/146
+#EXTINF:0,IND: Zee Cafe
+http://gorillaiptv.online:25461/dickie1/1dickie/143
+#EXTINF:0,IND: Zee Cinema HD
+http://gorillaiptv.online:25461/dickie1/1dickie/147
+#EXTINF:0,IND: Zee News
+http://gorillaiptv.online:25461/dickie1/1dickie/144
+#EXTINF:0,IND: Zee TV HD
+http://gorillaiptv.online:25461/dickie1/1dickie/148
+#EXTINF:0,PAK: 7 News
+http://gorillaiptv.online:25461/dickie1/1dickie/1315
+#EXTINF:0,PAK: 92 News
+http://gorillaiptv.online:25461/dickie1/1dickie/1314
+#EXTINF:0,PAK: A Plus
+http://gorillaiptv.online:25461/dickie1/1dickie/1313
+#EXTINF:0,PAK: AAJ News
+http://gorillaiptv.online:25461/dickie1/1dickie/1312
+#EXTINF:0,PAK: ABB TAK News
+http://gorillaiptv.online:25461/dickie1/1dickie/1311
+#EXTINF:0,PAK: Apna
+http://gorillaiptv.online:25461/dickie1/1dickie/1310
+#EXTINF:0,PAK: Aruj
+http://gorillaiptv.online:25461/dickie1/1dickie/1309
+#EXTINF:0,PAK: ARY Digital
+http://gorillaiptv.online:25461/dickie1/1dickie/1324
+#EXTINF:0,PAK: ARY Musik
+http://gorillaiptv.online:25461/dickie1/1dickie/1325
+#EXTINF:0,PAK: ARY News
+http://gorillaiptv.online:25461/dickie1/1dickie/1308
+#EXTINF:0,PAK: ARY News World
+http://gorillaiptv.online:25461/dickie1/1dickie/1307
+#EXTINF:0,PAK: ARY One World
+http://gorillaiptv.online:25461/dickie1/1dickie/1306
+#EXTINF:0,PAK: ARY QTV
+http://gorillaiptv.online:25461/dickie1/1dickie/1305
+#EXTINF:0,PAK: ARY Zauq
+http://gorillaiptv.online:25461/dickie1/1dickie/1318
+#EXTINF:0,PAK: ARY Zindagi
+http://gorillaiptv.online:25461/dickie1/1dickie/1323
+#EXTINF:0,PAK: ATV
+http://gorillaiptv.online:25461/dickie1/1dickie/1304
+#EXTINF:0,PAK: Awami Awaz
+http://gorillaiptv.online:25461/dickie1/1dickie/1302
+#EXTINF:0,PAK: Awaz News
+http://gorillaiptv.online:25461/dickie1/1dickie/1301
+#EXTINF:0,PAK: Barkat TV
+http://gorillaiptv.online:25461/dickie1/1dickie/1300
+#EXTINF:0,PAK: Bol News
+http://gorillaiptv.online:25461/dickie1/1dickie/1299
+#EXTINF:0,PAK: Capital News
+http://gorillaiptv.online:25461/dickie1/1dickie/1298
+#EXTINF:0,PAK: City 41 News
+http://gorillaiptv.online:25461/dickie1/1dickie/1297
+#EXTINF:0,PAK: City 42 News
+http://gorillaiptv.online:25461/dickie1/1dickie/1296
+#EXTINF:0,PAK: Din News
+http://gorillaiptv.online:25461/dickie1/1dickie/1330
+#EXTINF:0,PAK: Dunya News
+http://gorillaiptv.online:25461/dickie1/1dickie/1329
+#EXTINF:0,PAK: Express Entertainment
+http://gorillaiptv.online:25461/dickie1/1dickie/1317
+#EXTINF:0,PAK: Film World
+http://gorillaiptv.online:25461/dickie1/1dickie/1295
+#EXTINF:0,PAK: FilmMasia HD
+http://gorillaiptv.online:25461/dickie1/1dickie/1294
+#EXTINF:0,PAK: Geo Entertainment
+http://gorillaiptv.online:25461/dickie1/1dickie/1322
+#EXTINF:0,PAK: GEO Kahani
+http://gorillaiptv.online:25461/dickie1/1dickie/1293
+#EXTINF:0,PAK: Geo News
+http://gorillaiptv.online:25461/dickie1/1dickie/1328
+#EXTINF:0,PAK: Geo Super
+http://gorillaiptv.online:25461/dickie1/1dickie/1321
+#EXTINF:0,PAK: GEO Tez
+http://gorillaiptv.online:25461/dickie1/1dickie/1292
+#EXTINF:0,PAK: Health TV
+http://gorillaiptv.online:25461/dickie1/1dickie/1291
+#EXTINF:0,PAK: Hum Masala
+http://gorillaiptv.online:25461/dickie1/1dickie/1290
+#EXTINF:0,PAK: Hum News
+http://gorillaiptv.online:25461/dickie1/1dickie/1289
+#EXTINF:0,PAK: Hum Sitaray
+http://gorillaiptv.online:25461/dickie1/1dickie/1288
+#EXTINF:0,PAK: Hum TV
+http://gorillaiptv.online:25461/dickie1/1dickie/1320
+#EXTINF:0,PAK: Hum World
+http://gorillaiptv.online:25461/dickie1/1dickie/1287
+#EXTINF:0,PAK: Jalwa TV
+http://gorillaiptv.online:25461/dickie1/1dickie/1286
+#EXTINF:0,PAK: Khyber TV
+http://gorillaiptv.online:25461/dickie1/1dickie/1303
+#EXTINF:0,PAK: Madni TV
+http://gorillaiptv.online:25461/dickie1/1dickie/1316
+#EXTINF:0,PAK: Neo News
+http://gorillaiptv.online:25461/dickie1/1dickie/1327
+#EXTINF:0,PAK: PTV Sports
+http://gorillaiptv.online:25461/dickie1/1dickie/1319
+#EXTINF:0,PAK: Samaa News
+http://gorillaiptv.online:25461/dickie1/1dickie/1326
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,colors
 http://103.205.133.14/hls/colors.m3u8
 #EXTINF:-1,rtv
