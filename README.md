@@ -279,6 +279,11 @@ http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
 https://etv-urdu.akamaized.net/i/etv_urdu_live_1@373059/index_5_av-p.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",HBO2 [720p]
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1,Pl- HBO HD
+http://linux-app.tv:6204/yous/123/10536
+#EXTINF:-1,Pl- HBO 2 HD
+http://linux-app.tv:6204/yous/123/10537
+
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",HBO
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Pluto Movies
