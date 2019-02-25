@@ -200,7 +200,12 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 http://103.205.133.14/hls/hbo.m3u8
 #EXTINF:-1,axn HD
 http://103.205.133.14/hls/axn.m3u8
-
+#EXTINF:-1,PT- AXN HD
+http://linux-app.tv:6204/yous/123/8871
+#EXTINF:-1,PT- Nat Geo Wild
+http://linux-app.tv:6204/yous/123/8833
+#EXTINF:-1,PT- National Geographic HD
+http://linux-app.tv:6204/yous/123/8832
 
  
 #EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="LATINO",Fox Premium Cinema
