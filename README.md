@@ -44,6 +44,8 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-name="UK DIGI 24 NEWS RO" tvg-logo="",UK DIGI 24 NEWS RO
 http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
 
+
+
 #EXTINF:-1,B4U Movies
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3998
 #EXTINF:-1,B4U Plus
@@ -203,8 +205,18 @@ http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
 #EXTINF:0, group-title="Punjabi",mh1 Shardha
 http://mhonestream.in:1935/mhone/mhoneshraddha/index.m3u8
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AztIpYE.png" group-title="INDIA",Amar Ujala 
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.jhanjartv.com/jhanjar1/icon/jhanjar_hd_logo.jpg" group-title="INDIA",Jhanjar HD
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+#EXTINF:-1 tvg-logo="http://www.cubemediaworks.com/images/peppers.jpg" group-title="INDIA",Peppers TV
+http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
+ 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="INDIA",Pitaara TV
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
+
+
+
 #EXTINF:-1,Life Punjabi
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF:-1,Boogel Bollywod
