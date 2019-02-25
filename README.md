@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,UK:Rishtey
+http://jarvis.bet:80/live/michael1/12345678/8747.m3u8
+#EXTINF:-1,UK:Star Gold
+http://jarvis.bet:80/live/michael1/12345678/8740.m3u8
+#EXTINF:-1,UK:STAR PLUS
+http://jarvis.bet:80/live/michael1/12345678/8738.m3u8
+
+#EXTINF:-1,UK | SONY TV
+http://jarvis.bet:80/live/michael1/12345678/17440.m3u8
+
 #EXTINF:-1,And TV
 http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
 #EXTINF:-1,National Geographic Wild
