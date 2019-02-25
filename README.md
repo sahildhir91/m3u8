@@ -182,7 +182,9 @@ http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",APNA PUNJAB [720p]
 http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
-
+logo="",CANADA ONE [720p]
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-
 
 #EXTINF:-1,hbo HD
 http://103.205.133.14/hls/hbo.m3u8
