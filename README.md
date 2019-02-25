@@ -45,121 +45,86 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-name="UK DIGI 24 NEWS RO" tvg-logo="",UK DIGI 24 NEWS RO
 http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
 
-
-#EXTINF:0,IND: Star Bharat HD
-http://gorillaiptv.online:25461/dickie1/1dickie/139
-#EXTINF:0,IND: Star Gold HD
-http://gorillaiptv.online:25461/dickie1/1dickie/140
-#EXTINF:0,IND: Star Plus
-http://gorillaiptv.online:25461/dickie1/1dickie/141
-#EXTINF:0,IND: Zee Action
-http://gorillaiptv.online:25461/dickie1/1dickie/142
-#EXTINF:0,IND: Zee Bollywood
-http://gorillaiptv.online:25461/dickie1/1dickie/145
-#EXTINF:0,IND: Zee Business
-http://gorillaiptv.online:25461/dickie1/1dickie/146
-#EXTINF:0,IND: Zee Cafe
-http://gorillaiptv.online:25461/dickie1/1dickie/143
-#EXTINF:0,IND: Zee Cinema HD
-http://gorillaiptv.online:25461/dickie1/1dickie/147
-#EXTINF:0,IND: Zee News
-http://gorillaiptv.online:25461/dickie1/1dickie/144
-#EXTINF:0,IND: Zee TV HD
-http://gorillaiptv.online:25461/dickie1/1dickie/148
-#EXTINF:0,PAK: 7 News
-http://gorillaiptv.online:25461/dickie1/1dickie/1315
-#EXTINF:0,PAK: 92 News
-http://gorillaiptv.online:25461/dickie1/1dickie/1314
-#EXTINF:0,PAK: A Plus
-http://gorillaiptv.online:25461/dickie1/1dickie/1313
-#EXTINF:0,PAK: AAJ News
-http://gorillaiptv.online:25461/dickie1/1dickie/1312
-#EXTINF:0,PAK: ABB TAK News
-http://gorillaiptv.online:25461/dickie1/1dickie/1311
-#EXTINF:0,PAK: Apna
-http://gorillaiptv.online:25461/dickie1/1dickie/1310
-#EXTINF:0,PAK: Aruj
-http://gorillaiptv.online:25461/dickie1/1dickie/1309
-#EXTINF:0,PAK: ARY Digital
-http://gorillaiptv.online:25461/dickie1/1dickie/1324
-#EXTINF:0,PAK: ARY Musik
-http://gorillaiptv.online:25461/dickie1/1dickie/1325
-#EXTINF:0,PAK: ARY News
-http://gorillaiptv.online:25461/dickie1/1dickie/1308
-#EXTINF:0,PAK: ARY News World
-http://gorillaiptv.online:25461/dickie1/1dickie/1307
-#EXTINF:0,PAK: ARY One World
-http://gorillaiptv.online:25461/dickie1/1dickie/1306
-#EXTINF:0,PAK: ARY QTV
-http://gorillaiptv.online:25461/dickie1/1dickie/1305
-#EXTINF:0,PAK: ARY Zauq
-http://gorillaiptv.online:25461/dickie1/1dickie/1318
-#EXTINF:0,PAK: ARY Zindagi
-http://gorillaiptv.online:25461/dickie1/1dickie/1323
-#EXTINF:0,PAK: ATV
-http://gorillaiptv.online:25461/dickie1/1dickie/1304
-#EXTINF:0,PAK: Awami Awaz
-http://gorillaiptv.online:25461/dickie1/1dickie/1302
-#EXTINF:0,PAK: Awaz News
-http://gorillaiptv.online:25461/dickie1/1dickie/1301
-#EXTINF:0,PAK: Barkat TV
-http://gorillaiptv.online:25461/dickie1/1dickie/1300
-#EXTINF:0,PAK: Bol News
-http://gorillaiptv.online:25461/dickie1/1dickie/1299
-#EXTINF:0,PAK: Capital News
-http://gorillaiptv.online:25461/dickie1/1dickie/1298
-#EXTINF:0,PAK: City 41 News
-http://gorillaiptv.online:25461/dickie1/1dickie/1297
-#EXTINF:0,PAK: City 42 News
-http://gorillaiptv.online:25461/dickie1/1dickie/1296
-#EXTINF:0,PAK: Din News
-http://gorillaiptv.online:25461/dickie1/1dickie/1330
-#EXTINF:0,PAK: Dunya News
-http://gorillaiptv.online:25461/dickie1/1dickie/1329
-#EXTINF:0,PAK: Express Entertainment
-http://gorillaiptv.online:25461/dickie1/1dickie/1317
-#EXTINF:0,PAK: Film World
-http://gorillaiptv.online:25461/dickie1/1dickie/1295
-#EXTINF:0,PAK: FilmMasia HD
-http://gorillaiptv.online:25461/dickie1/1dickie/1294
-#EXTINF:0,PAK: Geo Entertainment
-http://gorillaiptv.online:25461/dickie1/1dickie/1322
-#EXTINF:0,PAK: GEO Kahani
-http://gorillaiptv.online:25461/dickie1/1dickie/1293
-#EXTINF:0,PAK: Geo News
-http://gorillaiptv.online:25461/dickie1/1dickie/1328
-#EXTINF:0,PAK: Geo Super
-http://gorillaiptv.online:25461/dickie1/1dickie/1321
-#EXTINF:0,PAK: GEO Tez
-http://gorillaiptv.online:25461/dickie1/1dickie/1292
-#EXTINF:0,PAK: Health TV
-http://gorillaiptv.online:25461/dickie1/1dickie/1291
-#EXTINF:0,PAK: Hum Masala
-http://gorillaiptv.online:25461/dickie1/1dickie/1290
-#EXTINF:0,PAK: Hum News
-http://gorillaiptv.online:25461/dickie1/1dickie/1289
-#EXTINF:0,PAK: Hum Sitaray
-http://gorillaiptv.online:25461/dickie1/1dickie/1288
-#EXTINF:0,PAK: Hum TV
-http://gorillaiptv.online:25461/dickie1/1dickie/1320
-#EXTINF:0,PAK: Hum World
-http://gorillaiptv.online:25461/dickie1/1dickie/1287
-#EXTINF:0,PAK: Jalwa TV
-http://gorillaiptv.online:25461/dickie1/1dickie/1286
-#EXTINF:0,PAK: Khyber TV
-http://gorillaiptv.online:25461/dickie1/1dickie/1303
-#EXTINF:0,PAK: Madni TV
-http://gorillaiptv.online:25461/dickie1/1dickie/1316
-#EXTINF:0,PAK: Neo News
-http://gorillaiptv.online:25461/dickie1/1dickie/1327
-#EXTINF:0,PAK: PTV Sports
-http://gorillaiptv.online:25461/dickie1/1dickie/1319
-#EXTINF:0,PAK: Samaa News
-http://gorillaiptv.online:25461/dickie1/1dickie/1326
-
-
-
-
+#EXTINF:-1,B4U Movies
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3998
+#EXTINF:-1,B4U Plus
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4003
+#EXTINF:-1,B4U Music
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3970
+#EXTINF:-1,Starz TV
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4876
+#EXTINF:-1,Star Plus
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3978
+#EXTINF:-1,Star Gold HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8684
+#EXTINF:-1,Star Jalsha
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8685
+#EXTINF:-1,Sony
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4794
+#EXTINF:-1,Sony Six
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8668
+#EXTINF:-1,Sony Max
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4795
+#EXTINF:-1,Sony SAB
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4793
+#EXTINF:-1,Sony Movie
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4792
+#EXTINF:-1,Zee Talkies
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3986
+#EXTINF:-1,Zee Marathi HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3972
+#EXTINF:-1,Zee Bollywood HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4005
+#EXTINF:-1,Zee Punjabi
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3996
+#EXTINF:-1,Zee Cinema HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4004
+#EXTINF:-1,Zee Action
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3984
+#EXTINF:-1,Zee tv
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3973
+#EXTINF:-1,Zee Etc
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4001
+#EXTINF:-1,Zee Classic
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3974
+#EXTINF:-1,Zee Business
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3997
+#EXTINF:-1,Zee Telugu
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4006
+#EXTINF:-1,Zing TV
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4008
+#EXTINF:-1,Asianet
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8674
+#EXTINF:-1,Asianet News
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8676
+#EXTINF:-1,Asianet Movies
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8675
+#EXTINF:-1,TV9 Gujarati
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3995
+#EXTINF:-1,UTV Movies International
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3988
+#EXTINF:-1,9XM
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8670
+#EXTINF:-1,9X Tasha
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8672
+#EXTINF:-1,ATN Bangla
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8678
+#EXTINF:-1,&Picture HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8671
+#EXTINF:-1,Jaya Max
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8682
+#EXTINF:-1,Jaya Plus
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8683
+#EXTINF:-1,NDTV India
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8669
+#EXTINF:-1,CBN Cricket
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8681
+#EXTINF:-1,Star Sport 1 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3976
+#EXTINF:-1,Star Sport2 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3982
+#EXTINF:-1,Star Sport4 HD
+http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3979
 
 
 
