@@ -255,6 +255,14 @@ http://stream.jeem.tv/geo/geonews/playlist.m3u8
 http://161.0.157.8/PLTV/88888888/224/3221226845/index.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",DD News [576p]
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgsafe.org/99603b2597.png" group-title="PAKISTAN",ARY News
+http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ETV URDU [504p]
 https://etv-urdu.akamaized.net/i/etv_urdu_live_1@373059/index_5_av-p.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",HBO2 [720p]
@@ -282,14 +290,7 @@ https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 http://80.80.160.168/live/5/live.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ACTV 
 http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Adult Swim Off The Air [720p]
-http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Adult Swim Tim and Eric 24/7
-http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Adult Swim Venture Bros. 24/7
-http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Adult Swim Williams Stream 24/7
-http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Alhurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",BLOOMBERG TV (1+) 
