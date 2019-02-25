@@ -460,16 +460,7 @@ http://80.80.160.168/live/8/live.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:-1 group-title="Local" tvg-id="" tvg-name="" tvg-logo="",360 North [480p]
 http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
-#EXTINF:-1 group-title="Local" tvg-id="" tvg-name="" tvg-logo="",AKAKU 53 HAWAII [480p]
-https://akaku.vod.castus.tv/live/ch1.m3u8
-#EXTINF:-1 group-title="Local" tvg-id="" tvg-name="" tvg-logo="",AKAKU 54 HAWAII [480p]
-https://akaku.vod.castus.tv/live/ch2.m3u8
-#EXTINF:-1 group-title="Local" tvg-id="" tvg-name="" tvg-logo="",AKAKU 54 HAWAII [480p]
-https://akaku.vod.castus.tv/live/ch3.m3u8
-#EXTINF:-1 group-title="Local" tvg-id="" tvg-name="" tvg-logo="",BOWIE TV [360p]
-http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
-#EXTINF:-1 group-title="Local" tvg-id="" tvg-name="" tvg-logo="",BUFFALO TV [360p]
-http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+
 #EXTINF:-1 group-title="Local" tvg-id="" tvg-name="" tvg-logo="",CGTV [234p]
 http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
 #EXTINF:-1 group-title="Local" tvg-id="" tvg-name="" tvg-logo="",DC COUNCIL CHANNEL [1080p]
@@ -538,12 +529,7 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Pluto Movies
 https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Sony Movie Channel
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
-hdnts=exp%3D1512080426%7Eacl%3D%2Fi%2F%2A569927%2F%2A%7Ehmac%3D00bf27551374ebc12bc4ebe53e3c5ffd8c3a958231238b907e04fad220dc0b25
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Sony Movie Network
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-
+
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",CMC TV [720p]
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 
@@ -656,194 +642,6 @@ http://161.0.157.38/PLTV/88888888/224/3221226542/index.m3u8
 http://161.0.157.38/PLTV/88888888/224/3221227005/index.m3u8
 #EXTINF:-1,Zee Cinema
 http://161.0.157.38/PLTV/88888888/224/3221226709/index.m3u8
-#EXTINF:-1,398
-http://161.0.157.38/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1,TEN CRICKET
-http://161.0.157.38/PLTV/88888888/224/3221226394/index.m3u8
-#EXTINF:-1,B4U music
-http://161.0.157.38/PLTV/88888888/224/3221226332/index.m3u8
-#EXTINF:-1,FOX
-http://161.0.157.38/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1,311
-http://161.0.157.38/PLTV/88888888/224/3221226311/index.m3u8
-#EXTINF:-1,DISNEY
-http://161.0.157.38/PLTV/88888888/224/3221226299/index.m3u8
-#EXTINF:-1,B4U MOVIES
-http://161.0.157.38/PLTV/88888888/224/3221226255/index.m3u8
 #EXTINF:-1,TELESHOP HD
 http://161.0.157.38/PLTV/88888888/224/3221226207/index.m3u8
-http://www.sansat.net:25461/024710090110/024710090110/7108
-#EXTINF:-1,AR: Miracle TV
-http://www.sansat.net:25461/024710090110/024710090110/7107
-#EXTINF:-1,AR: Al Karma TV
-http://www.sansat.net:25461/024710090110/024710090110/7106
-#EXTINF:-1,AR: Aghapy TV
-http://www.sansat.net:25461/024710090110/024710090110/7105
-#EXTINF:-1,AR: Al Fady
-http://www.sansat.net:25461/024710090110/024710090110/7104
-#EXTINF:-1,AR: Sat 7 Arabic
-http://www.sansat.net:25461/024710090110/024710090110/7103
-#EXTINF:-1,AR: Sat 7 Kids
-http://www.sansat.net:25461/024710090110/024710090110/7102
-#EXTINF:-1,AR: Al Hayat Cristian
-http://www.sansat.net:25461/024710090110/024710090110/7101
-#EXTINF:-1,AR: Me Sat
-http://www.sansat.net:25461/024710090110/024710090110/7100
-#EXTINF:-1,AR: Ctv
-http://www.sansat.net:25461/024710090110/024710090110/7099
-#EXTINF:-1,----- OSN -----
-http://www.sansat.net:25461/024710090110/024710090110/25844
-#EXTINF:-1,OSN: OSN Al KASS 1 HD
-http://www.sansat.net:25461/024710090110/024710090110/25798
-#EXTINF:-1,OSN: OSN Al KASS 2 HD
-http://www.sansat.net:25461/024710090110/024710090110/25797
-#EXTINF:-1,OSN: OSN Al KASS 4 HD
-http://www.sansat.net:25461/024710090110/024710090110/25796
-#EXTINF:-1,OSN: OSN Al KASS 5 HD
-http://www.sansat.net:25461/024710090110/024710090110/25795
-#EXTINF:-1,OSN: OSN Al KASS ONLINE HD
-http://www.sansat.net:25461/024710090110/024710090110/25799
-#EXTINF:-1,OSN: OSN AL Youm HD
-http://www.sansat.net:25461/024710090110/024710090110/25839
-#EXTINF:-1,OSN: OSN ALSAFWA HD
-http://www.sansat.net:25461/024710090110/024710090110/25838
-#EXTINF:-1,OSN: OSN Animal Planet HD
-http://www.sansat.net:25461/024710090110/024710090110/25794
-#EXTINF:-1,OSN: OSN BOX Office 01
-http://www.sansat.net:25461/024710090110/024710090110/25814
-#EXTINF:-1,OSN: OSN BOX Office 02
-http://www.sansat.net:25461/024710090110/024710090110/25813
-#EXTINF:-1,OSN: OSN BOX Office 03
-http://www.sansat.net:25461/024710090110/024710090110/25812
-#EXTINF:-1,OSN: OSN CINEMA 1
-http://www.sansat.net:25461/024710090110/024710090110/25843
-#EXTINF:-1,OSN: OSN CINEMA 2
-http://www.sansat.net:25461/024710090110/024710090110/25842
-#EXTINF:-1,OSN: OSN Comedy Central HD
-http://www.sansat.net:25461/024710090110/024710090110/25815
-#EXTINF:-1,OSN: OSN Discovery Channel HD
-http://www.sansat.net:25461/024710090110/024710090110/25793
-#EXTINF:-1,OSN: OSN Discovery Family HD
-http://www.sansat.net:25461/024710090110/024710090110/25792
-#EXTINF:-1,OSN: OSN Discovery IDX HD
-http://www.sansat.net:25461/024710090110/024710090110/25791
-#EXTINF:-1,OSN: OSN Discovery Science HD
-http://www.sansat.net:25461/024710090110/024710090110/25790
-#EXTINF:-1,OSN: OSN Disney Channel HD
-http://www.sansat.net:25461/024710090110/024710090110/25819
-#EXTINF:-1,OSN: OSN Disney Junior
-http://www.sansat.net:25461/024710090110/024710090110/25818
-#EXTINF:-1,OSN: OSN Fann
-http://www.sansat.net:25461/024710090110/024710090110/25835
-#EXTINF:-1,OSN: OSN FINE LIVING
-http://www.sansat.net:25461/024710090110/024710090110/25810
-#EXTINF:-1,OSN: OSN Food Network HD
-http://www.sansat.net:25461/024710090110/024710090110/25806
-#EXTINF:-1,OSN: OSN History Channel HD
-http://www.sansat.net:25461/024710090110/024710090110/25805
-#EXTINF:-1,OSN: OSN Kid Zone TV
-http://www.sansat.net:25461/024710090110/024710090110/25821
-#EXTINF:-1,OSN: OSN Living HD
-http://www.sansat.net:25461/024710090110/024710090110/25789
-#EXTINF:-1,OSN: OSN Movies
-http://www.sansat.net:25461/024710090110/024710090110/25834
-#EXTINF:-1,OSN: OSN Movies  2h
-http://www.sansat.net:25461/024710090110/024710090110/25833
-#EXTINF:-1,OSN: OSN Movies Action
-http://www.sansat.net:25461/024710090110/024710090110/25832
-#EXTINF:-1,OSN: OSN Movies Action  2h
-http://www.sansat.net:25461/024710090110/024710090110/25786
-#EXTINF:-1,OSN: OSN Movies Comedy
-http://www.sansat.net:25461/024710090110/024710090110/25827
-#EXTINF:-1,OSN: OSN Movies Comedy 2 HD
-http://www.sansat.net:25461/024710090110/024710090110/25826
-#EXTINF:-1,OSN: OSN Movies First  2h
-http://www.sansat.net:25461/024710090110/024710090110/25828
-#EXTINF:-1,OSN: OSN Movies First HD
-http://www.sansat.net:25461/024710090110/024710090110/25829
-#EXTINF:-1,OSN: OSN Movies Kids
-http://www.sansat.net:25461/024710090110/024710090110/25825
-#EXTINF:-1,OSN: OSN Movies Thriller  2h
-http://www.sansat.net:25461/024710090110/024710090110/25830
-#EXTINF:-1,OSN: OSN Movies Thriller HD
-http://www.sansat.net:25461/024710090110/024710090110/25831
-#EXTINF:-1,OSN: OSN Musalsat
-http://www.sansat.net:25461/024710090110/024710090110/25837
-#EXTINF:-1,OSN: OSN Musalsat 2
-http://www.sansat.net:25461/024710090110/024710090110/25836
-#EXTINF:-1,OSN: OSN Nat Geo HD
-http://www.sansat.net:25461/024710090110/024710090110/25804
-#EXTINF:-1,OSN: OSN NAT GEO People HD
-http://www.sansat.net:25461/024710090110/024710090110/25803
-#EXTINF:-1,OSN: OSN Nat GEO Wild HD
-http://www.sansat.net:25461/024710090110/024710090110/25802
-#EXTINF:-1,OSN: OSN Nickelodeon HD
-http://www.sansat.net:25461/024710090110/024710090110/25820
-#EXTINF:-1,OSN: OSN Series Comedy HD
-http://www.sansat.net:25461/024710090110/024710090110/25824
-#EXTINF:-1,OSN: OSN Series First HD
-http://www.sansat.net:25461/024710090110/024710090110/25823
-#EXTINF:-1,OSN: OSN Series HD
-http://www.sansat.net:25461/024710090110/024710090110/25822
-#EXTINF:-1,OSN: OSN Sports 3 HD
-http://www.sansat.net:25461/024710090110/024710090110/25787
-#EXTINF:-1,OSN: OSN Sports Action 1 HD
-http://www.sansat.net:25461/024710090110/024710090110/25788
-#EXTINF:-1,OSN: OSN Sports Action 2 HD
-http://www.sansat.net:25461/024710090110/024710090110/25801
-#EXTINF:-1,OSN: OSN Star Movies
-http://www.sansat.net:25461/024710090110/024710090110/25817
-#EXTINF:-1,OSN: OSN Star World
-http://www.sansat.net:25461/024710090110/024710090110/25816
-#EXTINF:-1,OSN: OSN Sundance HD
-http://www.sansat.net:25461/024710090110/024710090110/25808
-#EXTINF:-1,OSN: OSN Syfy HD
-http://www.sansat.net:25461/024710090110/024710090110/25807
-#EXTINF:-1,OSN: OSN WWE
-http://www.sansat.net:25461/024710090110/024710090110/25800
-#EXTINF:-1,OSN: OSN Yahala Al Oula
-http://www.sansat.net:25461/024710090110/024710090110/25841
-#EXTINF:-1,OSN: OSN YAHALA CINEMA
-http://www.sansat.net:25461/024710090110/024710090110/25840
-#EXTINF:-1,OSN: OSN: Discovery Life HD
-http://www.sansat.net:25461/024710090110/024710090110/25809
-#EXTINF:-1,OSN: OSN: FOX HD
-http://www.sansat.net:25461/024710090110/024710090110/25811
-
-http://123orca.com:25461/amina2/amina2/4009
-#EXTINF:-1,B4U Movies
-http://123orca.com:25461/amina2/amina2/3998
-#EXTINF:-1,B4U Plus
-http://123orca.com:25461/amina2/amina2/4003
-#EXTINF:-1,B4U Music
-http://123orca.com:25461/amina2/amina2/3970
-#EXTINF:-1,Starz TV
-http://123orca.com:25461/amina2/amina2/4876
-#EXTINF:-1,Star Plus
-http://123orca.com:25461/amina2/amina2/3978
-#EXTINF:-1,Star Gold HD
-http://123orca.com:25461/amina2/amina2/8684
-#EXTINF:-1,Star Jalsha
-http://123orca.com:25461/amina2/amina2/8685
-#EXTINF:-1,Sony
-http://123orca.com:25461/amina2/amina2/4794
-#EXTINF:-1,Sony Six
-http://123orca.com:25461/amina2/amina2/8668
-#EXTINF:-1,Zee Cinema HD
-http://123orca.com:25461/amina2/amina2/4004
-#EXTINF:-1,Zee Action
-http://123orca.com:25461/amina2/amina2/3984
-#EXTINF:-1,Zee tv
-http://123orca.com:25461/amina2/amina2/3973
-#EXTINF:-1,Zee Etc
-http://123orca.com:25461/amina2/amina2/4001
-#EXTINF:-1,TV9 Gujarati
-http://123orca.com:25461/amina2/amina2/3995
-#EXTINF:-1,UTV Movies International
-http://123orca.com:25461/amina2/amina2/3988
-#EXTINF:-1,Star Sport 1 HD
-http://123orca.com:25461/amina2/amina2/3976
-#EXTINF:-1,Star Sport4 HD
-http://123orca.com:25461/amina2/amina2/3979
-
 
