@@ -1,61 +1,4 @@
 #EXTM3U
-#EXTINF:-1,UK:Rishtey
-http://jarvis.bet:80/live/michael1/12345678/8747.m3u8
-#EXTINF:-1,UK:Star Gold
-http://jarvis.bet:80/live/michael1/12345678/8740.m3u8
-#EXTINF:-1,UK:STAR PLUS
-http://jarvis.bet:80/live/michael1/12345678/8738.m3u8
-
-#EXTINF:-1,UK | SONY TV
-http://jarvis.bet:80/live/michael1/12345678/17440.m3u8
-
-#EXTINF:-1,And TV
-http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
-#EXTINF:-1,National Geographic Wild
-http://www.freeiptvdaily.net:8000/live/lbuTky368b/9484AMKnUh/35.
-#EXTINF:-1,Animal Planet HD
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
-#EXTINF:-1,Cooking Channel
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:-1,B4U MOVIE
-http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
-#EXTINF:-1,B4U MUSIC
-http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
-#EXTINF:-1,CBC CANADA
-http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
-#EXTINF:-1,CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:-1,FOX
-http://161.0.157.51/PLTV/88888888/224/3221227042/03.m3u8
-#EXTINF:-1,NBC
-http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-#EXTINF:-1,SPORTSMAX
-http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-#EXTINF:-1,US:CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1,US:NBC
-http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-#EXTINF:-1 tvg-name="UK ARISE NEWS" tvg-logo="",UK ARISE NEWS
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-name="UK FLOW SPORTS" tvg-logo="",UK FLOW SPORTS
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1 tvg-name="UK INDIA NEWS" tvg-logo="",UK INDIA NEWS
-https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
-#EXTINF:-1 tvg-name="UK SKY NEWS (1+)" tvg-logo="",UK SKY NEWS (1+)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 tvg-name="US ESPN" tvg-logo="",US ESPN
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1 tvg-name="US ESPN 2" tvg-logo="",US ESPN 2
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 tvg-name="US ESPN NEWS ENGLISH" tvg-logo="",US ESPN NEWS ENGLISH
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
-#EXTINF:-1 tvg-name="US BLOOMBERG TV" tvg-logo="",US BLOOMBERG TV
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 tvg-name="UK DIGI 24 NEWS RO" tvg-logo="",UK DIGI 24 NEWS RO
-http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
-
-
-
 #EXTINF:-1,B4U Movies
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3998
 #EXTINF:-1,B4U Plus
@@ -136,30 +79,50 @@ http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3976
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3982
 #EXTINF:-1,Star Sport4 HD
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3979
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,And TV
+http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
+#EXTINF:-1,National Geographic Wild
+http://www.freeiptvdaily.net:8000/live/lbuTky368b/9484AMKnUh/35.
+#EXTINF:-1,Animal Planet HD
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1,Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1,B4U MOVIE
+http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
+#EXTINF:-1,B4U MUSIC
+http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
+#EXTINF:-1,CBC CANADA
+http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
+#EXTINF:-1,CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1,FOX
+http://161.0.157.51/PLTV/88888888/224/3221227042/03.m3u8
+#EXTINF:-1,NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1,SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1,US:CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1,US:NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+#EXTINF:-1 tvg-name="UK ARISE NEWS" tvg-logo="",UK ARISE NEWS
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-name="UK FLOW SPORTS" tvg-logo="",UK FLOW SPORTS
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 tvg-name="UK INDIA NEWS" tvg-logo="",UK INDIA NEWS
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
+#EXTINF:-1 tvg-name="UK SKY NEWS (1+)" tvg-logo="",UK SKY NEWS (1+)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-name="US ESPN" tvg-logo="",US ESPN
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 tvg-name="US ESPN 2" tvg-logo="",US ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 tvg-name="US ESPN NEWS ENGLISH" tvg-logo="",US ESPN NEWS ENGLISH
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-name="US BLOOMBERG TV" tvg-logo="",US BLOOMBERG TV
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-name="UK DIGI 24 NEWS RO" tvg-logo="",UK DIGI 24 NEWS RO
+http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:-1,colors
 http://103.205.133.14/hls/colors.m3u8
 #EXTINF:-1,rtv
