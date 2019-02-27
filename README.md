@@ -81,8 +81,7 @@ http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3982
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3979
 #EXTINF:-1,And TV
 http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
-#EXTINF:-1,National Geographic Wild
-http://www.freeiptvdaily.net:8000/live/lbuTky368b/9484AMKnUh/35.
+
 #EXTINF:-1,Animal Planet HD
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 #EXTINF:-1,Cooking Channel
@@ -158,28 +157,14 @@ http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
 logo="",CANADA ONE [720p]
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-
-
 #EXTINF:-1,hbo HD
 http://103.205.133.14/hls/hbo.m3u8
 #EXTINF:-1,axn HD
 http://103.205.133.14/hls/axn.m3u8
-#EXTINF:-1,PT- AXN HD
-http://linux-app.tv:6204/yous/123/8871
-#EXTINF:-1,PT- Nat Geo Wild
-http://linux-app.tv:6204/yous/123/8833
-#EXTINF:-1,PT- National Geographic HD
-http://linux-app.tv:6204/yous/123/8832
-
- 
 #EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="LATINO",Fox Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="LATINO",Fox Premium Movies
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="LATINO",Fox Premium Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-
-
-
-
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",DHAMAAL [720p]
 http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
 #EXTINF:0, group-title="Punjabi",mh1 Shardha
@@ -191,12 +176,8 @@ https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 #EXTINF:-1 tvg-logo="http://www.cubemediaworks.com/images/peppers.jpg" group-title="INDIA",Peppers TV
 http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="INDIA",Pitaara TV
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="INDIA",Pitaara TV
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
-
-
-
 #EXTINF:-1,Life Punjabi
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF:-1,Boogel Bollywod
