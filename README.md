@@ -23,8 +23,7 @@ http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4795
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4793
 #EXTINF:-1,Sony Movie
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4792
-#EXTINF:-1,Zee Talkies
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3986
+
 
 #EXTINF:-1,Zee Bollywood HD
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4005
@@ -45,26 +44,17 @@ http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3974
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4008
 #EXTINF:-1,Asianet
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8674
-#EXTINF:-1,Asianet News
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8676
-#EXTINF:-1,Asianet Movies
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8675
-#EXTINF:-1,TV9 Gujarati
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3995
+
 #EXTINF:-1,UTV Movies International
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3988
 #EXTINF:-1,9XM
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8670
 #EXTINF:-1,9X Tasha
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8672
-#EXTINF:-1,ATN Bangla
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8678
+
 #EXTINF:-1,&Picture HD
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8671
-#EXTINF:-1,Jaya Max
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8682
-#EXTINF:-1,Jaya Plus
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8683
+
 #EXTINF:-1,NDTV India
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8669
 #EXTINF:-1,CBN Cricket
@@ -241,9 +231,8 @@ http://80.80.160.168/live/7/2500000/live.m3u8
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",HBO
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
-#EXTM3U https://hdbox.ws 
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CLASSIC ARTS SHOWCASE [720p]
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CLASSIC TV 4U [720p]
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",FOX5
@@ -253,24 +242,13 @@ http://80.80.160.168/live/5/live.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ACTV 
 http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Alhurra
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",BLOOMBERG TV (1+) 
-https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",BYUTV [720p]
-https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",C-SPAN 2
-https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",C-SPAN 3
-https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",C-SPAN
-https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+
+
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CATCH 2 [480p]
 http://161.0.157.8/PLTV/88888888/224/3221226874/03.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CHANNEL 11 NEWS WPXI PITTSBURGH 
 http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CLASSIC ARTS SHOWCASE [720p]
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CLASSIC TV 4U [720p]
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",FOX5
@@ -402,20 +380,7 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:-1 group-title="Auto" tvg-id="" tvg-name="" tvg-logo="",Rev'n
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
-#EXTINF:-1 group-title="Business" tvg-id="" tvg-name="" tvg-logo="",Bloomberg [720p]
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 group-title="Business" tvg-id="" tvg-name="" tvg-logo="",Bloomberg [720p]
-https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-title="Business" tvg-id="" tvg-name="" tvg-logo="",Bloomberg [720p]
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="Business" tvg-id="" tvg-name="" tvg-logo="",Bloomberg Asia [720p]
-https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8
-#EXTINF:-1 group-title="Business" tvg-id="" tvg-name="" tvg-logo="",Bloomberg Europe [720p]
-https://bblive-liveprodeuwest.hs.llnwd.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 group-title="Business" tvg-id="" tvg-name="" tvg-logo="",Bloomberg US [720p]
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 group-title="Business" tvg-id="" tvg-name="" tvg-logo="",Bloomberg
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+
 #EXTINF:-1 group-title="Business" tvg-id="" tvg-name="" tvg-logo="",CNBC [360p]
 http://electric.cdn.newschat.tv/hls/cnbc_live/index.m3u8
 #EXTINF:-1 group-title="Business" tvg-id="" tvg-name="" tvg-logo="",CNBC [720p]
