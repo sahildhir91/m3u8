@@ -204,6 +204,8 @@ http://161.0.157.8/PLTV/88888888/224/3221226845/index.m3u8
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgsafe.org/99603b2597.png" group-title="PAKISTAN",ARY News
 http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/16lycyo.jpg" group-title="PAKISTAN",Eye 95 TV (US)
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
 
 
 
