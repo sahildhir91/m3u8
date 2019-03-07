@@ -402,6 +402,10 @@ http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
 logo="",CANADA ONE [720p]
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-
+#EXTINF:-1,Fastway TV
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8
+
+
 #EXTINF:-1,hbo HD
 http://103.205.133.14/hls/hbo.m3u8
 #EXTINF:-1,axn HD
