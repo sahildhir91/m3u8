@@ -356,8 +356,7 @@ http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
 #EXTINF:-1,CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:-1,FOX
-http://161.0.157.51/PLTV/88888888/224/3221227042/03.m3u8
+
 #EXTINF:-1,NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1,SPORTSMAX
@@ -384,28 +383,10 @@ http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-name="UK DIGI 24 NEWS RO" tvg-logo="",UK DIGI 24 NEWS RO
 http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1,colors
-http://103.205.133.14/hls/colors.m3u8
-#EXTINF:-1,rtv
-http://103.205.133.14/hls/rtv.m3u8
-#EXTINF:-1,discovery
-http://103.205.133.14/hls/discovery.m3u8
-#EXTINF:-1,ntv
-http://103.205.133.14/hls/ntv.m3u8
-#EXTINF:-1,news24
-http://103.205.133.14/hls/news24.m3u8
-#EXTINF:-1,natgeo
-http://103.205.133.14/hls/natgeo.m3u8
-#EXTINF:-1,gtv
-http://103.205.133.14/hls/gtv.m3u8
-#EXTINF:-1,Sony Ten 1
-http://103.205.133.14/hls/ten1.m3u8
-#EXTINF:-1,Sony Ten 2
-http://103.205.133.14/hls/ten2.m3u8
-#EXTINF:-1,Sony ESPN
-http://103.205.133.14/hls/sonyespn.m3u8
-#EXTINF:-1,zeetvhd
-http://103.205.133.14/hls/zeetvhd.m3u8
+
+#EXTINF:-1,National Geographic Wild
+http://www.freeiptvdaily.net:8000/live/kihwcw7v67/4jH2Lwp0m1/35.ts
+
 #EXTINF:-1 group-title="Intertainment" tvg-id="" tvg-name="" tvg-logo="",ZOOM
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",DIL SE [720p]
