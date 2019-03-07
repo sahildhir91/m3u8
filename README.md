@@ -1,5 +1,183 @@
 #EXTM3U
-#EXTINF:-1,###### PAKISTAN ######
+http://iptvtool.es:9977/joa1/joa1/53066
+#EXTINF:-1,IN: &Pictures HD
+http://iptvtool.es:9977/joa1/joa1/53063
+#EXTINF:-1,IN: &TV HD
+http://iptvtool.es:9977/joa1/joa1/53062
+#EXTINF:-1,IN: 9X Jalwa
+http://iptvtool.es:9977/joa1/joa1/53061
+#EXTINF:-1,IN: 9X Jhakaas
+http://iptvtool.es:9977/joa1/joa1/53060
+#EXTINF:-1,IN: 9X Tashan
+http://iptvtool.es:9977/joa1/joa1/53059
+#EXTINF:-1,IN: 9xjalwa-Panjabi
+http://iptvtool.es:9977/joa1/joa1/53058
+#EXTINF:-1,IN: 9XM
+http://iptvtool.es:9977/joa1/joa1/53057
+#EXTINF:-1,IN: AAJ Tak
+http://iptvtool.es:9977/joa1/joa1/53056
+#EXTINF:-1,IN: Aastha Bhajan
+http://iptvtool.es:9977/joa1/joa1/53055
+#EXTINF:-1,IN: ABP News
+http://iptvtool.es:9977/joa1/joa1/53054
+#EXTINF:-1,IN: Asianet
+http://iptvtool.es:9977/joa1/joa1/53053
+#EXTINF:-1,IN: Asianet Plus
+http://iptvtool.es:9977/joa1/joa1/53052
+#EXTINF:-1,IN: B4U Movies
+http://iptvtool.es:9977/joa1/joa1/53051
+#EXTINF:-1,IN: B4U Music
+http://iptvtool.es:9977/joa1/joa1/53050
+#EXTINF:-1,IN: B4U Plus
+http://iptvtool.es:9977/joa1/joa1/53049
+#EXTINF:-1,IN: Bindass Play
+http://iptvtool.es:9977/joa1/joa1/53048
+#EXTINF:-1,IN: Colors Bangla
+http://iptvtool.es:9977/joa1/joa1/53047
+#EXTINF:-1,IN: Colors Gujarati
+http://iptvtool.es:9977/joa1/joa1/53046
+#EXTINF:-1,IN: Colors Gujrati
+http://iptvtool.es:9977/joa1/joa1/53045
+#EXTINF:-1,IN: Colors TV HD
+http://iptvtool.es:9977/joa1/joa1/53044
+#EXTINF:-1,IN: Colors TV IND
+http://iptvtool.es:9977/joa1/joa1/53043
+#EXTINF:-1,IN: Enter 10
+http://iptvtool.es:9977/joa1/joa1/53042
+#EXTINF:-1,IN: Food Food
+http://iptvtool.es:9977/joa1/joa1/53041
+#EXTINF:-1,IN: India TV
+http://iptvtool.es:9977/joa1/joa1/53040
+#EXTINF:-1,IN: Jus 24x7
+http://iptvtool.es:9977/joa1/joa1/53039
+#EXTINF:-1,IN: Life OK
+http://iptvtool.es:9977/joa1/joa1/53038
+#EXTINF:-1,IN: Movies OK
+http://iptvtool.es:9977/joa1/joa1/53037
+#EXTINF:-1,IN: MTA 3
+http://iptvtool.es:9977/joa1/joa1/53036
+#EXTINF:-1,IN: MTV India
+http://iptvtool.es:9977/joa1/joa1/53035
+#EXTINF:-1,IN: Music India
+http://iptvtool.es:9977/joa1/joa1/53034
+#EXTINF:-1,IN: Music Xpress
+http://iptvtool.es:9977/joa1/joa1/53033
+#EXTINF:-1,IN: NDTV
+http://iptvtool.es:9977/joa1/joa1/53032
+#EXTINF:-1,IN: NDTV 24x7
+http://iptvtool.es:9977/joa1/joa1/53031
+#EXTINF:-1,IN: Nick
+http://iptvtool.es:9977/joa1/joa1/53030
+#EXTINF:-1,IN: Nick Jr Hindi
+http://iptvtool.es:9977/joa1/joa1/53029
+#EXTINF:-1,IN: NTV
+http://iptvtool.es:9977/joa1/joa1/53028
+#EXTINF:-1,IN: Pogo Hindi
+http://iptvtool.es:9977/joa1/joa1/53027
+#EXTINF:-1,IN: PTC Chakde
+http://iptvtool.es:9977/joa1/joa1/53026
+#EXTINF:-1,IN: PTC Punjabi
+http://iptvtool.es:9977/joa1/joa1/53025
+#EXTINF:-1,IN: Rishtey
+http://iptvtool.es:9977/joa1/joa1/53024
+#EXTINF:-1,IN: Sangat TV
+http://iptvtool.es:9977/joa1/joa1/53023
+#EXTINF:-1,IN: Sikh Channel
+http://iptvtool.es:9977/joa1/joa1/53022
+#EXTINF:-1,IN: Sony Max
+http://iptvtool.es:9977/joa1/joa1/53021
+#EXTINF:-1,IN: Sony Max 2
+http://iptvtool.es:9977/joa1/joa1/53020
+#EXTINF:-1,IN: Sony Pal
+http://iptvtool.es:9977/joa1/joa1/53019
+#EXTINF:-1,IN: Sony Setmax
+http://iptvtool.es:9977/joa1/joa1/53018
+#EXTINF:-1,IN: Sony TV HD
+http://iptvtool.es:9977/joa1/joa1/53016
+#EXTINF:-1,IN: Star Gold
+http://iptvtool.es:9977/joa1/joa1/53015
+#EXTINF:-1,IN: Star Jalsha
+http://iptvtool.es:9977/joa1/joa1/53014
+#EXTINF:-1,IN: Star Plus HD
+http://iptvtool.es:9977/joa1/joa1/53013
+#EXTINF:-1,IN: Star Plus India HD
+http://iptvtool.es:9977/joa1/joa1/53012
+#EXTINF:-1,IN: Sun TV
+http://iptvtool.es:9977/joa1/joa1/53011
+#EXTINF:-1,IN: TV9 Gujarati
+http://iptvtool.es:9977/joa1/joa1/53010
+#EXTINF:-1,IN: UTV Bindas
+http://iptvtool.es:9977/joa1/joa1/53009
+#EXTINF:-1,IN: UTV Movies
+http://iptvtool.es:9977/joa1/joa1/53008
+#EXTINF:-1,IN: Zee Action
+http://iptvtool.es:9977/joa1/joa1/53007
+#EXTINF:-1,IN: Zee Anmol
+http://iptvtool.es:9977/joa1/joa1/53006
+#EXTINF:-1,IN: Zee Bangla
+http://iptvtool.es:9977/joa1/joa1/53005
+#EXTINF:-1,IN: Zee Bollywood HD
+http://iptvtool.es:9977/joa1/joa1/53004
+#EXTINF:-1,IN: Zee Business
+http://iptvtool.es:9977/joa1/joa1/53003
+#EXTINF:-1,IN: Zee Cafe
+http://iptvtool.es:9977/joa1/joa1/53002
+#EXTINF:-1,IN: Zee Cinema
+http://iptvtool.es:9977/joa1/joa1/53001
+#EXTINF:-1,IN: Zee Classic
+http://iptvtool.es:9977/joa1/joa1/53000
+#EXTINF:-1,IN: Zee ETC
+http://iptvtool.es:9977/joa1/joa1/52999
+#EXTINF:-1,IN: Zee Ghanta
+http://iptvtool.es:9977/joa1/joa1/52998
+#EXTINF:-1,IN: Zee Living
+http://iptvtool.es:9977/joa1/joa1/52997
+#EXTINF:-1,IN: Zee Marathi
+http://iptvtool.es:9977/joa1/joa1/52996
+#EXTINF:-1,IN: Zee News
+http://iptvtool.es:9977/joa1/joa1/52995
+#EXTINF:-1,IN: Zee One Bollywood HD
+http://iptvtool.es:9977/joa1/joa1/52994
+#EXTINF:-1,IN: Zee Punjabi
+http://iptvtool.es:9977/joa1/joa1/52993
+#EXTINF:-1,IN: Zee Salam
+http://iptvtool.es:9977/joa1/joa1/52992
+#EXTINF:-1,IN: Zee Smile
+http://iptvtool.es:9977/joa1/joa1/52991
+#EXTINF:-1,IN: Zee Studio HD
+http://iptvtool.es:9977/joa1/joa1/52990
+#EXTINF:-1,IN: Zee Talkies
+http://iptvtool.es:9977/joa1/joa1/52989
+#EXTINF:-1,IN: Zee Tamil
+http://iptvtool.es:9977/joa1/joa1/52988
+#EXTINF:-1,IN: Zee TV HD
+http://iptvtool.es:9977/joa1/joa1/52987
+#EXTINF:-1,IN: Zee Zindagi
+http://iptvtool.es:9977/joa1/joa1/52986
+#EXTINF:-1,IN: Zing
+http://iptvtool.es:9977/joa1/joa1/52985
+#EXTINF:-1,IN: Zoom
+http://iptvtool.es:9977/joa1/joa1/52984
+#EXTINF:-1,VIP IN: Sony Six
+http://iptvtool.es:9977/joa1/joa1/53017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 http://31.220.1.190:8080/FranÃ§ois/12345/176957
 #EXTINF:-1,PK: 7 NEWS HD
 http://31.220.1.190:8080/FranÃ§ois/12345/158696
