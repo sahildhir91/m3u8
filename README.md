@@ -1,39 +1,21 @@
 #EXTM3U
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19655
-#EXTINF:0,IN:  ZEE ACTION
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19638
-#EXTINF:0,IN: Zee Cinema HD
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19623
-#EXTINF:0,IN: zeecinema
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19622
-#EXTINF:0,IN: ZeeTv HD
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19621
-#EXTINF:0,IN:  zee classic
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19637
-#EXTINF:0,IN: Colors
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19650
-#EXTINF:0,IN:  Sony TV HD
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19648
-#EXTINF:0,IN:  Star Gold
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19647
-#EXTINF:0,IN:  Star Plus-HD
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19646
-#EXTINF:0,IN:  TEN1 HD
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19641
-#EXTINF:0,IN: COLORS TV HD ASIA
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19632
-#EXTINF:0,IN: Life OK UK
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19631
-#EXTINF:0,IN: MovieOK
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19630
-#EXTINF:0,IN: SONY SAB ASIA
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19626
-#EXTINF:0,IN: Star Plus UK
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19625
-#EXTINF:0,IN:  Star Sports1-HD
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19645
-#EXTINF:0,IN:  Star Sports2-HD
-http://iptv.iptivihd.com:8000/holger/ykqo1dYqRJ/19644
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/7/76/Fox_Movies_2016.png/revision/latest?cb=20170828055324" group-title="Movies",FOX ACTION Movies
+http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="Movies",Star Movies
+http://streaming.i-sat.tv:8081/livestream/osnm/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="Movies",Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/06/13/Star-World_0.jpg?itok=iLcWc1FX" group-title="Movies",Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?sd=10&rebase=on
+ 
+ 
+#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/CM1.png" group-title="Movies", cin1
+http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/63167_logo_music_now_tv.png" group-title="Music",Music Now
+http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8?sd=10&rebase=on
 
 
 
@@ -181,6 +163,8 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/16lycyo.jpg" group-title="PAKISTAN",Eye 95 TV (US)
 http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/29/Aljazeera_Mubasher.png" group-title="NEWS",Aljazeera Mubasher
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8?sd=10&rebase=on
 
 
 
