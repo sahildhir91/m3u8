@@ -1,4 +1,54 @@
 #EXTM3U
+#EXTINF:-1,AniMAX
+http://210.210.155.35/session/13bc0916-f3fb-11e8-9765-822bbdd32828/dr9445/h/h144/01.m3u8
+#EXTINF:-1,CelestialMovie
+http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1,Kix
+http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
+#EXTINF:-1,ZEE Bioskop
+http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1,TransVision (LifeTime)
+http://210.210.155.35/session/d4a9cde8-f3e2-11e8-8120-b7c09ffd257f/uq2663/h/h235/01.m3u8
+#EXTINF:-1,Al Jazeera eng
+http://210.210.155.35/session/f1a22d04-f3de-11e8-b90e-997d9209e1ea/qwr9ew/s/s17/01.m3u8
+#EXTINF:-1,J Channel
+http://210.210.155.35/session/ab482d7a-f3e0-11e8-ba81-ac53b5fd5dd9/qwr9ew/s/s41/01.m3u8
+#EXTINF:-1,SUPER Soccer TV
+http://210.210.155.35/session/d521fe72-f3e6-11e8-970f-9891b25868ec/qwr9ew/s/s48/01.m3u8
+#EXTINF:-1,AniPlus 
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1,Channel A
+http://210.210.155.35/session/5f5291e8-f3f5-11e8-a084-882a82612570/dr9445/h/h29/01.m3u8
+#EXTINF:-1,my KIDS
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+#EXTINF:-1,MY CINEMA
+http://210.210.155.35/qwr9ew/s/s31/index2.m3u8
+#EXTINF:-1,50
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1,DAAI TV
+http://210.210.155.35/session/4ad0585c-b725-11e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1,KIX
+http://210.210.155.35/uq2663/h/h07/index.m3u8
+#EXTINF:-1,K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1,FOXlife
+http://210.210.155.35/uq2663/h/h03/index.m3u8
+#EXTINF:-1,FOX
+http://210.210.155.35/uq2663/h/h04/index.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://210.210.155.35/uq2663/h/h11/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/7/76/Fox_Movies_2016.png/revision/latest?cb=20170828055324" group-title="Movies",FOX ACTION Movies
