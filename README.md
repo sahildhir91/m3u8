@@ -70,7 +70,24 @@ http://103.205.133.14/hls/zeetvhd.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/FOXActionMovies_logo_2.png" group-title="USA",Fox Action Movies (UAE)
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF:0,nat geo wild
+http://62.210.76.207:443/live/jordan2019/jordan2019/610.ts
+#EXTINF:0,Al Jazeera Documentary
+http://62.210.76.207:443/live/jordan2019/jordan2019/614.ts
+#EXTINF:0,Quest Arabic
+http://62.210.76.207:443/live/jordan2019/jordan2019/611.ts
+#EXTINF:0,Animal-Planet
+http://62.210.76.207:443/live/jordan2019/jordan2019/612.ts
+#EXTINF:0,Ptv home
+http://62.210.141.179:8000/ibrahim/123456/268
+#EXTINF:0,PTV news
+http://62.210.141.179:8000/ibrahim/123456/269
+#EXTINF:0,PTV sport
+http://62.210.141.179:8000/ibrahim/123456/271
+#EXTINF:0,PTV world
+http://62.210.141.179:8000/ibrahim/123456/270
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/7/76/Fox_Movies_2016.png/revision/latest?cb=20170828055324" group-title="Movies",FOX ACTION Movies
@@ -201,6 +218,105 @@ http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
 #EXTINF:-1,B4U MUSIC
 http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
+#EXTINF:-1,In- B4U Movies
+http://smart-hdip.com:6204/RDWAN/123/8385
+#EXTINF:-1,In- B4u Plus
+http://smart-hdip.com:6204/RDWAN/123/10968
+#EXTINF:-1,In- SONY MIX
+http://smart-hdip.com:6204/RDWAN/123/8391
+#EXTINF:-1,In- SONY MAX HD
+http://smart-hdip.com:6204/RDWAN/123/8645
+#EXTINF:-1,In- Sony TV
+http://smart-hdip.com:6204/RDWAN/123/8390
+#EXTINF:-1,In- Star Plus
+http://smart-hdip.com:6204/RDWAN/123/8938
+#EXTINF:-1,In- Star Gold
+http://smart-hdip.com:6204/RDWAN/123/8380
+#EXTINF:-1,In- COLORS TV UK
+http://smart-hdip.com:6204/RDWAN/123/8394
+#EXTINF:-1,In- Rishte Asia
+http://smart-hdip.com:6204/RDWAN/123/10954
+#EXTINF:-1,AFG- Varzish Sport HD
+http://smart-hdip.com:6204/RDWAN/123/1925
+#EXTINF:-1,In- UTV Movies
+http://smart-hdip.com:6204/RDWAN/123/8379
+#EXTINF:-1,In- Zee Cafe
+http://smart-hdip.com:6204/RDWAN/123/10953
+#EXTINF:-1,In- Zee Cinema
+http://smart-hdip.com:6204/RDWAN/123/8378
+#EXTINF:-1,In-Zee Bollywood
+http://smart-hdip.com:6204/RDWAN/123/10374
+#EXTINF:-1,In- Zee TV
+http://smart-hdip.com:6204/RDWAN/123/8377
+#EXTINF:-1,In- Zing Music
+http://smart-hdip.com:6204/RDWAN/123/10373
+#EXTINF:-1,In- Zing TV
+http://smart-hdip.com:6204/RDWAN/123/8947
+#EXTINF:-1,In- Sport Cricket HD
+http://smart-hdip.com:6204/RDWAN/123/13447
+#EXTINF:-1,In- Sports Cricket HD Backup
+http://smart-hdip.com:6204/RDWAN/123/13446
+#EXTINF:-1,In- Sony Ten 1 HD
+http://smart-hdip.com:6204/RDWAN/123/8931
+#EXTINF:-1,In- Sony Ten 2 HD
+http://smart-hdip.com:6204/RDWAN/123/8930
+#EXTINF:-1,Pk- 92 News Hd
+http://smart-hdip.com:6204/RDWAN/123/8925
+#EXTINF:-1,Pk- A-Plus Tv
+http://smart-hdip.com:6204/RDWAN/123/8924
+#EXTINF:-1,Pk- Aaj News
+http://smart-hdip.com:6204/RDWAN/123/8923
+#EXTINF:-1,Pk- Apna Channel
+http://smart-hdip.com:6204/RDWAN/123/8922
+#EXTINF:-1,Pk- Ary Digital
+http://smart-hdip.com:6204/RDWAN/123/8921
+#EXTINF:-1,Pk- ARY News
+http://smart-hdip.com:6204/RDWAN/123/8920
+#EXTINF:-1,Pk- Ary QTV
+http://smart-hdip.com:6204/RDWAN/123/8919
+#EXTINF:-1,Pk- Ary Zindagi
+http://smart-hdip.com:6204/RDWAN/123/8918
+#EXTINF:-1,Pk- Bol News
+http://smart-hdip.com:6204/RDWAN/123/8916
+#EXTINF:-1,Pk- Dunya News
+http://smart-hdip.com:6204/RDWAN/123/8913
+#EXTINF:-1,Pk- Express News
+http://smart-hdip.com:6204/RDWAN/123/8912
+#EXTINF:-1,Pk- Geo News
+http://smart-hdip.com:6204/RDWAN/123/8910
+#EXTINF:-1,Pk- Geo Tez
+http://smart-hdip.com:6204/RDWAN/123/8908
+#EXTINF:-1,Pk- HUM Masala TV
+http://smart-hdip.com:6204/RDWAN/123/8906
+#EXTINF:-1,Pk- Hum Sitaray
+http://smart-hdip.com:6204/RDWAN/123/8905
+#EXTINF:-1,Pk- Islam Tv
+http://smart-hdip.com:6204/RDWAN/123/8903
+#EXTINF:-1,Pk- Lahore News
+http://smart-hdip.com:6204/RDWAN/123/8900
+#EXTINF:-1,Pk- News One
+http://smart-hdip.com:6204/RDWAN/123/8895
+#EXTINF:-1,Pk- Pak News HD
+http://smart-hdip.com:6204/RDWAN/123/8894
+#EXTINF:-1,Pk- Peace Tv
+http://smart-hdip.com:6204/RDWAN/123/8893
+#EXTINF:-1,Pk- Ptv Sports
+http://smart-hdip.com:6204/RDWAN/123/8891
+#EXTINF:-1,Pk- Samaa
+http://smart-hdip.com:6204/RDWAN/123/8890
+#EXTINF:-1,Pk- Urdu 1
+http://smart-hdip.com:6204/RDWAN/123/8888
+#EXTINF:-1,Pk- Waqt News
+http://smart-hdip.com:6204/RDWAN/123/8887
+#EXTINF:-1,Pk- Sport Cricket HD
+http://smart-hdip.com:6204/RDWAN/123/13444
+#EXTINF:-1,Pk- Ten Cricket HD
+http://smart-hdip.com:6204/RDWAN/123/13443
+
+
+
+
+
 #EXTINF:-1,CBC CANADA
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
 #EXTINF:-1,CBS
