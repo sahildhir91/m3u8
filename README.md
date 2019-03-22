@@ -349,8 +349,7 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-name="UK DIGI 24 NEWS RO" tvg-logo="",UK DIGI 24 NEWS RO
 http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
 
-#EXTINF:-1,National Geographic Wild
-http://www.freeiptvdaily.net:8000/live/kihwcw7v67/4jH2Lwp0m1/35.ts
+
 
 #EXTINF:-1 group-title="Intertainment" tvg-id="" tvg-name="" tvg-logo="",ZOOM
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
@@ -368,6 +367,22 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1,Fastway TV
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8
 
+#EXTINF:-1,Hallmark Channel FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/745
+#EXTINF:-1,HBO Comedy-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/805
+#EXTINF:-1,HBO Family FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/743
+#EXTINF:-1,HBO FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/744
+#EXTINF:-1,HBO Signature FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/742
+#EXTINF:-1,HBO Signature-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/804
+#EXTINF:-1,HBO Zone FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/741
+#EXTINF:-1,HBO Zone-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/803
 
 #EXTINF:-1,hbo HD
 http://103.205.133.14/hls/hbo.m3u8
