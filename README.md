@@ -7,6 +7,41 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1,CHANNEL NEWS ASIA
 http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ikimtv_webos.jpg" group-title="MALAYSIA",TV IKIM
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv1_webos.jpg" group-title="MALAYSIA",TV1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv2_webos.jpg" group-title="MALAYSIA",TV2
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/okey_webos.jpg" group-title="MALAYSIA",OKEY
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tvi_webos.jpg" group-title="MALAYSIA",TVI
+http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/1new_webos.jpg" group-title="MALAYSIA",1NEWS
+http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/parlimen_webos.jpg" group-title="MALAYSIA",PARLIMEN
+http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/jessica-chua/entertainment/2018/oct/he110%20channel%20introduction/hello_main.jpg" group-title="MALAYSIA", HELLO TV
+http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/bernamatv_webos.jpg" group-title="MALAYSIA",BERNAMA
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/awani_webos.jpg" group-title="MALAYSIA",ASTRO AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/arena_webos.jpg" group-title="MALAYSIA",ASTRO ARENA
+http://103.242.13.190:5555/udp/239.4.1.148:10000
+
+
+
 #EXTINF:-1,TV3
 http://livecdn.long.tv:8123/live/9B018DFCEDA448F380405340C339AD72/playlist.m3u8
 #EXTINF:-1,NTV7
