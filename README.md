@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,NEW ASIA CHANNEL
+http://210.210.155.35/uq2663/h/h29/index.m3u8
+#EXTINF:-1,CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1,THRILL
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+
+
 #EXTINF:-1,AniMAX
 http://210.210.155.35/session/13bc0916-f3fb-11e8-9765-822bbdd32828/dr9445/h/h144/01.m3u8
 #EXTINF:-1,CelestialMovie
