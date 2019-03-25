@@ -450,8 +450,7 @@ http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.jhanjartv.com/jhanjar1/icon/jhanjar_hd_logo.jpg" group-title="INDIA",Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.cubemediaworks.com/images/peppers.jpg" group-title="INDIA",Peppers TV
-http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
+
  #EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="INDIA",Pitaara TV
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1,Life Punjabi
@@ -462,8 +461,7 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1,Boogel Bollywod
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ARY DIGITAL
-http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
+
 #EXTINF:0, group-title="Urdu",Nazrana (Ghazals)
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 #EXTINF:0, group-title="Punjabi",TV Punjab
