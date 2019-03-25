@@ -513,10 +513,7 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Pluto Movies
 https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Sony Movie Network
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1570px-Showtime.svg.png",Showtime
-http://80.80.160.168/live/7/2500000/live.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",CMC TV [720p]
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",HBO
@@ -843,8 +840,7 @@ http://161.0.157.38/PLTV/88888888/224/3221226828/index.m3u8
 http://161.0.157.38/PLTV/88888888/224/3221226831/index.m3u8
 #EXTINF:-1,Trident 10 TV
 http://161.0.157.38/PLTV/88888888/224/3221226832/index.m3u8
-#EXTINF:-1,MAX Prime HD
-http://161.0.157.38/PLTV/88888888/224/3221226834/index.m3u8
+
 #EXTINF:-1,CNN
 http://161.0.157.38/PLTV/88888888/224/3221226845/index.m3u8
 #EXTINF:-1,mm
