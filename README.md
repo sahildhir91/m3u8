@@ -82,7 +82,7 @@ http://210.210.155.35/uq2663/h/h07/index.m3u8
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1,FOXlife
 http://210.210.155.35/uq2663/h/h03/index.m3u8
-#EXTINF:-1,FOX
+#EXTINF:-1,CINEWORLD
 http://210.210.155.35/uq2663/h/h04/index.m3u8
 #EXTINF:-1,DIVA TV
 http://210.210.155.35/uq2663/h/h11/index.m3u8
