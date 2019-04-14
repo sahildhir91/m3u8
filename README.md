@@ -5,6 +5,387 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_04/medium.LOGO-CGNT.png.52eafa2ce7531ef70e79455e97d6a671.png" group-title="LATINO",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/15135.ts
+#EXTINF:-1,IN: & Picture HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18649.ts
+#EXTINF:-1,IN: 24 Ghanta
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18648.ts
+#EXTINF:-1,IN: 9XM
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18647.ts
+#EXTINF:-1,IN: AAJ TAK NEWS
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18646.ts
+#EXTINF:-1,IN: ABP NEWS
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18645.ts
+#EXTINF:-1,IN: And Picture HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18644.ts
+#EXTINF:-1,IN: AND TV HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18643.ts
+#EXTINF:-1,IN: AONE Punjabi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18642.ts
+#EXTINF:-1,IN: Asianet (lokal)
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18641.ts
+#EXTINF:-1,IN: Asianet Movies
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18640.ts
+#EXTINF:-1,IN: Asianet News
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18639.ts
+#EXTINF:-1,IN: Asianet Plus
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18638.ts
+#EXTINF:-1,IN: ATN/NRDTV News Punjabi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18637.ts
+#EXTINF:-1,IN: B4U_Movies TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18636.ts
+#EXTINF:-1,IN: B4U_Music / B4U_Plus
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18635.ts
+#EXTINF:-1,IN: Bollywood Movies
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18634.ts
+#EXTINF:-1,IN: Cartoon Network Hindi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18633.ts
+#EXTINF:-1,IN: CBN Cricket
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18632.ts
+#EXTINF:-1,IN: Chakde TV Punjabi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18631.ts
+#EXTINF:-1,IN: COLORS GUJRATI
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18630.ts
+#EXTINF:-1,IN: Colors HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18629.ts
+#EXTINF:-1,IN: COLORS TV INDIA
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18628.ts
+#EXTINF:-1,IN: Colours UK
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18627.ts
+#EXTINF:-1,IN: DESI BEATS HD Punjabi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18626.ts
+#EXTINF:-1,IN: Desi Channel Punjabi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18625.ts
+#EXTINF:-1,IN: Flowers Tv
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18624.ts
+#EXTINF:-1,IN: Gurbani TV Punjabi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18623.ts
+#EXTINF:-1,IN: Jaya Max USA
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18622.ts
+#EXTINF:-1,IN: Jaya Movies
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18621.ts
+#EXTINF:-1,IN: Jaya Plus
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18620.ts
+#EXTINF:-1,IN: Jaya TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18619.ts
+#EXTINF:-1,IN: JAYA USA
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18618.ts
+#EXTINF:-1,IN: JHANJAR HD Punjabi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18617.ts
+#EXTINF:-1,IN: KTV - USA
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18616.ts
+#EXTINF:-1,IN: Life O.K TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18615.ts
+#EXTINF:-1,IN: Living Food Food
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18614.ts
+#EXTINF:-1,IN: M Tunes
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18613.ts
+#EXTINF:-1,IN: Maa Gold (movies)
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18612.ts
+#EXTINF:-1,IN: Maa Music
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18611.ts
+#EXTINF:-1,IN: Media Punjabi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18610.ts
+#EXTINF:-1,IN: MH 1 Shradha Punjabi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18609.ts
+#EXTINF:-1,IN: MH1 MUSIC
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18608.ts
+#EXTINF:-1,IN: Movies OK HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18607.ts
+#EXTINF:-1,IN: Movies OK TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18606.ts
+#EXTINF:-1,IN: MTUNES HD MUSIC
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18605.ts
+#EXTINF:-1,IN: MTV INDIA
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18604.ts
+#EXTINF:-1,IN: MUSIC INDIA
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18603.ts
+#EXTINF:-1,IN: PBN Music Punjabi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18602.ts
+#EXTINF:-1,IN: PEACE TV URDU
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18601.ts
+#EXTINF:-1,IN: PTC Chak De Punjabi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18600.ts
+#EXTINF:-1,IN: PTC Punjabi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18599.ts
+#EXTINF:-1,IN: Raj TV US
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18598.ts
+#EXTINF:-1,IN: RE Gulistaan News
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18597.ts
+#EXTINF:-1,IN: Saab TV Punjabi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18596.ts
+#EXTINF:-1,IN: Santhora TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18595.ts
+#EXTINF:-1,IN: SikhTV Punjabi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18594.ts
+#EXTINF:-1,IN: Sony ESPN
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18593.ts
+#EXTINF:-1,IN: Sony Max
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18592.ts
+#EXTINF:-1,IN: Sony Max 2
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18591.ts
+#EXTINF:-1,IN: Sony MIX HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18590.ts
+#EXTINF:-1,IN: Sony Saab TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18589.ts
+#EXTINF:-1,IN: Sony Set Max Hd
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18588.ts
+#EXTINF:-1,IN: Sony Six HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18587.ts
+#EXTINF:-1,IN: Sony TV HD Asia
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18586.ts
+#EXTINF:-1,IN: Star Gold HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18585.ts
+#EXTINF:-1,IN: Star Jalsha
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18584.ts
+#EXTINF:-1,IN: Star Life OK U.K.
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18583.ts
+#EXTINF:-1,IN: Star Movies HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18582.ts
+#EXTINF:-1,IN: Star Plus HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18581.ts
+#EXTINF:-1,IN: Star Sports 1
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18580.ts
+#EXTINF:-1,IN: Star Sports 2
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18579.ts
+#EXTINF:-1,IN: Star Sports 3
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18578.ts
+#EXTINF:-1,IN: Star Sports 4
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18577.ts
+#EXTINF:-1,IN: Star Vijay
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18576.ts
+#EXTINF:-1,IN: Sun Music
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18575.ts
+#EXTINF:-1,IN: Sun TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18574.ts
+#EXTINF:-1,IN: Sun TV US
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18573.ts
+#EXTINF:-1,IN: SUNBURN Festival Gionee India 2017
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18572.ts
+#EXTINF:-1,IN: Surya TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18571.ts
+#EXTINF:-1,IN: TEN 1 HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18570.ts
+#EXTINF:-1,IN: TEN 2
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18569.ts
+#EXTINF:-1,IN: TEN 3
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18568.ts
+#EXTINF:-1,IN: Ten Action
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18567.ts
+#EXTINF:-1,IN: Ten Cricket
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18566.ts
+#EXTINF:-1,IN: Ten Golf HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18565.ts
+#EXTINF:-1,IN: Ten Sports
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18564.ts
+#EXTINF:-1,IN: TEN/OSN CRICKET
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18563.ts
+#EXTINF:-1,IN: Time Now
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18562.ts
+#EXTINF:-1,IN: TV84 Punjabi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18561.ts
+#EXTINF:-1,IN: UTV ACTION
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18560.ts
+#EXTINF:-1,IN: UTV Bindaas
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18559.ts
+#EXTINF:-1,IN: UTV MOVIES HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18558.ts
+#EXTINF:-1,IN: UTV Movies International
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18557.ts
+#EXTINF:-1,IN: VIP PUNJBI HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18556.ts
+#EXTINF:-1,IN: WILLOW
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18555.ts
+#EXTINF:-1,IN: ZEE Action
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18554.ts
+#EXTINF:-1,IN: Zee Anmol Cinema
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18553.ts
+#EXTINF:-1,IN: Zee Bangla
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18552.ts
+#EXTINF:-1,IN: ZEE BOLLYWOOD HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18551.ts
+#EXTINF:-1,IN: Zee Business
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18550.ts
+#EXTINF:-1,IN: ZEE CINEMA
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18549.ts
+#EXTINF:-1,IN: Zee Cinema HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18548.ts
+#EXTINF:-1,IN: ZEE CINEMA HD INDIA
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18547.ts
+#EXTINF:-1,IN: Zee Cinema Inter
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18546.ts
+#EXTINF:-1,IN: Zee Classic
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18545.ts
+#EXTINF:-1,IN: Zee Etc
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18544.ts
+#EXTINF:-1,IN: Zee Foodz
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18543.ts
+#EXTINF:-1,IN: Zee News
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18542.ts
+#EXTINF:-1,IN: Zee Punjabi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18541.ts
+#EXTINF:-1,IN: Zee Smile
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18540.ts
+#EXTINF:-1,IN: Zee Studio HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18539.ts
+#EXTINF:-1,IN: Zee Talkies
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18538.ts
+#EXTINF:-1,IN: Zee Tamil TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18537.ts
+#EXTINF:-1,IN: ZEE TV HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18536.ts
+#EXTINF:-1,IN: Zing
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18535.ts
+#EXTINF:-1,IN: Zoom
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18534.ts
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/14907.ts
+#EXTINF:-1,PK: 8XM
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18426.ts
+#EXTINF:-1,PK: 92 HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18425.ts
+#EXTINF:-1,PK: A Plus
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18424.ts
+#EXTINF:-1,PK: A plus HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18423.ts
+#EXTINF:-1,PK: AAJ ENT
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18422.ts
+#EXTINF:-1,PK: Aaj News
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18421.ts
+#EXTINF:-1,PK: APNA
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18420.ts
+#EXTINF:-1,PK: ARY DIGITAL
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18419.ts
+#EXTINF:-1,PK: ARY DIGITAL UK
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18418.ts
+#EXTINF:-1,PK: ARY DIGITAL USA
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18417.ts
+#EXTINF:-1,PK: ARY Musik
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18416.ts
+#EXTINF:-1,PK: ARY News
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18415.ts
+#EXTINF:-1,PK: ARY QTV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18414.ts
+#EXTINF:-1,PK: ARY ZAIQA
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18413.ts
+#EXTINF:-1,PK: ARY Zindagi
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18412.ts
+#EXTINF:-1,PK: ATV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18411.ts
+#EXTINF:-1,PK: Awaz TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18410.ts
+#EXTINF:-1,PK: BOL TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18409.ts
+#EXTINF:-1,PK: Business Plus
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18408.ts
+#EXTINF:-1,PK: Capital News
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18407.ts
+#EXTINF:-1,PK: Channel Five
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18406.ts
+#EXTINF:-1,PK: City 24/42 News
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18405.ts
+#EXTINF:-1,PK: City 42
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18404.ts
+#EXTINF:-1,PK: Dawn News
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18403.ts
+#EXTINF:-1,PK: Din News
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18402.ts
+#EXTINF:-1,PK: Dunya News
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18401.ts
+#EXTINF:-1,PK: Dunya News 2
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18400.ts
+#EXTINF:-1,PK: EXPRESS ENT
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18399.ts
+#EXTINF:-1,PK: Express News
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18398.ts
+#EXTINF:-1,PK: Express TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18397.ts
+#EXTINF:-1,PK: Filmasia
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18396.ts
+#EXTINF:-1,PK: GEO ENT
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18395.ts
+#EXTINF:-1,PK: Geo Kahani
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18394.ts
+#EXTINF:-1,PK: GEO NEWS
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18393.ts
+#EXTINF:-1,PK: Geo Super
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18392.ts
+#EXTINF:-1,PK: Geo Tez
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18391.ts
+#EXTINF:-1,PK: GEO TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18390.ts
+#EXTINF:-1,PK: GEO TV HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18389.ts
+#EXTINF:-1,PK: Hadi TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18388.ts
+#EXTINF:-1,PK: Health TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18387.ts
+#EXTINF:-1,PK: Hum Europe
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18386.ts
+#EXTINF:-1,PK: Hum Masala
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18385.ts
+#EXTINF:-1,PK: Hum Sitaray
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18384.ts
+#EXTINF:-1,PK: HUM TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18383.ts
+#EXTINF:-1,PK: HumWorld
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18382.ts
+#EXTINF:-1,PK: Jalwa TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18381.ts
+#EXTINF:-1,PK: Khayber TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18380.ts
+#EXTINF:-1,PK: Khyber News
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18379.ts
+#EXTINF:-1,PK: KTN TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18378.ts
+#EXTINF:-1,PK: Madani Channel
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18377.ts
+#EXTINF:-1,PK: Madani TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18376.ts
+#EXTINF:-1,PK: Mecca TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18375.ts
+#EXTINF:-1,PK: Metro One
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18374.ts
+#EXTINF:-1,PK: News One
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18373.ts
+#EXTINF:-1,PK: Peace TV Urdu
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18372.ts
+#EXTINF:-1,PK: PTV HOME
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18371.ts
+#EXTINF:-1,PK: PTV News
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18370.ts
+#EXTINF:-1,PK: PTV SPORTS
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18369.ts
+#EXTINF:-1,PK: Pushto ONE
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18368.ts
+#EXTINF:-1,PK: Royal TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18367.ts
+#EXTINF:-1,PK: Roze News
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18366.ts
+#EXTINF:-1,PK: Samaa News
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18365.ts
+#EXTINF:-1,PK: SEE TV HD
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18364.ts
+#EXTINF:-1,PK: Sindh News
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18363.ts
+#EXTINF:-1,PK: Sindh TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18362.ts
+#EXTINF:-1,PK: Such TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18361.ts
+#EXTINF:-1,PK: Tehzeeb TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18360.ts
+#EXTINF:-1,PK: TIMES
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18359.ts
+#EXTINF:-1,PK: TV One Global
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18358.ts
+#EXTINF:-1,PK: URDU 1
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18357.ts
+#EXTINF:-1,PK: URDU1
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18356.ts
+#EXTINF:-1,PK: Waqt News
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18355.ts
+#EXTINF:-1,PK: Waseb TV
+http://mondial.cybergroup.top:8000/live/Frutta/Frutta/18354.ts
+
 
 #EXTINF:-1,CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
