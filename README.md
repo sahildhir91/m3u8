@@ -159,88 +159,13 @@ http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8?sd=10&rebase=on
 http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCBollywoodTV.png" group-title="Drama",MBC Bollywood
-http://livecdnh2.tvanywhere.ae/ss/mbc_bolly.isml/Manifest
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="DOC",Nat Geo People AR
-http://streaming.i-sat.tv:8081/livestream/natpepole/chunks.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOC",INVESTIGATION DISCOVERY (US)
-http://80.80.160.168/live/5/live.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://barnaul.myttk.ru/upload/iblock/a3d/a3dc177d3aaa9800ed10260d2d2333c6.png" group-title="DOC",Discovery HD (US)
-http://80.80.160.168/live/8/live.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png" group-title="DOC",DISCOVERY SCIENCE
-http://80.80.160.168/live/9/live.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png" group-title="DOC",DISCOVERY SCIENCE
-http://80.80.160.168/live/9/live.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.schau-hd.tv/attachments/96/animalplanet.png" group-title="DOC",Animal Planet (US)
-http://80.80.160.168/live/1/live.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.travelxp.tv/wp-content/uploads/2016/12/travelxp-HD.jpg" group-title="DOC",TRAVEL XP EN
 http://cshms4.airtel.tv/PLTV/88888888/224/3221225813/1.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="DOC",TLC HD World EN
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226279/04.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://scontent.fham2-1.fna.fbcdn.net/v/t1.0-9/22141091_1540188486029099_1116408261202013497_n.png?_nc_cat=1&oh=57a637aeb6e1d4d52eb93ac00e585267&oe=5BC62B33" group-title="DOC",LIVING FOODZ HD EN
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226329/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://musor.tv/images/bbc_earth.png" group-title="DOC",BBC Earth HD EN
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/12.m3u8/Level(3670016)?start=LIVE&end=END&sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="DOC",SONY BBC EARTH HD
-http://mhms9.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/1.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.schau-hd.tv/attachments/96/animalplanet.png" group-title="DOC",Animal Planet HD World EN
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/04.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="DOC",Discovery HD World EN
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/04.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2000px-Discovery_Turbo_logo.svg.png" group-title="DOC",Discovery Turbo EN
-http://mhms5.airtel.tv/PLTV/88888888/224/3221225782/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="DOC",DISCOVERY SCEINCE EN
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/1.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://barnaul.myttk.ru/upload/iblock/a3d/a3dc177d3aaa9800ed10260d2d2333c6.png" group-title="DOC",Discovery 
-http://streaming.i-sat.tv:8081/livestream/discovery2/chunks.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2000px-Discovery_Turbo_logo.svg.png" group-title="DOC",Discovery Turbo
-http://streaming.i-sat.tv:8081/livestream/discovery1/chunks.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://entertainment.dc.gov/sites/default/files/styles/callout_home_graphic/public/dc/sites/entertainment/featured_content/images/dkn2_0.jpg?itok=Q85QKLt6" group-title="DOC",DISTRICT KNOWLEDGE NETWORK EN
-http://video.oct.dc.gov/out/u/96_4.m3u8?sd=10&rebase=on
 
 
 
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-X-nTcvHTX4Y/UmpgzyF-0fI/AAAAAAAABME/7H2mnHTQ_uc/s1600/foxcrime.png" group-title="Movies",FOX Crime
-http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_ENG/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png" group-title="Movies",Sony Movie Channel
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/26/Le_Plex_HD.jpg/revision/latest?cb=20161122172428" group-title="Movies",SONY LE PLEX HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226446/1.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.fetchlogos.com/wp-content/uploads/2015/10/Sony-Pix-Logo.jpg" group-title="Movies", SONY PIX HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/4.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/09/AXN-logo-neu-300x189.jpg?resize=300%2C189" group-title="Movies",AXN HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://images.adgully.com/img/800/201803/prive.jpg" group-title="Movies",And Prive HD
-http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/05/andflix-logo_4.jpg&w=620&h=350&zc=1&q=100" group-title="Movies",And FLIX HD
-http://z5ams.akamaized.net/andflixhd/tracks-v2a1/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://www.iheartmovie.com/assets/201804161827511602042850.jpg" group-title="Movies",STAR CHINESE  MOVIE CHN
-http://cdn2.bear-tv.com/freetv/TOT_starchina/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201707090903391006795571.jpg" group-title="Movies",THRILL EN
-http://cdn2.bear-tv.com/freetv/TOT_Thrill/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/711_300.png" group-title="Movies",Fox Life EN
-http://cdn2.bear-tv.com/freetv/TOT_foxlife/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/220px-FYI%2C_logo.svg.png" group-title="Movies",FYI
-http://cdn2.bear-tv.com/freetv/TOT_Fyi/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://www.themarysue.com/wp-content/uploads/2016/08/FX-Logo.jpg" group-title="Movies",FX
-http://cdn2.bear-tv.com/freetv/TOT_FX_HD/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.thaitvmax.com/img/png/fox.png?v=001" group-title="Movies",FOX Thai ENG
-http://cdn2.bear-tv.com/freetv/TOT_foxthai_eng/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg" group-title="Movies",BYUtv (US)
-https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Drama",Fashion HD
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Drama",Fashion TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$FashionHD/6.m3u8/Level(545259)?start=LIVE&end=END&sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Drama",Fashion TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
-#EXTINF:-1 tvg-logo="http://www.kylintv.com/kylintv/marketing/images/channels/china-movie-channel.png" group-title="Movies",China Movie
-http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8?sd=10&rebase=on
 
 
 
@@ -376,8 +301,7 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:-1,NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-#EXTINF:-1,SPORTSMAX
-http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+
 #EXTINF:-1,US:CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1,US:NBC
@@ -419,22 +343,7 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1,Fastway TV
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8
 
-#EXTINF:-1,Hallmark Channel FHD-US
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/745
-#EXTINF:-1,HBO Comedy-US
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/805
-#EXTINF:-1,HBO Family FHD-US
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/743
-#EXTINF:-1,HBO FHD-US
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/744
-#EXTINF:-1,HBO Signature FHD-US
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/742
-#EXTINF:-1,HBO Signature-US
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/804
-#EXTINF:-1,HBO Zone FHD-US
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/741
-#EXTINF:-1,HBO Zone-US
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/803
+
 
 #EXTINF:-1,hbo HD
 http://103.205.133.14/hls/hbo.m3u8
@@ -454,7 +363,7 @@ https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.jhanjartv.com/jhanjar1/icon/jhanjar_hd_logo.jpg" group-title="INDIA",Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 
- #EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="INDIA",Pitaara TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="INDIA",Pitaara TV
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1,Life Punjabi
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
@@ -491,8 +400,7 @@ http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",CNC3 [720p]
 http://161.0.157.8/PLTV/88888888/224/3221226845/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",DD News [576p]
-http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgsafe.org/99603b2597.png" group-title="PAKISTAN",ARY News
 http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/16lycyo.jpg" group-title="PAKISTAN",Eye 95 TV (US)
@@ -852,8 +760,7 @@ http://161.0.157.38/PLTV/88888888/224/3221226848/index.m3u8
 http://161.0.157.38/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1,FLOW Sports 1 HD
 http://161.0.157.38/PLTV/88888888/224/3221226899/index.m3u8
-#EXTINF:-1,SPORTS MAX
-http://161.0.157.38/PLTV/88888888/224/3221226766/index.m3u8
+
 #EXTINF:-1,CNN
 http://161.0.157.38/PLTV/88888888/224/3221226781/index.m3u8
 #EXTINF:-1,SPORTS MAX 2
