@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="CHINA",National Geographic
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000101&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 tvg-logo="http://www.ivy.com.tw/ivyhtmlpic/e-paper/enjoy/201401/01271.jpg" group-title="CHINA",24/7 Reality TV 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686221528-11537233612571148288-2847687610-10057-A-1523932939-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ivy.com.tw/ivyhtmlpic/e-paper/enjoy/201401/01271.jpg" group-title="CHINA",24/7 Reality TV 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://www.1yestv.com/images/logo.png" group-title="INDIA",1 Yes TV
 http://150.242.21.2/oneyes.m3u8
 
