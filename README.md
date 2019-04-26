@@ -359,8 +359,6 @@ http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TLC
 http://80.80.160.168/live/2/live.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",177 HD
 http://161.0.157.5/PLTV/88888888/224/3221226177/index.m3u8
 
