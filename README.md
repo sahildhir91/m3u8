@@ -376,17 +376,16 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="News",CNN International (Opt-1)
 http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",Geo News [360p]
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="News",Geo News [360p]
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",PTV News
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="News",PTV News
 http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/92_News.jpg" group-title="PAKISTAN",92 News (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/92_News.jpg" group-title="News",92 News (Opt-1)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/92_News.jpg" group-title="PAKISTAN",92 News (Opt-2)
-http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="PAKISTAN",Lahore News
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="News",Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
-#EXTINF:-1 group-title="PAKISTAN",Tez
+#EXTINF:-1 group-title="News",Tez
 http://stream.jeem.tv/geo/geotezz/playlist.m3u8
 
 
