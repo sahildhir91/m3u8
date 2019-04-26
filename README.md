@@ -404,11 +404,6 @@ http://80.80.160.168/live/6/live.m3u8
 
 
 
-
-
-
-
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",ARY Digital
 http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream_720p/chunks.m3u8
 
