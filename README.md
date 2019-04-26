@@ -390,6 +390,11 @@ http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:-1 group-title="News",Tez
 http://stream.jeem.tv/geo/geotezz/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgsafe.org/99603b2597.png" group-title="News",ARY News
+http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dunyanews.tv/images/dunyalogo.png" group-title="News",Dunya TV
+http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
 
 
 
