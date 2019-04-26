@@ -394,7 +394,7 @@ http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.afaqs.com/all/news/images/news_story_grfx/2016/11/49330/JK-24X7-News.jpg" group-title="News/Urdu(اکِستان‬‎/اُردُو‬‎)",_24x7 News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.afaqs.com/all/news/images/news_story_grfx/2016/11/49330/JK-24X7-News.jpg" group-title="News/Urdu24x7 News
 http://edge-ind.inapcdn.in:1935/device2/camera2.stream/chunklist.m3u8
 
 
