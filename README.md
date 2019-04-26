@@ -69,6 +69,8 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="ASIA",K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="KOREA",K+
+http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
 
 
 
