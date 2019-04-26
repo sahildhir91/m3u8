@@ -392,6 +392,7 @@ http://stream.jeem.tv/geo/geotezz/playlist.m3u8
 http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dunyanews.tv/images/dunyalogo.png" group-title="News",Dunya TV
 http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.afaqs.com/all/news/images/news_story_grfx/2016/11/49330/JK-24X7-News.jpg" group-title="News/Urdu(اکِستان‬‎/اُردُو‬‎)",_24x7 News
 http://edge-ind.inapcdn.in:1935/device2/camera2.stream/chunklist.m3u8
 
