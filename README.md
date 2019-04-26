@@ -384,6 +384,8 @@ http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="News",Lahore News
+
+
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:-1 group-title="News",Tez
 http://stream.jeem.tv/geo/geotezz/playlist.m3u8
