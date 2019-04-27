@@ -74,11 +74,11 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.techinasia.com/data/images/taMh0Gayw75Jes0i0WQPWHRQ2p2leVNZhnPn4PG3.png" group-title="Malaysia",Astro Awani
+#EXTINF:-1 tvg-logo="https://cdn.techinasia.com/data/images/taMh0Gayw75Jes0i0WQPWHRQ2p2leVNZhnPn4PG3.png" group-title="MALAYSIA",Astro Awani
 http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_300.png" group-title="MALAYSIA",ASTRO HELLO
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IKIM MY" tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Malaysia",IKIM MY
+#EXTINF:-1 tvg-id="" tvg-name="IKIM MY" tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="MALAYSIA",IKIM MY
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8?fbclid=IwAR2pQ3EzRJ2pUfAogiUoBq_GXfBINwLnPV7zbDflZHqiexMerygAaQN8z88
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/_pZ5epwC9Ns0/S6otX4uJ0mI/AAAAAAAAAZQ/VlWmeBvI_1Q/s1600/Astro+Arena+-+New+Logo.jpg" group-title="MALAYSIA",Astro Arena
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
@@ -100,13 +100,13 @@ http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://rtm-image.glueapi.io/960x640/live_stream/2-TV2.jpg" group-title="Malaysia",RTM 2
 http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="Malaysia", RTM Okey
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="MALAYSIA", RTM Okey
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png" group-title="Malaysia", RTM Parlimen
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/1news_RTM.png" group-title="Malaysia", 1 News
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/1news_RTM.png" group-title="MALAYSIA", 1 News
 http://rtm-live.glueapi.io/smil:rtmch006/playlist.m3u8
-#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_300.png" group-title="Malaysia",Astro Hello
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_300.png" group-title="MALAYSIA",Astro Hello
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 
 
