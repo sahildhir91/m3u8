@@ -52,8 +52,14 @@ http://edge-ind.inapcdn.in:1935/device2/camera2.stream/chunklist.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 https://5c1666995e3bc.streamlock.net/live/ptvsports/chunklist_w1544679165.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-name="" tvg-logo=",ESPN [720p]
-http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,Top Fight
+http://203.154.243.32:8088/live/topfight/index.m3u8
+#EXTINF:-1,K-1 World GP HD
+http://203.154.243.32:8088/live/hfs/index.m3u8
+#EXTINF:-1,Hi Sports
+http://203.154.243.32:8088/live/hisport/index.m3u8
+#EXTINF:-1,bbc
+http://203.154.243.32:8088/live/bbc/index.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN",ARY Digital
