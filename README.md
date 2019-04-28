@@ -15,12 +15,15 @@ http://xtfreeme.zapto.org:8091/MF09YLlN3Z/Rd1BB76mGS/36495
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",177 HD
 http://161.0.157.5/PLTV/88888888/224/3221226177/index.m3u8
 
-#EXTINF:-1,UK:  B4U  Plus
-http://xtfreeme.zapto.org:8091/MF09YLlN3Z/Rd1BB76mGS/36629
-#EXTINF:-1,UK:  B4U Movies
-http://xtfreeme.zapto.org:8091/MF09YLlN3Z/Rd1BB76mGS/36630
-#EXTINF:-1,UK:  B4U Music
-http://xtfreeme.zapto.org:8091/MF09YLlN3Z/Rd1BB76mGS/36631
+
+#EXTINF:-1,B4U MOVIE
+
+http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
+
+#EXTINF:-1,B4U MUSIC
+
+http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
+
 
 
 
