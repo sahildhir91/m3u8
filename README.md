@@ -29,7 +29,7 @@ http://161.0.157.38/PLTV/88888888/224/3221226542/index.m3u8
 #EXTINF:-1,Zee Cinema
 http://161.0.157.38/PLTV/88888888/224/3221226709/index.m3u8
 
-
+logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/345px-Babyfirst-logo.png" group-title="PUNJABI (??)", BabyFirst??
 
 
 
