@@ -1,5 +1,38 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AztIpYE.png" group-title="PUNJABI",Amar Ujala 
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.jhanjartv.com/jhanjar1/icon/jhanjar_hd_logo.jpg" group-title="PUNJABI",Jhanjar HD
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="PUNJABI",Pitaara TV
+https://livepitaara.planetcast.in/pitaaraTV.m3u8
+
+#EXTINF:-1,Boogel Bollywod
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 group-title="" PUNJABI="" tvg-name="" tvg-logo="",SUBRANG TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1,Boogel Bollywod
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 group-title="" PUNJABI="" tvg-name="" tvg-logo="",ARY DIGITAL
+http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
+#EXTINF:0, group-title="PUNJABI",Nazrana (Ghazals)
+http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
+#EXTINF:0, group-title="PUNJABI",TV Punjab
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTINF:0, group-title="Punjabi",Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="PUNJABI",Pop Pataka
+http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
