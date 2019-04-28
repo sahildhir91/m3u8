@@ -46,13 +46,10 @@ http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8
 http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBCMax.ae.png" group-title="UAE (????????)",MBC Max
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1259_1.png" group-title="UAE (????????)" MBC Bollywood
-http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United Arab Emirates PREMIUM-SERVER4",Dubai Al Ola
-http://62.210.141.179:8000/live/ibrahim/123456/163.m3u8
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1259_1.png" group-title="UAE (????????)" MBC 
 
-
-
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCBollywoodTV.png" group-title="UAE (????????)", MBC Bollywood
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 
 
 
