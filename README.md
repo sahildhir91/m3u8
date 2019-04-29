@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="" PUNJABI="" tvg-name="" tvg-logo="",CHANNEL Y [720p]
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 group-title="" PUNJABI="" tvg-name="" tvg-logo="",DesiBoX.DeSi TV Urban Desi Musix [1080p]
+http://ad.mysisli.com/live/DESIBOX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PUNJABI" tvg-id="" tvg-name="" tvg-logo="",ZOOM
+http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+#EXTINF:-1 group-title="PUNJABI" tvg-id="" tvg-name="" tvg-logo="",DIL SE [720p]
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-1 group-title="PUNJABI" tvg-id="" tvg-name="" tvg-logo="",PRIME ASIA TV
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 
