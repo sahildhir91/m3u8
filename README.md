@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="" PUNJABI="" tvg-name="" tvg-logo="",CHANNEL Y [720p]
+#EXTINF:-1 group-title="" PUNJABI" tvg-name="" tvg-logo="",CHANNEL Y [720p]
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 group-title="" PUNJABI="" tvg-name="" tvg-logo="",DesiBoX.DeSi TV Urban Desi Musix [1080p]
+#EXTINF:-1 group-title="" PUNJABI" tvg-name="" tvg-logo="",DesiBoX.DeSi TV Urban Desi Musix [1080p]
 http://ad.mysisli.com/live/DESIBOX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PUNJABI" tvg-id="" tvg-name="" tvg-logo="",ZOOM
 http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
@@ -9,7 +9,10 @@ http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-1 group-title="PUNJABI" tvg-id="" tvg-name="" tvg-logo="",PRIME ASIA TV
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCUhufk.jpg" group-title="PUNJABI",Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xXi8HX2.png" group-title="PUNJABI",Sanjha Punjab
+http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
 #EXTINF:-1 group-title="PUNJABI" tvg-id="" tvg-name="" tvg-logo="",CANADA STAR TV [720p]
 http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
 
