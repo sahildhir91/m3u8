@@ -5,12 +5,16 @@ http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 http://ad.mysisli.com/live/DESIBOX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PUNJABI" tvg-id="" tvg-name="" tvg-logo="",ZOOM
 http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+
 #EXTINF:-1 group-title="PUNJABI" tvg-id="" tvg-name="" tvg-logo="",DIL SE [720p]
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+
 #EXTINF:-1 group-title="PUNJABI" tvg-id="" tvg-name="" tvg-logo="",PRIME ASIA TV
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCUhufk.jpg" group-title="PUNJABI",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXi8HX2.png" group-title="PUNJABI",Sanjha Punjab
 http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
 #EXTINF:-1 group-title="PUNJABI" tvg-id="" tvg-name="" tvg-logo="",CANADA STAR TV [720p]
@@ -36,10 +40,14 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 #EXTINF:0, group-title="PUNJABI",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
-#EXTINF:0, group-title="Punjabi",Urdu TV Toronto
+
+#EXTINF:0, group-title="PUNJABI",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="PUNJABI",Pop Pataka
 http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+
+
+
 
 
 
