@@ -23,6 +23,14 @@ http://cdn.samtv.ca/tvpunjab/index.m3u8
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="PUNJABI",Pop Pataka
 http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+
+#EXTINF:-1 group-title="PUNJABI" tvg-id="" tvg-name="" tvg-logo="",PRIME ASIA TV
+http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="PUNJABI" tvg-id="" tvg-name="" tvg-logo="",CANADA STAR TV [720p]
+http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
+
+
 #EXTINF:-1,ZEE World
 http://161.0.157.38/PLTV/88888888/224/3221226542/index.m3u8
 
