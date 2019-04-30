@@ -210,6 +210,36 @@ http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 
 
 
+#EXTINF:-1,|UK|*****SKY KIDS*****|UK|
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23421
+#EXTINF:-1,|UK|  DISNEY CHANNEL
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23420
+#EXTINF:-1,|UK| DISNEY JUNIOR
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23419
+#EXTINF:-1,|UK| DISNEY XD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23418
+#EXTINF:-1,|UK| Nickelodeon
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23417
+#EXTINF:-1,|UK|  NICKELODEON JR
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23416
+#EXTINF:-1,|UK| Nick_Jr.2
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23415
+#EXTINF:-1,|UK| Nick_Jr.1
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23414
+#EXTINF:-1,|UK| NICKTOONS
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23413
+#EXTINF:-1,|UK| Nicktoon Ireland
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23412
+#EXTINF:-1,|UK| BOOMERANG
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23411
+#EXTINF:-1,|UK| CARTOON NET
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23410
+#EXTINF:-1,|UK| CARTOONITO
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23409
+#EXTINF:-1,|UK| BIABY
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23408
+#EXTINF:-1,|UK| TINY POP
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23407
 
 
 
