@@ -64,25 +64,25 @@ http://161.0.157.38/PLTV/88888888/224/3221226542/index.m3u8
 http://161.0.157.38/PLTV/88888888/224/3221226709/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="USEE TV",(ONLINE) STAR MOVIES AR
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="MOVIES",(ONLINE) STAR MOVIES AR
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="USEE TV",(ONLINE) STAR WORLD AR
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="MOVIES",(ONLINE) STAR WORLD AR
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="UAE (????????)",MBC 1
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="UAE ",MBC 1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC3.ae.png" group-title="UAE (????????)",MBC 3
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC3.ae.png" group-title="UAE ",MBC 3
 http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC2.ae.png" group-title="UAE (????????)",MBC 2
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC2.ae.png" group-title="UAE ",MBC 2
 http://livecdnh3.tvanywhere.ae:80/hls/mbc2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="UAE (????????)",MBC 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="UAE ",MBC 4
 http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/crops/c97b50e14f083712f2fa0bb7302c223d.png" group-title="UAE (????????)",MBC Action
+#EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/crops/c97b50e14f083712f2fa0bb7302c223d.png" group-title="UAE ",MBC Action
 http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBCMax.ae.png" group-title="UAE (????????)",MBC Max
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1259_1.png" group-title="UAE (????????)" MBC 
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1259_1.png" group-title="UAE " MBC 
 
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCBollywoodTV.png" group-title="UAE (????????)", MBC Bollywood
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCBollywoodTV.png" group-title="UAE ", MBC Bollywood
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 
 
