@@ -78,7 +78,7 @@ http://livecdnh3.tvanywhere.ae:80/hls/mbc2/index.m3u8
 http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.luxe/images/logo/channel/crops/c97b50e14f083712f2fa0bb7302c223d.png" group-title="UAE ",MBC Action
 http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBCMax.ae.png" group-title="UAE (????????)",MBC Max
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBCMax.ae.png" group-title="UAE ",MBC Max
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1259_1.png" group-title="UAE " MBC 
 
