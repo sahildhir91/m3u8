@@ -200,6 +200,18 @@ http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 http://rtm-live.glueapi.io/smil:rtmch006/playlist.m3u8
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_300.png" group-title="MALAYSIA",Astro Hello
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="KIDS",Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AgddyCM.png" group-title="MOVIES",Channel 7
+http://radio.7chan.org:8000/CH7
+#EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="MOVIES",Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/24/Fox_Comedy.png" group-title="MOVIES",Fox Premium Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="MOVIES",Fox Premium Movies (Dual)
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 
 
 
