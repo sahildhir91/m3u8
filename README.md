@@ -64,9 +64,9 @@ http://161.0.157.38/PLTV/88888888/224/3221226542/index.m3u8
 http://161.0.157.38/PLTV/88888888/224/3221226709/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="MOVIES",(ONLINE) STAR MOVIES AR
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="MOVIES",STAR MOVIES 
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="MOVIES",(ONLINE) STAR WORLD AR
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="MOVIES",STAR WORLD 
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="UAE ",MBC 1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
@@ -228,18 +228,12 @@ http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23415
 http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23414
 #EXTINF:-1,|UK| NICKTOONS
 http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23413
-#EXTINF:-1,|UK| Nicktoon Ireland
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23412
+
 #EXTINF:-1,|UK| BOOMERANG
 http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23411
 #EXTINF:-1,|UK| CARTOON NET
 http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23410
-#EXTINF:-1,|UK| CARTOONITO
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23409
-#EXTINF:-1,|UK| BIABY
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23408
-#EXTINF:-1,|UK| TINY POP
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23407
+
 
 
 
