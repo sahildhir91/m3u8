@@ -31,7 +31,9 @@ https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.jhanjartv.com/jhanjar1/icon/jhanjar_hd_logo.jpg" group-title="PUNJABI",Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="PUNJABI",Pitaara TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="PUNJABI",Pitaara TV#EXTINF:-1,ETV Urdu
+https://etv-urdu.akamaized.net/i/etv_urdu_live_1@373059/index_5_av-p.m3u8
+
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
 
 #EXTINF:-1,Boogel Bollywod
@@ -142,14 +144,6 @@ http://edge-ind.inapcdn.in:1935/device2/camera2.stream/chunklist.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 https://5c1666995e3bc.streamlock.net/live/ptvsports/chunklist_w1544679165.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,Top Fight
-http://203.154.243.32:8088/live/topfight/index.m3u8
-#EXTINF:-1,K-1 World GP HD
-http://203.154.243.32:8088/live/hfs/index.m3u8
-#EXTINF:-1,Hi Sports
-http://203.154.243.32:8088/live/hisport/index.m3u8
-#EXTINF:-1,bbc
-http://203.154.243.32:8088/live/bbc/index.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN",ARY Digital
