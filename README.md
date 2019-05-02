@@ -159,6 +159,7 @@ http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/220px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News",Channel NewsAsia (Opt-1)
 https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",DW NEWS
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
