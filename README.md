@@ -181,7 +181,8 @@ https://anjancdn.vstream.online/bstb/ngrp:anjan_hdall/chunklist_b1580000.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Documentry",My Network TV
+http://161.0.157.9/PLTV/88888888/224/3221226727/index.m3u8
 
 
 
@@ -227,6 +228,7 @@ http://rtm-live.glueapi.io/smil:rtmch006/playlist.m3u8
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="KIDS",Cartoon Network
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AgddyCM.png" group-title="MOVIES",Channel 7
 http://radio.7chan.org:8000/CH7
 #EXTINF:-1 tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="MOVIES",Fox Premium Cinema
