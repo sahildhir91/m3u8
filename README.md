@@ -164,6 +164,8 @@ http://edge-ind.inapcdn.in:1935/device2/camera2.stream/chunklist.
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 https://5c1666995e3bc.streamlock.net/live/ptvsports/chunklist_w1544679165.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="SPORTS",Flow Sports
+http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
 
 
 
