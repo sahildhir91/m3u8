@@ -96,9 +96,9 @@ http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="MOVIES" PREMIUM-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/800px-Universal_Channel_Logo_2013.svg.png",Universal Channel
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="NEWS",Al Jazeera English (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="News",Al Jazeera English (Opt-2)
 http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="NEWS",BBC World News
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
 
 
@@ -110,6 +110,7 @@ http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
 #EXTINF:-1,B4U MUSIC
 
 http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
+
 
 
 
@@ -219,30 +220,6 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 
 
 
-
-#EXTINF:-1,|UK|*****SKY KIDS*****|UK|
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23421
-#EXTINF:-1,|UK|  DISNEY CHANNEL
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23420
-#EXTINF:-1,|UK| DISNEY JUNIOR
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23419
-#EXTINF:-1,|UK| DISNEY XD
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23418
-#EXTINF:-1,|UK| Nickelodeon
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23417
-#EXTINF:-1,|UK|  NICKELODEON JR
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23416
-#EXTINF:-1,|UK| Nick_Jr.2
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23415
-#EXTINF:-1,|UK| Nick_Jr.1
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23414
-#EXTINF:-1,|UK| NICKTOONS
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23413
-
-#EXTINF:-1,|UK| BOOMERANG
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23411
-#EXTINF:-1,|UK| CARTOON NET
-http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23410
 
 
 
