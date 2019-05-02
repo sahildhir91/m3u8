@@ -1,7 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",AND TV HD [720p]
+http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
+
+
+
+
 #EXTINF:-1 group-title="PUNJABI" tvg-name="" tvg-logo="",APNA PUNJAB [720p]
 http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
-
 
 
 #EXTINF:-1 group-title=" PUNJABI" tvg-name="" tvg-logo="",CHANNEL Y [720p]
