@@ -100,12 +100,9 @@ http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="MOVIES" PREMIUM-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/800px-Universal_Channel_Logo_2013.svg.png",Universal Channel
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-WebTV",CBN US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",CBN US
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-WebTV",CBN US
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",CBN 8
-http://stream.rs.co.th/ch8-hi/index.m3u8
+
 
 
 
