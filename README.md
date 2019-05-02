@@ -176,6 +176,8 @@ https://5c1666995e3bc.streamlock.net/live/ptvsports/chunklist_w1544679165.m3u8?f
 http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/800px-ESPN2_logo.svg.png" group-title="SPORTS",ESPN 2
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0, group-title="SPORTS",REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN",ARY Digital
