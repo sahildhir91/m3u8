@@ -30,9 +30,12 @@ http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.jhanjartv.com/jhanjar1/icon/jhanjar_hd_logo.jpg" group-title="PUNJABI",Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="INDIA",Jhanjar Music
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="PUNABI",Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jhumar.tv/wp-content/uploads/2016/08/Jhumar-logo.png" group-title="PUNJABI",Jhumar TV
+http://dcunilive23-lh.akamaihd.net/i/dclive_1@42723/index_150_av-p.m3u8?sd=6&rebase=on
+
+
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="PUNJABI",Pitaara TV#EXTINF:-1,ETV Urdu
 https://etv-urdu.akamaized.net/i/etv_urdu_live_1@373059/index_5_av-p.m3u8
