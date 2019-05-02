@@ -34,13 +34,13 @@ http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jhumar.tv/wp-content/uploads/2016/08/Jhumar-logo.png" group-title="PUNJABI",Jhumar TV
 http://dcunilive23-lh.akamaihd.net/i/dclive_1@42723/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="PUNJABI",Pitaara TV
+https://livepitaara.planetcast.in/pitaaraTV.m3u8
 
 
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="PUNJABI",Pitaara TV#EXTINF:-1,ETV Urdu
-https://etv-urdu.akamaized.net/i/etv_urdu_live_1@373059/index_5_av-p.m3u8
-
-https://livepitaara.planetcast.in/pitaaraTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dVDzRTu.jpg" group-title="PUNJABI",Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 
 #EXTINF:-1,Boogel Bollywod
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
