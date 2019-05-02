@@ -96,13 +96,6 @@ http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="MOVIES" PREMIUM-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/800px-Universal_Channel_Logo_2013.svg.png",Universal Channel
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="News",Al Jazeera English (Opt-2)
-http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
-http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/220px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News",Channel NewsAsia (Opt-1)
-https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8?fluxustv.m3u8
-
 
 
 #EXTINF:-1,B4U MOVIE
@@ -144,7 +137,12 @@ http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
 http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
 #EXTINF:-1,PK:  Bol News  HD
 http://xtfreeme.zapto.org:8091/MF09YLlN3Z/Rd1BB76mGS/36708
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="News",Al Jazeera English (Opt-2)
+http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/220px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News",Channel NewsAsia (Opt-1)
+https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.afaqs.com/all/news/images/news_story_grfx/2016/11/49330/JK-24X7-News.jpg" group-title="News",Urdu News
 http://edge-ind.inapcdn.in:1935/device2/camera2.stream/chunklist.
 
