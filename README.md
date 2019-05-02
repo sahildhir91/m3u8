@@ -30,6 +30,9 @@ http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.jhanjartv.com/jhanjar1/icon/jhanjar_hd_logo.jpg" group-title="PUNJABI",Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="INDIA",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jhumar.tv/wp-content/uploads/2016/08/Jhumar-logo.png" group-title="PUNJABI",Jhumar TV
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tVwbDGE.jpg" group-title="PUNJABI",Pitaara TV#EXTINF:-1,ETV Urdu
 https://etv-urdu.akamaized.net/i/etv_urdu_live_1@373059/index_5_av-p.m3u8
@@ -69,6 +72,8 @@ http://161.0.157.38/PLTV/88888888/224/3221226542/index.m3u8
 #EXTINF:-1,Zee Cinema
 http://161.0.157.38/PLTV/88888888/224/3221226709/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/20/FOXPremiumComedy.png" group-title="MOVIES",FOX Premium Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="MOVIES",STAR MOVIES 
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
