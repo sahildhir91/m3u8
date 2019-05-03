@@ -203,6 +203,10 @@ http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN",ARY Digital
 http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.ptv.com.pk/user/assets/images/ptvLogos/ptvHomeLogo1.png" group-title="PAKISTAN",PTV Home
+http://67.231.248.131:1935/live/PTVhome/chunklist_w1961087555.m3u8
+#EXTINF:-1 tvg-logo="https://www.ptv.com.pk/user/assets/images/ptvLogos/ptvWorldLogo1.png" group-title="PAKISTAN",PTV World
+http://67.231.248.131:1935/live/8090/chunklist_w2102431795.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rokuguide.com/sites/default/files/logos/subrang Logo 2.png" group-title="PAKISTAN",Subrang TV
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
