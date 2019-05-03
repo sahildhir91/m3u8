@@ -161,6 +161,10 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tzxsdyN.png" group-title="News",ABC News
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://kay2.tv/wp-content/uploads/2017/01/logo.png" group-title="News",Kay2
+http://livecdnh1.tvanywhere.ae:80/hls/k2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dVDzRTu.jpg" group-title="Pakistan/Urdu(?????????/????????)",Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="News",Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
