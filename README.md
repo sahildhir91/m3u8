@@ -11,6 +11,8 @@ http://ad.mysisli.com/live/DESIBOX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="PUNJABI" tvg-id="" tvg-name="" tvg-logo="",ZOOM
 http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E5s29jZ.jpg" group-title="PUNJABI",E9 Punjabi
+http://cdn.samtv.ca/e9punjabi/index.m3u8
 
 #EXTINF:-1 group-title="PUNJABI" tvg-id="" tvg-name="" tvg-logo="",DIL SE [720p]
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
