@@ -200,7 +200,8 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2016/12/nbcgolf_logo-1140x570.png" group-title="SPORTS",NBC Golf
 http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8?fluxustv.m3u8
-
+#EXTINF:-1,WWE
+http://primestreams.tv:826/peterd/peterd/36372
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="SPORTS",Olympic Channel (Opt-1)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 #EXTINF:-1,OSN CRICKET
@@ -238,7 +239,12 @@ https://anjancdn.vstream.online/bstb/ngrp:anjan_hdall/chunklist_b1580000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Documentry",My Network TV
 http://161.0.157.9/PLTV/88888888/224/3221226727/index.m3u8
-
+#EXTINF:-1,DISCOVERY SCIENCE Local
+http://primestreams.tv:826/peterd/peterd/1687
+#EXTINF:-1,DISCOVERY TURBO
+http://primestreams.tv:826/peterd/peterd/1692
+#EXTINF:-1,NAT GEO WILD Local
+http://primestreams.tv:826/peterd/peterd/1784
 
 
 
@@ -295,7 +301,26 @@ http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="MOVIES",Fox Premium Movies (Dual)
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 
-
+#EXTINF:-1,DISNEY CHANNEL Local
+http://primestreams.tv:826/peterd/peterd/1358
+#EXTINF:-1,DISNEY CHANNEL Low BW
+http://primestreams.tv:826/peterd/peterd/87586
+#EXTINF:-1,DISNEY JR Local
+http://primestreams.tv:826/peterd/peterd/1261
+#EXTINF:-1,DISNEY JR Low BW
+http://primestreams.tv:826/peterd/peterd/86497
+#EXTINF:-1,DISNEY XD Local
+http://primestreams.tv:826/peterd/peterd/1672
+#EXTINF:-1,DISNEY XD Low BW
+http://primestreams.tv:826/peterd/peterd/87590
+#EXTINF:-1,DISNEY CHANNEL WEST Local
+http://primestreams.tv:826/peterd/peterd/38627
+#EXTINF:-1,DISNEY JR WEST Local
+http://primestreams.tv:826/peterd/peterd/38626
+#EXTINF:-1,DISNEY XD WEST Local
+http://primestreams.tv:826/peterd/peterd/38625
+#EXTINF:-1,NICK JR
+http://primestreams.tv:826/peterd/peterd/1268
 
 
 
