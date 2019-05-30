@@ -77,22 +77,7 @@ http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 http://161.0.157.38/PLTV/88888888/224/3221226542/index.m3u8
 #EXTINF:-1,Zee Cinema
 http://161.0.157.38/PLTV/88888888/224/3221226709/index.m3u8
-#EXTINF:-1,HINDI | SONY SAB USA
-http://s1.electru.biz:8080/timothy.shannon60@gmail.com/06hxDuw13L/113353
-#EXTINF:-1,HINDI | STAR BHARAT USA
-http://s1.electru.biz:8080/timothy.shannon60@gmail.com/06hxDuw13L/113354
-#EXTINF:-1,HINDI | STAR PLUS USA
-http://s1.electru.biz:8080/timothy.shannon60@gmail.com/06hxDuw13L/113355
-#EXTINF:-1,HINDI | APKA COLOR US
-http://s1.electru.biz:8080/timothy.shannon60@gmail.com/06hxDuw13L/108936
-#EXTINF:-1,HINDI | RISTHEY US
-http://s1.electru.biz:8080/timothy.shannon60@gmail.com/06hxDuw13L/108934
-#EXTINF:-1,HINDI | SET MAX US
-http://s1.electru.biz:8080/timothy.shannon60@gmail.com/06hxDuw13L/108933
-#EXTINF:-1,HINDI | SONY HD USA
-http://s1.electru.biz:8080/timothy.shannon60@gmail.com/06hxDuw13L/108932
-#EXTINF:-1,HINDI | ZEE TV US
-http://s1.electru.biz:8080/timothy.shannon60@gmail.com/06hxDuw13L/108935
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/20/FOXPremiumComedy.png" group-title="MOVIES",FOX Premium Comedy
 http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
 
