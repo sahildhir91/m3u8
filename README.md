@@ -169,36 +169,7 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912
 http://livecdnh1.tvanywhere.ae:80/hls/k2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dVDzRTu.jpg" group-title="News",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
-#EXTINF:-1 group-title="PAKISTAN",ARY NEWS
-http://158.69.228.195:1935/testmob/ngrp:myStream_all/chunklist_w1278163872_b539520.m3u8
-#EXTINF:-1 group-title="PAKISTAN",ARY QTV
-http://158.69.229.30:1935/ARYQTV/myStream/playlist.m3u8
-#EXTINF:-1 group-title="PAKISTAN",ARY MUSIC
-http://149.202.205.24:1935/ARYMUSIK/myStream/playlist.m3u8
-#EXTINF:-1 group-title="PAKISTAN",PTV World
-http://app.pakistanvision.tv:1935/live/8090/player.m3u8
-#EXTINF:-1 group-title="PAKISTAN",PTV News
-http://app.pakistanvision.tv:1935/live/PTVnews/player.m3u8
-#EXTINF:-1 group-title="PAKISTAN",Hum TV
-rtmp://cdn.ebound.tv:1935/tv?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDE1IDc6MTA6NTAgUE0maGFzaF92YWx1ZT1ST2M5ZlVweFFTdVhJSnpVblhSSitnPT0mdmFsaWRtaW51dGVzPTIyJmlkPTE=/humtv
-#EXTINF:-1 group-title="PAKISTAN",Hum TV2
-https://www.youtube.com/channel/UC0VgGEUuZpa8G7HNBUbJTtQ
-#EXTINF:-1 group-title="PAKISTAN",PTV Home
-http://app.pakistanvision.tv:1935/live/PTVhome/player.m3u8
-#EXTINF:-1 group-title="PAKISTAN",Geo News
-http://stream.jeem.tv/geo/geonews/playlist.m3u8
-#EXTINF:-1 group-title="PAKISTAN",Geo Entertainment
-https://stream1.jeem.tv/geo/geoentertainmentofficial/playlist.m3u8
-#EXTINF:-1 group-title="PAKISTAN",APlus
-http://dcunilive27-lh.akamaihd.net/i/dclive_1@316723/master.m3u8
-#EXTINF:-1 group-title="PAKISTAN",Dynya News
-http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="PAKISTAN",Samaa TV
-http://samaatr.videocdn.scaleengine.net/samaatr-live/play/samaatr_264k.stream/playlist.m3u8
-#EXTINF:-1 group-title="PAKISTAN",Bol TV
-https://www.youtube.com/watch?v=V6zyfwA3Cs4
-#EXTINF:-1 group-title="PAKISTAN",Hum SItaray
-rtmp://cdn.ebound.tv:1935/tv?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDE1IDc6MTI6NDQgUE0maGFzaF92YWx1ZT1EUTRraS9VMlFFaFU4bFNGYjRWV3NBPT0mdmFsaWRtaW51dGVzPTIyJmlkPTE=/hum2
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="News",Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:-1 group-title="News",Tez
@@ -259,6 +230,16 @@ http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226727/index.m3u8
 #EXTINF:-1 group-title="" Documentry="" tvg-name="" tvg-logo="",NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+#EXTINF:-1 group-title="" Documentry="" tvg-name="" tvg-logo="",PLANET GREEN
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1 group-title="" Documentry="" tvg-name="" tvg-logo="",SCIENCE CHANNEL
+http://80.80.160.168/live/9/live.m3u8
+http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
+#EXTINF:-1 group-title="" Documentry="" tvg-name="" tvg-logo="",TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1 group-title=""Documentry="" tvg-name="" tvg-logo="",TRAVEL CHANNEL
+http://80.80.160.168/live/3/live.m3u8
+
 
 
 
