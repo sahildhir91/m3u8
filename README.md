@@ -124,8 +124,9 @@ http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",CBN US
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-name="" tvg-logo="",Pluto Movies
-https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 
 
@@ -241,6 +242,8 @@ http://80.80.160.168/live/2/live.m3u8
 http://80.80.160.168/live/3/live.m3u8
 
 
+#EXTINF:-1 group-title="Food" tvg-id="" tvg-name="" tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png",Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 
 
 
@@ -296,26 +299,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" group-title="MOVIES",Fox Premium Movies (Dual)
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,DISNEY CHANNEL Local
-http://primestreams.tv:826/peterd/peterd/1358
-#EXTINF:-1,DISNEY CHANNEL Low BW
-http://primestreams.tv:826/peterd/peterd/87586
-#EXTINF:-1,DISNEY JR Local
-http://primestreams.tv:826/peterd/peterd/1261
-#EXTINF:-1,DISNEY JR Low BW
-http://primestreams.tv:826/peterd/peterd/86497
-#EXTINF:-1,DISNEY XD Local
-http://primestreams.tv:826/peterd/peterd/1672
-#EXTINF:-1,DISNEY XD Low BW
-http://primestreams.tv:826/peterd/peterd/87590
-#EXTINF:-1,DISNEY CHANNEL WEST Local
-http://primestreams.tv:826/peterd/peterd/38627
-#EXTINF:-1,DISNEY JR WEST Local
-http://primestreams.tv:826/peterd/peterd/38626
-#EXTINF:-1,DISNEY XD WEST Local
-http://primestreams.tv:826/peterd/peterd/38625
-#EXTINF:-1,NICK JR
-http://primestreams.tv:826/peterd/peterd/1268
 
 
 
