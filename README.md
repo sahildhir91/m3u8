@@ -211,6 +211,634 @@ http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8?fluxustv.m3u8
 http://primestreams.tv:826/peterd/peterd/36372
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="SPORTS",Olympic Channel (Opt-1)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+#EXTINF:-1,Abu Dhabi Sports HD 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1,Dubai Sports (AR)
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:-1,US: RED BULL
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1,Real Madrid
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
+#EXTINF:-1,KASS SPORTS 1 (AR)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+
+#EXTINF:-1,A SPOR HD
+http://livetr.teleromagna.it/sport/live/playlist.m3u8
+
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+#EXTINF:-1,SETANTA SPORTS +
+http://ott-cdn.ucom.am/s81/index.m3u8
+
+#EXTINF:0 group-title="AR: _",AR: ARRYADIA
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+
+#EXTINF:-1,Sky TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 (1+) HD
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 (2+) HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 HD
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BAHRAIN SPORTS
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: YAS SPORTS UPDATED
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+
+#EXTINF:0 group-title="ARG: Argentina",ARG: UMAG TV PUNTA ARENAS
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+
+#EXTINF:0 group-title="ARG: Argentina",ARG: UMAGTV 2 PUNTA ARENAS
+http://edge1.cl.grupoz.cl/itser4/tser4.sdp/chunklist_w638282256.m3u8
+
+#EXTINF:0 group-title="IN: India",IN: DONBAS TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
+
+#EXTINF:0 group-title="MX: Mexico",MX: TELEFORMULA NEW
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:0 group-title="SP: Spain",SP: FIGHT TIME (1+)
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:0 group-title="UA: Ukraine",UA: DONBAS
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ESPN
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ESPN NEWS ENGLISH
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS RACING
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:0 group-title="US: United States",US: MLB NETWORK (1+)
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:0 group-title="US: United States",US: MLB NETWORK PUBLIC-SPORTS ENGLISH
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ONE CHANNEL SPORTS ARABIC
+http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+
+#EXTINF:0 group-title="US: United States",US: RED BULL TV (2+)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:0 group-title="WW: World Wide",WW: FISHING NETWORK
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+
+#EXTINF:0 group-title="WW: World Wide",WW: MLB LIVE
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
+
+
+#EXTINF:-1,SPORT: AR - beIN Sports 1 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197967
+
+#EXTINF:-1,SPORT: AR - beIN Sports 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197979
+
+#EXTINF:-1,SPORT: AR - beIN Sports 3 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197981
+
+#EXTINF:-1,SPORT: AR - beIN Sports 4 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197983
+
+#EXTINF:-1,SPORT: AR - beIN Sports 5 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197985
+
+#EXTINF:-1,SPORT: AR - beIN Sports 6 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197986
+
+#EXTINF:-1,SPORT: AR - beIN Sports 7 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197988
+
+#EXTINF:-1,SPORT: AR - beIN Sports 8 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197990
+
+#EXTINF:-1,SPORT: AR - beIN Sports 9 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197992
+
+#EXTINF:-1,SPORT: AR - beIN Sports 10 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197969
+
+#EXTINF:-1,SPORT: AR - beIN Sports 11 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/211810
+
+#EXTINF:-1,SPORT: AR - beIN Sports 12 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197973
+
+#EXTINF:-1,SPORT: AR - BeoutQ 1 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198003
+
+#EXTINF:-1,SPORT: AR - BeoutQ 2 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198002
+
+#EXTINF:-1,SPORT: AR - BeoutQ 3 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198004
+
+#EXTINF:-1,SPORT: CAR - FLOW SPORTS 1
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198109
+
+#EXTINF:-1,SPORT: CAR - FLOW SPORTS 2
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198110
+
+#EXTINF:-1,SPORT: CAR - FLOW SPORTS 3
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198111
+
+#EXTINF:-1,SPORT: DE - Sky Sport Bundesliga 1 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198070
+
+#EXTINF:-1,SPORT: DE - Sky Sport Bundesliga 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198077
+
+#EXTINF:-1,SPORT: ES - beIN Sports LaLiga FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198134
+
+#EXTINF:-1,SPORT: FR - beIN Sports 1 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198130
+
+#EXTINF:-1,SPORT: FR - beIN Sports 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198132
+
+#EXTINF:-1,SPORT: FR - beIN Sports 3 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198133
+
+#EXTINF:-1,SPORT: FR - RMC SPORT 1 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/208688
+
+#EXTINF:-1,SPORT: FR - RMC SPORT 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/208690
+
+#EXTINF:-1,SPORT: FR - RMC SPORT 3 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/208692
+
+#EXTINF:-1,SPORT: GR - NOVA SPORTS 1 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/214015
+
+#EXTINF:-1,SPORT: GR - NOVA SPORTS 2 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/214016
+
+#EXTINF:-1,SPORT: GR - NOVA SPORTS 3 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/214017
+
+#EXTINF:-1,SPORT: GR - NOVA SPORTS 4 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/214018
+
+#EXTINF:-1,SPORT: MY - Astro SuperSport 1 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198099
+
+#EXTINF:-1,SPORT: MY - Astro SuperSport 2 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198100
+
+#EXTINF:-1,SPORT: MY - Astro SuperSport 3 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198101
+
+#EXTINF:-1,SPORT: MY - Astro SuperSport 4 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198102
+
+#EXTINF:-1,SPORT: MY - ASTRO SUPERSPORTS 1 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/214884
+
+#EXTINF:-1,SPORT: MY - ASTRO SUPERSPORTS 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/214885
+
+#EXTINF:-1,SPORT: MY - ASTRO SUPERSPORTS 3 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/214886
+
+#EXTINF:-1,SPORT: MY - ASTRO SUPERSPORTS 4 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/214887
+
+#EXTINF:-1,SPORT: PT - ELEVEN SPORTS 1 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/140845
+
+#EXTINF:-1,SPORT: PT - ELEVEN SPORTS 3 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198135
+
+#EXTINF:-1,SPORT: PT - ELEVEN SPORTS 4 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/66079
+
+#EXTINF:-1,SPORT: PT - SPORT TV 1 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198092
+
+#EXTINF:-1,SPORT: PT - SPORT TV 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198093
+
+#EXTINF:-1,SPORT: PT - SPORT TV 3 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198095
+
+#EXTINF:-1,SPORT: PT - SPORT TV 4 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198088
+
+#EXTINF:-1,SPORT: PT - SPORT TV 5 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198096
+
+#EXTINF:-1,SPORT: RO - Digi Sport 1 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207705
+
+#EXTINF:-1,SPORT: RO - Digi Sport 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207706
+
+#EXTINF:-1,SPORT: RO - Digi Sport 3 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207707
+
+#EXTINF:-1,SPORT: RO - DIGI SPORT 4 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207708
+
+#EXTINF:-1,SPORT: TH - beIN Sports 2 HD TrueVision
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/206479
+
+#EXTINF:-1,SPORT: TH - beIN Sports 3 HD TrueVision
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/206480
+
+#EXTINF:-1,SPORT: TH - beIN Sports 4 HD TrueVision
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/206481
+
+#EXTINF:-1,SPORT: UK - BT Sport 1 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/108777
+
+#EXTINF:-1,SPORT: UK - BT Sport 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/99563
+
+#EXTINF:-1,SPORT: UK - BT Sport 3 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197932
+
+#EXTINF:-1,SPORT: UK - ELEVEN SPORTS 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197901
+
+#EXTINF:-1,SPORT: UK - Sky Sports Golf FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197957
+
+#EXTINF:-1,SPORT: UK - Sky Sports Cricket HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197951
+
+#EXTINF:-1,SPORT: UK - Sky Sports F1 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197953
+
+#EXTINF:-1,SPORT: UK - Sky Sports Football HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197955
+
+#EXTINF:-1,SPORT: UK - Sky Sports News HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197963
+
+#
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/213549
+
+#EXTINF:-1,SPORT: AR - beIN Sports 1 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197968
+
+#EXTINF:-1,SPORT: AR - beIN Sports 2 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197980
+
+#EXTINF:-1,SPORT: AR - beIN Sports 3 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197982
+
+#EXTINF:-1,SPORT: AR - beIN Sports 4 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197984
+
+#EXTINF:-1,SPORT: AR - beIN Sports 5 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198060
+
+#EXTINF:-1,SPORT: AR - beIN Sports 6 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197987
+
+#EXTINF:-1,SPORT: AR - beIN Sports 7 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197989
+
+#EXTINF:-1,SPORT: AR - beIN Sports 8 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197991
+
+#EXTINF:-1,SPORT: AR - beIN Sports 9 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198062
+
+#EXTINF:-1,SPORT: AR - beIN Sports 10 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197970
+
+#EXTINF:-1,SPORT: AR - beIN Sports 11 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197971
+
+#EXTINF:-1,SPORT: AR - beIN Sports 12 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197974
+
+#EXTINF:-1,SPORT: AR - beIN Sports 13 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197975
+
+#EXTINF:-1,SPORT: AR - beIN Sports NBA HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197999
+
+#EXTINF:-1,SPORT: AR - beIN Sports News HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198000
+
+#EXTINF:-1,SPORT: AR - OSN Ten Cricket
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/213432
+
+#EXTINF:-1,SPORT: ARG - TyC Sports FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/208019
+
+#EXTINF:-1,SPORT: BE - NOVA SPORT HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/214012
+
+#EXTINF:-1,SPORT: BG - NOVA SPORT HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/214013
+
+#EXTINF:-1,SPORT: BR - BAND SPORT HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/206110
+
+#EXTINF:-1,SPORT: BR - ESPN Brasil HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/206113
+
+#EXTINF:-1,SPORT: BR - SPORTV 1 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198475
+
+#EXTINF:-1,SPORT: BR - SPORTV 2 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198476
+
+#EXTINF:-1,SPORT: BR - SPORTV 3 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198474
+
+#EXTINF:-1,SPORT: CA - TSN 1 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198647
+
+#EXTINF:-1,SPORT: CA - TSN 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198643
+
+#EXTINF:-1,SPORT: CA - TSN 3 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198644
+
+#EXTINF:-1,SPORT: CA - TSN 4 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198645
+
+#EXTINF:-1,SPORT: CA - TSN 5 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198646
+
+#EXTINF:-1,SPORT: CZ - Nova Sport 1 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/214019
+
+#EXTINF:-1,SPORT: CZ - Nova Sport 2 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/214014
+
+#EXTINF:-1,SPORT: DE - Auto Motor Sport HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207892
+
+#EXTINF:-1,SPORT: DE - BAYERN FC TV
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207825
+
+#EXTINF:-1,SPORT: DE - DAZN BAR 1 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207834
+
+#EXTINF:-1,SPORT: DE - DAZN BAR 2 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207835
+
+#EXTINF:-1,SPORT: DE - Sky Sport 1 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/214774
+
+#EXTINF:-1,SPORT: DE - Sky Sport 2 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198582
+
+#EXTINF:-1,SPORT: DE - Sky Sport 3 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207904
+
+#EXTINF:-1,SPORT: DE - Sky Sport 10 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207903
+
+#EXTINF:-1,SPORT: DE - Telekom - DEL Sport 1
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207836
+
+#EXTINF:-1,SPORT: ES - beIN Sports Ñ HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/199369
+
+#EXTINF:-1,SPORT: ES - LaLiga 123 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207700
+
+#EXTINF:-1,SPORT: ES - LaLiga 123 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207696
+
+#EXTINF:-1,SPORT: FR - CANAL+ SPORT FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/211942
+
+#EXTINF:-1,SPORT: FR - ELEVEN SPORTS 3
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/139512
+
+#EXTINF:-1,SPORT: GR - OTE SPORT 1 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198443
+
+#EXTINF:-1,SPORT: GR - OTE SPORT 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198579
+
+#EXTINF:-1,SPORT: GR - OTE SPORT 3 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/210343
+
+#EXTINF:-1,SPORT: GR - OTE SPORT 4 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198445
+
+#EXTINF:-1,SPORT: GR - OTE SPORT 6 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/210344
+
+#EXTINF:-1,SPORT: HR - Arena Sport 1 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/210525
+
+#EXTINF:-1,SPORT: HR - Arena Sport 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/210526
+
+#EXTINF:-1,SPORT: HR - Arena Sport 3 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/213959
+
+#EXTINF:-1,SPORT: HR - PLANET SPORT 1 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207743
+
+#EXTINF:-1,SPORT: IN - Star Sport 1
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198575
+
+#EXTINF:-1,SPORT: IN - STAR SPORT 2 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198576
+
+#EXTINF:-1,SPORT: IN - TEN 3 CRICKET
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/213431
+
+#EXTINF:-1,SPORT: IT - DAZN 1 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207449
+
+#EXTINF:-1,SPORT: IT - DAZN 2 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207452
+
+#EXTINF:-1,SPORT: IT - DAZN 3 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207453
+
+#EXTINF:-1,SPORT: IT - DAZN 4 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207454
+
+#EXTINF:-1,SPORT: IT - DAZN 5 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207455
+
+#EXTINF:-1,SPORT: MY - ASTRO Cricket HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/214786
+
+#EXTINF:-1,SPORT: MY - SKYNET SPORTS 1
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198119
+
+#EXTINF:-1,SPORT: MY - SKYNET SPORTS 2
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198118
+
+#EXTINF:-1,SPORT: MY - SKYNET SPORTS 3
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/109804
+
+#EXTINF:-1,SPORT: MY - SKYNET SPORTS 4
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/121815
+
+#EXTINF:-1,SPORT: MY - SKYNET SPORTS 6
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198117
+
+#EXTINF:-1,SPORT: NL - Ziggo Sport Voetbal HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207745
+
+#EXTINF:-1,SPORT: PL - CANAL+ SPORT 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/211944
+
+#EXTINF:-1,SPORT: PL - CANAL+ SPORT FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/211943
+
+#EXTINF:-1,SPORT: PT - ELEVEN SPORTS 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/65064
+
+#EXTINF:-1,SPORT: PT - ELEVEN SPORTS 6 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/140850
+
+#EXTINF:-1,SPORT: PT - SPORT TV + FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198179
+
+#EXTINF:-1,SPORT: RO - TELEKOM SPORT 1 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207738
+
+#EXTINF:-1,SPORT: RO - TELEKOM SPORT 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207739
+
+#EXTINF:-1,SPORT: RO - TELEKOM SPORT 3 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207740
+
+#EXTINF:-1,SPORT: RO - TELEKOM SPORT 4 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/207742
+
+#EXTINF:-1,SPORT: SRB - Arena Sport 1 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/213960
+
+#EXTINF:-1,SPORT: SRB - Arena Sport 2 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/213961
+
+#EXTINF:-1,SPORT: SRB - Arena Sport 3 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/213962
+
+#EXTINF:-1,SPORT: SRB - Arena Sport 4 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/210527
+
+#EXTINF:-1,SPORT: SRB - Arena Sport 5 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/210528
+
+#EXTINF:-1,SPORT: TH - beIN Sports 1 HD TrueVision
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/211170
+
+#EXTINF:-1,SPORT: TR - beIN Sports 1 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198571
+
+#EXTINF:-1,SPORT: TR - beIN Sports 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198572
+
+#EXTINF:-1,SPORT: TR - beIN Sports 4 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198574
+
+#EXTINF:-1,SPORT: TR - beIN Sports 3 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198573
+
+#EXTINF:-1,SPORT: TR - tivibu spor 1 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198477
+
+#EXTINF:-1,SPORT: TR - tivibu spor 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198478
+
+#EXTINF:-1,SPORT: TR - tivibu spor 3 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198479
+
+#EXTINF:-1,SPORT: UK - BOX NATION FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197922
+
+#EXTINF:-1,SPORT: UK - BT Sport ESPN FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/93488
+
+#EXTINF:-1,SPORT: UK - EIR SPORTS 1 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198581
+
+#EXTINF:-1,SPORT: UK - ELEVEN SPORTS 1 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/137211
+
+#EXTINF:-1,SPORT: UK - EURONEWS HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/205166
+
+#EXTINF:-1,SPORT: UK - EUROSPORT 1 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198103
+
+#EXTINF:-1,SPORT: UK - Fightbox HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/205222
+
+#EXTINF:-1,SPORT: UK - Liverpool FC HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/206095
+
+#EXTINF:-1,SPORT: UK - Sky Sports ACTION HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197947
+
+#EXTINF:-1,SPORT: UK - Sky Sports Arena HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197949
+
+#EXTINF:-1,SPORT: UK - Sky Sports Golf HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197958
+
+#EXTINF:-1,SPORT: UK - Sky Sports Mix HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197962
+
+#EXTINF:-1,SPORT: US - beIN Sports HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198539
+
+#EXTINF:-1,SPORT: US - ELEVEN SPORTS HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198544
+
+#EXTINF:-1,SPORT: US - FOX SPORTS 1 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198122
+
+#EXTINF:-1,SPORT: US - FOX SPORTS 2 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198123
+
+#EXTINF:-1,SPORT: US - MLB NETWORK HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198549
+
+#EXTINF:-1,SPORT: US - NFL Network FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198121
+
+#EXTINF:-1,SPORT: US - NHL NETWORK HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198552
+
+#EXTINF:-1,SPORT: US - Willow HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198114
+
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN",ARY Digital
 http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream_720p/chunks.m3u8
