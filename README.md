@@ -159,6 +159,10 @@ http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="News",TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 group-title="" News="" tvg-name="" tvg-logo="",FOX5
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tzxsdyN.png" group-title="News",ABC News
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://kay2.tv/wp-content/uploads/2017/01/logo.png" group-title="News",Kay2
@@ -233,20 +237,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8?fluxustv.m3u8
 http://primestreams.tv:826/peterd/peterd/36372
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="SPORTS",Olympic Channel (Opt-1)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
-#EXTINF:-1,OSN CRICKET
-http://primestreams.tv:826/peterd/peterd/95012
-#EXTINF:-1,WILLOW 1
-http://primestreams.tv:826/peterd/peterd/92900
-#EXTINF:-1,WILLOW 2
-http://primestreams.tv:826/peterd/peterd/92899
-#EXTINF:-1,WILLOW 3
-http://primestreams.tv:826/peterd/peterd/92898
-#EXTINF:-1,WILLOW 4
-http://primestreams.tv:826/peterd/peterd/92897
-#EXTINF:-1,Bee n Sports 5
-http://primestreams.tv:826/peterd/peterd/89206
-#EXTINF:-1,Bee n Sports 6
-http://primestreams.tv:826/peterd/peterd/89205
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN",ARY Digital
 http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream_720p/chunks.m3u8
@@ -261,19 +251,14 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",AND TV HD [720p]
 http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="Entertainment",Anjan TV
-https://anjancdn.vstream.online/bstb/ngrp:anjan_hdall/chunklist_b1580000.m3u8
+
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Documentry",My Network TV
 http://161.0.157.9/PLTV/88888888/224/3221226727/index.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE Local
-http://primestreams.tv:826/peterd/peterd/1687
-#EXTINF:-1,DISCOVERY TURBO
-http://primestreams.tv:826/peterd/peterd/1692
-#EXTINF:-1,NAT GEO WILD Local
-http://primestreams.tv:826/peterd/peterd/1784
+#EXTINF:-1 group-title="" Documentry="" tvg-name="" tvg-logo="",NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 
 
 
