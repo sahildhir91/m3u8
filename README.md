@@ -61,6 +61,17 @@ http://cdn.samtv.ca/tvpunjab/index.m3u8
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="PUNJABI",Pop Pataka
 http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+#EXTINF:-1,US: Discovery FAMILY HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/77148
+
+#EXTINF:-1,US: Discovery LIFE HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/77142
+
+#EXTINF:-1,US: Discovery SCIENCE HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/155465
+
+#EXTINF:-1,US: Discovery VELOCITY HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/74864
 
 
 
@@ -117,6 +128,8 @@ https://dcunilive28-lh.akamaihd.net/i/dclive_1@533390/master.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/KIX_Logo_2014.jpg" group-title="MOVIES",KIX (Asia)
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+#EXTINF:-1,US: Cinemax FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/74917
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="MOVIES",Thrill
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1,HBO 2 Full HD.
@@ -194,6 +207,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 #EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News [720p]
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+#EXTINF:-1,US: CNN HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/149938
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tzxsdyN.png" group-title="News",ABC News
@@ -211,8 +226,7 @@ http://stream.jeem.tv/geo/geotezz/playlist.m3u8
 http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dunyanews.tv/images/dunyalogo.png" group-title="News",Dunya TV
 http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
-#EXTINF:-1,PK:  Bol News  HD
-http://xtfreeme.zapto.org:8091/MF09YLlN3Z/Rd1BB76mGS/36708
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="News",Al Jazeera English (Opt-2)
 http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
