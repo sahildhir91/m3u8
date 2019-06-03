@@ -349,6 +349,11 @@ http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
 http://80.80.160.168/live/2/live.m3u8
 #EXTINF:-1 group-title=""Documentry="" tvg-name="" tvg-logo="",TRAVEL CHANNEL
 http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1,US: HISTORY Channel 2 FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/77116
+
+#EXTINF:-1,US: HISTORY CHANNEL FHD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/92801
 
 
 #EXTINF:-1 group-title="Food" tvg-id="" tvg-name="" tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png",Cooking Channel
