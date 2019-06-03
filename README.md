@@ -271,47 +271,6 @@ http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 #EXTINF:0 group-title="ARG: Argentina",ARG: UMAGTV 2 PUNTA ARENAS
 http://edge1.cl.grupoz.cl/itser4/tser4.sdp/chunklist_w638282256.m3u8
 
-#EXTINF:0 group-title="IN: India",IN: DONBAS TV
-http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
-
-#EXTINF:0 group-title="MX: Mexico",MX: TELEFORMULA NEW
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-
-#EXTINF:0 group-title="SP: Spain",SP: FIGHT TIME (1+)
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-
-#EXTINF:0 group-title="UA: Ukraine",UA: DONBAS
-http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
-
-#EXTINF:0 group-title="US: United States",US: ESPN
-http://80.80.160.168/live/6/live.m3u8
-
-#EXTINF:0 group-title="US: United States",US: ESPN 2
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:0 group-title="US: United States",US: ESPN NEWS ENGLISH
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
-
-#EXTINF:0 group-title="US: United States",US: FOX SPORTS RACING
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-
-#EXTINF:0 group-title="US: United States",US: MLB NETWORK (1+)
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:0 group-title="US: United States",US: MLB NETWORK PUBLIC-SPORTS ENGLISH
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8
-
-#EXTINF:0 group-title="US: United States",US: ONE CHANNEL SPORTS ARABIC
-http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
-
-#EXTINF:0 group-title="US: United States",US: RED BULL TV (2+)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:0 group-title="WW: World Wide",WW: FISHING NETWORK
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-
-#EXTINF:0 group-title="WW: World Wide",WW: MLB LIVE
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
 
 
 
