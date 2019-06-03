@@ -119,6 +119,36 @@ http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8?fluxustv.m3u8
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="MOVIES",Thrill
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1,HBO 2 Full HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23358
+
+#EXTINF:-1,HBO Family Full HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23357
+
+#EXTINF:-1,HBO Full HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23356
+
+#EXTINF:-1,HBO Plus Full HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23355
+
+#EXTINF:-1,HBO Signature Full HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23354
+
+#EXTINF:-1,HBO 2 HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23459
+
+#EXTINF:-1,HBO Family HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23458
+
+#EXTINF:-1,HBO HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23457
+
+#EXTINF:-1,HBO Plus HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23456
+
+#EXTINF:-1,HBO Signature HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23455
+
 
 #EXTINF:-1 group-title="MOVIES" PREMIUM-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/800px-Universal_Channel_Logo_2013.svg.png",Universal Channel
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
