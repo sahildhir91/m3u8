@@ -264,9 +264,27 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 
 #EXTINF:-1,US: RED BULL
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
+#EXTINF:-1,SPORT: US - Willow HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198114
 #EXTINF:-1,Real Madrid
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,SPORT: AR - OSN Ten Cricket
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/213432
+
+#EXTINF:-1,SPORT: IN - Star Sport 1
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198575
+
+#EXTINF:-1,SPORT: IN - STAR SPORT 2 HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198576
+
+#EXTINF:-1,SPORT: IN - TEN 3 CRICKET
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/213431
+
+#EXTINF:-1,SPORT: UK - Sky Sports Cricket HD
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/197951
+
+
+
 
 #EXTINF:-1,KASS SPORTS 1 (AR)
 http://www.elahmad.com/tv/m3u8/alkass.m3u8
