@@ -159,6 +159,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u
 
 #EXTINF:-1 tvg-id="SkyNews." tvg-name="Sky News" tvg-logo="https://static.iptv-epg.com/gb/SkyNews.uk.png" group-title="News",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="News",CNN
+http://161.0.157.7/PLTV/88888888/224/3221226781/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",Aljazeera News
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="News",CNN International (Opt-1)
