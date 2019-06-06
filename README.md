@@ -80,10 +80,7 @@ http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/20/FOXPremiumComedy.png" group-title="MOVIES",FOX Premium Comedy
 http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="MOVIES",STAR MOVIES 
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="MOVIES",STAR WORLD 
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC1.ae.png" group-title="UAE ",MBC 1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/MBC3.ae.png" group-title="UAE ",MBC 3
@@ -110,7 +107,10 @@ http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-name="" tvg-logo="",HBO
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="MOVIES",STAR MOVIES 
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="MOVIES",STAR WORLD 
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Universal_TV_2018.svg/1200px-Universal_TV_2018.svg.png" group-title="MOVIES",Universal TV (Dual)
 http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/KIX_Logo_2014.jpg" group-title="MOVIES",KIX (Asia)
@@ -125,8 +125,7 @@ http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23358
 #EXTINF:-1,HBO Family Full HD.
 http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23357
 
-#EXTINF:-1,HBO Full HD.
-http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23356
+
 
 #EXTINF:-1,HBO Plus Full HD.
 http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23355
@@ -137,17 +136,6 @@ http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23354
 #EXTINF:-1,HBO 2 HD.
 http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23459
 
-#EXTINF:-1,HBO Family HD.
-http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23458
-
-#EXTINF:-1,HBO HD.
-http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23457
-
-#EXTINF:-1,HBO Plus HD.
-http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23456
-
-#EXTINF:-1,HBO Signature HD.
-http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23455
 
 
 #EXTINF:-1 group-title="MOVIES" PREMIUM-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/800px-Universal_Channel_Logo_2013.svg.png",Universal Channel
