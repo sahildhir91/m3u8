@@ -228,7 +228,8 @@ http://primestreams.tv:826/peterd/peterd/36372
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 #EXTINF:-1,Abu Dhabi Sports HD 2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
+#EXTINF:-1,FOX SPORT
+http://161.0.157.5/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:-1,Dubai Sports (AR)
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 
