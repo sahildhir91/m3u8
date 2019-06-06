@@ -230,6 +230,23 @@ http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1,FOX SPORT
 http://161.0.157.5/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1,Fox Sports 1 Full HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23359
+
+#EXTINF:-1,Fox Sports 1 MX Full HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23391
+
+#EXTINF:-1,Fox Sports 2 Full HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23361
+
+#EXTINF:-1,Fox Sports 2 MX Full HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23390
+
+#EXTINF:-1,Fox Sports 3 Full HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23360
+
+#EXTINF:-1,Fox Sports 3 MX Full HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23389
 #EXTINF:-1,Dubai Sports (AR)
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 
