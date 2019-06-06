@@ -210,8 +210,18 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
-https://5c1666995e3bc.streamlock.net/live/ptvsports/chunklist_w1544679165.m3u8?fluxustv.m3u8
+#EXTINF:-1,Fox Sports 1 Full HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23359
+#EXTINF:-1,Fox Sports 1 MX Full HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23391
+#EXTINF:-1,Fox Sports 2 Full HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23361
+#EXTINF:-1,Fox Sports 2 MX Full HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23390
+#EXTINF:-1,Fox Sports 3 Full HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23360
+#EXTINF:-1,Fox Sports 3 MX Full HD.
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23389
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="SPORTS",Flow Sports
 http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/800px-ESPN2_logo.svg.png" group-title="SPORTS",ESPN 2
@@ -230,18 +240,7 @@ http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1,FOX SPORT
 http://161.0.157.5/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1,Fox Sports 1 Full HD.
-http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23359
-#EXTINF:-1,Fox Sports 1 MX Full HD.
-http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23391
-#EXTINF:-1,Fox Sports 2 Full HD.
-http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23361
-#EXTINF:-1,Fox Sports 2 MX Full HD.
-http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23390
-#EXTINF:-1,Fox Sports 3 Full HD.
-http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23360
-#EXTINF:-1,Fox Sports 3 MX Full HD.
-http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23389
+
 #EXTINF:-1,Dubai Sports (AR)
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 
