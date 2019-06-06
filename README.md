@@ -110,8 +110,7 @@ http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-name="" tvg-logo="",HBO
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/89e2e757528b704cae2a6a948f6fc0faa97b5cbba2b3fbf2acb9caac0b6bc632.png" group-title="MOVIES",Flashback TV
-https://dcunilive28-lh.akamaihd.net/i/dclive_1@533390/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Universal_TV_2018.svg/1200px-Universal_TV_2018.svg.png" group-title="MOVIES",Universal TV (Dual)
 http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/KIX_Logo_2014.jpg" group-title="MOVIES",KIX (Asia)
@@ -263,10 +262,12 @@ http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
 http://161.0.157.38/PLTV/88888888/224/3221226542/index.m3u8
 #EXTINF:-1,Zee Cinema
 http://161.0.157.38/PLTV/88888888/224/3221226709/index.m3u8
+
 #EXTINF:-1,B4U MOVIE
 http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
 #EXTINF:-1,B4U MUSIC
 http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
+
 
 
 
