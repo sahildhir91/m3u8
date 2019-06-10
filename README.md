@@ -229,6 +229,10 @@ http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1,FOX SPORT
 http://161.0.157.5/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4qrQOr7.png" group-title="SPORTS",DSport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="SPORTS",Fox Sports
+http://45.58.62.92:8080
 
 #EXTINF:-1,Dubai Sports (AR)
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
