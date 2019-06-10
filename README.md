@@ -145,6 +145,17 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-name="" tvg-logo="",Pluto Movies
 https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://www.bbcchannels.com/brand/assets/images/channel-assets/bbc-entertainment/about-logo-bbc-entertainment.png" group-title="UK",BBC Entertainment
+http://85.244.70.140:7000/play/a00u
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" group-title="UK",BBC News
+http://185.53.163.214:5678/ipvt_010
+
+#EXTINF:-1 tvg-logo="https://www.loudandclearvoices.com/lac/wp-content/uploads/2016/12/bbc_one.png" group-title="UK",BBC One
+http://bit.ly/2Vk1aaV?.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/BBC_Two_2001.png" group-title="UK",BBC Two
+http://bit.ly/2OO68KQ?.m3u8
 
 
 
@@ -281,15 +292,14 @@ http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
 http://80.80.160.168/live/2/live.m3u8
 #EXTINF:-1 group-title=""Documentry="" tvg-name="" tvg-logo="",TRAVEL CHANNEL
 http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1,US: HISTORY Channel 2 FHD
-http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/77116
-
-#EXTINF:-1,US: HISTORY CHANNEL FHD
-http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/92801
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentry",CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8?fluxustv.m3u8
 
 
 #EXTINF:-1 group-title="Food" tvg-id="" tvg-name="" tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png",Cooking Channel
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Food",Food Network
+http://95.86.32.7:999/food
 
 
 
