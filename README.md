@@ -218,6 +218,14 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 #EXTINF:0, group-title="PUNJABI",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTINF:-1,PUN | MANORANJAN MOVIES*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92691
+#EXTINF:-1,PUN | MANORANJAN TV*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92690
+#EXTINF:-1,PUN | MASTI TV HD*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92668
+#EXTINF:-1,PUN | MH1 MUSIC*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92689
 
 #EXTINF:0, group-title="PUNJABI",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
