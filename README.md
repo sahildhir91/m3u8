@@ -294,7 +294,10 @@ http://80.80.160.168/live/2/live.m3u8
 http://80.80.160.168/live/3/live.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentry",CGTN Documentary
 http://live.cgtn.com/cctv-d.m3u8?fluxustv.m3u8
-
+#EXTINF:-1,USA | NATIONAL GEOGRAPHIC CHANNEL
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/85474
+#EXTINF:-1,USA |  NAT GEO WILD
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/85475
 
 #EXTINF:-1 group-title="Food" tvg-id="" tvg-name="" tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png",Cooking Channel
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
@@ -356,7 +359,12 @@ http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8?fluxustv.m3u8
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 
 
-
+#EXTINF:-1,USA | DISNEY CHANNEL
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/85521
+#EXTINF:-1,USA | DISNEY Jr
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/85520
+#EXTINF:-1,USA | DISNEY XD
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/85519
 
 
 
