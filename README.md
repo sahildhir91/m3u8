@@ -220,6 +220,7 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 #EXTINF:0, group-title="PUNJABI",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
+
 #EXTINF:-1,PUN | MANORANJAN MOVIES*
 http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92691
 #EXTINF:-1,PUN | MANORANJAN TV*
@@ -289,23 +290,6 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="MOVIES",Thrill
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1,HBO 2 Full HD.
-http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23358
-
-#EXTINF:-1,HBO Family Full HD.
-http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23357
-
-
-
-#EXTINF:-1,HBO Plus Full HD.
-http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23355
-
-#EXTINF:-1,HBO Signature Full HD.
-http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23354
-
-#EXTINF:-1,HBO 2 HD.
-http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/23459
-
 
 
 #EXTINF:-1 group-title="MOVIES" PREMIUM-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/800px-Universal_Channel_Logo_2013.svg.png",Universal Channel
@@ -498,6 +482,7 @@ http://80.80.160.168/live/3/live.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentry",CGTN Documentary
 http://live.cgtn.com/cctv-d.m3u8?fluxustv.m3u8
 
+
 #EXTINF:-1,USA | NATIONAL GEOGRAPHIC CHANNEL
 http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/85474
 #EXTINF:-1,USA |  NAT GEO WILD
@@ -516,6 +501,8 @@ http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92614
 http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92626
 #EXTINF:-1,HINDI | TRAVEL XP HD
 http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92606
+
+
 
 #EXTINF:-1 group-title="Food" tvg-id="" tvg-name="" tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png",Cooking Channel
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
