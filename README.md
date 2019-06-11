@@ -202,6 +202,8 @@ http://dcunilive23-lh.akamaihd.net/i/dclive_1@42723/index_150_av-p.m3u8?sd=6&reb
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1,TV
 http://161.0.157.5/PLTV/88888888/224/3221226727/index.m3u8
+#EXTINF:-1,PUN | PITAARA TV*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92684
 
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dVDzRTu.jpg" group-title="PUNJABI",Urdu TV Toronto
