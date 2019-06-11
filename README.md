@@ -404,6 +404,34 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2016/12/nbcgolf_logo-1140x570.png" group-title="SPORTS",NBC Golf
 http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8?fluxustv.m3u8
+#EXTINF:-1,SPORTS | D SPORTS HD*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92836
+#EXTINF:-1,SPORTS | SONY ESPN HD*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92847
+#EXTINF:-1,SPORTS | SONY SIX HD*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92838
+#EXTINF:-1,SPORTS | STAR SPORTS 1 ENGLISH HD*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92846
+#EXTINF:-1,SPORTS | STAR SPORTS 1 HINDI HD*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92839
+#EXTINF:-1,SPORTS | STAR SPORTS 2 HD*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92845
+#EXTINF:-1,SPORTS | STAR SPORTS 3*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92835
+#EXTINF:-1,SPORTS | STAR SPORTS FIRST*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92834
+#EXTINF:-1,SPORTS | STAR SPORTS SELECT 1 HD*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92844
+#EXTINF:-1,SPORTS | STAR SPORTS SELECT 2 HD*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92837
+#EXTINF:-1,SPORTS | STAR SPORTS TAMIL *
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92843
+#EXTINF:-1,SPORTS | TEN 1 HD*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92842
+#EXTINF:-1,SPORTS | TEN 2 HD*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92841
+#EXTINF:-1,SPORTS | TEN 3 HD*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92840
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="SPORTS",Olympic Channel (Opt-1)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
