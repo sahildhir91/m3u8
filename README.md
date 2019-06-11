@@ -161,11 +161,6 @@ http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/105807
 http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/105805
 #EXTINF:-1,PAK | ZAIQA ENJOY
 http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/105804
-
-
-
-
-
 #EXTINF:-1 group-title="PUNJABI" tvg-name="" tvg-logo="",APNA PUNJAB [720p]
 http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
 
