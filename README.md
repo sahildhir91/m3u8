@@ -256,7 +256,8 @@ https://pastebin.com/v9e3T9TK/10/05/2019
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="SPORTS", MNC Sport
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
+#EXTINF:-1,PAK | TEN SPORTS PAKISTAN
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/105808
 #EXTINF:0 tvg-logo="https://image.ibb.co/fUFZ6z/tvrisport.jpg" group-title="SPORTS",TVRI SPORTS
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 
