@@ -304,6 +304,8 @@ http://183.182.100.184/live/pptvthai/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_fight_big1.png?v=2.0.0.11" group-title="SPORTS", FIGHT SPORT
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png" group-title="SPORTS",WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", ELEVEN SPORT 1
 http://cdn7.woideas.com/tv11.m3u8
