@@ -128,8 +128,7 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-logo="https://kay2.tv/wp-content/uploads/2017/01/logo.png" group-title="NEWS",Kay2
 http://livecdnh1.tvanywhere.ae:80/hls/k2/index.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="" tvg-logo="News",Geo News [360p]
-http://stream.jeem.tv/geo/geonews/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="NEWS",Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
