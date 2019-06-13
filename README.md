@@ -149,6 +149,14 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/ovq/kisspng-al-jazeera-sky-news-logo-television-news-5abc943fda39d8.6400434815223081598939.jpg" group-title="NEWS", SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1,OSN-TLC
+http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4574.ts
+#EXTINF:-1,OSN-National Geo Wild HD
+http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4561.ts
+#EXTINF:-1,LOCAL.MY-NAT-GEO-WILD
+http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/5128.ts
+#EXTINF:-1,LOCAL.MY-NAT-GEO-HD
+http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/5127.ts
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/keluarga_1.png" group-title="DOCUMENTARY",[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]
 https://pastebin.com/Q70AN0JK
@@ -162,6 +170,10 @@ http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="DOCUMENTARY",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1,OSN_Discovry Scence
+http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4552.ts
+#EXTINF:-1,OSN-Wild
+http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4575.ts
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png" group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
