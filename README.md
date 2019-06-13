@@ -127,6 +127,8 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-logo="https://kay2.tv/wp-content/uploads/2017/01/logo.png" group-title="NEWS",Kay2
 http://livecdnh1.tvanywhere.ae:80/hls/k2/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="" tvg-logo="News",Geo News [360p]
+http://stream.jeem.tv/geo/geonews/playlist.m3u8
 
 
 
