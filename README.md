@@ -149,17 +149,22 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/ovq/kisspng-al-jazeera-sky-news-logo-television-news-5abc943fda39d8.6400434815223081598939.jpg" group-title="NEWS", SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+
 #EXTINF:-1,OSN-TLC
 http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4574.ts
+
 #EXTINF:-1,OSN-National Geo Wild HD
 http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4561.ts
+
 #EXTINF:-1,LOCAL.MY-NAT-GEO-WILD
 http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/5128.ts
+
 #EXTINF:-1,LOCAL.MY-NAT-GEO-HD
 http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/5127.ts
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/keluarga_1.png" group-title="DOCUMENTARY",[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]
 https://pastebin.com/Q70AN0JK
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/800px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="DOCUMENTARY ",Animal Planet HD
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 
