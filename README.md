@@ -263,6 +263,9 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-iA2FW8UW7dA/V4xXhJ-_kiI/AAAAAAAACAw/Yq33K4FNpOgjnOtblcaZJiaINSWQLOvIACLcB/s400/cctv5-vpn-china.png" group-title="SPORTS", CCTV5+
 http://cdn10.uhd4khdr.com/5jia.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="SPORTS",Fox Sports
+http://45.58.62.92:8080
+
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="SPORTS",SETANTA HD
 http://ott-cdn.ucom.am/s81/03.m3u8
 
