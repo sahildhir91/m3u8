@@ -230,6 +230,12 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="MOVIE", KIX (MLY)
 http://210.210.155.35/uq2663/h/h07/index.m3u8
 
+#EXTINF:-1,LOCAL.MY-FOX-LIFE
+http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/5114.ts
+
+#EXTINF:-1,LOCAL.MY-FOX-CRIME
+http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/5113.ts
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png" group-title="MOVIE", THRILL (MLY)
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 
