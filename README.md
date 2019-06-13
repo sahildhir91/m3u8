@@ -238,6 +238,8 @@ http://45.126.83.51/session/aaa8be4e-f1af-11e8-9483-935a8f875426/uq2663/h/h142/0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="MOVIE", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1,OSN -Movies Thrillr
+http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4571.ts
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="MOVIE", FOX CINEMA
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
@@ -252,6 +254,14 @@ http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg" group-title="MOVIE",&FLIX
 http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23920
+#EXTINF:-1,OSN Star Movies
+http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4573.ts
+#EXTINF:-1,OSN-Movies Action HD
+http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4546.ts
+#EXTINF:-1,OSN-Movies Action 2
+http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4549.ts
+#EXTINF:-1,OSN-Movies 2h
+http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4548.ts
 
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/09/andPrive-HD_6.jpg" group-title="MOVIE",&PRIVE
 http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23919
