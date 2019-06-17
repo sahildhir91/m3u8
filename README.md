@@ -213,11 +213,7 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="MOVIE", KIX (MLY)
 http://210.210.155.35/uq2663/h/h07/index.m3u8
 
-#EXTINF:-1,LOCAL.MY-FOX-LIFE
-http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/5114.ts
 
-#EXTINF:-1,LOCAL.MY-FOX-CRIME
-http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/5113.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png" group-title="MOVIE", THRILL (MLY)
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
@@ -228,11 +224,8 @@ http://45.126.83.51/session/aaa8be4e-f1af-11e8-9483-935a8f875426/uq2663/h/h142/0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="MOVIE", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
-#EXTINF:-1,OSN -Movies Thrillr
-http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4571.ts
 
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="MOVIE", FOX CINEMA
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="MOVIE",STAR MOVIES 
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
