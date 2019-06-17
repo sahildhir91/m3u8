@@ -152,28 +152,9 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/keluarga_1.png" group-title="DOCUMENTARY",[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]
 https://pastebin.com/Q70AN0JK
 
-#EXTINF:-1,|OSN|BBC_Earth_FULLHD
-http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/5181.ts
-
-#EXTINF:-1,|OSN|History_FULLHD
-http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/5183.ts
-
-#EXTINF:-1,|OSN|Discovery_FULLHD
-http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/5174.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/800px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="DOCUMENTARY ",Animal Planet HD
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
-#EXTINF:-1,OSN-TLC
-http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4574.ts
-
-#EXTINF:-1,OSN-National Geo Wild HD
-http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4561.ts
-
-#EXTINF:-1,LOCAL.MY-NAT-GEO-WILD
-http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/5128.ts
-
-#EXTINF:-1,LOCAL.MY-NAT-GEO-HD
-http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/5127.ts
 
 
 #EXTINF:0, NASA
@@ -181,10 +162,6 @@ http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="DOCUMENTARY",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1,OSN_Discovry Scence
-http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4552.ts
-#EXTINF:-1,OSN-Wild
-http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4575.ts
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png" group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
@@ -270,14 +247,7 @@ http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg" group-title="MOVIE",&FLIX
 http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23920
-#EXTINF:-1,OSN Star Movies
-http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4573.ts
-#EXTINF:-1,OSN-Movies Action HD
-http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4546.ts
-#EXTINF:-1,OSN-Movies Action 2
-http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4549.ts
-#EXTINF:-1,OSN-Movies 2h
-http://lxlocal.newtvhd.com:7070/live/hafsaom/Gsyagdhxhx531hfudh/4548.ts
+
 
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/09/andPrive-HD_6.jpg" group-title="MOVIE",&PRIVE
 http://www.sansat.net:25461/6yong314/N8r3cqKaXE/23919
@@ -328,8 +298,7 @@ https://pastebin.com/v9e3T9TK/10/05/2019
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="SPORTS", MNC Sport
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,PAK | TEN SPORTS PAKISTAN
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/105808
+
 #EXTINF:0 tvg-logo="https://image.ibb.co/fUFZ6z/tvrisport.jpg" group-title="SPORTS",TVRI SPORTS
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 
