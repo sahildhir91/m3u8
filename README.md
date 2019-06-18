@@ -108,8 +108,13 @@ http://199.21.149.42:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live
 #EXTINF:0, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="KOREAN", K-PLUS (MLY)
 http://45.126.83.51/uq2663/h/h08/01.m3u8
 
+EXTINF:-1,K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/SET_One.png" group-title="KOREAN", SONY ONE
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
+
+#EXTINF:-1,SONY G
+http://210.210.155.35/uq2663/h/h19/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="KOREAN", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -134,8 +139,14 @@ http://stream.jeem.tv/geo/geonews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="NEWS",Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 
+#EXTINF:-1,NHK WORLD
+http://210.210.155.35/uq2663/h/h23/index.m3u8
 #EXTINF:0, tvg-logo="http://aitomon.com/wp-content/uploads/2017/05/Channel-NewsAsia.png" group-title="NEWS", CHANNEL NEWS ASIA
 http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+
+#EXTINF:-1,J Channel
+http://210.210.155.35/session/ab482d7a-f3e0-11e8-ba81-ac53b5fd5dd9/qwr9ew/s/s41/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dunyanews.tv/images/dunyalogo.png" group-title="NEWS",Dunya TV
 http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
 
@@ -292,6 +303,8 @@ https://pastebin.com/v9e3T9TK/10/05/2019
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="SPORTS", MNC Sport
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1,SUPPER SOCCER TV
+http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF:0 tvg-logo="https://image.ibb.co/fUFZ6z/tvrisport.jpg" group-title="SPORTS",TVRI SPORTS
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 
