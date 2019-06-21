@@ -224,10 +224,6 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/keluarga_1.png" group-title="DOCUMENTARY",[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]
 https://pastebin.com/Q70AN0JK
 
-#EXTINF:-1,TBN
-http://210.210.155.35/qwr9ew/s/s39/index.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/800px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="DOCUMENTARY ",Animal Planet HD
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 
@@ -531,12 +527,15 @@ http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92690
 http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92668
 #EXTINF:-1,PUN | MH1 MUSIC*
 http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92689
-
 #EXTINF:0, group-title="PUNJABI",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="PUNJABI",Pop Pataka
 http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
 
+#EXTINF:-1 group-title="Religious" tvg-id="" tvg-name="" tvg-logo="",CATHOLIC TV [720p]
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+#EXTINF:-1,TBN
+http://210.210.155.35/qwr9ew/s/s39/index.m3u8
 
 
 
