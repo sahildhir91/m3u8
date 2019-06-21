@@ -247,6 +247,9 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1a/Kr-ebs-u.jpg" group-title="KIDS",EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
+#EXTINF:-1,AniMAX
+http://210.210.155.35/session/13bc0916-f3fb-11e8-9765-822bbdd32828/dr9445/h/h144/01.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="KIDS",CARTOON NETWORK
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
