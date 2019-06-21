@@ -144,6 +144,9 @@ http://210.210.155.35/uq2663/h/h23/index.m3u8
 #EXTINF:0, tvg-logo="http://aitomon.com/wp-content/uploads/2017/05/Channel-NewsAsia.png" group-title="NEWS", CHANNEL NEWS ASIA
 http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MHcgYBr.png" group-title="NEWS",Fox News Channel (Opt-1) (New!)
+http://23.237.22.82:8086/udp/127.0.0.1:56077
+
 #EXTINF:-1,J Channel
 http://210.210.155.35/session/ab482d7a-f3e0-11e8-ba81-ac53b5fd5dd9/qwr9ew/s/s41/01.m3u8
 
@@ -173,6 +176,9 @@ http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="DOCUMENTARY",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="DOCUMENTARY",BYUtv (Opt-1)
+http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_264.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png" group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
@@ -223,6 +229,9 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="MOVIE", KIX (MLY)
 http://210.210.155.35/uq2663/h/h07/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="MOVIE",BYUtv (Opt-1)
+http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_264.m3u8
 
 
 
