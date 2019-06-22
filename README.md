@@ -112,65 +112,58 @@ EXTINF:-1,K+
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/SET_One.png" group-title="KOREAN", SONY ONE
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
-EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ytn-science.jpg" group-title="SOUTH KOREA",YTN Science
+EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ytn-science.jpg" group-title=" KOREAN",YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/1200px-TV_Chosun_logo_%28hangul%29.svg.png" group-title="SOUTH KOREA",TV Chosun
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/1200px-TV_Chosun_logo_%28hangul%29.svg.png" group-title="KOREAN",TV Chosun
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/01/YTN-News-Logo.jpg" group-title="SOUTH KOREA",YTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/01/YTN-News-Logo.jpg" group-title=" KOREAN",YTN
 http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://kortv.vo.llnwd.net/v1/Images/appletv/images/Channel_logo/ETN.png" group-title="SOUTH KOREA",ETN
+#EXTINF:-1 tvg-logo="https://kortv.vo.llnwd.net/v1/Images/appletv/images/Channel_logo/ETN.png" group-title=" KOREAN",ETN
 http://wkntv.vo.llnwd.net/e10/a_live/51307026/mp4:ch044900/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TBC_logo.svg/440px-TBC_logo.svg.png" group-title="SOUTH KOREA",TBC
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TBC_logo.svg/440px-TBC_logo.svg.png" group-title=" KOREAN",TBC
 http://221.157.125.232:1935/live/psike/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://livesport.im/wp-content/uploads/2015/11/KCTV-N.gif" group-title="SOUTH KOREA",KCTV-N
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://livesport.im/wp-content/uploads/2015/11/KCTV-N.gif" group-title=" KOREAN",KCTV-N
 http://122.202.129.136:1935/live/ch4/hasbahca.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/yUk2RhO.png" group-title="SOUTH KOREA",KTV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yUk2RhO.png" group-title=" KOREAN",KTV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title="SOUTH KOREA",EBS Kids
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title=" KOREAN",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/1200px-Logo_of_the_Korean_Central_Television.svg.png" group-title="SOUTH KOREA",KCTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/1200px-Logo_of_the_Korean_Central_Television.svg.png" group-title=" KOREAN",KCTV
 http://122.202.129.136:1935/live/ch5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="SOUTH KOREA",K+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title=" KOREAN",K+
 http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/220px-KBC_Gwangju_Broadcasting_logo.svg.png" group-title="SOUTH KOREA",KBC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/220px-KBC_Gwangju_Broadcasting_logo.svg.png" group-title=" KOREAN",KBC
 http://221.157.125.232:1935/live/kbctv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.ebs.co.kr/www/common/img/global/thum_default_tv2.jpg" group-title="SOUTH KOREA",EBS 2
+#EXTINF:-1 tvg-logo="http://static.ebs.co.kr/www/common/img/global/thum_default_tv2.jpg" group-title=" KOREAN",EBS 2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ko/5/5f/G1-Logo.jpg" group-title="SOUTH KOREA",G1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ko/5/5f/G1-Logo.jpg" group-title=" KOREAN",G1
 http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png" group-title="SOUTH KOREA",EBS Plus 1
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png" group-title=" KOREAN",EBS Plus 1
 http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Channels_IPTV_02.png" group-title="SOUTH KOREA",EBS Plus 2
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Channels_IPTV_02.png" group-title=" KOREAN",EBS Plus 2
 http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://m.ebse.co.kr/new2014/images/Comm/EBS_English.jpg" group-title="SOUTH KOREA",EBS English
+#EXTINF:-1 tvg-logo="http://m.ebse.co.kr/new2014/images/Comm/EBS_English.jpg" group-title=" KOREAN",EBS English
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA",Arirang (Opt-2)
-http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.realmeter.net/wp-content/uploads/2015/10/data-_-cbs.jpg" group-title="SOUTH KOREA",CBS (Opt-2)
+#EXTINF:-1 tvg-logo="http://www.realmeter.net/wp-content/uploads/2015/10/data-_-cbs.jpg" group-title=" KOREAN",CBS (Opt-2)
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA",Arirang (Opt-1)
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.realmeter.net/wp-content/uploads/2015/10/data-_-cbs.jpg" group-title="SOUTH KOREA",CBS (Opt-1)
-http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
 #EXTINF:-1,SONY G
 http://210.210.155.35/uq2663/h/h19/index.m3u8
 
@@ -303,6 +296,9 @@ http://45.126.83.51/session/aaa8be4e-f1af-11e8-9483-935a8f875426/uq2663/h/h142/0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="MOVIE", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE",HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
 
 #EXTINF:-1,NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
