@@ -283,6 +283,10 @@ http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/filem_1.png" group-title="MOVIE",[COLOR springgreen]:: FAMILY ::[/COLOR]
 http://nguoiviet.tv/blue-ant-extreme/
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCBollywoodTV.png" group-title="MOVIE ",MBC Bollywood
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
+
+
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIE",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
 
