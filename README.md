@@ -371,6 +371,9 @@ https://pastebin.com/v9e3T9TK/10/05/2019
 #EXTINF:-1 tvg-logo="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/shows/fs1/logo_fs1.vresize.1200.630.high.0.png" group-title="SPORTS",Fox Sports 1 (New!)
 http://23.237.22.82:8086/udp/127.0.0.1:56046
 
+#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/es.png",Real Madrid TV English
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
 #EXTINF:-1 tv#EXTINF:-1 tvg-logo="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/shows/fs1/logo_fs1.vresize.1200.630.high.0.png" group-title="SPORTS",Fox Sports 1 (New!)
 http://23.237.22.82:8086/udp/127.0.0.1:56046
 g-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="SPORTS", MNC Sport
