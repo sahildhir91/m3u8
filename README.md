@@ -220,6 +220,14 @@ https://pastebin.com/Q70AN0JK
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/800px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="DOCUMENTARY ",Animal Planet HD
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 
+#EXTINF:-1, links-iptv.com-US - H 2
+http://voxtv.dynns.com:8000/USA/USA/2302
+
+#EXTINF:-1, links-iptv.com-US - HISTORY HD
+http://voxtv.dynns.com:8000/USA/USA/2312
+
+#EXTINF:-1, links-iptv.com-US - NATIONAL GEOGRAPHIC
+http://voxtv.dynns.com:8000/USA/USA/2323
 
 #EXTINF:0, NASA
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
@@ -230,6 +238,9 @@ http://80.80.160.168/live/1/live.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png" group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
+
+#EXTINF:-1, links-iptv.com-US - CARTOON NETWORK
+http://voxtv.dynns.com:8000/USA/USA/2270
 
 #EXTINF:0, tvg-logo="http://areyouafoodie.com/wp-content/uploads/2017/04/Foodie-Logo-FN.png" group-title="KIDS",FOODIE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
@@ -275,8 +286,9 @@ http://nguoiviet.tv/blue-ant-extreme/
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIE",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="MOVIE", byuTV
-https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:-1, links-iptv.com-US - BYU TV
+http://voxtv.dynns.com:8000/USA/USA/2255
+
 
 #EXTINF: -1, tvg-logo="" group-title="MOVIE", MY CINEMA (MLY)
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
@@ -284,8 +296,6 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="MOVIE", KIX (MLY)
 http://210.210.155.35/uq2663/h/h07/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="MOVIE",BYUtv (Opt-1)
-http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_264.m3u8
 
 
 
