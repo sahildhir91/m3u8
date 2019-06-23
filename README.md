@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81DS8IEoLPL._SY355_.png" group-title="ISLAM",MAKKAH LIVE
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 
@@ -189,7 +188,10 @@ http://stream.jeem.tv/geo/geonews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="NEWS",Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
-
+#EXTINF:-1,IN: Aaj Tak
+http://xtfreeme.zapto.org:8091/sandra/sandra/36526
+#EXTINF:-1,IN: Abp News
+http://xtfreeme.zapto.org:8091/sandra/sandra/36527
 #EXTINF:-1,NHK WORLD
 http://210.210.155.35/uq2663/h/h23/index.m3u8
 #EXTINF:0, tvg-logo="http://aitomon.com/wp-content/uploads/2017/05/Channel-NewsAsia.png" group-title="NEWS", CHANNEL NEWS ASIA
