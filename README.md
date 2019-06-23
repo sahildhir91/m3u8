@@ -407,6 +407,16 @@ EXTINF:-1,IN: Star Sports FIRST*
 http://xtfreeme.zapto.org:8091/sandra/sandra/36510
 #EXTINF:-1,IN: Star Sports Select 2*
 http://xtfreeme.zapto.org:8091/sandra/sandra/36511
+#EXTINF:-1,IN: Star Sports 1 HD
+http://xtfreeme.zapto.org:8091/sandra/sandra/36516
+#EXTINF:-1,IN: Star Sports 2 HD
+http://xtfreeme.zapto.org:8091/sandra/sandra/36513
+#EXTINF:-1,IN: Star Sports 2 HD
+http://xtfreeme.zapto.org:8091/sandra/sandra/36514
+#EXTINF:-1,IN: Star Sports Select 1
+http://xtfreeme.zapto.org:8091/sandra/sandra/36512
+#EXTINF:-1,IN: Ten Sports
+http://xtfreeme.zapto.org:8091/sandra/sandra/36503
 
 #EXTINF:-1 tvg-logo="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/shows/fs1/logo_fs1.vresize.1200.630.high.0.png" group-title="SPORTS",Fox Sports 1 (New!)
 http://23.237.22.82:8086/udp/127.0.0.1:56046
