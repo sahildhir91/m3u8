@@ -347,6 +347,22 @@ http://www.sansat.net:25461/6yong314/N8r3cqKaXE/24040
 #EXTINF:-1,IN: B4U Movies
 http://xtfreeme.zapto.org:8091/sandra/sandra/36531
 
+#EXTINF:-1,IN: UTV Movies
+http://xtfreeme.zapto.org:8091/sandra/sandra/36594
+
+#EXTINF:-1,IN: UTV Action*
+http://xtfreeme.zapto.org:8091/sandra/sandra/36592
+
+#EXTINF:-1,IN: Zee Action
+http://xtfreeme.zapto.org:8091/sandra/sandra/36597
+#EXTINF:-1,IN: Zee Anmol
+http://xtfreeme.zapto.org:8091/sandra/sandra/36598
+#EXTINF:-1,IN: Zee Anmol Cinema
+http://xtfreeme.zapto.org:8091/sandra/sandra/36599
+#EXTINF:-1,IN: Zee Cinema HD
+http://xtfreeme.zapto.org:8091/sandra/sandra/36600
+#EXTINF:-1,IN: Zee Classic
+http://xtfreeme.zapto.org:8091/sandra/sandra/36601
 
 #EXTINF:-1 tvg-logo="http://www.sky.com/tv/static/r3jPy0cN3NuYNkrCi2VIRpfAFOdMgjEaknRogD6Gbuw.png" group-title="MOVIE", FAMILY MOVIES 1
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
