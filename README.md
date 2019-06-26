@@ -35,12 +35,13 @@ http://210.210.155.35/session/ab482d7a-f3e0-11e8-ba81-ac53b5fd5dd9/qwr9ew/s/s41/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dunyanews.tv/images/dunyalogo.png" group-title="NEWS",Dunya TV
 http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="NEWS",CNN International (Opt-2) (US)
+http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="NEWS",CNN International (Opt-1)
-http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="NEWS",BBC World News
-http://ott-cdn.ucom.am/s24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="NEWS",BBC World News (Opt-2) (GB)
+https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180329/ovq/kisspng-al-jazeera-sky-news-logo-television-news-5abc943fda39d8.6400434815223081598939.jpg" group-title="NEWS", SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
