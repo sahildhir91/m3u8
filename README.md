@@ -9,7 +9,7 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 
 http://tafron.tru.io:56792/dione/starmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDE5IDM6MjI6MzggUE0maGFzaF92YWx1ZT1wMHRjME9HN1hlNXIvbkFaa1pQK253PT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="" tvg-logo="NEWS",GEO NEWS
+#EXTINF:-1 group-title="NEWS" http://212.129.54.17:8080/1/live/geo_super.png" group=title= NEWS", GEO SUPER
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/baraem_mena/stream6/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/92_News.jpg" group-title="NEWS",92 News (Opt-1)
