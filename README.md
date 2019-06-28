@@ -1,4 +1,20 @@
 #EXTM3U
+http://190.2.141.189:6185/gaia/sonypixhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDE5IDExOjQxOjQ0IEFNJmhhc2hfdmFsdWU9K293K1huSTNaV2dEaHl5ZUpYZVBLZz09JnZhbGlkbWludXRlcz0y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" group-title="NEWS",[COLOR slateblue]:: NEWS ::[/COLOR]
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8(SD)
 
