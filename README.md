@@ -210,8 +210,8 @@ https://sbsports.pro/lba/NDI5OGFiOTU4ZjFmYjQzOGU0YmRhYjkyMjNhYzA3MDc=/g2/maineve
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
 #EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE (MLY)
-http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
-
+#EXTINF: -1,http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
+http://190.2.141.189:6185/gaia/sonypixhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDE5IDExOjQxOjQ0IEFNJmhhc2hfdmFsdWU9K293K1huSTNaV2dEaHl5ZUpYZVBLZz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Diva_Universal.png" group-title="MOVIE", DIVA UNIVERSAL
 http://45.126.83.51/uq2663/h/h11/index2.m3u8
@@ -245,7 +245,7 @@ https://pastebin.com/v9e3T9TK/10/05/2019
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/us.png" group-title="SPORTS",ESPN
 http://80.80.160.168/live/6/live.m3u8
 
-EXTINF:-1,IN: Star Sports FIRST*
+#EXTINF:-1,IN: Star Sports FIRST*
 http://xtfreeme.zapto.org:8091/sandra/sandra/36510
 #EXTINF:-1,IN: Star Sports Select 2*
 http://xtfreeme.zapto.org:8091/sandra/sandra/36511
