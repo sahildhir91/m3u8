@@ -3,9 +3,12 @@
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" group-title="NEWS",[COLOR slateblue]:: NEWS ::[/COLOR]
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8(SD)
-http://tafron.tru.io:56792/dione/starmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDE5IDEyOjM3OjEzIFBNJmhhc2hfdmFsdWU9Q0hrbThhbXVLaFBLRmhhMzBmKzQyQT09JnZhbGlkbWludXRlcz0y
+
 #EXTINF:0, tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="NEWS", AL JAZEERA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+http://tafron.tru.io:56792/dione/starmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDE5IDEyOjM3OjEzIFBNJmhhc2hfdmFsdWU9Q0hrbThhbXVLaFBLRmhhMzBmKzQyQT09JnZhbGlkbWludXRlcz0y
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/92_News.jpg" group-title="NEWS",92 News (Opt-1)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
