@@ -11,7 +11,7 @@ http://tafron.tru.io:56792/dione/starmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 
 #EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="" tvg-logo="NEWS",GEO NEWS
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
-
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/baraem_mena/stream6/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/92_News.jpg" group-title="NEWS",92 News (Opt-1)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
