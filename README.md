@@ -9,7 +9,7 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 
 http://tafron.tru.io:56792/dione/starmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDE5IDM6MjI6MzggUE0maGFzaF92YWx1ZT1wMHRjME9HN1hlNXIvbkFaa1pQK253PT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="" tvg-logo="NEWS",GEO SUPER
+#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="" tvg-logo="NEWS",GEO NEWS
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/92_News.jpg" group-title="NEWS",92 News (Opt-1)
@@ -20,8 +20,6 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-logo="https://kay2.tv/wp-content/uploads/2017/01/logo.png" group-title="NEWS",Kay2
 http://livecdnh1.tvanywhere.ae:80/hls/k2/index.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="" tvg-logo="NEWS",Geo News [360p]
-http://stream.jeem.tv/geo/geonews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="NEWS",Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
