@@ -6,7 +6,7 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 
 #EXTINF:0, tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="NEWS", AL JAZEERA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-
+#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="" tvg-logo="NEWS",STAR MOVIES
 http://tafron.tru.io:56792/dione/starmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDE5IDEyOjM3OjEzIFBNJmhhc2hfdmFsdWU9Q0hrbThhbXVLaFBLRmhhMzBmKzQyQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="" tvg-logo="NEWS",GEO SUPER
