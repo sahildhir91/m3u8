@@ -109,9 +109,7 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 #EXTINF:0, tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="NEWS", AL JAZEERA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-http://tafron.tru.io:56792/dione/starmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDE5IDM6MjI6MzggUE0maGFzaF92YWx1ZT1wMHRjME9HN1hlNXIvbkFaa1pQK253PT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="" tvg-logo="News",Geo News [360p]
+#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="" tvg-logo="",Geo News [360p]
 http://stream.jeem.tv/geo/./playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/92_News.jpg" group-title="NEWS",92 News (Opt-1)
