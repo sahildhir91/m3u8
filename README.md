@@ -1,4 +1,106 @@
 #EXTM3U
+#EXTINF:-1,PUN | MANORANJAN MOVIES*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92691
+#EXTINF:-1,PUN | MANORANJAN TV*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92690
+#EXTINF:-1,PUN | MASTI TV HD*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92668
+#EXTINF:-1,PUN | MH1 MUSIC*
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92689
+#EXTINF:0, group-title="PUNJABI",Urdu TV Toronto
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="PUNJABI",Pop Pataka
+http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+#EXTINF:-1,IN: Sony Tv HD
+http://xtfreeme.zapto.org:8091/sandra/sandra/36583
+#EXTINF:-1,IN: Sony Tv HD*
+http://xtfreeme.zapto.org:8091/sandra/sandra/36584
+#EXTINF:-1,IN: Star Bharat*
+http://xtfreeme.zapto.org:8091/sandra/sandra/36585
+#EXTINF:-1,IN: Star Gold HD
+http://xtfreeme.zapto.org:8091/sandra/sandra/36586
+#EXTINF:-1,IN: Star Jalsha
+http://xtfreeme.zapto.org:8091/sandra/sandra/36587
+#EXTINF:-1,IN: Star Movies HD*
+http://xtfreeme.zapto.org:8091/sandra/sandra/36588
+#EXTINF:-1,IN: Star Plus HD
+http://xtfreeme.zapto.org:8091/sandra/sandra/36589
+#EXTINF:-1,IN: Star Plus HD*
+http://xtfreeme.zapto.org:8091/sandra/sandra/36590
+#EXTINF:-1,IN: Star Sports 1 HD
+http://xtfreeme.zapto.org:8091/sandra/sandra/36515
+#EXTINF:-1,IN: Star Sports 1 HD
+http://xtfreeme.zapto.org:8091/sandra/sandra/36516
+#EXTINF:-1,IN: Star Sports 2 HD
+http://xtfreeme.zapto.org:8091/sandra/sandra/36513
+#EXTINF:-1,IN: Star Sports 2 HD
+http://xtfreeme.zapto.org:8091/sandra/sandra/36514
+#EXTINF:-1,IN: Star Sports Select 1
+http://xtfreeme.zapto.org:8091/sandra/sandra/36512
+#EXTINF:-1,IN: Ten Sports
+http://xtfreeme.zapto.org:8091/sandra/sandra/36503
+#EXTINF:-1,IN: TV 9 Gujrati
+http://xtfreeme.zapto.org:8091/sandra/sandra/36591
+#EXTINF:-1,IN: UTV Action*
+http://xtfreeme.zapto.org:8091/sandra/sandra/36592
+#EXTINF:-1,IN: UTV Bindass Play
+http://xtfreeme.zapto.org:8091/sandra/sandra/36593
+#EXTINF:-1,IN: UTV Movies
+http://xtfreeme.zapto.org:8091/sandra/sandra/36594
+#EXTINF:-1,IN: VTV News
+http://xtfreeme.zapto.org:8091/sandra/sandra/36595
+#EXTINF:-1,IN: Zee Action
+http://xtfreeme.zapto.org:8091/sandra/sandra/36596
+#EXTINF:-1,IN: Zee Action
+http://xtfreeme.zapto.org:8091/sandra/sandra/36597
+#EXTINF:-1,IN: Zee Anmol
+http://xtfreeme.zapto.org:8091/sandra/sandra/36598
+#EXTINF:-1,IN: Zee Anmol Cinema
+http://xtfreeme.zapto.org:8091/sandra/sandra/36599
+#EXTINF:-1,IN: Zee Cinema HD
+http://xtfreeme.zapto.org:8091/sandra/sandra/36600
+#EXTINF:-1,IN: Zee Classic
+http://xtfreeme.zapto.org:8091/sandra/sandra/36601
+#EXTINF:-1,IN: Zee ETC
+http://xtfreeme.zapto.org:8091/sandra/sandra/36602
+#EXTINF:-1,IN: Zee Kannada
+http://xtfreeme.zapto.org:8091/sandra/sandra/36603
+#EXTINF:-1,IN: Zee Marathi
+http://xtfreeme.zapto.org:8091/sandra/sandra/36604
+#EXTINF:-1,IN: Zee MPCG
+http://xtfreeme.zapto.org:8091/sandra/sandra/36605
+#EXTINF:-1,IN: Zee News
+http://xtfreeme.zapto.org:8091/sandra/sandra/36606
+#EXTINF:-1,IN: Zee Punjab Haryana
+http://xtfreeme.zapto.org:8091/sandra/sandra/36607
+#EXTINF:-1,IN: Zee Punjab Haryana*
+http://xtfreeme.zapto.org:8091/sandra/sandra/36608
+#EXTINF:-1,IN: Zee Talkies
+http://xtfreeme.zapto.org:8091/sandra/sandra/36609
+#EXTINF:-1,IN: Zee Telugu
+http://xtfreeme.zapto.org:8091/sandra/sandra/36610
+#EXTINF:-1,IN: Zee TV HD.
+http://xtfreeme.zapto.org:8091/sandra/sandra/36611
+#EXTINF:-1,IN: Zee TV HD
+http://xtfreeme.zapto.org:8091/sandra/sandra/36612
+#EXTINF:-1,IN: Zoom
+http://xtfreeme.zapto.org:8091/sandra/sandra/36613
+#EXTINF:-1,IN: BBO HD Classic
+http://xtfreeme.zapto.org:8091/sandra/sandra/36614
+#EXTINF:-1,IN: DD Punjabi
+http://xtfreeme.zapto.org:8091/sandra/sandra/36615
+#EXTINF:-1,IN: ETC
+http://xtfreeme.zapto.org:8091/sandra/sandra/36616
+#EXTINF:-1,IN: HTN News
+http://xtfreeme.zapto.org:8091/sandra/sandra/36617
+#EXTINF:-1,IN: Living Food
+http://xtfreeme.zapto.org:8091/sandra/sandra/36618
+#EXTINF:-1,IN: Sony Bbc Earth HD*
+http://xtfreeme.zapto.org:8091/sandra/sandra/36619
+#EXTINF:-1,IN: Sony Max 2
+http://xtfreeme.zapto.org:8091/sandra/sandra/36620
+#EXTINF:-1,IN: Sony Pix HD
+http://xtfreeme.zapto.org:8091/sandra/sandra/36621
 
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" group-title="NEWS",[COLOR slateblue]:: NEWS ::[/COLOR]
@@ -351,108 +453,6 @@ http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 #EXTINF:0, group-title="PUNJABI",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
 
-#EXTINF:-1,PUN | MANORANJAN MOVIES*
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92691
-#EXTINF:-1,PUN | MANORANJAN TV*
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92690
-#EXTINF:-1,PUN | MASTI TV HD*
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92668
-#EXTINF:-1,PUN | MH1 MUSIC*
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92689
-#EXTINF:0, group-title="PUNJABI",Urdu TV Toronto
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="PUNJABI",Pop Pataka
-http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
-#EXTINF:-1,IN: Sony Tv HD
-http://xtfreeme.zapto.org:8091/sandra/sandra/36583
-#EXTINF:-1,IN: Sony Tv HD*
-http://xtfreeme.zapto.org:8091/sandra/sandra/36584
-#EXTINF:-1,IN: Star Bharat*
-http://xtfreeme.zapto.org:8091/sandra/sandra/36585
-#EXTINF:-1,IN: Star Gold HD
-http://xtfreeme.zapto.org:8091/sandra/sandra/36586
-#EXTINF:-1,IN: Star Jalsha
-http://xtfreeme.zapto.org:8091/sandra/sandra/36587
-#EXTINF:-1,IN: Star Movies HD*
-http://xtfreeme.zapto.org:8091/sandra/sandra/36588
-#EXTINF:-1,IN: Star Plus HD
-http://xtfreeme.zapto.org:8091/sandra/sandra/36589
-#EXTINF:-1,IN: Star Plus HD*
-http://xtfreeme.zapto.org:8091/sandra/sandra/36590
-#EXTINF:-1,IN: Star Sports 1 HD
-http://xtfreeme.zapto.org:8091/sandra/sandra/36515
-#EXTINF:-1,IN: Star Sports 1 HD
-http://xtfreeme.zapto.org:8091/sandra/sandra/36516
-#EXTINF:-1,IN: Star Sports 2 HD
-http://xtfreeme.zapto.org:8091/sandra/sandra/36513
-#EXTINF:-1,IN: Star Sports 2 HD
-http://xtfreeme.zapto.org:8091/sandra/sandra/36514
-#EXTINF:-1,IN: Star Sports Select 1
-http://xtfreeme.zapto.org:8091/sandra/sandra/36512
-#EXTINF:-1,IN: Ten Sports
-http://xtfreeme.zapto.org:8091/sandra/sandra/36503
-#EXTINF:-1,IN: TV 9 Gujrati
-http://xtfreeme.zapto.org:8091/sandra/sandra/36591
-#EXTINF:-1,IN: UTV Action*
-http://xtfreeme.zapto.org:8091/sandra/sandra/36592
-#EXTINF:-1,IN: UTV Bindass Play
-http://xtfreeme.zapto.org:8091/sandra/sandra/36593
-#EXTINF:-1,IN: UTV Movies
-http://xtfreeme.zapto.org:8091/sandra/sandra/36594
-#EXTINF:-1,IN: VTV News
-http://xtfreeme.zapto.org:8091/sandra/sandra/36595
-#EXTINF:-1,IN: Zee Action
-http://xtfreeme.zapto.org:8091/sandra/sandra/36596
-#EXTINF:-1,IN: Zee Action
-http://xtfreeme.zapto.org:8091/sandra/sandra/36597
-#EXTINF:-1,IN: Zee Anmol
-http://xtfreeme.zapto.org:8091/sandra/sandra/36598
-#EXTINF:-1,IN: Zee Anmol Cinema
-http://xtfreeme.zapto.org:8091/sandra/sandra/36599
-#EXTINF:-1,IN: Zee Cinema HD
-http://xtfreeme.zapto.org:8091/sandra/sandra/36600
-#EXTINF:-1,IN: Zee Classic
-http://xtfreeme.zapto.org:8091/sandra/sandra/36601
-#EXTINF:-1,IN: Zee ETC
-http://xtfreeme.zapto.org:8091/sandra/sandra/36602
-#EXTINF:-1,IN: Zee Kannada
-http://xtfreeme.zapto.org:8091/sandra/sandra/36603
-#EXTINF:-1,IN: Zee Marathi
-http://xtfreeme.zapto.org:8091/sandra/sandra/36604
-#EXTINF:-1,IN: Zee MPCG
-http://xtfreeme.zapto.org:8091/sandra/sandra/36605
-#EXTINF:-1,IN: Zee News
-http://xtfreeme.zapto.org:8091/sandra/sandra/36606
-#EXTINF:-1,IN: Zee Punjab Haryana
-http://xtfreeme.zapto.org:8091/sandra/sandra/36607
-#EXTINF:-1,IN: Zee Punjab Haryana*
-http://xtfreeme.zapto.org:8091/sandra/sandra/36608
-#EXTINF:-1,IN: Zee Talkies
-http://xtfreeme.zapto.org:8091/sandra/sandra/36609
-#EXTINF:-1,IN: Zee Telugu
-http://xtfreeme.zapto.org:8091/sandra/sandra/36610
-#EXTINF:-1,IN: Zee TV HD.
-http://xtfreeme.zapto.org:8091/sandra/sandra/36611
-#EXTINF:-1,IN: Zee TV HD
-http://xtfreeme.zapto.org:8091/sandra/sandra/36612
-#EXTINF:-1,IN: Zoom
-http://xtfreeme.zapto.org:8091/sandra/sandra/36613
-#EXTINF:-1,IN: BBO HD Classic
-http://xtfreeme.zapto.org:8091/sandra/sandra/36614
-#EXTINF:-1,IN: DD Punjabi
-http://xtfreeme.zapto.org:8091/sandra/sandra/36615
-#EXTINF:-1,IN: ETC
-http://xtfreeme.zapto.org:8091/sandra/sandra/36616
-#EXTINF:-1,IN: HTN News
-http://xtfreeme.zapto.org:8091/sandra/sandra/36617
-#EXTINF:-1,IN: Living Food
-http://xtfreeme.zapto.org:8091/sandra/sandra/36618
-#EXTINF:-1,IN: Sony Bbc Earth HD*
-http://xtfreeme.zapto.org:8091/sandra/sandra/36619
-#EXTINF:-1,IN: Sony Max 2
-http://xtfreeme.zapto.org:8091/sandra/sandra/36620
-#EXTINF:-1,IN: Sony Pix HD
-http://xtfreeme.zapto.org:8091/sandra/sandra/36621
 
 
 #EXTINF:-1 group-title="Religious" tvg-id="" tvg-name="" tvg-logo="",CATHOLIC TV [720p]
