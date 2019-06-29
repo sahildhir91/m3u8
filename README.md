@@ -1,6 +1,6 @@
 #EXTM3U
-
-
+#EXTINF:-1,SETAX HD
+http://domi.boo.si:43956/gwat/smaxhd/playlist.m3u8/wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDE5IDE6NTg6NTYgUE0maGFzaF92YWx1ZT1WY25rSkh6QW0wNDlPQktVc3IrajRnPT0mdmFsaWRtaW51dGVzPTI=
 
 
 
