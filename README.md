@@ -1,9 +1,138 @@
 #EXTM3U
-#EXTINF:-1,IN | SETAX HD
-http://domi.boo.si:43956/gwat/smaxhd/playlist.m3u8/wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDE5IDE6NTg6NTYgUE0maGFzaF92YWx1ZT1WY25rSkh6QW0wNDlPQktVc3IrajRnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:0,Channel 1
+http://144.217.70.223:8080/ABCHD_Eng/index.m3u8
+#EXTINF:0,Channel 2
+http://144.217.70.223:8080/adityatv-Tamil/index.m3u8
+#EXTINF:0,Channel 3
+http://144.217.70.223:8080/ANIMALPLANETHD_Eng/index.m3u8
+#EXTINF:0,Channel 4
+http://144.217.70.223:8080/asianetmoviesdnd-Malayalam/index.m3u8
+#EXTINF:0,Channel 5
+http://144.217.70.223:8080/bahjans_saibaba_hindi/index.m3u8
+#EXTINF:0,Channel 6
+http://144.217.70.223:8080/bhajan_ram/index.m3u8
+#EXTINF:0,Channel 7
+http://144.217.70.223:8080/BRAVOHD_Eng/index.m3u8
+#EXTINF:0,Channel 8
+http://144.217.70.223:8080/captainnews-Tamil/index.m3u8
+#EXTINF:0,Channel 9
+http://144.217.70.223:8080/Cartoon_Network_USA_kids/index.m3u8
+#EXTINF:0,Channel 10
+http://144.217.70.223:8080/CHANNELI-Bang/index.m3u8
+#EXTINF:0,Channel 11
+http://144.217.70.223:8080/CP24HD_Eng/index.m3u8
+#EXTINF:0,Channel 12
+http://144.217.70.223:8080/DISCOVERYHD_Eng/index.m3u8
+#EXTINF:0,Channel 13
+http://144.217.70.223:8080/DISCOVERYHD_USA_Eng/index.m3u8
+#EXTINF:0,Channel 14
+http://144.217.70.223:8080/Discovery_velocity_121_Eng/index.m3u8
+#EXTINF:0,Channel 15
+http://144.217.70.223:8080/Disney_HD_CA_kids/index.m3u8
+#EXTINF:0,Channel 16
+http://144.217.70.223:8080/Disney_XD_HD_kids/index.m3u8
+#EXTINF:0,Channel 17
+http://144.217.70.223:8080/Disney_XD_HD_USA_kids/index.m3u8
+#EXTINF:0,Channel 18
+http://144.217.70.223:8080/GeoSuperPK25/index.m3u8
+#EXTINF:0,Channel 19
+http://144.217.70.223:8080/HLN_Eng/index.m3u8
+#EXTINF:0,Channel 20
+http://144.217.70.223:8080/isaiaruvi-Tamil/index.m3u8
+#EXTINF:0,Channel 21
+http://144.217.70.223:8080/jayamoviesus-Tamil/index.m3u8
+#EXTINF:0,Channel 22
+http://144.217.70.223:8080/jayaplus-Tamil/index.m3u8
+#EXTINF:0,Channel 23
+http://144.217.70.223:8080/jayatv-Tamil/index.m3u8
+#EXTINF:0,Channel 24
+http://144.217.70.223:8080/jayatvus-Tamil/index.m3u8
+#EXTINF:0,Channel 25
+http://144.217.70.223:8080/kids_ppv_1/index.m3u8
+#EXTINF:0,Channel 26
+http://144.217.70.223:8080/kids_ppv_2/index.m3u8
+#EXTINF:0,Channel 27
+http://144.217.70.223:8080/ktv-Tamil/index.m3u8
+#EXTINF:0,Channel 28
+http://144.217.70.223:8080/ktvus-Tamil/index.m3u8
+#EXTINF:0,Channel 29
+http://144.217.70.223:8080/LOVENATUREHD_Eng/index.m3u8
+#EXTINF:0,Channel 30
+http://144.217.70.223:8080/NATGEOHD_Eng/index.m3u8
+#EXTINF:0,Channel 31
+http://144.217.70.223:8080/Nickeloden_West_kids/index.m3u8
+#EXTINF:0,Channel 32
+http://144.217.70.223:8080/Nick_Jr_UK_kids/index.m3u8
+#EXTINF:0,Channel 33
+http://144.217.70.223:8080/NTV_BANG/index.m3u8
+#EXTINF:0,Channel 34
+http://144.217.70.223:8080/OHM_TV_Tamil/index.m3u8
+#EXTINF:0,Channel 35
+http://144.217.70.223:8080/Pirai_Tamil/index.m3u8
+#EXTINF:0,Channel 36
+http://144.217.70.223:8080/ppv_tamilnewsongs/index.m3u8
+#EXTINF:0,Channel 37
+http://144.217.70.223:8080/Prime_ASIA_Pun/index.m3u8
+#EXTINF:0,Channel 38
+http://144.217.70.223:8080/PTCPunjabi-punjabi/index.m3u8
+#EXTINF:0,Channel 39
+http://144.217.70.223:8080/SikhTV-punjabi/index.m3u8
+#EXTINF:0,Channel 40
+http://144.217.70.223:8080/SONYTVHDIND-Hin/index.m3u8
+#EXTINF:0,Channel 41
+http://144.217.70.223:8080/starasianetdnd-Malayalam/index.m3u8
+#EXTINF:0,Channel 42
+http://144.217.70.223:8080/starasianetus-Malayalam/index.m3u8
+#EXTINF:0,Channel 43
+http://144.217.70.223:8080/StarPlusHDIND-Hin/index.m3u8
+#EXTINF:0,Channel 44
+http://144.217.70.223:8080/StarSports_Hd1/index.m3u8
+#EXTINF:0,Channel 45
+http://144.217.70.223:8080/starvijay_link3/index.m3u8
+#EXTINF:0,Channel 46
+http://144.217.70.223:8080/sunmusic-Tamil/index.m3u8
+#EXTINF:0,Channel 47
+http://144.217.70.223:8080/suntv-Tamil/index.m3u8
+#EXTINF:0,Channel 48
+http://144.217.70.223:8080/test_concat/index.m3u8
+#EXTINF:0,Channel 49
+http://144.217.70.223:8080/vo_COLORSHD/index.m3u8
+#EXTINF:0,Channel 50
+http://144.217.70.223:8080/vo_INJUSPUNJABIUSA/index.m3u8
+#EXTINF:0,Channel 51
+http://144.217.70.223:8080/vo_LIFEOK/index.m3u8
+#EXTINF:0,Channel 52
+http://144.217.70.223:8080/vo_PTCPUNJABI/index.m3u8
+#EXTINF:0,Channel 53
+http://144.217.70.223:8080/vo_SABUSA/index.m3u8
+#EXTINF:0,Channel 54
+http://144.217.70.223:8080/vo_SONYHD/index.m3u8
+#EXTINF:0,Channel 55
+http://144.217.70.223:8080/vo_STARPLUSHD/index.m3u8
+#EXTINF:0,Channel 56
+http://144.217.70.223:8080/vo_ZEETVHD/index.m3u8
+#EXTINF:0,Channel 57
+http://144.217.70.223:8080/willowtv2/index.m3u8
+#EXTINF:0,Channel 58
+http://144.217.70.223:8080/YTVHD_kids/index.m3u8
+#EXTINF:0,Channel 59
+http://144.217.70.223:8080/zee-tamil-usa/index.m3u8
+#EXTINF:0,Channel 60
+http://144.217.70.223:8080/zee-Tamil/index.m3u8
+#EXTINF:0,Channel 61
+http://144.217.70.223:8080/ZEE_PUNJABI_HARYANA/index.m3u8
 
-#EXTINF:-1,IN | SONYWAH
-http://190.2.141.189:6185/gaia/sonywah/playlist.m3u8/ ywmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDE5IDI6MTE6MTkgUE0maGFzaF92YWx1ZT1oc0NYUzM1L0gwUjFPTFI3MUl0S0dRPT0mdmFsaWRtaW51dGVzPTI=
+
+
+
+
+
+
+
+#EXTINF:-1,PB - 9X TASHAN
+http://voxtv.dynns.com:8000/punjabi/punjabi/175
+#EXTINF:-1,PB - MH 1
+http://voxtv.dynns.com:8000/punjabi/punjabi/177
 
 #EXTINF:-1,PUN | MANORANJAN MOVIES*
 http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92691
@@ -246,6 +375,8 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 http://210.210.155.35/uq2663/h/h07/index.m3u8
 http://190.2.141.189:6185/gaia/sonypixhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDE5IDExOjQxOjQ0IEFNJmhhc2hfdmFsdWU9K293K1huSTNaV2dEaHl5ZUpYZVBLZz09JnZhbGlkbWludXRlcz0y
 
+#EXTINF:-1,MBC MAX
+http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png" group-title="MOVIE", THRILL (MLY)
