@@ -1,125 +1,81 @@
 #EXTM3U
-#EXTINF:0,Channel 1
+#EXTINF:0,ABCHD
 http://144.217.70.223:8080/ABCHD_Eng/index.m3u8
-#EXTINF:0,Channel 2
+#EXTINF:0,adityatv
 http://144.217.70.223:8080/adityatv-Tamil/index.m3u8
-#EXTINF:0,Channel 3
+#EXTINF:0,ANIMALPLANETHD
 http://144.217.70.223:8080/ANIMALPLANETHD_Eng/index.m3u8
-#EXTINF:0,Channel 4
+#EXTINF:0,asianetmovie
 http://144.217.70.223:8080/asianetmoviesdnd-Malayalam/index.m3u8
-#EXTINF:0,Channel 5
+#EXTINF:0,bahjans_saibaba
 http://144.217.70.223:8080/bahjans_saibaba_hindi/index.m3u8
-#EXTINF:0,Channel 6
+#EXTINF:0,bhajan_ram
 http://144.217.70.223:8080/bhajan_ram/index.m3u8
-#EXTINF:0,Channel 7
+#EXTINF:0,BRAVOHD
 http://144.217.70.223:8080/BRAVOHD_Eng/index.m3u8
-#EXTINF:0,Channel 8
+#EXTINF:0,captainnews
 http://144.217.70.223:8080/captainnews-Tamil/index.m3u8
-#EXTINF:0,Channel 9
+#EXTINF:0,Cartoon_Network
 http://144.217.70.223:8080/Cartoon_Network_USA_kids/index.m3u8
-#EXTINF:0,Channel 10
+#EXTINF:0,CHANNELI-Bang
 http://144.217.70.223:8080/CHANNELI-Bang/index.m3u8
-#EXTINF:0,Channel 11
+#EXTINF:0,CP24HD
 http://144.217.70.223:8080/CP24HD_Eng/index.m3u8
-#EXTINF:0,Channel 12
+#EXTINF:0,DISCOVERYHD
 http://144.217.70.223:8080/DISCOVERYHD_Eng/index.m3u8
-#EXTINF:0,Channel 13
+#EXTINF:0,DISCOVERYHD
 http://144.217.70.223:8080/DISCOVERYHD_USA_Eng/index.m3u8
-#EXTINF:0,Channel 14
+#EXTINF:0,Discovery_velocity
 http://144.217.70.223:8080/Discovery_velocity_121_Eng/index.m3u8
-#EXTINF:0,Channel 15
+#EXTINF:0,Disney_HD
 http://144.217.70.223:8080/Disney_HD_CA_kids/index.m3u8
-#EXTINF:0,Channel 16
+#EXTINF:0,Disney_XD_HD
 http://144.217.70.223:8080/Disney_XD_HD_kids/index.m3u8
-#EXTINF:0,Channel 17
+#EXTINF:0,Disney_XD_HD_USA
 http://144.217.70.223:8080/Disney_XD_HD_USA_kids/index.m3u8
-#EXTINF:0,Channel 18
+#EXTINF:0,GeoSuperPK
 http://144.217.70.223:8080/GeoSuperPK25/index.m3u8
-#EXTINF:0,Channel 19
+#EXTINF:0,HLN
 http://144.217.70.223:8080/HLN_Eng/index.m3u8
-#EXTINF:0,Channel 20
-http://144.217.70.223:8080/isaiaruvi-Tamil/index.m3u8
-#EXTINF:0,Channel 21
-http://144.217.70.223:8080/jayamoviesus-Tamil/index.m3u8
-#EXTINF:0,Channel 22
-http://144.217.70.223:8080/jayaplus-Tamil/index.m3u8
-#EXTINF:0,Channel 23
-http://144.217.70.223:8080/jayatv-Tamil/index.m3u8
-#EXTINF:0,Channel 24
-http://144.217.70.223:8080/jayatvus-Tamil/index.m3u8
-#EXTINF:0,Channel 25
-http://144.217.70.223:8080/kids_ppv_1/index.m3u8
-#EXTINF:0,Channel 26
-http://144.217.70.223:8080/kids_ppv_2/index.m3u8
-#EXTINF:0,Channel 27
-http://144.217.70.223:8080/ktv-Tamil/index.m3u8
-#EXTINF:0,Channel 28
-http://144.217.70.223:8080/ktvus-Tamil/index.m3u8
-#EXTINF:0,Channel 29
+#EXTINF:0,LOVENATUREHD
 http://144.217.70.223:8080/LOVENATUREHD_Eng/index.m3u8
-#EXTINF:0,Channel 30
+#EXTINF:0,NATGEOHD
 http://144.217.70.223:8080/NATGEOHD_Eng/index.m3u8
-#EXTINF:0,Channel 31
+#EXTINF:0,Nickeloden
 http://144.217.70.223:8080/Nickeloden_West_kids/index.m3u8
-#EXTINF:0,Channel 32
+#EXTINF:0,Nick_Jr
 http://144.217.70.223:8080/Nick_Jr_UK_kids/index.m3u8
-#EXTINF:0,Channel 33
-http://144.217.70.223:8080/NTV_BANG/index.m3u8
-#EXTINF:0,Channel 34
-http://144.217.70.223:8080/OHM_TV_Tamil/index.m3u8
-#EXTINF:0,Channel 35
-http://144.217.70.223:8080/Pirai_Tamil/index.m3u8
-#EXTINF:0,Channel 36
-http://144.217.70.223:8080/ppv_tamilnewsongs/index.m3u8
-#EXTINF:0,Channel 37
+#EXTINF:0,Prime_ASIA
 http://144.217.70.223:8080/Prime_ASIA_Pun/index.m3u8
-#EXTINF:0,Channel 38
+#EXTINF:0,PTCPunjabi
 http://144.217.70.223:8080/PTCPunjabi-punjabi/index.m3u8
-#EXTINF:0,Channel 39
-http://144.217.70.223:8080/SikhTV-punjabi/index.m3u8
-#EXTINF:0,Channel 40
+#EXTINF:0,SONYTVHD
 http://144.217.70.223:8080/SONYTVHDIND-Hin/index.m3u8
-#EXTINF:0,Channel 41
-http://144.217.70.223:8080/starasianetdnd-Malayalam/index.m3u8
-#EXTINF:0,Channel 42
-http://144.217.70.223:8080/starasianetus-Malayalam/index.m3u8
-#EXTINF:0,Channel 43
+#EXTINF:0,StarPlusHD
 http://144.217.70.223:8080/StarPlusHDIND-Hin/index.m3u8
-#EXTINF:0,Channel 44
+#EXTINF:0,StarSports
 http://144.217.70.223:8080/StarSports_Hd1/index.m3u8
-#EXTINF:0,Channel 45
-http://144.217.70.223:8080/starvijay_link3/index.m3u8
-#EXTINF:0,Channel 46
-http://144.217.70.223:8080/sunmusic-Tamil/index.m3u8
-#EXTINF:0,Channel 47
-http://144.217.70.223:8080/suntv-Tamil/index.m3u8
-#EXTINF:0,Channel 48
-http://144.217.70.223:8080/test_concat/index.m3u8
-#EXTINF:0,Channel 49
+#EXTINF:0,COLORSH
 http://144.217.70.223:8080/vo_COLORSHD/index.m3u8
-#EXTINF:0,Channel 50
+#EXTINF:0,JUSPUNJABI
 http://144.217.70.223:8080/vo_INJUSPUNJABIUSA/index.m3u8
-#EXTINF:0,Channel 51
+#EXTINF:0,LIFEOK
 http://144.217.70.223:8080/vo_LIFEOK/index.m3u8
-#EXTINF:0,Channel 52
+#EXTINF:0,PTCPUNJABI
 http://144.217.70.223:8080/vo_PTCPUNJABI/index.m3u8
-#EXTINF:0,Channel 53
+#EXTINF:0,SABUSA
 http://144.217.70.223:8080/vo_SABUSA/index.m3u8
-#EXTINF:0,Channel 54
+#EXTINF:0,SONYHD 54
 http://144.217.70.223:8080/vo_SONYHD/index.m3u8
-#EXTINF:0,Channel 55
+#EXTINF:0,STARPLUS 55
 http://144.217.70.223:8080/vo_STARPLUSHD/index.m3u8
-#EXTINF:0,Channel 56
+#EXTINF:0,ZEETVHD
 http://144.217.70.223:8080/vo_ZEETVHD/index.m3u8
-#EXTINF:0,Channel 57
+#EXTINF:0,willowtv
 http://144.217.70.223:8080/willowtv2/index.m3u8
-#EXTINF:0,Channel 58
+#EXTINF:0,YTVHD_kids
 http://144.217.70.223:8080/YTVHD_kids/index.m3u8
-#EXTINF:0,Channel 59
-http://144.217.70.223:8080/zee-tamil-usa/index.m3u8
-#EXTINF:0,Channel 60
-http://144.217.70.223:8080/zee-Tamil/index.m3u8
-#EXTINF:0,Channel 61
+#EXTINF:0,ZEE_PUNJAB
 http://144.217.70.223:8080/ZEE_PUNJABI_HARYANA/index.m3u8
 
 
