@@ -218,7 +218,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/k2/index.m3u8
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:-1,IN: Aaj Tak
 http://xtfreeme.zapto.org:8091/sandra/sandra/36526
-#EXTINF:-1,IN: Abp News
+#EXTINF:-1,IN:/logo/corp/aa/abp_in.png" Abp News
 http://xtfreeme.zapto.org:8091/sandra/sandra/36527
 #EXTINF:-1,NHK WORLD
 http://210.210.155.35/uq2663/h/h23/index.m3u8
