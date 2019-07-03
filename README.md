@@ -1,16 +1,8 @@
 #EXTM3U
 #EXTINF:0,ABCHD
 http://144.217.70.223:8080/ABCHD_Eng/index.m3u8
-#EXTINF:0,adityatv
-http://144.217.70.223:8080/adityatv-Tamil/index.m3u8
 #EXTINF:0,ANIMALPLANETHD
 http://144.217.70.223:8080/ANIMALPLANETHD_Eng/index.m3u8
-#EXTINF:0,asianetmovie
-http://144.217.70.223:8080/asianetmoviesdnd-Malayalam/index.m3u8
-#EXTINF:0,bahjans_saibaba
-http://144.217.70.223:8080/bahjans_saibaba_hindi/index.m3u8
-#EXTINF:0,bhajan_ram
-http://144.217.70.223:8080/bhajan_ram/index.m3u8
 #EXTINF:0,BRAVOHD
 http://144.217.70.223:8080/BRAVOHD_Eng/index.m3u8
 #EXTINF:0,captainnews
