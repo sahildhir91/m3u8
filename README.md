@@ -1,4 +1,54 @@
 #EXTM3U
+#EXTINF:-1,Jio Events 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74763
+#EXTINF:-1,Jio Exclusive 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74762
+#EXTINF:-1,Mastiii 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74706
+#EXTINF:-1,Movies Now 2 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74714
+#EXTINF:-1,Movies Now 2 HD 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74713
+#EXTINF:-1,Movies Now HD 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74715
+#EXTINF:-1,Rishtey 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74653
+#EXTINF:-1,RISHTEY CINEPLEX UK 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74652
+#EXTINF:-1,Romedy Now HD 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74651
+#EXTINF:-1,SAB TV 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74649
+#EXTINF:-1,Sony Max 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74628
+#EXTINF:-1,Sony Mix 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74627
+#EXTINF:-1,Sony Pix HD
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74626
+#EXTINF:-1,Sony SAB 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74625
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0,ABCHD
 http://144.217.70.223:8080/ABCHD_Eng/index.m3u8
 #EXTINF:0,ANIMALPLANETHD
@@ -204,6 +254,8 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
 #EXTINF:-1 tvg-logo="https://kay2.tv/wp-content/uploads/2017/01/logo.png" group-title=" NEWS",Kay2 NEWS
 http://livecdnh1.tvanywhere.ae:80/hls/k2/index.m3u8
+#EXTINF:-1,Republic TV 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74654
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="NEWS",Lahore News
@@ -260,6 +312,10 @@ http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="DOCUMENTARY",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
 
+#EXTINF:-1,Sony BBC Earth HD 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74632
+#EXTINF:-1,TLC Hindi 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74568
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png" group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
@@ -279,10 +335,17 @@ http://210.210.155.35/session/13bc0916-f3fb-11e8-9765-822bbdd32828/dr9445/h/h144
 #EXTINF:-1 tvg-logo="" group-title="KIDS",CARTOON NETWORK
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
+#EXTINF:-1,Sonic Hindi 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74634
+
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="KIDS",Disney Junior (New!)
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
+#EXTINF:-1,Pogo Hindi 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74671
+#EXTINF:-1,Nickelodeon Jr 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74686
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY JUNIOR X
 http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
@@ -310,7 +373,8 @@ http://nguoiviet.tv/blue-ant-extreme/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCBollywoodTV.png" group-title="MOVIE ",MBC Bollywood
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
-
+#EXTINF:-1,WARNER BROTHER 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74521
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIE",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
