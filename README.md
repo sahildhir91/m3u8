@@ -19,15 +19,18 @@ http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74652
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74651
 #EXTINF:-1,SAB TV 
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74649
-#EXTINF:-1,Sony Max 
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74628
-#EXTINF:-1,Sony Mix 
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74627
+#EXTINF:-1,Sony Max HD
+http://185.71.66.10:8080/L9RKnNDiGj/CzQoQKcygM/25998
+#EXTINF:-1,Sony MIX HD
+http://185.71.66.10:8080/L9RKnNDiGj/CzQoQKcygM/45599
 #EXTINF:-1,Sony Pix HD
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74626
 #EXTINF:-1,Sony SAB 
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74625
-
+#EXTINF:-1,Sony Set Max
+http://185.71.66.10:8080/L9RKnNDiGj/CzQoQKcygM/45596
+#EXTINF:-1,Sony TV Asia
+http://185.71.66.10:8080/L9RKnNDiGj/CzQoQKcygM/25996
 
 
 
