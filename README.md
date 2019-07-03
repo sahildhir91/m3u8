@@ -216,9 +216,9 @@ http://livecdnh1.tvanywhere.ae:80/hls/k2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="NEWS",Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
-#EXTINF:-1,IN: Aaj Tak
+#EXTINF:-1,IN: Aaj Tak NEWS
 http://xtfreeme.zapto.org:8091/sandra/sandra/36526
-#EXTINF:-1 tvg-id=" tvg-name="" tvg-logo=""ABPNEWS.jpg"group-title="NEWS" Abp News
+#EXTINF:-1,IN: Abp News
 http://xtfreeme.zapto.org:8091/sandra/sandra/36527
 #EXTINF:-1,NHK WORLD
 http://210.210.155.35/uq2663/h/h23/index.m3u8
