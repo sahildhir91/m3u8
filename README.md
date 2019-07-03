@@ -347,17 +347,11 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF:-1 tvg-logo="HBO" group-title="MOVIE",HBO
 http://218.202.220.2:5000/nn_live.ts?id=HBO
-
 #EXTINF:-1,NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="STARMOVIES" group-title="MOVIE",STAR MOVIES 
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-
-#EXTINF:-1 tvg-logo="STARWORLD" group-title="MOVIE",STAR WORLD 
+#EXTINF:-1 tvg-logo="STAR WORLD" group-title="MOVIE",STAR WORLD 
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 
 #EXTINF:-1 group-title="MOVIE" PREMIUM-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/800px-Universal_Channel_Logo_2013.svg.png",Universal Channel
