@@ -345,7 +345,7 @@ http://45.126.83.51/session/aaa8be4e-f1af-11e8-9483-935a8f875426/uq2663/h/h142/0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="MOVIE", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIE",HBO
+#EXTINF:-1 tvg-logo="HBO" group-title="MOVIE",HBO
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 
 #EXTINF:-1,NBC
@@ -357,7 +357,7 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1 tvg-logo="STARMOVIES" group-title="MOVIE",STAR MOVIES 
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="MOVIE",STAR WORLD 
+#EXTINF:-1 tvg-logo="STARWORLD" group-title="MOVIE",STAR WORLD 
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 
 #EXTINF:-1 group-title="MOVIE" PREMIUM-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/800px-Universal_Channel_Logo_2013.svg.png",Universal Channel
