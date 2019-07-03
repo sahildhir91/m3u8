@@ -354,7 +354,7 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="MOVIE",STAR MOVIES 
+#EXTINF:-1 tvg-logo="STAR MOVIES" group-title="MOVIE",STAR MOVIES 
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/static/img/customize/logo.png" group-title="MOVIE",STAR WORLD 
