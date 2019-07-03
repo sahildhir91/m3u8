@@ -200,7 +200,7 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 #EXTINF:0, tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="NEWS", AL JAZEERA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="" tvg-logo="News",Geo News [360p]
+#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="" tvg-logo="GEO NEWS",Geo News 
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
 
 
