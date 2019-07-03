@@ -207,9 +207,9 @@ http://stream.jeem.tv/geo/geonews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="92 News.jpg" group-title="NEWS",92 News 
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="BLOOMBERG TV", BLOOMBERG TV
+#EXTINF:-1 tvg-logo="BLOOMBER NEWS" group-title="NEWS", BLOOMBERG TV
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 tvg-logo="https://kay2.tv/wp-content/uploads/2017/01/logo.png" group-title=" NEWS",Kay2
+#EXTINF:-1 tvg-logo="https://kay2.tv/wp-content/uploads/2017/01/logo.png" group-title=" NEWS",Kay2 NEWS
 http://livecdnh1.tvanywhere.ae:80/hls/k2/index.m3u8
 
 
