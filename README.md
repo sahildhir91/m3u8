@@ -13,7 +13,7 @@ http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74713
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74715
 #EXTINF:-1,Rishtey 
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74653
-#EXTINF:-1,RISHTEY CINEPLEX UK 
+#EXTINF:-1,RISHTEY CINEPLEX 
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74652
 #EXTINF:-1,Romedy Now HD 
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74651
