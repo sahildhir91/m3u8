@@ -204,7 +204,7 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="92_News.jpg" group-title="NEWS",92 News 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="92 News.jpg" group-title="NEWS",92 News 
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="BLOOMBERG TV", BLOOMBERG TV
