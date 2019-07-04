@@ -300,13 +300,13 @@ https://pastebin.com/Q70AN0JK
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/800px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="DOCUMENTARY ",Animal Planet HD
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 
-#EXTINF:-1, links-iptv.com-US - H 2
+#EXTINF:-1,  H 2
 http://voxtv.dynns.com:8000/USA/USA/2302
 
-#EXTINF:-1, links-iptv.com-US - HISTORY HD
+#EXTINF:-1, HISTORY HD
 http://voxtv.dynns.com:8000/USA/USA/2312
 
-#EXTINF:-1, links-iptv.com-US - NATIONAL GEOGRAPHIC
+#EXTINF:-1,NATIONAL GEOGRAPHIC
 http://voxtv.dynns.com:8000/USA/USA/2323
 
 #EXTINF:0, NASA
