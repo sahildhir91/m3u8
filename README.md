@@ -323,7 +323,7 @@ http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74568
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png" group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
 http://d1cq5wn80firug.cloudfront.net/138229_6149be8cc119444cf115f53e5423011e/m3u8s/138229.m3u8
 
-#EXTINF:-1, links-iptv.com-US - CARTOON NETWORK
+#EXTINF:-1 CARTOON NETWORK
 http://voxtv.dynns.com:8000/USA/USA/2270
 
 #EXTINF:0, tvg-logo="http://areyouafoodie.com/wp-content/uploads/2017/04/Foodie-Logo-FN.png" group-title="KIDS",FOODIE
