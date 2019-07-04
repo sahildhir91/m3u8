@@ -315,9 +315,9 @@ http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="DOCUMENTARY",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
 
-#EXTINF:-1,Sony BBC Earth HD 
+#EXTINF:-1,BBC Earth HD 
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74632
-#EXTINF:-1,TLC Hindi 
+#EXTINF:-1,TLC 
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74568
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png" group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
