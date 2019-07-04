@@ -29,7 +29,7 @@ http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74626
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74625
 #EXTINF:-1,Sony Set Max
 http://185.71.66.10:8080/L9RKnNDiGj/CzQoQKcygM/45596
-#EXTINF:-1,Sony TV Asia
+#EXTINF:-1,SonyTV Asia
 http://185.71.66.10:8080/L9RKnNDiGj/CzQoQKcygM/25996
 
 
