@@ -130,18 +130,18 @@ http://144.217.70.223:8080/ZEE_PUNJABI_HARYANA/index.m3u8
 
 
 
-#EXTINF:-1,PB - 9X TASHAN
+#EXTINF:-1, 9X TASHAN
 http://voxtv.dynns.com:8000/punjabi/punjabi/175
-#EXTINF:-1,PB - MH 1
+#EXTINF:-1 MH 1
 http://voxtv.dynns.com:8000/punjabi/punjabi/177
 
-#EXTINF:-1,PUN | MANORANJAN MOVIES*
+#EXTINF:-1, MANORANJAN MOVIES*
 http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92691
-#EXTINF:-1,PUN | MANORANJAN TV*
+#EXTINF:-1, MANORANJAN TV*
 http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92690
-#EXTINF:-1,PUN | MASTI TV HD*
+#EXTINF:-1, MASTI TV HD*
 http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92668
-#EXTINF:-1,PUN | MH1 MUSIC*
+#EXTINF:-1, MH1 MUSIC*
 http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/92689
 #EXTINF:0, group-title="PUNJABI",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
