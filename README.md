@@ -300,7 +300,7 @@ https://pastebin.com/Q70AN0JK
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/800px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="DOCUMENTARY ",Animal Planet HD
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 
-#EXTINF:-1,  H 2
+#EXTINF:-1,HISTORY 2
 http://voxtv.dynns.com:8000/USA/USA/2302
 
 #EXTINF:-1, HISTORY HD
@@ -338,7 +338,7 @@ http://210.210.155.35/session/13bc0916-f3fb-11e8-9765-822bbdd32828/dr9445/h/h144
 #EXTINF:-1 tvg-logo="" group-title="KIDS",CARTOON NETWORK
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
-#EXTINF:-1,Sonic Hindi 
+#EXTINF:-1,Sonic 
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74634
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY JUNIOR
@@ -376,13 +376,13 @@ http://nguoiviet.tv/blue-ant-extreme/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCBollywoodTV.png" group-title="MOVIE ",MBC Bollywood
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
-#EXTINF:-1,WARNER BROTHER 
+#EXTINF:-1,WB 
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74521
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIE",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
 
-#EXTINF:-1, links-iptv.com-US - BYU TV
+#EXTINF:-1,BYU TV
 http://voxtv.dynns.com:8000/USA/USA/2255
 
 
