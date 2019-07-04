@@ -264,10 +264,10 @@ http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74654
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="NEWS",Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 
-#EXTINF:-1,AAj NEWS
+#EXTINF:-1,Aaj NEWS
 http://xtfreeme.zapto.org:8091/sandra/sandra/36526
 
-#EXTINF:-1,ABPNEWS
+#EXTINF:-1,ABP NEWS
 http://xtfreeme.zapto.org:8091/sandra/sandra/36527
 #EXTINF:-1,NHK WORLD
 http://210.210.155.35/uq2663/h/h23/index.m3u8
