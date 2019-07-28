@@ -547,6 +547,12 @@ http://183.182.100.184/live/pptvthai/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_fight_big1.png?v=2.0.0.11" group-title="SPORTS", FIGHT SPORT
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
 
+#EXTINF:-1,https://flylinks.net,  Fight box HD
+http://162.210.195.121:8080/WWETVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,https://flylinks.net,  Fox Sport2 FHD
+http://162.210.198.17:8080/FoxSports2FHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png" group-title="SPORTS",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
