@@ -263,12 +263,10 @@ http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74654
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="NEWS",Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
+#EXTINF:-1,Gazi TV
+http://globalbd.mywire.org:8081/globe/gazitv/playlist.m3u8
 
-#EXTINF:-1,Aaj NEWS
-http://xtfreeme.zapto.org:8091/sandra/sandra/36526
 
-#EXTINF:-1,ABP NEWS
-http://xtfreeme.zapto.org:8091/sandra/sandra/36527
 #EXTINF:-1,NHK WORLD
 http://210.210.155.35/uq2663/h/h23/index.m3u8
 #EXTINF:0, tvg-logo="http://aitomon.com/wp-content/uploads/2017/05/Channel-NewsAsia.png" group-title="NEWS", CHANNEL NEWS ASIA
@@ -277,8 +275,7 @@ http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MHcgYBr.png" group-title="NEWS",Fox News Channel (Opt-1) (New!)
 http://23.237.22.82:8086/udp/127.0.0.1:56077
 
-#EXTINF:-1,J Channel
-http://210.210.155.35/session/ab482d7a-f3e0-11e8-ba81-ac53b5fd5dd9/qwr9ew/s/s41/01.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dunyanews.tv/images/dunyalogo.png" group-title="NEWS",Dunya TV
 http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
@@ -520,6 +517,11 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 http://23.237.22.82:8086/udp/127.0.0.1:56046
 g-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="SPORTS", MNC Sport
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Star Sports 1
+http://globalbd.mywire.org:8081/globe/starsports1/chunks.m3u8
+
+#EXTINF:-1,Willow
+http://globalbd.mywire.org:8081/globe/willow/playlist.m3u8
 
 #EXTINF:-1,SUPPER SOCCER TV
 http://210.210.155.35/uq2663/h/h20/index.m3u8
