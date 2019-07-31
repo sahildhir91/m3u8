@@ -163,30 +163,17 @@ http://xtfreeme.zapto.org:8091/sandra/sandra/36588
 http://xtfreeme.zapto.org:8091/sandra/sandra/36589
 #EXTINF:-1,IN: Star Plus HD*
 http://xtfreeme.zapto.org:8091/sandra/sandra/36590
-#EXTINF:-1,IN: Star Sports 1 HD
-http://xtfreeme.zapto.org:8091/sandra/sandra/36515
-#EXTINF:-1,IN: Star Sports 1 HD
-http://xtfreeme.zapto.org:8091/sandra/sandra/36516
-#EXTINF:-1,IN: Star Sports 2 HD
-http://xtfreeme.zapto.org:8091/sandra/sandra/36513
-#EXTINF:-1,IN: Star Sports 2 HD
-http://xtfreeme.zapto.org:8091/sandra/sandra/36514
-#EXTINF:-1,IN: Star Sports Select 1
-http://xtfreeme.zapto.org:8091/sandra/sandra/36512
+
 #EXTINF:-1,IN: Ten Sports
 http://xtfreeme.zapto.org:8091/sandra/sandra/36503
-#EXTINF:-1,IN: TV 9 Gujrati
-http://xtfreeme.zapto.org:8091/sandra/sandra/36591
+
 #EXTINF:-1,IN: UTV Action*
 http://xtfreeme.zapto.org:8091/sandra/sandra/36592
 #EXTINF:-1,IN: UTV Bindass Play
 http://xtfreeme.zapto.org:8091/sandra/sandra/36593
 #EXTINF:-1,IN: UTV Movies
 http://xtfreeme.zapto.org:8091/sandra/sandra/36594
-#EXTINF:-1,IN: VTV News
-http://xtfreeme.zapto.org:8091/sandra/sandra/36595
-#EXTINF:-1,IN: Zee Action
-http://xtfreeme.zapto.org:8091/sandra/sandra/36596
+
 #EXTINF:-1,IN: Zee Action
 http://xtfreeme.zapto.org:8091/sandra/sandra/36597
 #EXTINF:-1,IN: Zee Anmol
@@ -492,18 +479,7 @@ http://185.71.66.13:8080/zyTYRQufUL/YBZgSIUHnS/48923
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/us.png" group-title="SPORTS",ESPN
 http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:-1,IN: Star Sports FIRST*
-http://xtfreeme.zapto.org:8091/sandra/sandra/36510
-#EXTINF:-1,IN: Star Sports Select 2*
-http://xtfreeme.zapto.org:8091/sandra/sandra/36511
-#EXTINF:-1,IN: Star Sports 1 HD
-http://xtfreeme.zapto.org:8091/sandra/sandra/36516
-#EXTINF:-1,IN: Star Sports 2 HD
-http://xtfreeme.zapto.org:8091/sandra/sandra/36513
-#EXTINF:-1,IN: Star Sports 2 HD
-http://xtfreeme.zapto.org:8091/sandra/sandra/36514
-#EXTINF:-1,IN: Star Sports Select 1
-http://xtfreeme.zapto.org:8091/sandra/sandra/36512
+
 #EXTINF:-1,IN: Ten Sports
 http://xtfreeme.zapto.org:8091/sandra/sandra/36503
 
@@ -560,17 +536,6 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="SPORTS", ELEVEN SPORT 1
 http://cdn7.woideas.com/tv11.m3u8
-
-
-https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah tv3
-https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg ntv7
-https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar 8tv
-https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0 tv9
-https://www.dailymotion.com/embed/video/x6zvnex				dramasgt
-
-
-
-
 
 
 
