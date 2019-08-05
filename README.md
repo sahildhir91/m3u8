@@ -1,57 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Jio Events 
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74763
-#EXTINF:-1,Jio Exclusive 
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74762
-#EXTINF:-1,Mastiii 
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74706
-#EXTINF:-1,Movies Now 2 
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74714
-#EXTINF:-1,Movies Now 2 HD 
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74713
-#EXTINF:-1,Movies Now HD 
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74715
-#EXTINF:-1,Rishtey 
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74653
-#EXTINF:-1,RISHTEY CINEPLEX 
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74652
-#EXTINF:-1,Romedy Now HD 
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74651
-#EXTINF:-1,SAB TV 
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74649
-#EXTINF:-1,Sony Max HD
-http://185.71.66.10:8080/L9RKnNDiGj/CzQoQKcygM/25998
-#EXTINF:-1,Sony MIX HD
-http://185.71.66.10:8080/L9RKnNDiGj/CzQoQKcygM/45599
-#EXTINF:-1,Sony Pix HD
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74626
-#EXTINF:-1,Sony SAB 
-http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74625
-#EXTINF:-1,Sony Set Max
-http://185.71.66.10:8080/L9RKnNDiGj/CzQoQKcygM/45596
-#EXTINF:-1,SonyTV Asia
-http://185.71.66.10:8080/L9RKnNDiGj/CzQoQKcygM/25996
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:0,ABCHD
 http://144.217.70.223:8080/ABCHD_Eng/index.m3u8
 #EXTINF:0,ANIMALPLANETHD
@@ -123,6 +70,224 @@ http://144.217.70.223:8080/YTVHD_kids/index.m3u8
 #EXTINF:0,ZEE_PUNJAB
 http://144.217.70.223:8080/ZEE_PUNJABI_HARYANA/index.m3u8
 
+#EXTINF:-1,BeinHD: Fox
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/8133.m3u8
+#EXTINF:-1,BeinHD: Fox Movies
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/8130.m3u8
+#EXTINF:-1,BeinHD: Fox Action
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/8131.m3u8
+#EXTINF:-1,BeinHD: Fox Family
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/8132.m3u8
+#EXTINF:-1,BeinHD: Movies Premiere HD1
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/1471.m3u8
+#EXTINF:-1,BeinHD: Movies Action HD2
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/1472.m3u8
+#EXTINF:-1,BeinHD: Movies Drama HD3
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/2677.m3u8
+#EXTINF:-1,BeinHD: Movies Family HD4
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/2776.m3u8
+#EXTINF:-1,BeinHD: Drama
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/9601.m3u8
+#EXTINF:-1,BeinHD: Series 1
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/6108.m3u8
+#EXTINF:-1,BeinHD: Series 2
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/21346.m3u8
+
+#EXTINF:-1,Uk: Sky Movies Action
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/24.m3u8
+#EXTINF:-1,Uk: Sky Movies Thriller
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/944.m3u8
+#EXTINF:-1,Uk: Sky Movies Family
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/27.m3u8
+#EXTINF:-1,Uk: Sky Movies Drama
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/422.m3u8
+#EXTINF:-1,Uk: Sky Movies Disney
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/29.m3u8
+#EXTINF:-1,Uk: Sky Movies Select
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/33.m3u8
+#EXTINF:-1,Uk: Sky Movies Comedy
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/25.m3u8
+#EXTINF:-1,Uk: Sky Movies Premiere
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/31.m3u8
+#EXTINF:-1,Uk: Sky Movies ScFi & Horror
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/32.m3u8
+#EXTINF:-1,Uk: Sky Movies Greats
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/9770.m3u8
+
+#EXTINF:-1,Pakistan: 7 News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3946.m3u8
+#EXTINF:-1,Pakistan: 8xm
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3958.m3u8
+#EXTINF:-1,Pakistan: 92 News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3957.m3u8
+#EXTINF:-1,Pakistan: AAJ Entertainment
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7898.m3u8
+#EXTINF:-1,Pakistan: AAJ News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3956.m3u8
+#EXTINF:-1,Pakistan: Abb Tak
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7886.m3u8
+#EXTINF:-1,Pakistan: Apna
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/4059.m3u8
+#EXTINF:-1,Pakistan: Aruj Tv
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3945.m3u8
+#EXTINF:-1,Pakistan: Ary Digital
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3954.m3u8
+#EXTINF:-1,Pakistan: Ary Digtali
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7897.m3u8
+#EXTINF:-1,Pakistan: Ary Music
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3953.m3u8
+#EXTINF:-1,Pakistan: Ary Musik
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7895.m3u8
+#EXTINF:-1,Pakistan: Ary News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3952.m3u8
+#EXTINF:-1,Pakistan: Ary Qtv
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/4062.m3u8
+#EXTINF:-1,Pakistan: Ary QTY
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7894.m3u8
+#EXTINF:-1,Pakistan: Ary Zauk
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/4056.m3u8
+#EXTINF:-1,Pakistan: Ary Zaiqa
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3951.m3u8
+#EXTINF:-1,Pakistan: Ary Zindagi
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/4057.m3u8
+#EXTINF:-1,Pakistan: ATV
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7893.m3u8
+#EXTINF:-1,Pakistan: Awaz TV
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7892.m3u8
+#EXTINF:-1,Pakistan: Bol
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7891.m3u8
+#EXTINF:-1,Pakistan: Business
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3950.m3u8
+#EXTINF:-1,Pakistan: Business Plus
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7890.m3u8
+#EXTINF:-1,Pakistan: Capital News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3949.m3u8
+#EXTINF:-1,Pakistan: City 42
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7887.m3u8
+#EXTINF:-1,Pakistan: Dawn News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3948.m3u8
+#EXTINF:-1,Pakistan: Din News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3947.m3u8
+#EXTINF:-1,Pakistan: Dunya News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/4061.m3u8
+#EXTINF:-1,Pakistan: Express Entertainment
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7885.m3u8
+#EXTINF:-1,Pakistan: Express News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7884.m3u8
+#EXTINF:-1,Pakistan: Film World
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7883.m3u8
+#EXTINF:-1,Pakistan: GEO ENT
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7882.m3u8
+#EXTINF:-1,Pakistan: Geo Kahani
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7881.m3u8
+#EXTINF:-1,Pakistan: Geo News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3943.m3u8
+#EXTINF:-1,Pakistan: Geo Super
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3961.m3u8
+#EXTINF:-1,Pakistan: Geo Tez
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7880.m3u8
+#EXTINF:-1,Pakistan: Geo Tv
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3942.m3u8
+#EXTINF:-1,Pakistan: Hadi TV
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7879.m3u8
+#EXTINF:-1,Pakistan: Health TV
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7878.m3u8
+#EXTINF:-1,Pakistan: Hum Europe
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7877.m3u8
+#EXTINF:-1,Pakistan: Hum Masala
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7876.m3u8
+#EXTINF:-1,Pakistan: Hum Sitaray
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3940.m3u8
+#EXTINF:-1,Pakistan: Hum Tv
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3939.m3u8
+#EXTINF:-1,Pakistan: Hum World
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3938.m3u8
+#EXTINF:-1,Pakistan: Islam
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/4058.m3u8
+#EXTINF:-1,Pakistan: Jaag
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/4063.m3u8
+#EXTINF:-1,Pakistan: Jalwa
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7873.m3u8
+#EXTINF:-1,Pakistan: Kay 2
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7889.m3u8
+#EXTINF:-1,Pakistan: Khyber News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7871.m3u8
+#EXTINF:-1,Pakistan: Khyber Tv
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7872.m3u8
+#EXTINF:-1,Pakistan: KTN News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7798.m3u8
+#EXTINF:-1,Pakistan: KTN Tv
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7870.m3u8
+#EXTINF:-1,Pakistan: Madani
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3480.m3u8
+#EXTINF:-1,Pakistan: Oxygen
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7866.m3u8
+#EXTINF:-1,Pakistan: Neo News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7852.m3u8
+#EXTINF:-1,Pakistan: News One
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7865.m3u8
+#EXTINF:-1,Pakistan: Pashto 1
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/4053.m3u8
+#EXTINF:-1,Pakistan: Peace TV Urdu
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7864.m3u8
+#EXTINF:-1,Pakistan: Ptv Global
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/4060.m3u8
+#EXTINF:-1,Pakistan: Ptv Home
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/4054.m3u8
+#EXTINF:-1,Pakistan: PTV News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7863.m3u8
+#EXTINF:-1,Pakistan: PTV Sport
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/3960.m3u8
+#EXTINF:-1,Pakistan: Pushto ONE
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7862.m3u8
+#EXTINF:-1,Pakistan: Lahore News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7861.m3u8
+#EXTINF:-1,Pakistan: Roze News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7860.m3u8
+#EXTINF:-1,Pakistan: Samaa News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7859.m3u8
+#EXTINF:-1,Pakistan: Sindh News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7857.m3u8
+#EXTINF:-1,Pakistan: Sindh TV
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7856.m3u8
+#EXTINF:-1,Pakistan: Such TV
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7855.m3u8
+#EXTINF:-1,Pakistan: TIMES
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7853.m3u8
+#EXTINF:-1,Pakistan: TV One
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7858.m3u8
+#EXTINF:-1,Pakistan: Urdu
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/4051.m3u8
+#EXTINF:-1,Pakistan: URDU 1 E
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7851.m3u8
+#EXTINF:-1,Pakistan: Waqt News
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/4055.m3u8
+#EXTINF:-1,Pakistan: Waseb TV
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7850.m3u8
+#EXTINF:-1,Indian:  DD Indian
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/5627.m3u8
+#EXTINF:-1,Indian: & Picture
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/4070.m3u8
+#EXTINF:-1,Indian: & TvHD
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/1510.m3u8
+#EXTINF:-1,Indian: 9x Jalwa
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/1554.m3u8
+#EXTINF:-1,Indian: 9x Jhakaas
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/5632.m3u8
+#EXTINF:-1,Indian: 9x M Music
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/5636.m3u8
+#EXTINF:-1,Indian: AAJTAAK
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7914.m3u8
+#EXTINF:-1,Indian: Aastha Tv
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/5605.m3u8
+#EXTINF:-1,Indian: ABP NEWS
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7906.m3u8
+#EXTINF:-1,Indian: B4U Movies
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/6936.m3u8
+#EXTINF:-1,Indian: B4U Music
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/6937.m3u8
+#EXTINF:-1,Indian: Bangla ABP Annda
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/7793.m3u8
 
 
 
@@ -579,5 +744,37 @@ http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
 http://210.210.155.35/qwr9ew/s/s39/index.m3u8
 
 
+#EXTINF:-1,Jio Events 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74763
+#EXTINF:-1,Jio Exclusive 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74762
+#EXTINF:-1,Mastiii 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74706
+#EXTINF:-1,Movies Now 2 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74714
+#EXTINF:-1,Movies Now 2 HD 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74713
+#EXTINF:-1,Movies Now HD 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74715
+#EXTINF:-1,Rishtey 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74653
+#EXTINF:-1,RISHTEY CINEPLEX 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74652
+#EXTINF:-1,Romedy Now HD 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74651
+#EXTINF:-1,SAB TV 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74649
+#EXTINF:-1,Sony Max HD
+http://185.71.66.10:8080/L9RKnNDiGj/CzQoQKcygM/25998
+#EXTINF:-1,Sony MIX HD
+http://185.71.66.10:8080/L9RKnNDiGj/CzQoQKcygM/45599
+#EXTINF:-1,Sony Pix HD
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74626
+#EXTINF:-1,Sony SAB 
+http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74625
+#EXTINF:-1,Sony Set Max
+http://185.71.66.10:8080/L9RKnNDiGj/CzQoQKcygM/45596
+#EXTINF:-1,SonyTV Asia
+http://185.71.66.10:8080/L9RKnNDiGj/CzQoQKcygM/25996
 
 
