@@ -69,7 +69,10 @@ http://144.217.70.223:8080/willowtv2/index.m3u8
 http://144.217.70.223:8080/YTVHD_kids/index.m3u8
 #EXTINF:0,ZEE_PUNJAB
 http://144.217.70.223:8080/ZEE_PUNJABI_HARYANA/index.m3u8
-
+#EXTINF:-1,Indian: & Picture
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/4070.m3u8
+#EXTINF:-1,Indian: & TvHD
+http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/1510.m3u8
 #EXTINF:-1,BeinHD: Fox
 http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/8133.m3u8
 #EXTINF:-1,BeinHD: Fox Movies
