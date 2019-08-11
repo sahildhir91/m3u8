@@ -540,8 +540,9 @@ http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74521
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIE",MBC 2
 http://63.237.48.9/ios/MBC2/MBC2.m3u8
 
-#EXTINF:-1,BYU TV
-http://voxtv.dynns.com:8000/USA/USA/2255
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eSerFj6.png" group-title="ITALY",Sky Cinema Family
+https://1.ip2stream.icu/live/sky_cinema_family_hd/playlist.m3u8
+
 
 
 #EXTINF: -1, tvg-logo="" group-title="MOVIE", MY CINEMA (MLY)
