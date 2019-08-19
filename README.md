@@ -75,9 +75,6 @@ http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/4070.m3u8
 http://4ever.biz:80/live/9uMzzStXtp/jpzJZ9ZVgG/1510.m3u8
 
 
-
-
-
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" group-title="NEWS",[COLOR slateblue]:: NEWS ::[/COLOR]
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8(SD)
 
