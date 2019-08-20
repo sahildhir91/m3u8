@@ -179,8 +179,19 @@ http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 #EXTINF:-1,WB 
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74521
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIE",MBC 2
-http://63.237.48.9/ios/MBC2/MBC2.m3u8
+#EXTINF:-1,FOX ACTION MOVIES HD 
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/373
+#EXTINF:-1,FOX CRIME 
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/374
+#EXTINF:-1,FOX FAMILY MOVIES 
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/375
+#EXTINF:-1,FOX HD
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/376
+#EXTINF:-1,FOX MOVIES 
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/377
+#EXTINF:-1,FOX MOVIES HD 
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/378
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eSerFj6.png" group-title="MOVIE",Sky Cinema Family
 https://1.ip2stream.icu/live/sky_cinema_family_hd/playlist.m3u8
