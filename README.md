@@ -144,6 +144,8 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1,TRAVEL XP – NEW
 http://46.166.142.124:8000/carmine1/carmine1/59402
+#EXTINF:-1,DESTINATION AMERICA HD
+http://46.166.142.124:8000/carmine1/carmine1/7482
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/800px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="DOCUMENTARY ",Animal Planet HD
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
