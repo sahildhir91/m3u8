@@ -1,4 +1,88 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="hhttps://static.iptv-epg.com/in/StarBharat.in.png" group-title="Hindi(??????)", Star Bharat
+https://akamai.anytv.live/StarBharatHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="Hindi(??????)", Star Plus
+http://130.185.150.79:1935/trunk/STAR-PLUS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyBBCEarth.in.png" group-title="Hindi(??????)", Sony BBC Earth
+http://live.airtel.tv/sonybbcearthhd/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/255px-SET_India.jpg" group-title="Hindi(??????)", Sony ETV
+http://130.185.150.79:1935/trunk/SONY-HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyMax.in.png" group-title="Hindi(??????)", Sony Max
+http://live.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyMax2.in.png" group-title="Hindi(??????)", Sony Max 2
+http://live.airtel.tv/sonymax2/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyMIX.in.png" group-title="Hindi(??????)", Sony Mix
+http://live.airtel.tv/sonymix/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonySAB.in.png" group-title="Hindi(??????)", Sony SAB
+http://live.airtel.tv/sonysab/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyWah.in.png" group-title="Hindi(??????)", Sony Wah
+http://live.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://753619.smushcdn.com/1323606/wp-content/uploads/2019/04/logo_site-768x345.png?lossy=1&strip=1&webp=1" group-title="Hindi(??????)",  The Q (India)
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Wow_Cinema.png" group-title="Hindi(??????)", Wow Music
+http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.asianetmobiletv.com/channels/zoom.png" group-title="Hindi(??????)",  Zoom
+https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_nav.png" group-title="Hindi(??????)", Zee News
+http://pockettv.xyz/api/zee.m3u8?c=zeenews
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeTV.in.png" group-title="Hindi(??????)",    Zee TV
+http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/Zee-Anmol-Logo.jpg" group-title="Hindi(??????)",   Zee Anmol
+http://pockettv.xyz/api/zee.m3u8?c=zeeanmol
+#EXTINF:-1 tvg-logo="http://tv.ctgix.net/wp-content/uploads/2018/06/zeeaction.png" group-title="Hindi(??????)", Zee Action
+http://pockettv.xyz/api/zee.m3u8?c=action
+#EXTINF:-1 tvg-logo="http://www.sustainabilitystandards.in/wp-content/uploads/2017/11/Zee-Business-CS6-1110x550.png" group-title="Hindi(??????)", Zee Business
+http://pockettv.xyz/api/zee.m3u8?c=zeebusiness
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Zee_Bihar_Jharkhand_New_Logo.jpg" group-title="Hindi(??????)", Zee Bihar 
+http://pockettv.xyz/api/zee.m3u8?c=biharjharkh
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeCinema.in.png" group-title="Hindi(??????)",   Zee Cinema
+http://130.185.150.79:1935/trunk/ZEE-CINEMA/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.adageindia.in/photo/67267494/zeel-to-bring-back-zee-classic-in-ad-free-vod-format.jpg" group-title="Hindi(??????)",  Zee Classic
+http://pockettv.xyz/api/zee.m3u8?c=classic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Zee_Hindustan_logo.jpeg" group-title="Hindi(??????)",    Zee Hindustan
+http://pockettv.xyz/api/zee.m3u8?c=hindustan
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemadhyapradeshchat/list/170x170/zeemp_386x386_1504116384.png" group-title="Hindi(??????)",  Zee MPC
+http://pockettv.xyz/api/zee.m3u8?c=newsmpcg
+#EXTINF:-1 tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/12/15/765566-zee-news-logo.jpg" group-title="Hindi(??????)",  Zee News
+http://pockettv.xyz/api/zee.m3u8?c=zeenews
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Zee_rajasthan.jpg" group-title="Hindi(??????)",    Zee Rajasthan
+http://pockettv.xyz/api/zee.m3u8?c=rajasthan
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/943351602857086977/Ct30aWZv_400x400.jpg" group-title="Hindi(??????)",     Zee Uttar Pradesh
+http://pockettv.xyz/api/zee.m3u8?c=zeenewsupuk
+#EXTINF:-1 tvg-logo="http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/10/02/Tv-gec_0.jpg" group-title="Hindi(??????)", Zing
+http://pockettv.xyz/api/zee.m3u8?c=zing
+#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925599064s.jpg" group-title="Hindi(??????)",Big Magic
+http://pockettv.xyz/api/zee.m3u8?c=bigmagic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png" group-title="Hindi(??????)", BFlix Movies
+http://130.185.150.79:1935/trunk/Bflix-Movies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2017/03/b4umovies001.jpg" group-title="Hindi(??????)", B4U Movies
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Hindi(??????)", B4U Music
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Colors.in.png" group-title="Hindi(??????)",  Colors
+https://akamai.anytv.live/ColorsHHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.asianetmobiletv.com/channels/ccc.png" group-title="Hindi(??????)", CCC TV
+https://acv.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="Hindi(??????)", CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:low,fl_lossy/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1519040543_COLORS-HINDI.png" group-title="Hindi(??????)", Colors
+http://103.205.133.44:1935/ns/COLORSINDIAHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi(??????)", &  Pictures
+http://pockettv.xyz/api/zee.m3u8?c=andpicshd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,brt sprort HD
 http://89.38.97.48:8080/TV2430
 #EXTINF:-1,OSN Series
