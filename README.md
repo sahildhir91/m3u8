@@ -313,11 +313,15 @@ http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="DOCUMENTARY",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1,BBC EARTH [KP]
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/347
 
 #EXTINF:-1,BBC Earth HD 
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74632
 #EXTINF:-1,TLC 
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74568
+#EXTINF:-1,TLC 
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/447
 
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/filem_1.png" group-title="MOVIE",[COLOR springgreen]:: FAMILY ::[/COLOR]
@@ -340,6 +344,8 @@ http://iptvhit.live/jalurlaut/admin/jalanjalan1/376
 http://iptvhit.live/jalurlaut/admin/jalanjalan1/377
 #EXTINF:-1,FOX MOVIES HD 
 http://iptvhit.live/jalurlaut/admin/jalanjalan1/378
+#EXTINF:-1,FOXLIFE HD [KP]
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/455
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/horrorchannel.png" group-title="Movie", Horror Channel
 https://live2.hoolatv.com/live/horrorchannel_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AXN.kr.png" group-title="Movie", AXN Asia
