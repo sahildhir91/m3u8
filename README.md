@@ -342,8 +342,7 @@ http://iptvhit.live/jalurlaut/admin/jalanjalan1/377
 http://iptvhit.live/jalurlaut/admin/jalanjalan1/378
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eSerFj6.png" group-title="MOVIE",Sky Cinema Family
-https://1.ip2stream.icu/live/sky_cinema_family_hd/playlist.m3u8
+
 #EXTINF:-1,STAR MOVIES FHD
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
 #EXTINF:-1,STAR WORLD FHD
