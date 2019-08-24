@@ -619,7 +619,8 @@ http://50.7.161.82:8278/Shuangxing/playlist.m3u8?tid=m02000000000012074147&ct=17
 http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1725
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/325_300.png" group-title="Singapore/Malaysia",Astro ???
 http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1714
-
+#EXTINF:-1,BOOMERANG [KP]
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/350
 
 
 
