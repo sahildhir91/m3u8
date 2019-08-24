@@ -340,7 +340,12 @@ http://iptvhit.live/jalurlaut/admin/jalanjalan1/376
 http://iptvhit.live/jalurlaut/admin/jalanjalan1/377
 #EXTINF:-1,FOX MOVIES HD 
 http://iptvhit.live/jalurlaut/admin/jalanjalan1/378
-
+#EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/horrorchannel.png" group-title="Movie", Horror Channel
+https://live2.hoolatv.com/live/horrorchannel_hi/chunks.m3u8?__fvd__
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AXN.kr.png" group-title="Movie", AXN Asia
+http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
+#EXTINF:-1,CINEMAX HD
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/361
 
 
 #EXTINF:-1,STAR MOVIES FHD
