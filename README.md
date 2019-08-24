@@ -45,10 +45,7 @@ http://pockettv.xyz/api/zee.m3u8?c=hindustan
 http://pockettv.xyz/api/zee.m3u8?c=newsmpcg
 #EXTINF:-1 tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/12/15/765566-zee-news-logo.jpg" group-title="Hindi(??????)",  Zee News
 http://pockettv.xyz/api/zee.m3u8?c=zeenews
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Zee_rajasthan.jpg" group-title="Hindi(??????)",    Zee Rajasthan
-http://pockettv.xyz/api/zee.m3u8?c=rajasthan
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/943351602857086977/Ct30aWZv_400x400.jpg" group-title="Hindi(??????)",     Zee Uttar Pradesh
-http://pockettv.xyz/api/zee.m3u8?c=zeenewsupuk
+
 #EXTINF:-1 tvg-logo="http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/10/02/Tv-gec_0.jpg" group-title="Hindi(??????)", Zing
 http://pockettv.xyz/api/zee.m3u8?c=zing
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925599064s.jpg" group-title="Hindi(??????)",Big Magic
@@ -59,13 +56,12 @@ http://130.185.150.79:1935/trunk/Bflix-Movies/playlist.m3u8
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Hindi(??????)", B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Colors.in.png" group-title="Hindi(??????)",  Colors
-https://akamai.anytv.live/ColorsHHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.asianetmobiletv.com/channels/ccc.png" group-title="Hindi(??????)", CCC TV
 https://acv.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="Hindi(??????)", CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:low,fl_lossy/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1519040543_COLORS-HINDI.png" group-title="Hindi(??????)", Colors
+
 http://103.205.133.44:1935/ns/COLORSINDIAHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi(??????)", &  Pictures
 http://pockettv.xyz/api/zee.m3u8?c=andpicshd
@@ -312,11 +308,7 @@ http://46.166.142.124:8000/carmine1/carmine1/7482
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/800px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="DOCUMENTARY ",Animal Planet HD
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 
-#EXTINF:-1,HISTORY 2
-http://voxtv.dynns.com:8000/USA/USA/2302
 
-#EXTINF:-1, HISTORY HD
-http://voxtv.dynns.com:8000/USA/USA/2312
 
 #EXTINF:-1,NATIONAL GEOGRAPHIC
 http://voxtv.dynns.com:8000/USA/USA/2323
