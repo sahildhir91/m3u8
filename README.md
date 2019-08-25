@@ -38,6 +38,11 @@ http://pockettv.xyz/api/zee.m3u8?c=zeebusiness
 http://130.185.150.79:1935/trunk/ZEE-CINEMA/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.adageindia.in/photo/67267494/zeel-to-bring-back-zee-classic-in-ad-free-vod-format.jpg" group-title="Hindi",  Zee Classic
 http://pockettv.xyz/api/zee.m3u8?c=classic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="Hindi",9XO
+http://pockettv.xyz/api/zee.m3u8?c=9xo
+#EXTINF:-1 tvg-logo="https://static.spuul.com/uploads/v2/image/source/9215/552ffff917_9x-Jalwa.png" group-title="Hindi",9x Jalwa
+http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
+#EXTINF:-1 tvg-logo="http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/04/22/9xm_new.jpg" group-title="Hindi",9XM
 
 
 #EXTINF:-1 tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/12/15/765566-zee-news-logo.jpg" group-title="Hindi",  Zee News
@@ -331,7 +336,8 @@ http://nguoiviet.tv/blue-ant-extreme/
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 #EXTINF:-1,WB 
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74521
-
+#EXTINF:0 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe.png" group-title="Hindi", Zee Cafe
+http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
 #EXTINF:-1,FOX ACTION MOVIES HD 
 http://iptvhit.live/jalurlaut/admin/jalanjalan1/373
 #EXTINF:-1,FOX CRIME 
