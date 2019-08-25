@@ -17,6 +17,11 @@ http://live.airtel.tv/sonymix/smil:common.smil/chunklist_b896000_sleng.m3u8
 http://live.airtel.tv/sonysab/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyWah.in.png" group-title="Hindi", Sony Wah
 http://live.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1,AND TV HD
+http://voxtv.dynns.com:8000/movies/movies/141
+#EXTINF:-1,HD COLORS TV HD
+http://voxtv.dynns.com:8000/movies/movies/122
+
 #EXTINF:-1 tvg-logo="https://753619.smushcdn.com/1323606/wp-content/uploads/2019/04/logo_site-768x345.png?lossy=1&strip=1&webp=1" group-title="Hindi",  The Q (India)
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Wow_Cinema.png" group-title="Hindi", Wow Music
