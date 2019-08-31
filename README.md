@@ -312,6 +312,10 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/800px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="DOCUMENTARY ",Animal Planet HD
 http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1,DISCOVERY ASIA HD [KP]
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/365
+#EXTINF:-1,DISCOVERY CHANNEL [KP]
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/366
 
 
 
@@ -343,6 +347,7 @@ http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74521
 #EXTINF:0 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe.png" group-title="Hindi", Zee Cafe
 http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
+
 #EXTINF:-1,FOX ACTION MOVIES HD 
 http://iptvhit.live/jalurlaut/admin/jalanjalan1/373
 #EXTINF:-1,FOX CRIME 
@@ -363,18 +368,12 @@ https://live2.hoolatv.com/live/horrorchannel_hi/chunks.m3u8?__fvd__
 http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
 #EXTINF:-1,CINEMAX HD
 http://iptvhit.live/jalurlaut/admin/jalanjalan1/361
-
-
 #EXTINF:-1,STAR MOVIES FHD
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
 #EXTINF:-1,STAR WORLD FHD
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
-
-
-
 #EXTINF: -1, tvg-logo="" group-title="MOVIE", MY CINEMA (MLY)
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="MOVIE", KIX (MLY)
 http://210.210.155.35/uq2663/h/h07/index.m3u8
 http://190.2.141.189:6185/gaia/sonypixhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDE5IDExOjQxOjQ0IEFNJmhhc2hfdmFsdWU9K293K1huSTNaV2dEaHl5ZUpYZVBLZz09JnZhbGlkbWludXRlcz0y
@@ -394,12 +393,15 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF:-1 tvg-logo="HBO" group-title="MOVIE",HBO
 http://218.202.220.2:5000/nn_live.ts?id=HBO
+
+#EXTINF:-1,HBO HD [KP]
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/389
+
+#EXTINF:-1,AXN [KP]
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/345
+
 #EXTINF:-1,NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-#EXTINF:-1 tvg-logo="STARMOVIES" group-title="MOVIE",STAR MOVIES 
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1 tvg-logo="STAR WORLD" group-title="MOVIE",STAR WORLD 
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 
 #EXTINF:-1 group-title="MOVIE" PREMIUM-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/800px-Universal_Channel_Logo_2013.svg.png",Universal Channel
 http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
