@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Hindi",Star Vijay
+http://54.39.124.28/pro.php/http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
 #EXTINF:-1 tvg-logo="hhttps://static.iptv-epg.com/in/StarBharat.in.png" group-title="Hindi", Star Bharat
 https://akamai.anytv.live/StarBharatHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="Hindi", Star Plus
