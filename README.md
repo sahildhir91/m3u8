@@ -388,8 +388,9 @@ http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 #EXTINF:0, tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/11/Sony-Channel.jpg" group-title="MOVIE",SONY CHANNEL
 http://45.126.83.51/session/aaa8be4e-f1af-11e8-9483-935a8f875426/uq2663/h/h142/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="MOVIE", HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-name="" tvg-logo="",HBO2 [720p]
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+
 
 #EXTINF:-1 tvg-logo="HBO" group-title="MOVIE",HBO
 http://218.202.220.2:5000/nn_live.ts?id=HBO
