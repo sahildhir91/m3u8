@@ -374,6 +374,8 @@ http://iptvhit.live/jalurlaut/admin/jalanjalan1/361
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
 #EXTINF:-1,STAR WORLD FHD
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GylvfMQ.png" group-title="Movies",Star Movies HD India
+https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1, tvg-logo="" group-title="MOVIE", MY CINEMA (MLY)
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="MOVIE", KIX (MLY)
