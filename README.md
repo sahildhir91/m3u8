@@ -1,4 +1,15 @@
 #EXTM3U
+#EXTINF:-1,MALAYSIA:TV1
+http://universeiptv.com:8000/beehive/beehive2019/7894
+#EXTINF:-1,MALAYSIA:TV2
+http://universeiptv.com:8000/beehive/beehive2019/7893
+#EXTINF:-1,MALAYSIA:TV3
+http://universeiptv.com:8000/beehive/beehive2019/7892
+#EXTINF:-1,MALAYSIA:TV8
+http://universeiptv.com:8000/beehive/beehive2019/38558
+#EXTINF:-1,MALAYSIA:TV9
+http://universeiptv.com:8000/beehive/beehive2019/7891
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Hindi",Star Vijay
 http://54.39.124.28/pro.php/http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_2000.m3u8
 #EXTINF:-1 tvg-logo="hhttps://static.iptv-epg.com/in/StarBharat.in.png" group-title="Hindi", Star Bharat
