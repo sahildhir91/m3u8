@@ -290,6 +290,8 @@ http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 http://23.237.22.82:8086/udp/127.0.0.1:56077
 
 
+#EXTINF:-1 tvg-id="21f41214e909f239615092bfe50fa353",BOL NEWS URDU
+http://221.132.113.234:9981/stream/channelid/336786465?ticket=5723460130D4E4E3D0081D30E56D8A9BE83A0DD4&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dunyanews.tv/images/dunyalogo.png" group-title="NEWS",Dunya TV
 http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
