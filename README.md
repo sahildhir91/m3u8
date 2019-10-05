@@ -355,6 +355,7 @@ http://iptvhit.live/jalurlaut/admin/jalanjalan1/447
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/filem_1.png" group-title="MOVIE",[COLOR springgreen]:: FAMILY ::[/COLOR]
 http://nguoiviet.tv/blue-ant-extreme/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" group-title="MOVIE",Romedy Now
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCBollywoodTV.png" group-title="MOVIE ",MBC Bollywood
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
@@ -387,17 +388,20 @@ http://iptvhit.live/jalurlaut/admin/jalanjalan1/361
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
 #EXTINF:-1,STAR WORLD FHD
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/movies_now.png" group-title="Movies",Movies Now
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/movies_now.png" group-title="MOVIE",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 tvg-id="Rai Premium IT" tvg-name="Rai Premium IT" tvg-logo="https://i.imgur.com/s5CnlRh.jpg" group-title="Movies",Rai Premium
+#EXTINF:-1 tvg-id="Rai Premium IT" tvg-name="Rai Premium IT" tvg-logo="https://i.imgur.com/s5CnlRh.jpg" group-title="MOVIE",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GylvfMQ.png" group-title="Movies",Star Movies HD India
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GylvfMQ.png" group-title="Movies",Star MOVIE HD India
 https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1, tvg-logo="" group-title="MOVIE", MY CINEMA (MLY)
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="MOVIE", KIX (MLY)
 http://210.210.155.35/uq2663/h/h07/index.m3u8
 http://190.2.141.189:6185/gaia/sonypixhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDE5IDExOjQxOjQ0IEFNJmhhc2hfdmFsdWU9K293K1huSTNaV2dEaHl5ZUpYZVBLZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MOVIE",MBC 2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
+
 
 #EXTINF:-1,MBC MAX
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
