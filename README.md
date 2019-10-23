@@ -143,6 +143,10 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:0 tvg-name="ID: Animax HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" tvg-id="animax" group-title="KIDS" tvg-shift="+0",ID: Animax HD
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+#EXTINF:0 tvg-name="ID: Aniplus HD" tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" tvg-id="aniplus" group-title="KIDS" tvg-shift="+0",ID: Aniplus HD
+http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="KIDS",Tom and Jerry
 http://opus.cf/allfrtvstrm/tkn/tetj/i/index.m3u8
@@ -168,9 +172,24 @@ http://45.126.83.51/dr9445/h/h02/01.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/filem_1.png" group-title="MOVIE",[COLOR springgreen]:: FAMILY ::[/COLOR]
 https://pastebin.com/raw/ZzGTySZE/FLUXUSTV
+#EXTINF:0 tvg-name="ID: AXN" tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" tvg-id="" group-title="MOVIE" tvg-shift="+0",ID: AXN HD
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MOVIE",MBC 2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
+#EXTINF:-1,MBC MAX
+http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
+#EXTINF:0 tvg-name="ID: HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" tvg-id="" group-title="MOVIE" tvg-shift="+0",ID: HBO
+http://203.207.56.228/live/iptv005.m3u8
+#EXTINF:0 tvg-name="ID: KiX HD" tvg-logo="https://i.imgur.com/KMPI8qI.png" tvg-id="" group-title="MOVIE" tvg-shift="+0",ID: KiX HD
+http://210.210.155.35/uq2663/h/h07/01.m3u8
+#EXTINF:0 tvg-name="ID: Thrill HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" tvg-id="" group-title="MOVIE" tvg-shift="+0",ID: Thrill HD
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png" group-title="MOVIE",MBC 2
-http://63.237.48.9/ios/MBC2/MBC2.m3u8
+
+#EXTINF:0 tvg-name="ID: CELESTIAL MOVIES HD" tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" tvg-id="" group-title="MOVIE" tvg-shift="+0",ID: CELESTIAL MOVIES HD
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+#EXTINF:0 tvg-name="ID: CinemaWorld HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/cinema-world-lg.jpg" tvg-id="" group-title="MOVIE" tvg-shift="+0",ID: CinemaWorld HD
+http://210.210.155.35/uq2663/h/h04/01.m3u8
 
 #EXTINF: -1, tvg-logo="" group-title="MOVIE", MY CINEMA (MLY)
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
