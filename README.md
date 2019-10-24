@@ -206,9 +206,8 @@ http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="MOVIE",HBO
 http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="MOVIE", HBO 2
-==
-
+#EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-name="" tvg-logo="",HBO2 [720p]
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="MOVIE", FOX PREMIUM CINEMA
 ==
 
