@@ -177,6 +177,12 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:0 tvg-name="ID: Aniplus HD" tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" tvg-id="aniplus" group-title="KIDS" tvg-shift="+0",ID: Aniplus HD
 http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Disney_Channel (EN)
+https://194.204.46.137/live/eds/Disney_Channel/HLS_encr/Disney_Channel-audio_20000=96000-video=2200000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Disney_Junior (EN)
+https://194.204.46.137/live/eds/Disney_Junior/HLS_encr/Disney_Junior-audio_20002=96000-video=2200000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Disney_Channel (EN)
+https://194.204.46.137/live/eds/Disney_Channel/HLS_encr/Disney_Channel-audio_20000=96000-video=2200000.m3u8
 
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="KIDS",Tom and Jerry
 http://opus.cf/allfrtvstrm/tkn/tetj/i/index.m3u8
