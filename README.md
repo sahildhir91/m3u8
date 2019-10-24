@@ -125,6 +125,11 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8?fluxustv.m3u8
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/BBC_World_News-1.png" group-title="NEWS",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BBC
+http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CNN
+http://185.176.117.243/live/eds/CNN/HLS_encr/CNN.m3u8
+
 #EXTINF:-1 tvg-logo="https://kay2.tv/wp-content/uploads/2017/01/logo.png" group-title=" NEWS",Kay2 NEWS
 http://livecdnh1.tvanywhere.ae:80/hls/k2/index.m3u8
 
