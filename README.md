@@ -343,6 +343,8 @@ http://ott-cdn.ucom.am/s81/03.m3u8
 
 #EXTINF:-1, group-title="SPORTS", PPTV 36
 ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg" group-title="SPORTS",D Sport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_fight_big1.png?v=2.0.0.11" group-title="SPORTS", FIGHT SPORT
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
