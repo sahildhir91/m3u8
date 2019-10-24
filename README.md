@@ -207,7 +207,21 @@ http://203.207.56.228/live/iptv005.m3u8
 http://210.210.155.35/uq2663/h/h07/01.m3u8
 #EXTINF:0 tvg-name="ID: Thrill HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" tvg-id="" group-title="MOVIE" tvg-shift="+0",ID: Thrill HD
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
-
+#EXTINF:-1,STAR MOVIES FHD
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
+#EXTINF:-1,STAR WORLD FHD
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/movies_now.png" group-title="MOVIE",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:-1 tvg-id="Rai Premium IT" tvg-name="Rai Premium IT" tvg-logo="https://i.imgur.com/s5CnlRh.jpg" group-title="MOVIE",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" group-title="MOVIE",Romedy Now
+#EXTINF:-1,NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIE",&Flix
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+#EXTINF:-1 tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="MOVIE",&Prive
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 
 #EXTINF:0 tvg-name="ID: CELESTIAL MOVIES HD" tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" tvg-id="" group-title="MOVIE" tvg-shift="+0",ID: CELESTIAL MOVIES HD
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
