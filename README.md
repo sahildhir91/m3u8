@@ -108,7 +108,18 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" group-title="NEWS",[COLOR slateblue]:: NEWS ::[/COLOR]
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8(SD)
 
-#EXTINF:0, tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="NEWS", AL JAZEERA
+#EXTINF:-1 tvg-id="21f41214e909f239615092bfe50fa353",BOL NEWS URDU
+http://221.132.113.234:9981/stream/channelid/336786465?ticket=5723460130D4E4E3D0081D30E56D8A9BE83A0DD4&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="92 News.jpg" group-title="NEWS",92 News 
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="NEWS",Lahore News
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="" tvg-logo="GEO NEWS",Geo News 
+http://stream.jeem.tv/geo/geonews/playlist.m3u8
+
+#EXTINF:0, tv#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dunyanews.tv/images/dunyalogo.png" group-title="NEWS",Dunya TV
+http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
+g-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="NEWS", AL JAZEERA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS", BLOOMBERG TV
