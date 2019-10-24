@@ -140,8 +140,7 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 https://pastebin.com/Q70AN0JK
 #EXTINF:-1,Nat geo wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1,nat_geo
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+
 #EXTINF:-1,National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="DOCUMENTARY",H2
