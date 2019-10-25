@@ -1,4 +1,83 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singapore/Malaysia", Channel 5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#EXTINF:0 tvg-logo="https://video.toggle.sg/image/5166818/16x9/236/133/a6eec7dcb1648300cfbaa9a076b4fce8/jV/channel-8.png" group-title="Singapore/Malaysia",8?? (Ch 8)
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:0 tvg-logo="https://video.toggle.sg/image/5308024/16x9/236/133/38aa7e2b749478c4bba097b540b93720/TN/channel-u.png" group-title="Singapore/Malaysia", U?? (Ch U)
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+#EXTINF:0 tvg-logo="https://video.toggle.sg/image/11392878/16x9/236/133/136b251885c179748ce154d52f50a25f/zp/cna.png" group-title="Singapore/Malaysia",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="Singapore/Malaysia",Suria
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:0 tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="Singapore/Malaysia", ??????? (Vasantham)
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+#EXTINF:0 tvg-logo="https://tv.toggle.sg/blob/11491578/7f4aa2f2af43777e0880c10acdbbb836/header3-data.jpg" group-title="Singapore/Malaysia",OKTO on 5
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="Singapore/Malaysia",RTM 1
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Singapore/Malaysia",RTM 2
+http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="Singapore/Malaysia", RTM Okey
+http://rtm1mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Radio_Televisyen_Malaysia.svg/1200px-Radio_Televisyen_Malaysia.svg.png" group-title="Singapore/Malaysia", RTM Saluran Berita
+http://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b3696000.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png"  group-title="Singapore/Malaysia", RTM Sports
+http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+#EXTINF:0 tvg-logo="https://rtmparlimen.rtm.gov.my/images/header.png"  group-title="Singapore/Malaysia", RTM Parlimen
+http://parlimennegaramobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b3696000.m3u8
+#EXTINF:0 tvg-logo="https://www.xtra.com.my/img/logo/tv3.png" group-title="Singapore/Malaysia", TV3
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZCFoH_ixyL1rWCIkzLmR2s)/dm/3/x6qp375/d/live-4.m3u8
+#EXTINF:0 tvg-logo="https://www.xtra.com.my/img/logo/ntv7.png" group-title="Singapore/Malaysia", NTV7
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeBi4mhLPILv_rLKdOnvHEc)/dm/3/x6qp6ou/d/live-4.m3u8
+#EXTINF:0 tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="Singapore/Malaysia", ????(8TV)
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVRO-q446ES5UsyaZEea36k)/dm/3/x6qud17/d/live-4.m3u8
+#EXTINF:0 tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="Singapore/Malaysia", TV9
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb3ux3GuBtLNeZImly_C7Ks)/dm/3/x6qqja6/d/live-4.m3u8
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_300.png" group-title="Singapore/Malaysia",Astro Hello
+http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Singapore/Malaysia",Astro ???????
+http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="Singapore/Malaysia",Astro Go Shop
+http://playbackn32.aotg-video.astro.com.my/CH1/master_GOSHOP_8.m3u8
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/303_300.png" group-title="Singapore/Malaysia",Astro ?????
+http://playbackn34.aotg-video.astro.com.my/CH2/master_GOSHOP2_8.m3u8
+
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" group-title="Singapore/Malaysia",Astro Supersport 1
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1722.m3u8
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_300.png" group-title="Singapore/Malaysia",Astro Supersport 2
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1721.m3u8
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png" group-title="Singapore/Malaysia",Astro Supersport 3
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1720.m3u8
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814_300.png" group-title="Singapore/Malaysia",Astro Supersport 4
+http://mu01.v5iptv.com:8880/live/YKNM058/CEhWyEgvpy/1719.m3u8
+
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="Singapore/Malaysia",Astro AEC
+http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1723
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/350_300.png" group-title="Singapore/Malaysia",Astro AOD
+http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1724
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/131_300.png" group-title="Singapore/Malaysia",Astro Citra
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_300.png" group-title="Singapore/Malaysia",Astro Oasis
+http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1701
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_300.png" group-title="Singapore/Malaysia",Astro Ria
+http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1705
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Singapore/Malaysia",Astro Prima
+http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1702
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Singapore/Malaysia",Astro Warna
+http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1706
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="Singapore/Malaysia", Astro ??
+http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1728
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/310_300.png" group-title="Singapore/Malaysia",Astro ??
+http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1726
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/307_300.png" group-title="Singapore/Malaysia",Astro ??
+http://50.7.161.82:8278/Shuangxing/playlist.m3u8?tid=m02000000000012074147&ct=17975&tsum=88aeec4ea25ae300ef64b18e96df8e52
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/333_300.png" group-title="Singapore/Malaysia",Astro ??
+http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1725
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/325_300.png" group-title="Singapore/Malaysia",Astro ???
+http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1714
+#EXTINF:-1,BOOMERANG [KP]
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/350
 
 
 
