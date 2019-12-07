@@ -107,26 +107,28 @@ http://221.132.113.234:9981/stream/channelid/336786465?ticket=5723460130D4E4E3D0
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="NEWS",Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="" tvg-logo="GEO NEWS",Geo News 
-http://stream.jeem.tv/geo/geonews/playlist.m3u8
 
-#EXTINF:0, tv#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dunyanews.tv/images/dunyalogo.png" group-title="NEWS",Dunya TV
-http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
+
 g-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="NEWS", AL JAZEERA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="NEWS",BBC World News (Opt-2) (GB)
-https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8?fluxustv.m3u8
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/BBC_World_News-1.png" group-title="NEWS",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BBC
-http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CNN
-http://185.176.117.243/live/eds/CNN/HLS_encr/CNN.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://kay2.tv/wp-content/uploads/2017/01/logo.png" group-title=" NEWS",Kay2 NEWS
 http://livecdnh1.tvanywhere.ae:80/hls/k2/index.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="",Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/wY41F5k.png" group-title="",Express TV
+https://5d48372bad056.streamlock.net/expressdigital/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/kR1tW0o.jpg" group-title="",Geo Kahani
+http://streamer64.eboundservices.com/geo/geokahani_abr/geo/geokahani_master/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/DYp5ZUN.png" group-title="",Geo News
+http://stream.jeem.tv/geo/geonews/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bQSbZ7j.jpg" group-title="",Geo Tez
+https://streamer64.ebound.tv/geo/geotezz_abr/geo/geotezz_master/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/JoO8hEx.jpg" group-title="",Geo TV
+http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/Jh7thgW.jpg" group-title="",ARY QTV
+http://158.69.229.30:8081/qtv_live/livestream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS", BLOOMBERG TV
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
@@ -179,7 +181,8 @@ https://194.204.46.137/live/eds/Disney_Channel/HLS_encr/Disney_Channel-audio_200
 
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="KIDS",Tom and Jerry
 http://opus.cf/allfrtvstrm/tkn/tetj/i/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="KIDS",POP Kids
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/hi5tv/images/8/87/Okto.png/revision/latest?cb=20170102042731" group-title="KIDS", OKTO
 ==
 
@@ -349,47 +352,5 @@ http://cdn7.woideas.com/tv11.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 19/06/2019] suaji
 https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTKb93Y0PNJ6iO9ZCYC1NC0Qq6hRTgzg0pBmuzkvM2BKdiqON_C872ssD5mhasWQ5jg&redirect=0
 
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV1
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9609
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV2
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9608
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV3
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9607
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : NTV7
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9610
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV8
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9606
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV9
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9605
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TVN HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9611
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TVN Movies HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9595
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : HBO ASIA
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9596
-#EXTINF:-1 tvg-logo="" group-title="",VIP : KBS WORLD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/7283
-
-#EXTINF:-1, group-title="SPORTS", ASTRO ARENA 
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9616
-#EXTINF:-1, group-title="SPORTS", ASTRO SUPERSPORTS 1 HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/19170
-#EXTINF:-1, group-title="SPORTS", ASTRO SUPERSPORTS 2 HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/19171
-#EXTINF:-1, group-title="SPORTS", ASTRO SUPERSPORTS 3 HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/19172
-#EXTINF:-1, group-title="SPORTS", ASTRO SUPERSPORTS 4 HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/19173
-
-#EXTINF:-1 tvg-logo="" group-title="",VIP : BT Sports 1 HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/8178
-#EXTINF:-1 tvg-logo="" group-title="",VIP : BT Sports 2 HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/8179
-#EXTINF:-1 tvg-logo="" group-title="",VIP : BT Sports 3 HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/8180
-
-//https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah tv3
-//https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg ntv7
-//https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar 8tv
-//https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0 tv9
-//https://www.dailymotion.com/embed/video/x6zvnex			  dramasgt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
