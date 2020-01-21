@@ -118,27 +118,27 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-logo="https://kay2.tv/wp-content/uploads/2017/01/logo.png" group-title=" NEWS", Kay2 
 http://livecdnh1.tvanywhere.ae:80/hls/k2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="",Dunya News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="NEWS",Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/wY41F5k.png" group-title="",Express TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/wY41F5k.png" group-title="NEWS",Express TV
 https://5d48372bad056.streamlock.net/expressdigital/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/kR1tW0o.jpg" group-title="",Geo Kahani
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/kR1tW0o.jpg" group-title="NEWS",Geo Kahani
 http://streamer64.eboundservices.com/geo/geokahani_abr/geo/geokahani_master/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/DYp5ZUN.png" group-title="",Geo News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/DYp5ZUN.png" group-title="NEWS",Geo News
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bQSbZ7j.jpg" group-title="",Geo Tez
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bQSbZ7j.jpg" group-title="NEWS",Geo Tez
 https://streamer64.ebound.tv/geo/geotezz_abr/geo/geotezz_master/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/JoO8hEx.jpg" group-title="",Geo TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/JoO8hEx.jpg" group-title="NEWS",Geo TV
 http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/Jh7thgW.jpg" group-title="",ARY QTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/Jh7thgW.jpg" group-title="NEWS",ARY QTV
 http://158.69.229.30:8081/qtv_live/livestream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="NEWS", BLOOMBERG TV
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="Kids",POP Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="NEWS",POP Kids
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/zNjsxA6.jpg" group-title="",PTV Home
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/zNjsxA6.jpg" group-title="NEWS",PTV Home
 http://67.231.248.131:1935/live/PTVhome/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/zNjsxA6.jpg" group-title="",PTV Home
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/zNjsxA6.jpg" group-title="NEWS",PTV Home
 http://67.231.248.131:1935/live/PTVhome/chunklist_w1961087555.m3u8
 #EXTINF:0, tvg-logo="http://aitomon.com/wp-content/uploads/2017/05/Channel-NewsAsia.png" group-title="NEWS", CHANNEL NEWS ASIA
 http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
