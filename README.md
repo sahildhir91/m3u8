@@ -115,6 +115,8 @@ http://51.52.156.22:8888/http/004
 http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="NEWS",CNN
 http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="NEWS",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="NEWS",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
