@@ -1,11 +1,4 @@
 #EXTM3U
-
-
-
-
-
-
-
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" group-title="Pakistan",[COLOR slateblue]:: Pakistan ::[/COLOR]
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8(SD)
 #EXTINF:-1 tvg-id="21f41214e909f239615092bfe50fa353",BOL NEWS URDU
