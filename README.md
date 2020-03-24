@@ -196,26 +196,6 @@ http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-name="" tvg-logo="",HBO2 [720p]
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="MOVIE", FOX PREMIUM CINEMA
-==
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="MOVIE", FOX PREMIUM CINEMA HD
-==
-
-#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_COMEDY.png" group-title="MOVIE",FOX PREMIUM COMEDY
-==
-
-#EXTINF:0, tvg-logo="https://www.directv.com/images/logos/channels/dark/large/564.png" group-title="MOVIE",SHOWTIME
-http://80.80.160.168/live/7/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg" group-title="MOVIE",&FLIX
-==
-
-#EXTINF:-1 tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/09/andPrive-HD_6.jpg" group-title="MOVIE",&PRIVE
-==
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1007646152177737729/YpGbj4BT_400x400.jpg" group-title="MOVIE",&PICTURES HD
-==
 
 #EXTINF:-1 tvg-logo="http://www.sky.com/tv/static/r3jPy0cN3NuYNkrCi2VIRpfAFOdMgjEaknRogD6Gbuw.png" group-title="MOVIE", FAMILY MOVIES 1
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
@@ -223,11 +203,6 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2
 #EXTINF:-1 tvg-logo="http://pluspng.com/img-png/movie-png-hd-file-sky-cinema-family-hd-2016-png-1445.png" group-title="MOVIE", FAMILY MOVIES 2
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 
-#EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE (MLY)
-http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
-
-#EXTINF: -1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIE", CELESTIAL MOVIE SD (MLY)
-http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Diva_Universal.png" group-title="MOVIE", DIVA UNIVERSAL
 http://45.126.83.51/uq2663/h/h11/index2.m3u8
@@ -327,8 +302,7 @@ https://1904441568.rsc.cdn77.org/1904441568/tracks-v1a1/mono.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="News",Al Jazeera English
 https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
-#EXTINF:-1 tvg-logo="http://balkans.aljazeera.net/sites/default/themes/custom/ajbalkans/logo.png" group-title="News",Al Jazeera Balkan
-https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="News",BBC News
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
@@ -339,10 +313,7 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://live.chdrstatic.com/cbn/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTN.au.png" group-title="News",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_ES.png" group-title="News",CGTN Español
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/CGTN_-_fran%C3%A7ais.png" group-title="News",CGTN Français
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/CGTN_Russian.png" group-title="News",GTN ??????
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN
@@ -555,41 +526,6 @@ http://103.118.76.234:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="Cricket",Fox Sports 501
 http://45.58.62.92:8080
-
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Football",Premiere
-https://globolive.akamaized.net:443/d/c/x2800/s/hls-pfc124ha/hls-pfc124ha_2764/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Football",Premiere 2
-http://globolive.akamaized.net:80/d/c/x2800/s/hls-pfc2/playlist.m3u8?hdnts=st=1566768827~exp=1666768817~acl=/*~id=l1s1cmra7kad0hj4smq32cb1b5~hmac=bfe594668c2834779468741c1d4e2a73ba8fee82725ceb065186abb59cb14139
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Football",Premiere 3
-http://globolive.akamaized.net:80/d/c/x2800/s/hls-pfc3/hls-pfc3_2764/playlist.m3u8?hdnts=st=1566768827~exp=1666768817~acl=/*~id=l1s1cmra7kad0hj4smq32cb1b5~hmac=bfe594668c2834779468741c1d4e2a73ba8fee82725ceb065186abb59cb14139
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Football",Premiere 4
-http://globolive.akamaized.net:80/d/c/x2800/s/hls-pfc4/hls-pfc4_2764/playlist.m3u8?hdnts=st=1566768827~exp=1666768817~acl=/*~id=l1s1cmra7kad0hj4smq32cb1b5~hmac=bfe594668c2834779468741c1d4e2a73ba8fee82725ceb065186abb59cb14139
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png" group-title="Football",Premiere 5
-http://globolive.akamaized.net:80/d/c/x2800/s/hls-pfc5/hls-pfc5_2764/playlist.m3u8?hdnts=st=1566768827~exp=1666768817~acl=/*~id=l1s1cmra7kad0hj4smq32cb1b5~hmac=bfe594668c2834779468741c1d4e2a73ba8fee82725ceb065186abb59cb14139
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Football",Premier Football
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Football",Premier Football 2
-https://livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Football",Premier Football 3
-https://livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Football",Premier Football 4
-https://livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Football",Premier Football 5
-https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="Football",True Sport 2
-https://livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Football",Real Madrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Football",Real Madrid TV Español
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/MatchFutbol1.ru.png" group-title="Football",????! ?????? 1
-http://188.35.9.14:2010
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/MatchFutbol2.ru.png" group-title="Football",????! ?????? 2
-http://188.35.9.14:2011
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/MatchFutbol3.ru.png" group-title="Football",????! ?????? 3
-http://188.35.9.14:2012
-#EXTINF:-1 tvg-logo="https://start.sportdigital.de/assets/img/SD_HDSenderLOutlWEB.png" group-title="Football",Sportdigital
-http://50.7.216.194:8080/SPORT_DIGITAL/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="Golf",NBC Golf
