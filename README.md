@@ -1493,21 +1493,5 @@ http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
 #EXTINF:0, group-title="PUNJABI TV",Hamdard TV
 http://cdn.samtv.ca/hamdard/index.m3u8
 
-#EXTINF:-1, group-title="PUNJABI TV", CLASSIC HINDI
-https://d1fi1
-9tywmn14b.cloudfront.net/yuppindmov/ngrp:yhincla.stream_all/chunklist_w1902359197_b1296000.m3u8
-#EXTINF:-1, group-title="PUNJABI TV", PREMIUM HINDI
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhinpre.stream_all/chunklist_w1077732830_b1296000.m3u8
-#EXTINF:-1, group-title="PUNJABI TV", SHEMAROO PUNJABI TV
-https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",SHEMAROO HINDI
-https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1, SHEMAROO MOVIES
-https://youtu.be/ihqvuDTiYO4
-
-#EXTINF:-1, group-title="PUNJABI TV", BOLLYWOOD CLASSIC
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1, group-title="PUNJABI TV", ENTER 10
-http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
 
 
