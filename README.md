@@ -1478,5 +1478,9 @@ http://51.52.156.22:8888/http/009
 #EXTINF:-1 ch-id="Warner TV" tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="MALAYSIA/SGP",Warner TV
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
+#EXTINF:0, group-title="PUNJABI TV",Pitaara
+https://livepitaara.planetcast.in/pitaaraTV.m3u8
+
+
 
 
