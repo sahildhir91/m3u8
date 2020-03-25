@@ -1480,12 +1480,34 @@ http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
 #EXTINF:0, group-title="PUNJABI TV",Pitaara
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="PUNJABI TV",B4U Kadak (New!)
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D5vloip.png" group-title="PUNJABI TV",B4U Movies (Opt-1) (New!)
-http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="PUNJABI TV",DD National (New!)
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TSvkIfA.png" group-title="PUNJABI TV",DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rStIuAU.png" group-title="PUNJABI TV",DD Punjabi (New!)
+http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
+
 #EXTINF:0, group-title="PUNJABI TV",Hamdard TV
 http://cdn.samtv.ca/hamdard/index.m3u8
 
+#EXTINF:-1, group-title="PUNJABI TV", CLASSIC HINDI
+https://d1fi1
+9tywmn14b.cloudfront.net/yuppindmov/ngrp:yhincla.stream_all/chunklist_w1902359197_b1296000.m3u8
+#EXTINF:-1, group-title="PUNJABI TV", PREMIUM HINDI
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhinpre.stream_all/chunklist_w1077732830_b1296000.m3u8
+#EXTINF:-1, group-title="PUNJABI TV", SHEMAROO PUNJABI TV
+https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1, group-title="PUNJABI TV",SHEMAROO HINDI
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1, SHEMAROO MOVIES
+https://youtu.be/ihqvuDTiYO4
+
+#EXTINF:-1, group-title="PUNJABI TV", BOLLYWOOD CLASSIC
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1, group-title="PUNJABI TV", ENTER 10
+http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
 
 
