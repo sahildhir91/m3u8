@@ -1480,9 +1480,9 @@ http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
 #EXTINF:0, group-title="PUNJABI TV",Pitaara
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="PUNJAB TV",B4U Kadak (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="PUNJABI TV",B4U Kadak (New!)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D5vloip.png" group-title="PUNJAB TV",B4U Movies (Opt-1) (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D5vloip.png" group-title="PUNJABI TV",B4U Movies (Opt-1) (New!)
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 #EXTINF:0, group-title="PUNJABI TV",Hamdard TV
 http://cdn.samtv.ca/hamdard/index.m3u8
