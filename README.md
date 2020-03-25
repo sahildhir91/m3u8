@@ -1403,29 +1403,6 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.
 https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1 ch-id="Astro Awani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="MALAYSIA/SGP",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV1
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9609
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV2
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9608
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV3
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9607
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : NTV7
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9610
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV8
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9606
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV9
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9605
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TVN HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9611
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TVN Movies HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9595
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : HBO ASIA
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9596
-#EXTINF:-1 tvg-logo="" group-title="",VIP : KBS WORLD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/7283
-
-
 #EXTINF:-1 ch-id="NTV7" tvg-logo="https://www.xtra.com.my/img/logo/ntv7.png" group-title="MALAYSIA/SGP",NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 #EXTINF:-1 ch-id="8TV" tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="MALAYSIA/SGP",8TV
@@ -1438,8 +1415,6 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png" group-title="MALAYSIA/SGP",RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="MALAYSIA/SGP",&Flix
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="MALAYSIA/SGP",&Prive
@@ -1476,3 +1451,26 @@ http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 ch-id="Warner TV" tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="MALAYSIA/SGP",Warner TV
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV1
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9609
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV2
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9608
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV3
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9607
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : NTV7
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9610
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV8
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9606
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV9
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9605
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TVN HD
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9611
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TVN Movies HD
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9595
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : HBO ASIA
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/9596
+#EXTINF:-1 tvg-logo="" group-title="",VIP : KBS WORLD
+http://dragoniptv.club:8080/test1036/TED7cuyGJX/7283
