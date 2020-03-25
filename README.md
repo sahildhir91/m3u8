@@ -1454,23 +1454,3 @@ http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV1
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9609
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV2
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9608
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV3
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9607
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : NTV7
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9610
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV8
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9606
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TV9
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9605
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TVN HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9611
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : TVN Movies HD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9595
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",VIP : HBO ASIA
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/9596
-#EXTINF:-1 tvg-logo="" group-title="",VIP : KBS WORLD
-http://dragoniptv.club:8080/test1036/TED7cuyGJX/7283
