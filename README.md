@@ -1437,6 +1437,7 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 http://103.22.183.136:8081/live/hits-movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/RomedyNow.in.png" group-title="MALAYSIA/SGP",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MNX2.in.png" group-title="MALAYSIA/SGP",MNX Movies
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
