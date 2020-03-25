@@ -712,6 +712,9 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndTV.in.png" group-title="MOVIE",&TV
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Colors.in.png" group-title="MOVIE",Colors
+http://fr-c.movply.stream/hls/Colors.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyPix.in.png" group-title="MOVIE",Sony Pix
 https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
