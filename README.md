@@ -520,7 +520,6 @@ http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="Cricket",Fox Sports 501
 http://45.58.62.92:8080
 
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="SPORTS",NBC Golf
 http://203.154.243.89:1208
 #EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="SPORTS",One Golf
@@ -1440,7 +1439,7 @@ http://103.22.183.136:8081/live/hits-movies/playlist.m3u8
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MNX2.in.png" group-title="MALAYSIA/SGP",MNX Movies
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MoviesNow.in.png" group-title="???",Movies Now
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MoviesNow.in.png" group-title="MALAYSIA/SGP",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/SkyMoviesPremiere.nz.png" group-title="MALAYSIA/SGP",Sky Movies Premiere
 http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
