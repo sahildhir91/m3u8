@@ -1444,6 +1444,9 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MoviesNow.in.png" group-title="MALAYSIA/SGP",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
+#EXTINF:-1 ch-id="HOLLYWOOD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="MALAYSIA/SGP",HOLLYWOOD
+http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/SkyMoviesPremiere.nz.png" group-title="MALAYSIA/SGP",Sky Movies Premiere
 http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SonyMoviesChristmas.uk.png" group-title="MALAYSIA/SGP",Sony Movies
