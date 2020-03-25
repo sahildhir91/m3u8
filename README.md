@@ -1486,6 +1486,8 @@ http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
 
 #EXTINF:0, group-title="PUNJABI TV",Fastway TV
 http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="PUNJABI TV",Hamdard TV
+http://cdn.samtv.ca/hamdard/index.m3u8
 
 
 
