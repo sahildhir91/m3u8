@@ -1480,14 +1480,10 @@ http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
 #EXTINF:0, group-title="PUNJABI TV",Pitaara
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
-
-#EXTINF:0, group-title="PUNJABI TV",Fastway Ent.
-http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
-
-#EXTINF:1,  BollyWood Hd
-http://telekomtv-ro.akamaized.net/shls/LIVE
-#EXTINF:0, group-title="PUNJABI TV",Fastway TV
-http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="PUNJAB TV",B4U Kadak (New!)
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D5vloip.png" group-title="PUNJAB TV",B4U Movies (Opt-1) (New!)
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 #EXTINF:0, group-title="PUNJABI TV",Hamdard TV
 http://cdn.samtv.ca/hamdard/index.m3u8
 
