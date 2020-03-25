@@ -1213,7 +1213,8 @@ https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 http://31.14.40.58:9083/GEMINIMOVIES_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.gstv.in/wp-content/uploads/2019/03/cropped-cropped-logo-1.png" group-title="TAMIL",GS TV
 https://live-cdn-gstv.livecast.io/560828843292539228453915.m3u8
-
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/JMAX.png" group-title="TAMIL",Jaya Max
+http://45.120.188.178/hdmi
 
 #EXTINF:-1,Hiru TV
 http://cdncities.com/8012/8012/playlist.m3u8
