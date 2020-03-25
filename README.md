@@ -1480,6 +1480,10 @@ http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
 #EXTINF:0, group-title="PUNJABI TV",Pitaara
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
+#EXTINF:0, group-title="PUNJABI",Fastway Ent.
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="PUNJABI",Fastway TV
+http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
 
 
 
