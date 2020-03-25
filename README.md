@@ -225,6 +225,14 @@ http://stg.pz10139.parspack.net/Films/John.Wick.Chapter.2.2017/John.Wick.Chapter
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 https://pastebin.com/v9e3T9TK/10/05/2019
 
+#EXTINF:-1 ch-id="Fox Sports" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="SPORTS",FOX Sports
+http://160.119.77.50/iptv/hd-foxsports1eng.stream/playlist.m3u8
+#EXTINF:-1 ch-id="Fox Sports 2" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="SPORTS",FOX Sports 2
+http://160.119.77.50/iptv/hd-foxsports2eng.stream/playlist.m3u8
+#EXTINF:-1 ch-id="Fox Sports 3" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="SPORTS",FOX Sports 3
+http://160.119.77.50/iptv/hd-foxsports3eng.stream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="SPORTS", MNC Sport
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
