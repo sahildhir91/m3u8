@@ -1408,3 +1408,35 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png" group-title="MALAYSIA/SGP",RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndFlix.in.png" group-title="MALAYSIA/SGP",&Flix
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="MALAYSIA/SGP",&Prive
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
+#EXTINF:-1 tvg-logo="http://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="MALAYSIA/SGP",Cinema World
+http://210.210.155.66/h/h04/01.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/br/Cinemax.br.png" group-title="MALAYSIA/SGP",Cinemax
+http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
+#EXTINF:-1 ch-id="HBO" tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="MALAYSIA/SGP",HBO
+http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="MALAYSIA/SGP",Fox Movies
+http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+#EXTINF:-1 ch-id="FX" tvg-logo="http://static.iptv-epg.com/us/FX.us.png" group-title="MALAYSIA/SGP",FX
+http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
+#EXTINF:-1 ch-id="Fox Action Movies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="MALAYSIA/SGP",Fox Action Movies
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="MALAYSIA/SGP",Hits Movies
+http://103.22.183.136:8081/live/hits-movies/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/RomedyNow.in.png" group-title="MALAYSIA/SGP",Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MNX2.in.png" group-title="MALAYSIA/SGP",MNX Movies
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MoviesNow.in.png" group-title="???",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/SkyMoviesPremiere.nz.png" group-title="MALAYSIA/SGP",Sky Movies Premiere
+http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SonyMoviesChristmas.uk.png" group-title="MALAYSIA/SGP",Sony Movies
+http://51.52.156.22:8888/http/009
+#EXTINF:-1 ch-id="Warner TV" tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="MALAYSIA/SGP",Warner TV
+http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
