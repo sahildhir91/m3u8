@@ -805,10 +805,17 @@ http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="DOCUMENTARY",Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/History.de.png" group-title="DOCUMENTARY",History ??????
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/History.de.png" group-title="DOCUMENTARY",History TV
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/BBCEarth.qa.png" group-title="DOCUMENTARY",BBC Earth
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY",Discovery
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="DOCUMENTARY",Discovery Science
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="DOCUMENTARY",Discovery Turbo
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+
+EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/BBCEarth.qa.png" group-title="DOCUMENTARY",BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="DOCUMENTARY",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
