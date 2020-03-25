@@ -616,95 +616,95 @@ http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://wfc.tv/images/Logo-WF.png" group-title="Entertainment",World Fashion TV 
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="Movies",AMC
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="MOVIE",AMC
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22667/bollywood-tv/logo_20191213_005922.png" group-title="Movies",Bollywood TV
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22667/bollywood-tv/logo_20191213_005922.png" group-title="MOVIE",Bollywood TV
 http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Cinemax.br.png" group-title="Movies",Cinemax
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Cinemax.br.png" group-title="MOVIE",Cinemax
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7.m3u8-CinemaxHD-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="Movies",Cinema World
+#EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="MOVIE",Cinema World
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22759/the-film-detective/logo_20191212_230936.png" group-title="Movies",Flim Detective
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22759/the-film-detective/logo_20191212_230936.png" group-title="MOVIE",Flim Detective
 https://a.jsrdn.com/broadcast/9Kl3dcb5l/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Movies",Filmrise Classics
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="MOVIE",Filmrise Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="Movies",Filmrise Crime
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="MOVIE",Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="Movies",Filmrise Family
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="MOVIE",Filmrise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="Movies",Filmrise Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="MOVIE",Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="Movies",FX
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="MOVIE",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968-FX-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="Movies",FXM
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXMovieChannel.us.png" group-title="MOVIE",FXM
 https://livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMoviesPremium.id.png" group-title="Movies",Fox Movies Premium
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMoviesPremium.id.png" group-title="MOVIE",Fox Movies Premium
 https://anevia115.mncnow.id:443/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/FoxCrime.qa.png" group-title="Movies",Fox Crime
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/FoxCrime.qa.png" group-title="MOVIE",Fox Crime
 https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-FoxCrime-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logogrey/grey_logo_galaxy_small1.png" group-title="Movies",Galaxy Movie
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logogrey/grey_logo_galaxy_small1.png" group-title="MOVIE",Galaxy Movie
 https://dl.dropbox.com/s/8s2jwrvobrtx05m/Galaxy.m3u8?dl=1
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="Movies",HBO
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="MOVIE",HBO
 https://livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movies",HBO Hits
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="MOVIE",HBO Hits
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Movies",HBO Signature
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="MOVIE",HBO Signature
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-HBOSignature-mp4a_98800_eng=3.m3u
-#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movies",HITS Movies
+#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="MOVIE",HITS Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/tr/Filmbox.tr.png" group-title="Movies",Filmbox
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/tr/Filmbox.tr.png" group-title="MOVIE",Filmbox
 https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/FilmBoxArtHouseEn.pl.png" group-title="Movies",Filmbox Arthouse
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/FilmBoxArtHouseEn.pl.png" group-title="MOVIE",Filmbox Arthouse
 https://1949337293.rsc.cdn77.org/1949337293/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="Movies",Iflim English
+#EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="MOVIE",Iflim English
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://mafashortfilm.uk/public/images/mafal.png" group-title="Movies",Mafa Short Flim
+#EXTINF:-1 tvg-logo="https://mafashortfilm.uk/public/images/mafal.png" group-title="MOVIE",Mafa Short Flim
 https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MGM.us.png" group-title="Movies",MGM Scifi
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MGM.us.png" group-title="MOVIE",MGM Scifi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/MoviesNow.in.png" group-title="Movies",Movies Now
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/MoviesNow.in.png" group-title="MOVIE",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8 
-#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="Movies",Movies Kingdom
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="MOVIE",Movies Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/MNX2.in.png" group-title="Movies",MNX Movies
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/MNX2.in.png" group-title="MOVIE",MNX Movies
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_MyLifeTVNetwork-356x200.jpg" group-title="Movies",Mylife4U
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_MyLifeTVNetwork-356x200.jpg" group-title="MOVIE",Mylife4U
 https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/RomedyNow.in.png" group-title="Movies",Romedy Now
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/RomedyNow.in.png" group-title="MOVIE",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" group-title="Movies",Screamfest
+#EXTINF:-1 tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" group-title="MOVIE",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hr/SciFi.hr.png" group-title="Movies",Scifi
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hr/SciFi.hr.png" group-title="MOVIE",Scifi
 http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.bastionegroup.com/wp-content/uploads/2019/03/ReelPX_Action.png" group-title="Movies",Reel Px Action
+#EXTINF:-1 tvg-logo="http://www.bastionegroup.com/wp-content/uploads/2019/03/ReelPX_Action.png" group-title="MOVIE",Reel Px Action
 https://1586823379.rsc.cdn77.org/1586823379/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://bastionegroup.com/wp-content/uploads/2019/07/Reel-Px-Family-Website-Logo.png" group-title="Movies",Reel Px Family
+#EXTINF:-1 tvg-logo="http://bastionegroup.com/wp-content/uploads/2019/07/Reel-Px-Family-Website-Logo.png" group-title="MOVIE",Reel Px Family
 https://1294836789.rsc.cdn77.org/1294836789/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.bastionegroup.com/wp-content/uploads/2019/03/ReelPX_Comedy.png" group-title="Movies",Reel Px Comedy
+#EXTINF:-1 tvg-logo="http://www.bastionegroup.com/wp-content/uploads/2019/03/ReelPX_Comedy.png" group-title="MOVIE",Reel Px Comedy
 https://1427531085.rsc.cdn77.org/1427531085/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.bastionegroup.com/wp-content/uploads/2019/05/UPDATED-Reel-Px-Unlimited-Website-Logo-1.png" group-title="Movies",Reel Px Unlimited
+#EXTINF:-1 tvg-logo="http://www.bastionegroup.com/wp-content/uploads/2019/05/UPDATED-Reel-Px-Unlimited-Website-Logo-1.png" group-title="MOVIE",Reel Px Unlimited
 https://1002631743.rsc.cdn77.org/1002631743/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.bastionegroup.com/wp-content/uploads/2019/03/ReelPX_Vintage.png" group-title="Movies",Reel Px Vintage
+#EXTINF:-1 tvg-logo="http://www.bastionegroup.com/wp-content/uploads/2019/03/ReelPX_Vintage.png" group-title="MOVIE",Reel Px Vintage
 https://1946514655.rsc.cdn77.org/1946514655/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040637.jpg" group-title="Movies",Sony Max
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040637.jpg" group-title="MOVIE",Sony Max
 https://streamer-1.toffeelive.com/live/sony_max_576/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040639.jpg" group-title="Movies",Sony Max HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040639.jpg" group-title="MOVIE",Sony Max HD
 https://streamer-1.toffeelive.com/live/set_max_hd_576/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040636.jpg" group-title="Movies",Sony Mix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040636.jpg" group-title="MOVIE",Sony Mix
 https://streamer-1.toffeelive.com/live/sony_mix_576/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Movies",Sony PIX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="MOVIE",Sony PIX
 https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Movies",Sony Six
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="MOVIE",Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyPix.in.png" group-title="Movies",Sony Pix
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyPix.in.png" group-title="MOVIE",Sony Pix
 https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/StarMovies.sa.png" group-title="Movies",Star Movies
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/StarMovies.sa.png" group-title="MOVIE",Star Movies
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/p7Nszad.jpg" group-title="Movies",Spydar TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/p7Nszad.jpg" group-title="MOVIE",Spydar TV
 https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="Movies",Warner TV
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="MOVIE",Warner TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
 
 
