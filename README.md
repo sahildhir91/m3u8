@@ -1483,8 +1483,7 @@ https://livepitaara.planetcast.in/pitaaraTV.m3u8
 
 #EXTINF:0, group-title="PUNJABI TV",Fastway Ent.
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
-#EXTINF:0, group-title="PUNJABI TV",Jus One
-http://50.7.198.170:8081/PB/JUSONE/playlist.m3u8
+
 #EXTINF:1,  BollyWood Hd
 http://telekomtv-ro.akamaized.net/shls/LIVE
 #EXTINF:0, group-title="PUNJABI TV",Fastway TV
