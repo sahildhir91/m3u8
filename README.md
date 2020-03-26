@@ -1435,6 +1435,9 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 ch-id="TV 9" tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="MALAYSIA/SGP",TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/131_300.png" group-title="MALAYSIA/SGP",Astro Citra
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/469hshv.png" group-title="MALAYSIA/SGP",Nabawi TV
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA/SGP",TV Ikim
