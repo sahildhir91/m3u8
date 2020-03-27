@@ -1321,6 +1321,7 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MNX2.in.png" group-title="MALAYSIA/SGP",MNX Movies
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+
 #EXTINF:-1 ch-id="Kix" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" group-title="MALAYSIA/SGP",Kix
 http://210.210.155.66/h/h07/01.m3u8
 
