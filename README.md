@@ -743,43 +743,43 @@ http://139.59.166.48:8081/live/live3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/VH1.in.png" group-title="Music",VH1
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Animax.id.png" group-title="Kids/Animation",Animax
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Animax.id.png" group-title="KIDS",Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-Animax-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/BabyFirstTV.pl.png" group-title="Kids/Animation",BabyFirst
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/BabyFirstTV.pl.png" group-title="KIDS",BabyFirst
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Boomerang.de.png" group-title="Kids/Animation",Boomerang
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Boomerang.de.png" group-title="KIDS",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/CartoonNetwork.de.png" group-title="Kids/Animation",Cartoon Network
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/CartoonNetwork.de.png" group-title="KIDS",Cartoon Network
 http://fr-c.movply.stream/hls/Carton_Network.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Kids/Animation",Disney Channel
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="KIDS",Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyJunior.uk.png" group-title="Kids/Animation",Disney Jr
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyJunior.uk.png" group-title="KIDS",Disney Jr
 https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DisneyXD.de.png" group-title="Kids/Animation",Disney XD
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DisneyXD.de.png" group-title="KIDS",Disney XD
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_2499968=11-DisneyXD-mp4a_98800_ind=16.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sk/DuckTV.sk.png" group-title="Kids/Animation",Duck TV
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sk/DuckTV.sk.png" group-title="KIDS",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
-#EXTINF:-1 tvg-logo="https://digitalrussia.tv/upload/files/48266978_525772611258059_7076947931516895232_n.png" group-title="Kids/Animation",FAN TV
+#EXTINF:-1 tvg-logo="https://digitalrussia.tv/upload/files/48266978_525772611258059_7076947931516895232_n.png" group-title="KIDS",FAN TV
 http://195.9.195.3:8080/hls/157239.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/JimJam.pl.png" group-title="Kids/Animation",Jim Jam
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/JimJam.pl.png" group-title="KIDS",Jim Jam
 http://ms-azure-video.gslb.startimestv.com/live/JIMJAM_890_500_480x360_194010/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.fixundfoxi.tv/fileadmin/img/logo.png" group-title="Kids/Animation",Fix & Foxi
+#EXTINF:-1 tvg-logo="http://www.fixundfoxi.tv/fileadmin/img/logo.png" group-title="KIDS",Fix & Foxi
 https://1301485333.rsc.cdn77.org/1301485333/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nickelodeon.uk.png" group-title="Kids/Animation",Nickelodeon
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Nickelodeon.uk.png" group-title="KIDS",Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/NickJr.sa.png" group-title="Kids/Animation",Nick Jr
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/NickJr.sa.png" group-title="KIDS",Nick Jr
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PBSKids.us.png" group-title="Kids/Animation",PBS Kids
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PBSKids.us.png" group-title="KIDS",PBS Kids
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="Kids/Animation",TCT Kids
+#EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="KIDS",TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="Kids/Animation",????
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="KIDS",TOONMAX
 http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="Kids/Animation",????
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="KIDS",/kaku
 http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="Kids/Animation",????
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="KIDS",youman
 http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="Kids/Animation",????
+#EXTINF:-1 tvg-logo="http://www.badouxia.com/Uploads/vod/2018-11-30/5c00a782176a0.png" group-title="KIDS",badouxia
 http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="DOCUMENTARY",Animal Planet
