@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,HBO 2 International
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
 
 
 
