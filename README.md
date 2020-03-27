@@ -1,17 +1,5 @@
 #EXTM3U
-
-
-
-
-
-
-
-
-
-
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" group-title="Pakistan",[COLOR slateblue]:: Pakistan ::[/COLOR]
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="92 News.jpg" group-title="Pakistan" ,92 News 
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="Pakistan",92 News
@@ -91,6 +79,8 @@ https://pastebin.com/Q70AN0JK
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1,National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/NatGeoPeople.id.png" group-title="DOCUMENTARY",National Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="DOCUMENTARY",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:0, NASA
@@ -853,8 +843,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="DOCUMENTARY",National Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/NatGeoPeople.id.png" group-title="DOCUMENTARY",National Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SmithsonianChannel.uk.png" group-title="DOCUMENTARY",Smithsonian
 http://ms-azure-video.gslb.startimestv.com/live/SMITHSONIAN_CHANNEL_1166_500_480x360_662502/playlist.m3u8
