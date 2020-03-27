@@ -810,13 +810,16 @@ http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="DOCUMENTARY",Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/History.de.png" group-title="DOCUMENTARY",History TV
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY",Discovery
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="DOCUMENTARY",Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="DOCUMENTARY",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 
@@ -840,21 +843,27 @@ http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="DOCUMENTARY",English Club
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/History.de.png" group-title="DOCUMENTARY",History
 https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-History-mp4a_98800_eng=3.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="DOCUMENTARY",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="DOCUMENTARY",National Geo
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="DOCUMENTARY",National Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/NatGeoPeople.id.png" group-title="DOCUMENTARY",National Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SmithsonianChannel.uk.png" group-title="DOCUMENTARY",Smithsonian
 http://ms-azure-video.gslb.startimestv.com/live/SMITHSONIAN_CHANNEL_1166_500_480x360_662502/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="DOCUMENTARY",UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://tv.baipin.pw/wp-content/uploads/2019/07/8b13632762d0f70343dbf12502fa513d2797c5da.png" group-title="DOCUMENTARY",D????
+
+#EXTINF:-1 tvg-logo="https://tv.baipin.pw/wp-content/uploads/2019/07/8b13632762d0f70343dbf12502fa513d2797c5da.png" group-title="DOCUMENTARY",DSPORTS
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjilu.jpg" group-title="DOCUMENTARY",Newtv ????
 http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
