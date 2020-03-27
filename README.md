@@ -10,9 +10,8 @@
 
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" group-title="Pakistan",[COLOR slateblue]:: Pakistan ::[/COLOR]
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8(SD)
-#EXTINF:-1 tvg-id="21f41214e909f239615092bfe50fa353",BOL NEWS URDU
-http://221.132.113.234:9981/stream/channelid/336786465?ticket=5723460130D4E4E3D0081D30E56D8A9BE83A0DD4&profile=pass
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="92 News.jpg" group-title="Pakistan" ,92 News 
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="Pakistan",92 News
