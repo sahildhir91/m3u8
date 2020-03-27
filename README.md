@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Colors_HD" tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png"group-title="Entertainment",Colors HD
+http://tamiltvlive.online/jio/ji.php?c=Colors_HD
+#EXTINF:-1 tvg-id="Sony_HD" tvg-name="Sony HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png"group-title="Entertainment",Sony HD
+http://tamiltvlive.online/jio/ji.php?c=Sony_HD
+#EXTINF:-1 tvg-id="Sony_SAB_HD" tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png"group-title="Entertainment",Sony SAB HD
+http://tamiltvlive.online/jio/ji.php?c=Sony_SAB_HD
+#EXTINF:-1 tvg-id="Dsports_HD" tvg-name="Dsports HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png"group-title="Sports",Dsports HD
+http://tamiltvlive.online/jio/ji.php?c=Dsports_HD
+#EXTINF:-1 tvg-id="Ten3_HD" tvg-name="Ten3 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png"group-title="Sports",Ten3 HD
+http://tamiltvlive.online/jio/ji.php?c=Ten3_HD
 
 
 
