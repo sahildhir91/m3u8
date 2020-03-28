@@ -296,6 +296,11 @@ https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="NEWS",FOX News
 http://ms-azure-video.gslb.startimestv.com/live/FOX_News_786_500_480x360_191112/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1280px-Rai_News_24_-_Logo_2013.svg.png" group-title="NEWS",Rai News 24
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France24English.fr.png" group-title="NEWS",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ir/PressTV.ir.png" group-title="NEWS",IRIB Press TV
