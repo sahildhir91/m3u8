@@ -481,6 +481,26 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/94729-dsportMain.jpg" group-title="Cricket",Discovery Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1,Sky Sports Main Event 
+http://fr01.spr24.net/24225/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,Sky Sports Premiere League HD 
+http://fr01.spr24.net/24226/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,Sky Sports Premiere League 
+http://fr01.spr24.net/24227/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,Sky Sports Football HD 
+http://fr01.spr24.net/24228/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,Sky Sports Football 
+http://fr01.spr24.net/24229/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,Sky Sports Arena 
+http://fr01.spr24.net/24230/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,Sky Sports Action HD 
+http://fr01.spr24.net/24231/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,Sky Sports Cricket 
+http://fr01.spr24.net/24233/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,Sky Sports Golf 
+http://fr01.spr24.net/24235/index.m3u8?token=BQF9PmuRpcxUqR
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyESPN.in.png" group-title="Cricket",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN1.in.png" group-title="Cricket",Sony Ten 1
