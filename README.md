@@ -1411,7 +1411,12 @@ http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
 #EXTINF:0, group-title="PUNJABI/HINDI",Pitaara
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
-
+#EXTINF:0, group-title="PUNJABI/HINDI",Jhanjar HD
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+#EXTINF:0, group-title="PUNJABI/HINDI",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:0, group-title="PUNJABI/HINDI",TV Punjab
+http://cdn.samtv.ca/tvpunjab/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="PUNJABI/HINDI",DD National (New!)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
@@ -1423,5 +1428,7 @@ http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
 
 #EXTINF:0, group-title="PUNJABI/HINDI",Hamdard TV
 http://cdn.samtv.ca/hamdard/index.m3u8
+#EXTINF:0, group-title="PUNJABI/HINDI",Amar Ujala 
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 
 
