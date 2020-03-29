@@ -269,6 +269,8 @@ http://stg.pz10139.parspack.net/Films/John.Wick.Chapter.2.2017/John.Wick.Chapter
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 https://pastebin.com/v9e3T9TK/10/05/2019
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/92/a5/31/92a531eacecfe35f47e32c450318a3f6.png" group-title="SPORTS", Star Sports 1
+http://195.181.169.120/StarSports_Hd4/playlist.m3u8
 
 #EXTINF:-1 ch-id="Fox Sports" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="SPORTS",FOX Sports
 http://160.119.77.50/iptv/hd-foxsports1eng.stream/playlist.m3u8
