@@ -1,4 +1,60 @@
 #EXTM3U
+#EXTINF:-1,SuperSport 1 [UK]
+http://fr01.spr24.net/24421/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,SuperSport 2 [UK]
+http://fr01.spr24.net/24422/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,SuperSport 3 [UK]
+http://fr01.spr24.net/24423/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,SuperSport 4 [UK]
+http://fr01.spr24.net/24424/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,SuperSport 5 [UK]
+http://fr01.spr24.net/24425/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,SuperSport 6 [UK]
+http://fr01.spr24.net/24426/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,SuperSport 7 [UK]
+http://fr01.spr24.net/24427/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,SuperSport 8 [UK]
+http://fr01.spr24.net/24428/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,SuperSport 10 [UK]
+http://fr01.spr24.net/24430/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,SuperSport 11 [UK]
+http://fr01.spr24.net/24431/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,SuperSport 12 [UK]
+http://fr01.spr24.net/24432/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,WWE Channel HD [UK]
+http://fr01.spr24.net/24266/index.m3u8?token=BQF9PmuRpcxUqR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" group-title="Pakistan",[COLOR slateblue]:: Pakistan ::[/COLOR]
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="Pakistan" ,92 News 
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
@@ -87,6 +143,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:0, NASA
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
+#EXTINF:-1,Travel Channel 
+http://fr01.spr24.net/24180/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="DOCUMENTARY",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png" group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
