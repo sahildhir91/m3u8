@@ -1421,6 +1421,10 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="PUNJABI/HINDI",Anjan
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="PUNJABI/HINDI",B4U Music
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/B4UMovies.in.png" group-title="PUNJABI/HINDI",B4U Movies
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 
 #EXTINF:0, group-title="PUNJABI/HINDI",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
