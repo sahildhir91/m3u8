@@ -1423,7 +1423,7 @@ https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/B4UMovies.in.png" group-title="PUNJABI/HINDI",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-#EXTINF:-1,/logo/tv/bb/b4u-kadak-in.png"Kadak Hits
+#EXTINF:-1,Kadak Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 
 #EXTINF:0, group-title="PUNJABI/HINDI",TV Punjab
