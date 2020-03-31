@@ -927,10 +927,7 @@ http://223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4/1.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225655/index.m3u8
 
 
-#EXTINF:-1,bongo
-http://42.0.6.130/hls/qW4dVSlc7A9NHG3DKd_vnw/1564902824/bongo_movies_mid/index.m3u8
-#EXTINF:-1,Gazi tv
-http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+
 #EXTINF:-1,D sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1,NatGeo Wild
@@ -1178,13 +1175,13 @@ http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarBharat.in.png" group-title="PUNJABI/HINDI",Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nl/StarGold.nl.png" group-title="PUNJABI/HINDI",Star Gold
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nl/StarGold.nl.png" group-title="HINDI",Star Gold
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="PUNJABI/HINDI",Star Jalsha
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="HINDI",Star Jalsha
 http://ddn.amrbd.com:8081/live/starjalsha/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="PUNJABI/HINDI",Star Jalsha Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="HINDI",Star Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="TAMIL",Star Plus
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="HINDI",Star Plus
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 tvg-STARVIJAY HD logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/224_300.png" group-title="TAMIL",STAR VIJAY
 http://216.144.250.174/Star_VIjay_HD/tracks-v1a1/mono.m3u8
@@ -1204,82 +1201,12 @@ https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 http://160.119.77.50/iptv/in-suntv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.asianetnews.com/v1/images/kannada_prabha_icon_2.png" group-title="TAMIL",Suvarna News
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9P4HNGwkhC8/WUyyp6FsVaI/AAAAAAAADpE/oiaArBTHTL8Hfrgdyqb2a7JNRIEavebsACLcBGAs/s1600/svbc2_tamil.png" group-title="TAMIL",SVBC
-http://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9P4HNGwkhC8/WUyyp6FsVaI/AAAAAAAADpE/oiaArBTHTL8Hfrgdyqb2a7JNRIEavebsACLcBGAs/s1600/svbc2_tamil.png" group-title="TAMIL",SVBC 2
-http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.velichamtv.org/velicham/wp-content/uploads/2018/04/Velicham-WEb.png" group-title="TAMIL",Velicham
-https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.sunnetwork.in/ChannelLogo/26gemini-movies.jpg" group-title="TAMIL",Gemini Movies
-http://31.14.40.58:9083/GEMINIMOVIES_h264/index.m3u8
-#EXTINF:-1,STS Tamil
-http://santhora.de.flash.glb.ipercast.net/santhora.de-live/sts/index.m3u8
-#EXTINF:-1,Subrang TV
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1,Super TV
-http://103.199.160.85/Content/supertv/Live/Channel(SuperTV)/index.m3u8
-#EXTINF:-1,Sur Sagar TV
-http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8
-#EXTINF:-1,Sur Sagar TV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1,Suvarna News 24×7
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
-#EXTINF:-1,Tamil Business TV
-http://rtmp.santhoratv.zecast.net/tamilbusinesstv//tamilbusinesstv/playlist.m3u8
-#EXTINF:-1,Tamil Business TV
-http://rtmp.santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv/playlist.m3u8
-#EXTINF:-1,Tamil Business TV
-http://santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv/index.m3u8
-#EXTINF:-1,Tamil MTV
-http://santhora.de.flash.glb.ipercast.net/santhora.de-live/tamilmtv/tamilmtv/chunklist.m3u8
-#EXTINF:-1,Tamil MTV
-http://santhora.de.flash.glb.ipercast.net/santhora.de-live/tamilmtv/tamilmtv/playlist.m3u8
-#EXTINF:-1,Tamil Vision International
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1,Thanthi TV
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
-#EXTINF:-1,The Q India
-https://amg1-i.akamaihd.net/hls/live/784034/Q001/playlist.m3u8?__nn__=5606168722001&hdnea=st=1566232200~exp=1566235800~acl=/hls/live/784034/Q001/*~hmac=4de929fdc0ee53199a11237ee75a695383a82a42623fa92c1376493e5fc91d7b
-#EXTINF:-1,Thirumalai TV
-http://abcmedias2.livewebcast.in/abcmedias/_definst_/abcmediaslive.stream/playlist.m3u8
-#EXTINF:-1,Times Now
-http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-#EXTINF:-1,Times Now HD
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-#EXTINF:-1,TV100
-http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
-#EXTINF:-1,TV9 Telugu
-http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
-#EXTINF:-1,Twenty Four News
-http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
-#EXTINF:-1,Vaanavil TV
-http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
-#EXTINF:-1,Vanavil Plus
-http://45.79.203.234:1935/vanavil/myStream/chunklist.m3u8
-#EXTINF:-1,Vasantham
-https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master.m3u8
-#EXTINF:-1,Vendharm TV
-http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
-#EXTINF:-1,Vendharm TV
-http://45.79.203.234:1935/vendharm/myStream/chunklist_w2001796311.m3u8
-#EXTINF:-1,Vendharm TV
-http://45.79.203.234:1935/vendharm/myStream/playlist.m3u8
-#EXTINF:-1,Vyas Higher Education Channel
-http://playhls.media.nic.in/live/vyas/index.m3u8
-#EXTINF:-1,Wow Music
-http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/index.m3u8
-#EXTINF:-1,Wow Music
-http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
+
 #EXTINF:-1,Y
 http://161.0.157.5/PLTV/88888888/224/3221226832/index.m3u8
 #EXTINF:-1,Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
-#EXTINF:-1,Zee Bioskop
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1,Zee Bioskop
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
-#EXTINF:-1,Zee Bioskop
-http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.gstv.in/wp-content/uploads/2019/03/cropped-cropped-logo-1.png" group-title="TAMIL",GS TV
 https://live-cdn-gstv.livecast.io/560828843292539228453915.m3u8
@@ -1287,27 +1214,27 @@ https://live-cdn-gstv.livecast.io/560828843292539228453915.m3u8
 http://45.120.188.178/hdmi
 
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/WOWCinema.in.png" group-title="PUNJABI/HINDI",Wow Cinema
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/WOWCinema.in.png" group-title="HINDI",Wow Cinema
 https://streamidvo.multitvsolution.in//live/WowCinema-d/p4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="PUNJABI/HINDI",Zee TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI",Zee TV
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/apacsea/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeBangla.in.png" group-title="PUNJABI/HINDI",Zee Bangla
 http://livecdnh1.tvanywhere.ae/hls/zee_bangla/04.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeBusiness.in.png" group-title="PUNJABI/HINDI",Zee Business
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeBusiness.in.png" group-title="HINDI",Zee Business
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebusiness/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeNews.in.png" group-title="PUNJABI/HINDI",Zee News
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeNews.in.png" group-title="HINDI",Zee News
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.zeebioskop.com/wp-content/uploads/sites/38/2019/06/76x50_R.png" group-title="PUNJABI/HINDI",Zee Bioskop
+#EXTINF:-1 tvg-logo="https://www.zeebioskop.com/wp-content/uploads/sites/38/2019/06/76x50_R.png" group-title="HINDI",Zee Bioskop
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1582800787~exp=9007200837541778~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=3373fc972a6042253eb502f2a58546528e7a4c781c77664892a7a60985d54e3c&hdnts=st=1582800786~exp=1582800906~acl=/*~id=2515e6bc-88e0-4d01-80b8-c4a4ab64ff06~data=36.77.80.127~hmac=0f41a0b2c9d384b7b76cca94395bf0ebe4cc2e277c41eaeb7dbef2279a6550a7
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/ZeeCinemaEn.sa.png" group-title="PUNJABI/HINDI",Zee Cinema
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/ZeeCinemaEn.sa.png" group-title="HINDI",Zee Cinema
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8 
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/zee-punjabi/zee-punjabi-logo.png" group-title="PUNJABI/HINDI",Zee Punjabi
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeepunjabi/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3images.zee5.com/wp-content/uploads/sites/4/2019/04/cropped-ZeeTelgu-512x512-1.png" group-title="TAMIL",Zee Telugu
 http://31.14.40.58:8080/ZEETELUGU_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Zing.in.png" group-title="PUNJABI/HINDI",Zing
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Zing.in.png" group-title="HINDI",Zing
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zingusa/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Zoom.in.png" group-title="PUNJABI/HINDI",Zoom
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Zoom.in.png" group-title="HINDI",Zoom
 http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
 #EXTINF:-1 tvg-logo="http://webcast.gov.in/images/channel_three.png" group-title="TAMIL",Lok Sabha
 https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
@@ -1423,27 +1350,25 @@ http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1 tvg-logo="http://music.mhone.in/wp-content/uploads/2018/05/600x200-Black.png" group-title="PUNJABI/HINDI",MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="PUNJABI/HINDI",Anjan
+#EXTINF:-1 tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="HINDI",Anjan
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
-
 #EXTINF:-1,Kadak Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png" group-title="PUNJABI/HINDI",B4U Kadak
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png" group-title="HINDI",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/B4U_MOVIES.png" group-title="PUNJABI/HINDI",B4U Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/B4U_MOVIES.png" group-title="HINDI",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 
-#EXTINF:-1 tvg-id="B4U Music-IN" tvg-name="B4U Music-IN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="PUNJABI/HINDI",B4U Music
+#EXTINF:-1 tvg-id="B4U Music-IN" tvg-name="B4U Music-IN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="HINDI",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/01/b4u_plus_ae.png" group-title="PUNJABI/HINDI",B4U Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/01/b4u_plus_ae.png" group-title="HINDI",B4U Plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="PUNJABI/HINDI",Bollywood Classic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="HINDI",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="PUNJABI/HINDI",Bollywood Now
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="HINDI",Bollywood Now
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 #EXTINF:0, group-title="PUNJABI/HINDI",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
