@@ -1384,16 +1384,18 @@ http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 #EXTINF:-1 ch-id="Fox Action Movies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="MALAYSIA/SGP",Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="MALAYSIA/SGP",Hits Movies
-http://103.22.183.136:8081/live/hits-movies/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/RomedyNow.in.png" group-title="MALAYSIA/SGP",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/id/AXN.id.png" group-title="MALAYSIA/SGP", AXN
 http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MNX2.in.png" group-title="MALAYSIA/SGP",MNX Movies
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="MALAYSIA/SGP",Hits Movies
-http://103.22.183.136:8081/live/hits-movies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" group-title="MALAYSIA/SGP",HITS Movies
+http://210.210.155.66/h/h37/01.m3u8
+
 
 #EXTINF:-1 ch-id="Kix" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" group-title="MALAYSIA/SGP",Kix
 http://210.210.155.66/h/h07/01.m3u8
