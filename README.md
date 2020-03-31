@@ -1314,11 +1314,14 @@ https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1 tvg-logo="http://webcast.gov.in/images/rajyasabhatv.png" group-title="TAMIL",Rajya Sabha
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5 
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+
 
 #EXTINF:-1 ch-id="Channel 5" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="MALAYSIA/SGP",Channel 5
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+
+#EXTINF:-1 tvg-group="MALAYSIA/SGP" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5 
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+
 #EXTINF:-1 ch-id="Channel 8" tvg-logo="https://video.toggle.sg/image/5166818/16x9/236/133/a6eec7dcb1648300cfbaa9a076b4fce8/jV/channel-8.png" group-title="MALAYSIA/SGP",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 ch-id="Channel U" tvg-logo="https://video.toggle.sg/image/5308024/16x9/236/133/38aa7e2b749478c4bba097b540b93720/TN/channel-u.png" group-title="MALAYSIA/SGP",Channel U
