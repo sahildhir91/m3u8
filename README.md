@@ -77,9 +77,7 @@ http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="NEWS",BBC News
 http://51.52.156.22:8888/http/004
-
-
-#EXTINF:-1 tvg-logo="https://kay2.tv/wp-content/uploads/2017/01/logo.png" group-title=" Pakistan", Kay2 
+#EXTINF:-1 tvg-logo="https://kay2.tv/wp-content/uploads/2017/01/logo.png" group-title="Pakistan", Kay 2 
 http://livecdnh1.tvanywhere.ae:80/hls/k2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="Pakistan",Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
