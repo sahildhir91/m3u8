@@ -1314,7 +1314,7 @@ https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1 tvg-logo="http://webcast.gov.in/images/rajyasabhatv.png" group-title="TAMIL",Rajya Sabha
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 
-#EXTINF:-1 tvg-group="MALAYSIA/SGP" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5 
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5 
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
 #EXTINF:-1 ch-id="Channel 5" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="MALAYSIA/SGP",Channel 5
