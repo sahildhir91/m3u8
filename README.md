@@ -1387,3 +1387,185 @@ http://cdn.samtv.ca/hamdard/index.m3u8
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 
 
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",92 NEWS
+https://stream.simpaisa.com/pitvlive2/news92/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="PAK TV",92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="PAK TV",92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="PAK TV",92 News UK
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",A Plus
+http://stream.tapmad.com:1935/pitvlive2/aplus3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",AAJ ENT
+https://stream.simpaisa.com/pitvlive2/aajentnew/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",ALQURAN LIVE
+https://stream.simpaisa.com/pitvlive2//makkah_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",ANIMAL PLANET
+https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",APLUS
+https://stream.simpaisa.com/pitvlive2/aplus3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",ARY Family
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",ATV
+https://stream.simpaisa.com/pitvlive2/atv3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",ATV
+http://stream.tapmad.com:1935/pitvlive2/atv3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",AVT KHYBER
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",Aap News
+http://95.211.211.168/live/aaptvhd0250/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN;PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Music;PAK TV",B4U Music
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",BABY TV
+https://stream.simpaisa.com/pitvlive2/baby_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",BBC NEWS WORLD
+https://stream.simpaisa.com/pitvlive2/bbcnews3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",CARTOON NETWORK
+https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",CHANNEL 24
+https://stream.simpaisa.com/pitvlive2/channel243/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",CHANNEL 5
+https://stream.simpaisa.com/pitvlive2/channel53/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",CITY 42
+https://stream.simpaisa.com/pitvlive2/city423/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",DAWN NEWS
+https://stream.simpaisa.com/pitvlive2/dawnnews3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",DIN NEWS
+https://stream.simpaisa.com/pitvlive2/dinnews3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="PAK TV",Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",Dunya News
+http://95.211.211.168/live/dunyanews0013/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",EXPRESS ENT
+https://stream.simpaisa.com/pitvlive2/express3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",EXPRESS NEWS
+https://stream.simpaisa.com/pitvlive2/expressnews3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/PbDBky1.png" group-title="PAK TV",Eawaz TV (CA)
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",Express Entertainment
+http://stream.tapmad.com:1935/pitvlive2/express3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",Express News
+http://stream.tapmad.com:1935/pitvlive2/expressnews3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/wY41F5k.png" group-title="PAK TV",Express TV
+https://5d48372bad056.streamlock.net/expressdigital/livestream/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/ti3KObC.png" group-title="PAK TV",Express TV
+https://5a6ada4d8f439.streamlock.net/expressdigital/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/sZqDIem.png" group-title="PAK TV",Eye 95 America (US)
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",FILM WORLD
+https://stream.simpaisa.com/pitvlive2/filmworld3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",FILMAZIA
+https://stream.simpaisa.com/pitvlive2/filmazia3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",Film World Global
+http://stream.tapmad.com:1935/pitvlive2/filmworld3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",Geo News
+http://95.211.211.168/live/geonews0011/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",HUM MASALA
+https://stream.simpaisa.com/pitvlive2/masalanew3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",HUM TV HD
+http://95.211.211.168/live/humtv0066/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",HUM TV HD
+https://stream.simpaisa.com/pitvlive2/humtvnew3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",Hum News
+http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",K21 NEWS
+https://stream.simpaisa.com/pitvlive2//k213/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",KAY 2
+https://stream.simpaisa.com/pitvlive2/k23/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",KHYBER NEWS
+https://stream.simpaisa.com/pitvlive2/khybernews3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",KHYBER TV
+https://stream.simpaisa.com/pitvlive2/khyber3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",KOHENOOR NEWS
+https://stream.simpaisa.com/pitvlive2/kohenoor3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/k4RmfYW.png" group-title="PAK TV",Kay 2
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/GYZGWFy.png" group-title="PAK TV",Kay2 TV
+http://livecdnh1.tvanywhere.ae:80/hls/k2/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",Kay2 TV
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/GYZGWFy.png" group-title="PAK TV",Kay2 TV
+http://livecdnh1.tvanywhere.ae:80/hls/k2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/7NQ2aC6.png" group-title="PAK TV",Khyber Middle East
+https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",Khyber Middle East TV
+https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/mrUAPtg.png" group-title="PAK TV",Khyber News
+http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",Khyber News TV
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/jYR0ACG.png" group-title="PAK TV",Lahore News
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/wKRCk7K.png" group-title="PAK TV",Lahore News (Opt-2)
+http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",MADINA LIVE
+https://stream.simpaisa.com/pitvlive2//madina_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",METRO 1 NEWS
+https://stream.simpaisa.com/pitvlive2/metro3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/m8cS74j.png" group-title="PAK TV",Minhaj TV
+http://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",NEO NEWS
+https://stream.simpaisa.com/pitvlive2/neo3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",Nat Geo Wild HD
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/05.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="PAK TV",Nazrana TV
+http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",PASHTO 1
+https://stream.simpaisa.com/pitvlive2/pushto13/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",PLAY TV
+https://stream.simpaisa.com/pitvlive2/playmax3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",PTV BOLAN
+https://stream.simpaisa.com/pitvlive2/ptvbolan3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",PTV GLOBAL
+https://stream.simpaisa.com/pitvlive2/ptvglobal3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",PTV HOME
+https://stream.simpaisa.com/pitvlive2/ptvhome3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",PTV NATIONAL
+https://stream.simpaisa.com/pitvlive2/ptvnational3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",PTV NEWS
+https://stream.simpaisa.com/pitvlive2/ptvnews3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",PTV WORLD
+https://stream.simpaisa.com/pitvlive2/ptvworld3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",PakUs TV
+https://livestream.5centscdn.com/pakustv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",Pitaara
+http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",SACHTV
+https://stream.simpaisa.com/pitvlive2/sachtv3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",SEETV HD
+https://stream.simpaisa.com/pitvlive2/seetv3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",SINDH TV
+https://stream.simpaisa.com/pitvlive2/sindhtv3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",Sony Mix
+http://216.144.250.174/Sony_Mix_HD/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN;PK" tvg-logo="" group-title="PAK TV",Subrang TV,Subrang TV (USA)
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="PAK TV",Subrang TV (US) (Opt-2)
+https://cdn20.liveonlineservices.com/hls/subrang.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",TV ONE
+https://stream.simpaisa.com/pitvlive2/tvone3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",TV ONE NEWS
+https://stream.simpaisa.com/pitvlive2/tvonenews3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",TV One
+http://stream.tapmad.com:1935/pitvlive2/tvone3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="PAK TV",Tag TV (Opt-1)
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="PAK TV",Tag TV (Opt-2)
+https://cdn30.liveonlineservices.com/hls/tagtv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",VISH
+https://stream.simpaisa.com/pitvlive2/vsh3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",WASEEB
+https://stream.simpaisa.com/pitvlive2/waseeb3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="PAK TV",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",discovery channel
+https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8?checkedby:iptvcat.com
+
+
+
+
