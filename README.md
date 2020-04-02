@@ -1419,7 +1419,7 @@ https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checke
 http://95.211.211.168/live/aaptvhd0250/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN;PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Music;PAK TV",B4U Music
+#EXTINF:0 tvg-country="IN;PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="PAK TV",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",BABY TV
 https://stream.simpaisa.com/pitvlive2/baby_360p/playlist.m3u8?checkedby:iptvcat.com
@@ -1461,7 +1461,7 @@ http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
 https://stream.simpaisa.com/pitvlive2/filmworld3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",FILMAZIA
 https://stream.simpaisa.com/pitvlive2/filmazia3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",Film World Global
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",Film World Global
 http://stream.tapmad.com:1935/pitvlive2/filmworld3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",Geo News
 http://95.211.211.168/live/geonews0011/playlist.m3u8?checkedby:iptvcat.com
