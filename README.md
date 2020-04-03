@@ -1527,6 +1527,8 @@ https://stream.simpaisa.com/pitvlive2/ptvglobal3/playlist.m3u8?checkedby:iptvcat
 https://stream.simpaisa.com/pitvlive2/ptvhome3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",PTV NATIONAL
 https://stream.simpaisa.com/pitvlive2/ptvnational3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.shaamtv.com/images/25.jpg" group-title="PAK TV",PTV Sports
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",PTV NEWS
 https://stream.simpaisa.com/pitvlive2/ptvnews3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",PTV WORLD
