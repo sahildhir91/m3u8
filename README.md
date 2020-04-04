@@ -752,6 +752,7 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="DOCUMENTARY",Discovery Asia
 http://111.13.111.192/125.227.198.89:8028
+
 EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/BBCEarth.qa.png" group-title="DOCUMENTARY",BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
 
@@ -791,26 +792,7 @@ https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-Hist
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SmithsonianChannel.uk.png" group-title="DOCUMENTARY",Smithsonian
-http://ms-azure-video.gslb.startimestv.com/live/SMITHSONIAN_CHANNEL_1166_500_480x360_662502/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="DOCUMENTARY",UN Web TV
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.baipin.pw/wp-content/uploads/2019/07/8b13632762d0f70343dbf12502fa513d2797c5da.png" group-title="DOCUMENTARY",DSPORTS
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls 
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjilu.jpg" group-title="DOCUMENTARY",Newtv ????
-http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="DOCUMENTARY",CETV1
-http://223.110.241.204:6610/gitv/live1/G_CETV-1/G_CETV-1/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png" group-title="DOCUMENTARY",CETV2
-http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B23%E5%8F%B0.png" group-title="DOCUMENTARY",CETV3
-http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv4.jpg" group-title="DOCUMENTARY",CETV4
-http://223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4/1.m3u8
-#EXTINF:-1 tvg-logo="http://pic.iask.cn/fimg/78078440198.jpg" group-title="DOCUMENTARY",????
-http://111.40.205.87/PLTV/88888888/224/3221225655/index.m3u8
 
 
 
