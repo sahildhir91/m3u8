@@ -1341,6 +1341,8 @@ http://160.119.77.50/iptv/uk-skypremiere.stream/playlist.m3u8
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 ch-id="Warner TV" tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="MALAYSIA/SGP",Warner TV
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 tvg-logo="https://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg group-title="MALAYSIA/SGP",tVN Movies
+https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_sleng.m3u8
 
 #EXTINF:0, group-title="PUNJABI/HINDI",Pitaara
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
