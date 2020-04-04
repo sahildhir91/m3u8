@@ -330,6 +330,11 @@ https://1904441568.rsc.cdn77.org/1904441568/tracks-v1a1/mono.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="NEWS",Al Jazeera English
 https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
+#EXTINF:-1 ch-id="FoxNews" tvg-logo="http://static.iptv-epg.com/us/FoxNews.us.png" group-title="NEWS",Fox News
+https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CNN.uk.png" group-title="NEWS",CNN
+http://84.22.33.254/unicast.cnn/video.m3u8
+  
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="NEWS",BBC News
 http://51.52.156.22:8888/http/004
@@ -867,6 +872,8 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/History.de.png" group-title="DOCUMENTARY",History TV
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="DOCUMENTARY",Discovery Asia
+http://111.13.111.192/125.227.198.89:8028
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY",Discovery
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
@@ -1343,6 +1350,8 @@ http://51.52.156.22:8888/http/009
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 tvg-logo="https://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg group-title="MALAYSIA/SGP",tVN Movies
 https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/8f90074b9a37cc9f382566d31aa02071/gd/red-by-hbo.png" group-title="MALAYSIA/SGP",Red by HBO
+https://tv4.chang55.com/live2/tv4ch47.stream/chunks.m3u8
 
 #EXTINF:0, group-title="PUNJABI/HINDI",Pitaara
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
@@ -1563,6 +1572,8 @@ http://stream.tapmad.com:1935/pitvlive2/tvone3/playlist.m3u8?checkedby:iptvcat.c
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="PAK TV",Tag TV (Opt-2)
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://arymusik.tv/wp-content/uploads/2018/01/ARY_Musik.png" group-title="PAK TV",ARY Musik
+https://stream.arylive.com/MusikLive/index.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",VISH
 https://stream.simpaisa.com/pitvlive2/vsh3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",WASEEB
