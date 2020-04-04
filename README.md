@@ -324,17 +324,15 @@ http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkyNews.uk.png" group-title="NEWS",Sky News UK
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Telesur.es.png" group-title="NEWS",Telesur
-http://d2ajt1gpdtnw25.cloudfront.net:80/mbliveMain/hd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/Telesur.es.png" group-title="NEWS",Telesur English
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/tr/TRTWorld.tr.png" group-title="NEWS",TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4vJyy9.png" group-title="NEWS",Weather Channel
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.weathernationtv.com/app/uploads/WNTV.jpg" group-title="NEWS",WeatherNation TV
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u
-#EXTINF:-1 tvg-logo="http://www.chinafile.com/sites/default/files/assets/images/publication/logo_featured/voice_of_america_logo-feature.png" group-title="NEWS",Voice of America
+
+
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="NEWS",Bloomberg Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
@@ -350,10 +348,8 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/master.m3u8
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
 #EXTINF:-1 tvg-logo="https://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png" group-title="NEWS",CNBC 18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png" group-title="NEWS",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cnbcarabia.com/img/logo.png" group-title="NEWS",CNBC Arabia
-https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="NEWS",CNBC ?????
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ETNOW.in.png" group-title="NEWS",ET Now
@@ -368,8 +364,7 @@ https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/BFMBusiness.fr.png" group-title="NEWS",BFM Business
 https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png" group-title="NEWS",Intereconomía
-https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
 https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
