@@ -265,6 +265,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
 #EXTINF:-1 ch-id="FoxNews" tvg-logo="http://static.iptv-epg.com/us/FoxNews.us.png" group-title="NEWS",Fox News
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CNN.uk.png" group-title="NEWS",CNN
 http://84.22.33.254/unicast.cnn/video.m3u8
   
@@ -373,10 +374,9 @@ https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png" group-title="NEWS",Intereconomía
 https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
 https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
 https://anevia114.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="http://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",BeIN Sports Extra
@@ -752,6 +752,8 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="DOCUMENTARY",Discovery Asia
 http://111.13.111.192/125.227.198.89:8028
+EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/BBCEarth.qa.png" group-title="DOCUMENTARY",BBC Earth
+https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY",Discovery
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
@@ -762,8 +764,7 @@ http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="DOCUMENTARY",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 
-EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/BBCEarth.qa.png" group-title="DOCUMENTARY",BBC Earth
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="DOCUMENTARY",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="DOCUMENTARY",Crime & Investigation
