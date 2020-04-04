@@ -263,6 +263,7 @@ https://1904441568.rsc.cdn77.org/1904441568/tracks-v1a1/mono.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="NEWS",Al Jazeera English
 https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
+
 #EXTINF:-1 ch-id="FoxNews" tvg-logo="http://static.iptv-epg.com/us/FoxNews.us.png" group-title="NEWS",Fox News
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
 
