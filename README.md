@@ -229,8 +229,7 @@ http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="SPORTS",SETANTA HD
 http://ott-cdn.ucom.am/s81/03.m3u8
 
-#EXTINF:-1, group-title="SPORTS", PPTV 36
-==
+
 #EXTINF:-1  tvg-name="WWE Network" tvg-id="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png" group-title="SPORTS",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
 
