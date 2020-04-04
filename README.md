@@ -64,7 +64,6 @@ http://111.13.111.192/125.227.198.89:8028
 
 EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/BBCEarth.qa.png" group-title="DOCUMENTARY",BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
-
 #EXTINF:-1,Nat geo wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1,National Geographic
