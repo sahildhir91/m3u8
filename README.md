@@ -957,7 +957,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/StarWorld.sa.png" group-title="MALAYSIA/SGP",Star World
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
-#EXTINF:0, group-title="PUNJABI/HINDI",Pitaara
+#EXTINF:0, tv-logo="https://qqcdnpicweb.mxplay.com/media/images/5366.Pitaara.in/1x1/6x/test_pic1535976851878.JPG"group-title="PUNJABI/HINDI",Pitaara
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:0, group-title="PUNJABI/HINDI",Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
