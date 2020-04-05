@@ -959,9 +959,9 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
 #EXTINF:0, tvg-logo="https://i.imgur.com/SUKfC0I.png" group-title=" PUNJABI/HINDI",Pitaara
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
-#EXTINF:0, group-title="PUNJABI/HINDI",Jhanjar HD
+#EXTINF:0,tvg-logo="https://i.imgur.com/6SGZIJ2.png" group-title="PUNJABI/HINDI",Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
-#EXTINF:0, group-title="PUNJABI/HINDI",Jhanjar Music
+#EXTINF:0,tvg-logo="https://i.imgur.com/vypvOj8.png" group-title="PUNJABI/HINDI",Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1 tvg-logo="http://music.mhone.in/wp-content/uploads/2018/05/600x200-Black.png" group-title="PUNJABI/HINDI",MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
@@ -987,7 +987,7 @@ http://210.210.155.69/s/s62/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="HINDI",Bollywood Now
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
-#EXTINF:0, group-title="PUNJABI/HINDI",TV Punjab
+#EXTINF:0,tvg-logo="https://i.imgur.com/g4uw68O.png" group-title="PUNJABI/HINDI",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="PUNJABI/HINDI",DD National (New!)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
@@ -998,7 +998,7 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rStIuAU.png" group-title="PUNJABI/HINDI",DD Punjabi (New!)
 http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
 
-#EXTINF:0, group-title="PUNJABI/HINDI",Hamdard TV
+#EXTINF:0, tvg-logo="https://i.imgur.com/TOMaYDK.png" group-title="PUNJABI/HINDI",Hamdard TV
 http://cdn.samtv.ca/hamdard/index.m3u8
 #EXTINF:0,ttvg-logo="https://i.imgur.com/PB7QMfb.png"" group-title="PUNJABI/HINDI",Amar Ujala 
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
