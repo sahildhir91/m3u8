@@ -825,14 +825,6 @@ https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
 https://ibckids-origin.ibctamil.com/transcode/ibckids_std.m3u8
  #EXTINF:-1 tvg-logo="https://i.imgur.com/txTBtsK.png" group-title="TAMIL",IBC Tamil 
 https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://cdn.gstv.in/wp-content/uploads/2019/03/cropped-cropped-logo-1.png" group-title="TAMIL",GS TV
 https://live-cdn-gstv.livecast.io/560828843292539228453915.m3u8
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/JMAX.png" group-title="TAMIL",Jaya Max
