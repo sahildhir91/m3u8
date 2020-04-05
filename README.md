@@ -582,8 +582,7 @@ https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Entertainment",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/StarWorld.sa.png" group-title="Entertainment",Star World
-http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="DOCUMENTARY",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="DOCUMENTARY",TLC India
@@ -822,8 +821,6 @@ https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3
 https://live-cdn-gstv.livecast.io/560828843292539228453915.m3u8
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/JMAX.png" group-title="TAMIL",Jaya Max
 http://45.120.188.178/hdmi
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/WOWCinema.in.png" group-title="HINDI",Wow Cinema
 https://streamidvo.multitvsolution.in//live/WowCinema-d/p4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI",Zee TV
@@ -955,6 +952,10 @@ http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/8f90074b9a37cc9f382566d31aa02071/gd/red-by-hbo.png" group-title="MALAYSIA/SGP",Red by HBO
 https://tv4.chang55.com/live2/tv4ch47.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/StarMovies.sa.png" group-title="MALAYSIA/SGP",Star Movies
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/StarWorld.sa.png" group-title="MALAYSIA/SGP",Star World
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
 #EXTINF:0, group-title="PUNJABI/HINDI",Pitaara
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
