@@ -777,14 +777,6 @@ https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-Hist
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="DOCUMENTARY",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarBharat.in.png" group-title="PUNJABI/HINDI",Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nl/StarGold.nl.png" group-title="HINDI",Star Gold
@@ -967,18 +959,16 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="HINDI",Anjan
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
-#EXTINF:-1,Kadak Hits
-http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png" group-title="HINDI",B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/B4U_MOVIES.png" group-title="HINDI",B4U Movies
-http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D5vloip.png" group-title="HINDI",B4U Movies 
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5DxAU8.png" group-title="HINDI",B4U Plus 
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 tvg-id="B4U Music-IN" tvg-name="B4U Music-IN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="HINDI",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kPUTNBo.png" group-title="HINDI",Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/01/b4u_plus_ae.png" group-title="HINDI",B4U Plus
-http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="HINDI",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE
@@ -989,13 +979,13 @@ http://210.210.155.69/s/s62/S4/mnf.m3u8
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 #EXTINF:0,tvg-logo="https://i.imgur.com/g4uw68O.png" group-title="PUNJABI/HINDI",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="PUNJABI/HINDI",DD National (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="PUNJABI/HINDI",DD National 
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TSvkIfA.png" group-title="PUNJABI/HINDI",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rStIuAU.png" group-title="PUNJABI/HINDI",DD Punjabi (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rStIuAU.png" group-title="PUNJABI/HINDI",DD Punjabi 
 http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
 
 #EXTINF:0, tvg-logo="https://i.imgur.com/TOMaYDK.png" group-title="PUNJABI/HINDI",Hamdard TV
