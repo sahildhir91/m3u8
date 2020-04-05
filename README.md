@@ -197,6 +197,10 @@ http://160.119.77.50/iptv/hd-foxsports1eng.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-foxsports2eng.stream/playlist.m3u8
 #EXTINF:-1 ch-id="Fox Sports 3" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="SPORTS",FOX Sports 3
 http://160.119.77.50/iptv/hd-foxsports3eng.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Cricket 
+http://fr01.spr24.net/24233/index.m3u8?token=BQF9PmuRpcxUqR
+#EXTINF:-1,Sky Sports Golf 
+http://fr01.spr24.net/24235/index.m3u8?token=BQF9PmuRpcxUqR
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="SPORTS", MNC Sport
@@ -666,11 +670,11 @@ https://1427531085.rsc.cdn77.org/1427531085/tracks-v1a1/mono.m3u8
 https://1002631743.rsc.cdn77.org/1002631743/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.bastionegroup.com/wp-content/uploads/2019/03/ReelPX_Vintage.png" group-title="MOVIE",Reel Px Vintage
 https://1946514655.rsc.cdn77.org/1946514655/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040637.jpg" group-title="PUNJABI/HINDI",Sony Max
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040637.jpg" group-title="HINDI",Sony Max
 https://streamer-1.toffeelive.com/live/sony_max_576/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040639.jpg" group-title="PUNJABI/HINDI",Sony Max HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040639.jpg" group-title="HINDI",Sony Max HD
 https://streamer-1.toffeelive.com/live/set_max_hd_576/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040636.jpg" group-title="PUNJABI/HINDI",Sony Mix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040636.jpg" group-title="HINDI",Sony Mix
 https://streamer-1.toffeelive.com/live/sony_mix_576/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="HINDI",Sony PIX
 https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
@@ -984,8 +988,11 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="HINDI",Bollywood Classic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="HINDI",Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE
+#EXTINF:-1,BollyWood Hd
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925599258s.png" group-title="HINDI",Filmy
 http://210.210.155.69/s/s62/S4/mnf.m3u8
 
@@ -993,6 +1000,7 @@ http://210.210.155.69/s/s62/S4/mnf.m3u8
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 #EXTINF:0,tvg-logo="https://i.imgur.com/g4uw68O.png" group-title="PUNJABI",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="PUNJABI",DD National 
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
