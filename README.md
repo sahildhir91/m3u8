@@ -1000,7 +1000,7 @@ http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
 
 #EXTINF:0, group-title="PUNJABI/HINDI",Hamdard TV
 http://cdn.samtv.ca/hamdard/index.m3u8
-#EXTINF:0,tv-logo="https://yt3.ggpht.com/a/AGF-l7-vLlhxw0ruHwHhavy_HOQ7KpkMC6nI5Yynow=s900-c-k-c0xffffffff-no-rj-mo" group-title="PUNJABI/HINDI",Amar Ujala 
+#EXTINF:0,ttvg-logo="https://i.imgur.com/PB7QMfb.png"" group-title="PUNJABI/HINDI",Amar Ujala 
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 
 
