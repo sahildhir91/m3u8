@@ -805,12 +805,30 @@ https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyMIX.in.png" group-title="PUNJABI/HINDI",Sony Mix
 http://216.144.250.174/Sony_Mix_HD/track-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="TAMIL",Sony SAB
+#EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="PUNJABI/HINDI",Sony SAB
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/211_300.png" group-title="TAMIL",Sun TV
 http://160.119.77.50/iptv/in-suntv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.asianetnews.com/v1/images/kannada_prabha_icon_2.png" group-title="TAMIL",Suvarna News
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99vZY6B.png" group-title="TAMIL",STS Tamil 
+http://santhora.de.flash.glb.ipercast.net/santhora.de-live/sts/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="TAMIL",Tamil Vision Int'lHD
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/e7sM8jS.png" group-title="TAMIL",Tamilan Television
+http://8ovgdk34qmpw-hls-live.wmncdn.net/307/tamilan/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TjuXUS2.png" group-title="TAMIL",IBC 24
+https://livetv.ibc24.in/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FBGjycy.png" group-title="TAMIL",IBC Comedy 
+https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uOpVDkn.png" group-title="TAMIL",IBC Kids 
+https://ibckids-origin.ibctamil.com/transcode/ibckids_std.m3u8
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/txTBtsK.png" group-title="TAMIL",IBC Tamil 
+https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
+
+
+
+
 
 
 
