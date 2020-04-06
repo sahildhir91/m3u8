@@ -960,7 +960,8 @@ http://210.210.155.69/s/s62/S4/mnf.m3u8
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 #EXTINF:0,tvg-logo="https://i.imgur.com/g4uw68O.png" group-title="PUNJABI",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
-
+#EXTINF:0 tvg-country="IN" tvg-logo="http://www.fastwaytv.com/img/logo.png" group-title="PUNJABI",FastWay TV,India : Fastway TV
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="PUNJABI",DD National 
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
