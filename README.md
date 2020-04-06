@@ -1053,7 +1053,7 @@ https://stream.simpaisa.com/pitvlive2/bbcnews3/playlist.m3u8?checkedby:iptvcat.c
 #EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="PAK TV",CARTOON NETWORK
 https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQE_XpyxeZiYhA/company-logo_200_200/0?e=2159024400&v=beta&t=lSW10UvBU2n3ZUE83a_V77BYJ-8hBmlofO27EwQJcCI" group-title="PAK TV",CHANNEL 24
+#EXTINF:0 tvg-country="PK" tvg-logo="https://www.plexflix.to/plexflix.to/picons/pakistan/24%20NEWS%20HD%20%28Pakistan%29.png" group-title="PAK TV",CHANNEL 24
 https://stream.simpaisa.com/pitvlive2/channel243/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.ya-webdesign.com/images/channel-5-logo-png-5.png" group-title="PAK TV",CHANNEL 5
