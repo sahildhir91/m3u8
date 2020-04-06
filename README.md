@@ -189,13 +189,16 @@ http://stg.pz10139.parspack.net/Films/John.Wick.Chapter.2.2017/John.Wick.Chapter
 https://pastebin.com/v9e3T9TK/10/05/2019
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/92/a5/31/92a531eacecfe35f47e32c450318a3f6.png" group-title="SPORTS", Star Sports 1
 http://195.181.169.120/StarSports_Hd4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="SPORTS",Fox Sports 1 Asia
+https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="SPORTS",Fox Sports 2 Asia
+https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="SPORTS",Fox Sports 3 Asia
+https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
 
-#EXTINF:-1 ch-id="Fox Sports" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="SPORTS",FOX Sports
-http://160.119.77.50/iptv/hd-foxsports1eng.stream/playlist.m3u8
-#EXTINF:-1 ch-id="Fox Sports 2" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="SPORTS",FOX Sports 2
-http://160.119.77.50/iptv/hd-foxsports2eng.stream/playlist.m3u8
-#EXTINF:-1 ch-id="Fox Sports 3" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="SPORTS",FOX Sports 3
-http://160.119.77.50/iptv/hd-foxsports3eng.stream/playlist.m3u8
+
+
+
 #EXTINF:-1,Sky Sports Cricket 
 http://fr01.spr24.net/24233/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1,Sky Sports Golf 
