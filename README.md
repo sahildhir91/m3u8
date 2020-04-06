@@ -757,11 +757,8 @@ http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&t
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA/SGP",TV Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="MALAYSIA/SGP",Astro Go Shop
 https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
-
-
 #EXTINF:-1 ch-id="Drama Sangat" tvg-logo="https://www.xtra.com.my/img/logo/dramasangat2.png" group-title="MALAYSIA/SGP",Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 #EXTINF:-1 ch-id="Naura" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" group-title="MALAYSIA/SGP",Naura
@@ -806,6 +803,10 @@ https://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/0/0e/AFHV_new_logo_%28main%29.png" group-title="MALAYSIA/SGP",America's Funniest Home Videos
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/BrighamYoungUniversity.us.png" group-title="MALAYSIA/SGP",BYUtv
+http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/04/logo.png" group-title="MALAYSIA/SGP",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MoviesNow.in.png" group-title="MALAYSIA/SGP",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
