@@ -1052,10 +1052,13 @@ https://stream.simpaisa.com/pitvlive2/baby_360p/playlist.m3u8?checkedby:iptvcat.
 https://stream.simpaisa.com/pitvlive2/bbcnews3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="PAK TV",CARTOON NETWORK
 https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="PK" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQE_XpyxeZiYhA/company-logo_200_200/0?e=2159024400&v=beta&t=lSW10UvBU2n3ZUE83a_V77BYJ-8hBmlofO27EwQJcCI" group-title="PAK TV",CHANNEL 24
 https://stream.simpaisa.com/pitvlive2/channel243/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.ya-webdesign.com/images/channel-5-logo-png-5.png" group-title="PAK TV",CHANNEL 5
 https://stream.simpaisa.com/pitvlive2/channel53/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="PK" tvg-logo="https://seeklogo.com/images/C/city-42-logo-E20F212E2C-seeklogo.com.png" group-title="PAK TV",CITY 42
 https://stream.simpaisa.com/pitvlive2/city423/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://c7.uihere.com/files/754/691/589/malakand-district-dawn-news-karachi-herald-news.jpg" group-title="PAK TV",DAWN NEWS
