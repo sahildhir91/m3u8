@@ -216,23 +216,16 @@ https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
 http://84.22.33.254/unicast.cnn/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="NEWS",BBC News
 http://51.52.156.22:8888/http/004
-
 #EXTINF:-1 tvg-logo="https://kkdjradio.com/wp-content/uploads/2019/01/cbs-news.png" group-title="NEWS",CBS News
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo"https://cdn-images-1.medium.com/max/1600/1*IiN-2aKkPFTIk_ZCSNqXqQ.jpeg" group-title="NEWS",Cheddar Big News
 https://live.chdrstatic.com/cbn/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTN.au.png" group-title="NEWS",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DeutscheWelleEn.de.png" group-title="NEWS",Deutsche Welle (English)
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="NEWS",Euronews
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France24English.fr.png" group-title="NEWS",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ir/PressTV.ir.png" group-title="NEWS",IRIB Press TV
@@ -241,7 +234,6 @@ https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
 https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="NEWS",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/844708508989841408/HLuil94O_400x400.jpg" group-title="NEWS",Mirror Now
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.newsx.com/wp-content/themes/newsxlite/images/logo2.png" group-title="NEWS",News X
@@ -260,15 +252,11 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium-avc
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/tr/TRTWorld.tr.png" group-title="NEWS",TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4vJyy9.png" group-title="NEWS",Weather Channel
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
-
-
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="NEWS",Bloomberg Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/2656/1*DhgWWj7DTZ-kD2zWhBBwAg.png" group-title="NEWS",Cheddar
 https://live.chdrstatic.com/cheddar/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="NEWS",CNBC
@@ -316,9 +304,6 @@ http://45.58.62.92:8080
 http://203.154.243.89:1208
 #EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="SPORTS",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://www.tennistv.com/help/wp-content/themes/tennistv-support/dist/images/tennistv-footer.png" group-title="SPORTS",ATP Tennis TV
 http://203.154.243.89:11739
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TennisChannel.us.png" group-title="SPORTS",Tennis Channel
@@ -476,8 +461,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="MOVIE",Warner TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Animax.id.png" group-title="KIDS",Animax
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-Animax-mp4a_98800_eng=3.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/BabyFirstTV.pl.png" group-title="KIDS",BabyFirst
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Boomerang.de.png" group-title="KIDS",Boomerang
@@ -504,8 +488,7 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PBSKids.us.png" group-title="KIDS",PBS Kids
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="KIDS",TCT Kids
-http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="KIDS",TOONMAX
 http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="KIDS",/kaku
@@ -517,19 +500,12 @@ http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="DOCUMENTARY",Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY",Discovery
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="DOCUMENTARY",Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="DOCUMENTARY",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="DOCUMENTARY",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="DOCUMENTARY",Crime & Investigation
