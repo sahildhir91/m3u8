@@ -195,16 +195,27 @@ https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="SPORTS",Fox Sports 3 Asia
 https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
-
-
-
-
-#EXTINF:-1,Sky Sports Cricket 
-http://fr01.spr24.net/24233/index.m3u8?token=BQF9PmuRpcxUqR
-#EXTINF:-1,Sky Sports Golf 
-http://fr01.spr24.net/24235/index.m3u8?token=BQF9PmuRpcxUqR
-
-
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="SPORTS",Sky Sports News
+https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="SPORTS",Sky Sports Action
+https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="SPORTS",Sky Sports Arena
+https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="SPORTS",Sky Sports Mix
+https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="SPORTS",Sky Sports F1
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/nz/ESPN.nz.png" group-title="American SPORTS",ESPN
+http://npse.brots.world/espn2.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/nz/ESPN2.nz.png" group-title="American SPORTS",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/ESPNNews.us.png" group-title="American SPORTS",ESPN News
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="American SPORTS",NBA TV
+https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/ESPNU.us.png" group-title="American SPORTS",ESPN U
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 tvg-logo="http://www.vsin.com/android-icon-192x192.png" group-title="American SPORTS",NFL Network
+https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="SPORTS", MNC Sport
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -235,10 +246,12 @@ http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg" group-title="SPORTS",D Sport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:-1,FOX SPORT1
-http://45.58.62.92:8080
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="Cricket",Star Sports 1
 http://103.118.76.234:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="Cricket",Sky Sports Cricket
+https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="Cricket",Ads sport cricket
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_fight_big1.png?v=2.0.0.11" group-title="SPORTS", FIGHT SPORT
