@@ -1142,21 +1142,18 @@ http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8?checkedby:iptvcat.com
 https://stream.simpaisa.com/pitvlive2/sachtv3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://1.bp.blogspot.com/-HmvMQm0C0DU/WB9blhmw19I/AAAAAAAAApk/kGghIWlz7BU0y4yjoZ_f5VbksKyGoSpTgCLcB/w1200-h630-p-k-no-nu/SEE%2BTV%2BHD%2BLIVE%2BSTREAMING.png" group-title="PAK TV",SEETV HD
 https://stream.simpaisa.com/pitvlive2/seetv3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://lh3.googleusercontent.com/4QkiqOHynVFeWoi0LYzd_pbzsn7CGf9QDW7JiVocd17tO2smzrwaTFugs9XB9PtzuA" group-title="PAK TV",SINDH TV
+#EXTINF:0 tvg-country="PK" tvg-logo="https://lh3.googleusercontent.com/4QkiqOHynVFeWoi0LYzd_pbzsn7CGf9QDW7JiVocd17tO2smzrwaTFugs9XB9PtzuA" group-title="PAK TV",SINDH
 https://stream.simpaisa.com/pitvlive2/sindhtv3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/SET_Mix.png/revision/latest/scale-to-width-down/340?cb=20110930222927" group-title="PAK TV",Sony Mix
 http://216.144.250.174/Sony_Mix_HD/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN;PK" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/b2/f8/e2/b2f8e27c-2a61-0111-5c31-0a585cb5173d/App_Icon_-_Small-marketing.lsr/1200x630bb.png" group-title="PAK TV",Subrang TV,Subrang TV
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="PK" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-tvone-png-7.png" group-title="PAK TV",TV ONE
 https://stream.simpaisa.com/pitvlive2/tvone3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/One_News_Philippines_logo.svg/1200px-One_News_Philippines_logo.svg.png" group-title="PAK TV",TV ONE NEWS
 https://stream.simpaisa.com/pitvlive2/tvonenews3/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="PAK TV",Tag TV 
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-logo="http://arymusik.tv/wp-content/uploads/2018/01/ARY_Musik.png" group-title="PAK TV",ARY Musik
 https://stream.arylive.com/MusikLive/index.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="https://yt3.ggpht.com/a/AGF-l79xAILmsRlfmJtegiVZQvoUPib2U0EuBdb7=s900-c-k-c0xffffffff-no-rj-mo" group-title="PAK TV",VISH
