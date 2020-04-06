@@ -801,7 +801,7 @@ http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
 http://f2.vstream.online:1935/mmtv/ngrp:mmtv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.malaimurasu.in/wp-content/uploads/2018/01/Malaimurasu-Seithigal-Logo.png" group-title="TAMIL",Malaimurasu
 https://wowzaprod170-i.akamaihd.net/hls/live/630629/b6055932/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tamil.de/wp-content/uploads/2018/01/Bildschirmfoto-2018-01-28-um-12.33.09.png" group-title="?????????",Tamil Business
+#EXTINF:-1 tvg-logo="https://www.tamil.de/wp-content/uploads/2018/01/Bildschirmfoto-2018-01-28-um-12.33.09.png" group-title="TAMIL",Tamil Business
 http://santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.akaramtv.com/images/akaramtv.png" group-title="TAMIL",Akaram
