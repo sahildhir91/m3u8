@@ -1037,7 +1037,7 @@ https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:
 https://5a6ada4d8f439.streamlock.net/expressdigital/livestream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/sZqDIem.png" group-title="PAK TV",Eye 95 America (US)
 http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://lh3.googleusercontent.com/proxy/aJ11FhSXRcc5UL2wLHXP7c3V9jueBBqAwmHpN8yjz7lmBWgFB1UPiF7UKBquk-wMvBeFxd_zxWZDP9nW7IEHjh0rbubh3m-z6CAQnnnz4GbG3-oLdWlDPg" group-title="PAK TV",FILMAZIA
+#EXTINF:0 tvg-country="PK" tvg-logo="https://www.customercarepk.com/wp-content/uploads/2016/08/Filmazia-1280x720.png" group-title="PAK TV",FILMAZIA
 https://stream.simpaisa.com/pitvlive2/filmazia3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsPMWYbasUDvxhqo8LD-8Hhx3nFQ0_34Rm9lCfMU34bsFF1LC7&usqp=CAU" group-title="PAK TV",Film World Global
 http://stream.tapmad.com:1935/pitvlive2/filmworld3/playlist.m3u8?checkedby:iptvcat.com
