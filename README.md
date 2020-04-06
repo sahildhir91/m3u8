@@ -794,6 +794,19 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 http://210.210.155.66/h/h37/01.m3u8
 #EXTINF:-1 ch-id="Kix" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" group-title="MALAYSIA/SGP",Kix
 http://210.210.155.66/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/474x/8c/4d/b6/8c4db6118aa2e6ae829432a4358e8e6b.jpg" group-title="MALAYSIA/SGP",Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/BBCLifestyle.pl.png" group-title="MALAYSIA/SGP",BBC Lifestyle
+https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="MALAYSIA/SGP",WHDH-TV
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/1200px-WGN_9_logo.svg.png" group-title="MALAYSIA/SGP",WGN-TV
+https://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top2.png" group-title="MALAYSIA/SGP",AMGTV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/0/0e/AFHV_new_logo_%28main%29.png" group-title="MALAYSIA/SGP",America's Funniest Home Videos
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MoviesNow.in.png" group-title="MALAYSIA/SGP",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 ch-id="HOLLYWOOD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="MALAYSIA/SGP",HOLLYWOOD
