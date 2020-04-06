@@ -762,8 +762,62 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/799e96499512c03c.jpg" group-title="TAMIL",STAR VIJAY
 http://216.144.250.174/Star_VIjay_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="TAMIL",Sony Aath
-https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/222_300.png" group-title="TAMIL",Raj TV
+http://45.120.188.184/hdmi
+#EXTINF:-1 tvg-logo="https://www.jaytv.in/wp-content/uploads/2018/06/Jay-TV-Transparant-Logo.png" group-title="TAMIL",Jay
+http://livematrix.in:1935/live/jay/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.kalaignartv.co.in/logo.jpg" group-title="TAMIL",Surya tv
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="TAMIL",Marutam TV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="TAMIL",MK Six
+http://streamidvo.multitvsolution.in/MKSix-b/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/PALAARTV1.png" group-title="TAMIL",Palar TV
+http://209.58.178.82/palartvhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/chennai/s7/044pxx44.xx44.151130105318.q5s7/catalogue/sangamam-tv-chetpet-chennai-satellite-channels-blzqpyjjzf-250.jpg" group-title="TAMIL",Sangamam
+http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/f4/ac/c0/f4acc0031c4c6040bb9bb644ffddce59.jpg" group-title="TAMIL",Thirumalai
+http://abcmedias2.livewebcast.in/abcmedias/_definst_/abcmediaslive.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.ctamiltv.com/uploads/logo.png" group-title="TAMIL",Tamil TV
+http://ctamiltv.livebox.co.in/ctamiltvhls/live.m3u8
+#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/03/Screenshot_1.png" group-title="TAMIL",Tamil MTV
+http://santhora.de.flash.glb.ipercast.net/santhora.de-live/tamilmtv/tamilmtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TviHd1.png/1200px-TviHd1.png" group-title="TAMIL",Tamil Vision
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png" group-title="TAMIL",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.vasanth.tv/img/logo.png" group-title="TAMIL",Vasanth TV
+http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836bc39f96d0a9a958a659dfc1d&bgsecuredir=1
+#EXTINF:-1 tvg-logo="http://www.vaanaviltelevision.com/wp-content/uploads/2018/07/Vaanavil-Logo-Corrected-246x300.png" group-title="TAMIL",Vanavil
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="TAMIL",vasantham
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+#EXTINF:-1 tvg-logo="http://www.velichamtv.org/velicham/wp-content/uploads/2018/04/Velicham-WEb.png" group-title="TAMIL",Velicham
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/532196435702198274/Dcl1GXNu_400x400.png" group-title="TAMIL",Vendharm
+http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923092663024230400/D0Q0FmRX_400x400.jpg" group-title="TAMIL",Madhimugam TV
+http://f2.vstream.online:1935/mmtv/ngrp:mmtv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.malaimurasu.in/wp-content/uploads/2018/01/Malaimurasu-Seithigal-Logo.png" group-title="TAMIL",Malaimurasu
+https://wowzaprod170-i.akamaihd.net/hls/live/630629/b6055932/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tamil.de/wp-content/uploads/2018/01/Bildschirmfoto-2018-01-28-um-12.33.09.png" group-title="?????????",Tamil Business
+http://santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.akaramtv.com/images/akaramtv.png" group-title="TAMIL",Akaram
+http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/raj-digital-pllus.png" group-title="TAMIL",Raj Digital Plus HD
+http://45.120.188.179/hdmi
+#EXTINF:-1 tvg-logo="http://www.sunnetwork.in/ChannelLogo/49Logo.jpg" group-title="TAMIL",Sun Life
+http://45.120.188.176/hdmi
+#EXTINF:-1 tvg-logo="http://www.sunnetwork.in/ChannelLogo/3ktv.jpg" group-title="TAMIL",KTV Tamil Movie Classic
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.netrikguntv.com/wp-content/uploads/2016/12/tvlogo.png" group-title="TAMIL",Netrikgun
+http://artech.livebox.co.in/netrikguntvhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kKFfLMd.jpg" group-title="??????????????",Santhora Short Flim
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+
 #EXTINF:-1 tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/logo-animated-new.gif" group-title="HINDI",Sony ETV
 http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyMax.in.png" group-title="HINDI",Sony Max
