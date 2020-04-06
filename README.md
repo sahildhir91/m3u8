@@ -760,7 +760,7 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="HINDI",Aaj Tak 
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:-1 tvg-STARVIJAY HD logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/799e96499512c03c.jpg" group-title="TAMIL",STAR VIJAY
+#EXTINF:-1 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/799e96499512c03c.jpg" group-title="TAMIL",STAR VIJAY
 http://216.144.250.174/Star_VIjay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="TAMIL",Sony Aath
 https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
