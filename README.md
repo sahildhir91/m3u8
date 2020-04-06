@@ -815,8 +815,7 @@ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/index.m
 
 #EXTINF:-1 tvg-logo="http://www.netrikguntv.com/wp-content/uploads/2016/12/tvlogo.png" group-title="TAMIL",Netrikgun
 http://artech.livebox.co.in/netrikguntvhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kKFfLMd.jpg" group-title="??????????????",Santhora Short Flim
-http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/logo-animated-new.gif" group-title="HINDI",Sony ETV
 http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
