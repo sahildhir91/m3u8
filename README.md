@@ -760,7 +760,7 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="HINDI",Aaj Tak 
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:-1 tvg-STARVIJAY HD logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/224_300.png" group-title="TAMIL",STAR VIJAY
+#EXTINF:-1 tvg-STARVIJAY HD logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/799e96499512c03c.jpg" group-title="TAMIL",STAR VIJAY
 http://216.144.250.174/Star_VIjay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="TAMIL",Sony Aath
 https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
@@ -964,10 +964,12 @@ http://cdn.samtv.ca/tvpunjab/index.m3u8
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="PUNJABI",DD National 
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TSvkIfA.png" group-title="PUNJABI",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+http://37.220.111.189:1935/live/Studio_web/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="PUNJABI" tvg-logo="" group-title="",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rStIuAU.png" group-title="PUNJABI",DD Punjabi 
 http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
 
