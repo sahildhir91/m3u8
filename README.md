@@ -50,7 +50,7 @@ https://cdn-laos.workpoint.news/uk-skynews_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="DOCUMENTARY",Discovery Asia
 http://111.13.111.192/125.227.198.89:8028
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="DOCUMENTARY",Animal Planet Hindi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARY",Animal Planet Hindi
 https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="DOCUMENTARY",Animal Planet
