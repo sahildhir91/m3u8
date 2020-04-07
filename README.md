@@ -587,6 +587,20 @@ http://160.119.77.50/iptv/in-suntv.stream/playlist.m3u8
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/99vZY6B.png" group-title="TAMIL",STS Tamil 
 http://santhora.de.flash.glb.ipercast.net/santhora.de-live/sts/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.netrikguntv.com/wp-content/uploads/2016/12/tvlogo.png" group-title="TAMIL",Netrikgun
+http://artech.livebox.co.in/netrikguntvhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kKFfLMd.jpg" group-title="TAMIL",Santhora Short Flim
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+#EXTINF:-1 tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim@2x.gif" group-title="TAMIL",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
+#EXTINF:-1 tvg-logo="http://ragam.tv/wp-content/uploads/2018/09/Ragam_APP_Logo.png" group-title="TAMIL",Ragam TV
+http://account11.livebox.co.in/ntvhls/ntv.m3u8
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/JMAX.png" group-title="TAMIL",Jaya Max
+http://45.120.188.178/hdmi
+
+#EXTINF:-1 tvg-logo="http://saalaitv.com/logo/Akaramgalatta.PNG" group-title="TAMIL",Akaram Gallata
+http://akaram.zecast.net/akaram-live/akaramgalatta1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="TAMIL",Tamil Vision Int'lHD
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
  #EXTINF:-1 tvg-logo="https://i.imgur.com/e7sM8jS.png" group-title="TAMIL",Tamilan Television
