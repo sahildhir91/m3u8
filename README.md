@@ -523,7 +523,7 @@ http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.sm
 https://streamidvo.multitvsolution.in/IndiaNewsMP-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1613540835/2692806976_fd7ec89a46.png" group-title="HINDI",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1 tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/logo-animated-new.gif" group-title="HINDI",Sony ETV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/93/d6/4d/93d64d804db333a66dd4cbf52d0a5613.png" group-title="HINDI",Sony ETV
 http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyMax.in.png" group-title="HINDI",Sony Max
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
