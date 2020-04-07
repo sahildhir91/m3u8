@@ -799,9 +799,9 @@ http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.s
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeepunjabi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hzFatTk.png" group-title="PUNJABI",Punjabi Zindabad
 http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp-content/uploads/2017/03/britasiatv001.jpg" group-title="PUNJABI",BritAsia TV 
+#EXTINF:-1 tvg-logo="https://britasia.tv/wp-content/uploads/2016/08/BATV_FINAL-LOGO.jpg" group-title="PUNJABI",BritAsia TV 
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_30EKwQoCtLhNWmi-5gVLUAl88UAJfM0GwEA=s900-c-k-c0xffffffff-no-rj-mo" group-title="PUNJABI",Hulchul TV
+#EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/meerut/dc/9999px121.x121.090912131006.k1t7dc/catalogue/city-halchal-chippi-tank-meerut-journalists-qogt7tscjq.jpg" group-title="PUNJABI",Hulchul TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmNscy5nbG9iYWxwdW5qYWJuZXd0aGVtZV9pY29uXzBfNTE0NzAyYWI/icon.png?w=170&fakeurl=1" group-title="PUNJABI",Global Punjab
 https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
