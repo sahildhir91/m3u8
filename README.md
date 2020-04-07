@@ -805,7 +805,7 @@ https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51s-Do%2B8arL._SY355_.png" group-title="PUNJABI",Global Punjab
 https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.mhone.in/wp-content/uploads/2018/01/News-600x200.png" group-title="PUNJABI",MH1 News
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRd-ZfSBPRgQa7KhMFVUA0c9OwA4uxDzkvpRZQKF5fyu0AlEKem&usqp=CAU.png" group-title="PUNJABI",MH1 Prim
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 #EXTINF:0,tvg-logo="https://i.imgur.com/g4uw68O.png" group-title="PUNJABI",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
