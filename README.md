@@ -803,7 +803,7 @@ http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 #EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/meerut/dc/9999px121.x121.090912131006.k1t7dc/catalogue/city-halchal-chippi-tank-meerut-journalists-qogt7tscjq.jpg" group-title="PUNJABI",Hulchul TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmNscy5nbG9iYWxwdW5qYWJuZXd0aGVtZV9pY29uXzBfNTE0NzAyYWI/icon.png?w=170&fakeurl=1" group-title="PUNJABI",Global Punjab
+#EXTINF:-1 tvg-logo="https://miro.medium.com/max/4000/1*C8CQ0IWyq5htstzHiV_zPA.png" group-title="PUNJABI",Global Punjab
 https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mhone.in/wp-content/uploads/2018/01/News-600x200.png" group-title="PUNJABI",MH1 News
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
