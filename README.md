@@ -795,15 +795,15 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 https://streamidvo.multitvsolution.in/live/PTunes-d/p4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d56XPXW.png" group-title="PUNJABI",Life Punjabi
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/zee-punjabi/zee-punjabi-logo.png" group-title="PUNJABI",Zee Punjabi
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Zee_Punjabi_2020.png/revision/latest?cb=20191217124346g" group-title="PUNJABI",Zee Punjabi
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeepunjabi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hzFatTk.png" group-title="PUNJABI",Punjabi Zindabad
 http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BPS22GM.png" group-title="PUNJABI",BritAsia TV 
+#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp-content/uploads/2017/03/britasiatv001.jpg" group-title="PUNJABI",BritAsia TV 
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
-#EXTINF:-1 tvg-logo="http://www.hulchulradio.com/frontend/images/hulchal-radio-logo.png" group-title="PUNJABI",Hulchul TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_30EKwQoCtLhNWmi-5gVLUAl88UAJfM0GwEA=s900-c-k-c0xffffffff-no-rj-mo" group-title="PUNJABI",Hulchul TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF:-1 tvg-logo="https://globalpunjabtv.in/wp-content/uploads/2019/08/logo-2.png" group-title="PUNJABI",Global Punjab
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmNscy5nbG9iYWxwdW5qYWJuZXd0aGVtZV9pY29uXzBfNTE0NzAyYWI/icon.png?w=170&fakeurl=1" group-title="PUNJABI",Global Punjab
 https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mhone.in/wp-content/uploads/2018/01/News-600x200.png" group-title="PUNJABI",MH1 News
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
@@ -816,7 +816,7 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TSvkIfA.png" group-title="PUNJABI",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 http://37.220.111.189:1935/live/Studio_web/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="PUNJABI" tvg-logo="" group-title="PUNJABI",Channel Y
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="PUNJABI" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Ytv_1994.png/revision/latest/top-crop/width/300/height/300?cb=20130901071257" group-title="PUNJABI",Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rStIuAU.png" group-title="PUNJABI",DD Punjabi 
 http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
