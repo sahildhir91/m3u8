@@ -809,7 +809,7 @@ https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 #EXTINF:0,tvg-logo="https://i.imgur.com/g4uw68O.png" group-title="PUNJABI",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="http://www.fastwaytv.com/img/logo.png" group-title="PUNJABI",FastWay  
+#EXTINF:0  tvg-logo="https://image.winudf.com/v2/image/ZmFzdHdheS5saXZlX3R2X2NoYW5uZWxfaWNvbl8wXzEwOTk5Y2Ux/icon.png?w=170&fakeurl=1" group-title="PUNJABI",FastWay  
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="PUNJABI",DD National 
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
