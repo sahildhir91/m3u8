@@ -801,9 +801,9 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeepunjabi/index.m
 http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://britasia.tv/wp-content/uploads/2016/08/BATV_FINAL-LOGO.jpg" group-title="PUNJABI",BritAsia TV 
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/q5ukeS_O4U8d8rlUYqYgzJ2X4o-j98M30T-Zwxo5zHvxA_iCejbzd7Af1OrIW7ybME8" group-title="PUNJABI",Hulchul TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/q5ukeS_O4U8d8rlUYqYgzJ2X4o-j98M30T-Zwxo5zHvxA_iCejbzd7Af1OrIW7ybME8.png" group-title="PUNJABI",Hulchul TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/415S4d%2Bz8zL.png group-title="PUNJABI",Global Punjab
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51s-Do%2B8arL._SY355_.png" group-title="PUNJABI",Global Punjab
 https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mhone.in/wp-content/uploads/2018/01/News-600x200.png" group-title="PUNJABI",MH1 News
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
