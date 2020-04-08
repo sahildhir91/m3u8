@@ -58,6 +58,9 @@ http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png"  group-title="DOCUMENTARY",Nat geo wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY",Nat Geo Wild (Asia)
+http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png"  group-title="DOCUMENTARY",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/NatGeoPeople.id.png" group-title="DOCUMENTARY",National Geo People
