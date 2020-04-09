@@ -818,7 +818,7 @@ http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/52/e5/2a/52e52a83bfba0f82cc81ad5c38096ce1--live-tv-online-to-the-world.jpg" group-title="PUNJABI",MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/BeFvIH7IkveE3kM-sjNIMZY0BxONaLrqRGmDsFse1BngbqFF4i0yLsQo-QbxWPVcrlI0xfh7VR6Rc4u8O6kTzz-bWU-DMtRMiSjHLATtfs5r3eh9V0sNx8PptJmbQUZQdSa-j2JR4kx6" group-title="PUNJABI",P Tunes
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61D6ZtM6-cL._SY355_.png" group-title="PUNJABI",P Tunes
 https://streamidvo.multitvsolution.in/live/PTunes-d/p4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d56XPXW.png" group-title="PUNJABI",Life Punjabi
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
