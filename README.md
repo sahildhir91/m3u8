@@ -529,6 +529,13 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://js.newsx.com/wp-content/themes/newsxlite/images/india-news-logo.png" group-title="HINDI",India News MPC
 https://streamidvo.multitvsolution.in/IndiaNewsMP-a/playlist.m3u8
+
+#EXTINF:-1, group-title="NEWS",ZEE NEWS
+http://pockettv.xyz/api/zee.m3u8?c=zeenews
+
+#EXTINF:-1, group-title="HINDI",FASTWAY NEWS
+http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1613540835/2692806976_fd7ec89a46.png" group-title="HINDI",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-VcrQXRcR-_g/VNUlDcyJjQI/AAAAAAAAATc/XKT-cXJM_Yo/s1600/sonytv.png" group-title="HINDI",Sony ETV
@@ -801,6 +808,9 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
 #EXTINF:0, tvg-logo="https://i.imgur.com/SUKfC0I.png" group-title=" PUNJABI",Pitaara
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
+#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/u5VpIkj8m4zmGtH0lXEmeSghYAOeH0eOU2VjduVuth2ETkydHnBy7YFfFtOr0Up9Ww=w412-h220-rw"group-title="PUNJABI TV",SADA PUNJAB
+http://103.81.156.115:1935/hello/saadapunjab/playlist.m3u8
+
 #EXTINF:0,tvg-logo="https://i.imgur.com/6SGZIJ2.png" group-title="PUNJABI",Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 #EXTINF:0,tvg-logo="https://i.imgur.com/vypvOj8.png" group-title="PUNJABI",Jhanjar Music
