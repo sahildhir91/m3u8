@@ -808,9 +808,9 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
 #EXTINF:0, tvg-logo="https://i.imgur.com/SUKfC0I.png" group-title=" PUNJABI",Pitaara
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/u5VpIkj8m4zmGtH0lXEmeSghYAOeH0eOU2VjduVuth2ETkydHnBy7YFfFtOr0Up9Ww=w412-h220-rw"group-title="PUNJABI TV",SADA PUNJAB
+#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/u5VpIkj8m4zmGtH0lXEmeSghYAOeH0eOU2VjduVuth2ETkydHnBy7YFfFtOr0Up9Ww=w412-h220-rw" group-title= "PUNJABI",SADA PUNJAB
 http://103.81.156.115:1935/hello/saadapunjab/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/6a9318aa-4cba-4ecf-b09e-7f172fb07fcb.jpg" group-title="PUNJABI TV",ANKHILA PUNJAB
+#EXTINF:-1,tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/6a9318aa-4cba-4ecf-b09e-7f172fb07fcb.jpg" group-title="PUNJABI",ANKHILA PUNJAB
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
 #EXTINF:0,tvg-logo="https://i.imgur.com/6SGZIJ2.png" group-title="PUNJABI",Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
