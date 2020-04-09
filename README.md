@@ -808,7 +808,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
 #EXTINF:0, tvg-logo="https://i.imgur.com/SUKfC0I.png" group-title=" PUNJABI",Pitaara
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
-#EXTINF:-1, tvg-logo="src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAwv1RLNBHlSU1VezBlxP9d8IEhhXTRBijWfnb3Wg-Vk881fmj&usqp=CAU" group-title="PUNJABI",SADA PUNJAB
+#EXTINF:-1, tvg-logo="src="https://saddapunjabnews.files.wordpress.com/2014/11/sadda-punjab.jpg?w=1400" group-title="PUNJABI",SADA PUNJAB
 http://103.81.156.115:1935/hello/saadapunjab/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/6a9318aa-4cba-4ecf-b09e-7f172fb07fcb.jpg" group-title="PUNJABI",ANKHILA PUNJAB
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
