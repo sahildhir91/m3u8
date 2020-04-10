@@ -495,7 +495,7 @@ http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NhcsJ9p.png" group-title="HINDI",Bollywood TV
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 
-#EXTINF:-1 tvh-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsUXPZ6a4yFhKy_ls4DKNEYCSqHpxv1LDIdnicEp5C84kKLCx1&usqp=CAU group-title"Hindi",ZEE BOLLYWOOD
+#EXTINF:-1 tvh-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/170x170/zeebollywood386_1261156083.png" group-title"Hindi",ZEE BOLLYWOOD
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="HINDI" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040633.jpg" group-title="HINDI",Zee Action
