@@ -492,6 +492,9 @@ https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
 https://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeClassic.in.png" group-title="HINDI",Zee Classic
 http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NhcsJ9p.png" group-title="HINDI",Bollywood TV
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+
 #EXTINF:-1 tvh-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsUXPZ6a4yFhKy_ls4DKNEYCSqHpxv1LDIdnicEp5C84kKLCx1&usqp=CAU group-title"Hindi",ZEE BOLLYWOOD
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 
