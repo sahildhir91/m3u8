@@ -754,6 +754,9 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndPrive.in.png" group-title="MALAYSIA/SGP",&Prive
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="MALAYSIA/SGP",BritCom
+https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="MALAYSIA/SGP",Cinema World
 http://210.210.155.66/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/br/Cinemax.br.png" group-title="MALAYSIA/SGP",Cinemax
