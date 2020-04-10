@@ -827,6 +827,8 @@ http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 #EXTINF:0,tvg-logo="https://i.imgur.com/vypvOj8.png" group-title="PUNJABI",Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_jfxhK2eyITRN0knuTnNo2g5swco5-gaY3URGoUIAi509gGnd&usqp=CAU.png" group-title="PUNJABI",Only Music
+http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bf/MH_One.jpg/revision/latest/scale-to-width-down/340?cb=20180625063419" group-title="PUNJABI",MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61D6ZtM6-cL._SY355_.png" group-title="PUNJABI",P Tunes
