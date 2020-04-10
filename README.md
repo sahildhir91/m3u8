@@ -756,7 +756,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="MALAYSIA/SGP",BritCom
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jEtKLkp.png" group-title="MALAYSIA/SGP",SciFi 
+#EXTINF:-1 tvg-logo="https://img.favpng.com/12/21/5/sci-fi-channel-logo-television-show-png-favpng-kat14QrzbhfqgSqMuyXyPTS2i.jpg" group-title="MALAYSIA/SGP",SciFi 
 http://84.22.33.254/unicast.scifi/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="MALAYSIA/SGP",Cinema World
