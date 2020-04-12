@@ -977,7 +977,7 @@ https://stream.simpaisa.com/pitvlive2/playmax3/playlist.m3u8?checkedby:iptvcat.c
 https://stream.simpaisa.com/pitvlive2/ptvbolan3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="PAK TV",PTV GLOBAL
 https://stream.simpaisa.com/pitvlive2/ptvglobal3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://lh3.googleusercontent.com/proxy/RWu6DqVt7Zvt-TXKGWzppGAc8RGR0S7pPuG0SiobDEJ6dpzt_ZFdG5aAE43PNCZEzhtHQryC5NFUKiJDAMUtrdJ9q0h6kkFDY2_X" group-title="PAK TV",PTV HOME
+#EXTINF:0 tvg-country="PK" tvg-logo="https://lh3.googleusercontent.com/proxy/YFMP0KsDpqoyliqTGHzln2l5I-q4FXxLCFLdlnTZfXog8UnNKqmDXAexEWkskYp-3VsL5Qz6LjHlfZO8JeXNshBRAxh-TejwakhA.png" group-title="PAK TV",PTV HOME
 https://stream.simpaisa.com/pitvlive2/ptvhome3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://www.brandsynario.com/directory/wp-content/uploads/2018/01/a-38.png" group-title="PAK TV",PTV NATIONAL
 https://stream.simpaisa.com/pitvlive2/ptvnational3/playlist.m3u8?checkedby:iptvcat.com
@@ -995,7 +995,7 @@ http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8?checkedby:iptvcat.com
 https://stream.simpaisa.com/pitvlive2/sachtv3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://1.bp.blogspot.com/-HmvMQm0C0DU/WB9blhmw19I/AAAAAAAAApk/kGghIWlz7BU0y4yjoZ_f5VbksKyGoSpTgCLcB/w1200-h630-p-k-no-nu/SEE%2BTV%2BHD%2BLIVE%2BSTREAMING.png" group-title="PAK TV",SEETV HD
 https://stream.simpaisa.com/pitvlive2/seetv3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://lh3.googleusercontent.com/4QkiqOHynVFeWoi0LYzd_pbzsn7CGf9QDW7JiVocd17tO2smzrwaTFugs9XB9PtzuA" group-title="PAK TV",SINDH
+#EXTINF:0 tvg-country="PK" tvg-logo="https://lh3.googleusercontent.com/proxy/YFMP0KsDpqoyliqTGHzln2l5I-q4FXxLCFLdlnTZfXog8UnNKqmDXAexEWkskYp-3VsL5Qz6LjHlfZO8JeXNshBRAxh-TejwakhA.png" group-title="PAK TV",SINDH
 https://stream.simpaisa.com/pitvlive2/sindhtv3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/SET_Mix.png/revision/latest/scale-to-width-down/340?cb=20110930222927" group-title="PAK TV",Sony Mix
 http://216.144.250.174/Sony_Mix_HD/playlist.m3u8?checkedby:iptvcat.com
