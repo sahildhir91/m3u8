@@ -965,7 +965,7 @@ https://stream.simpaisa.com/pitvlive2/metro3/playlist.m3u8?checkedby:iptvcat.com
 http://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Neo_News_logo.jpg" group-title="PAK TV",NEO NEWS
 https://stream.simpaisa.com/pitvlive2/neo3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://www.pngfind.com/pngs/m/228-2286262_nat-geo-wild-live-stream-without-cable-free.png" group-title="PAK TV",Nat Geo Wild HD
+#EXTINF:0 tvg-country="PK" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/nat-geo-wild-logo-featured.jpg?w=621&h=383&crop=1" group-title="PAK TV",Nat Geo Wild HD
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/05.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.ytimg.com/vi/iqTe3iKGd4c/hqdefault.jpg" group-title="PAK TV",Nazrana TV
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8?checkedby:iptvcat.com
