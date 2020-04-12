@@ -1005,7 +1005,7 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8?checkedby:iptvcat.com
 https://stream.simpaisa.com/pitvlive2/tvone3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/One_News_Philippines_logo.svg/1200px-One_News_Philippines_logo.svg.png" group-title="PAK TV",TV ONE NEWS
 https://stream.simpaisa.com/pitvlive2/tvonenews3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="PAK TV",Tag TV 
+#EXTINF:0 tvg-country="PK" tvg-logo="https://pbs.twimg.com/profile_images/541070675385917440/lLsLhFY7_400x400.jpeg" group-title="PAK TV",Tag TV 
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://arymusik.tv/wp-content/uploads/2018/01/ARY_Musik.png" group-title="PAK TV",ARY Musik
 https://stream.arylive.com/MusikLive/index.m3u8
