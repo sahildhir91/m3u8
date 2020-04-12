@@ -977,7 +977,7 @@ https://stream.simpaisa.com/pitvlive2/playmax3/playlist.m3u8?checkedby:iptvcat.c
 https://stream.simpaisa.com/pitvlive2/ptvbolan3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="PAK TV",PTV GLOBAL
 https://stream.simpaisa.com/pitvlive2/ptvglobal3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://lh3.googleusercontent.com/proxy/YFMP0KsDpqoyliqTGHzln2l5I-q4FXxLCFLdlnTZfXog8UnNKqmDXAexEWkskYp-3VsL5Qz6LjHlfZO8JeXNshBRAxh-TejwakhA.png" group-title="PAK TV",PTV HOME
+#EXTINF:0 tvg-country="PK" tvg-logo="https://pimg-guru.com/1/210/1210606/ptvhomeold1_76bd8a8e-a100-4243-a4e9-e4565b2499a3.jpg" group-title="PAK TV",PTV HOME
 https://stream.simpaisa.com/pitvlive2/ptvhome3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://www.brandsynario.com/directory/wp-content/uploads/2018/01/a-38.png" group-title="PAK TV",PTV NATIONAL
 https://stream.simpaisa.com/pitvlive2/ptvnational3/playlist.m3u8?checkedby:iptvcat.com
