@@ -694,7 +694,7 @@ http://31.14.40.58:8080/ZEETELUGU_h264/index.m3u8
 #EXTINF:-1 ch-id="Channel 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/MediaCorp_Channel5.jpg/revision/latest/scale-to-width-down/340?cb=20151215100539" group-title="MALAYSIA/SGP",Channel 5
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 
-#EXTINF:-1 tvg-group="MALAYSIA/SGP" tvg-logo="src="https://pbs.twimg.com/profile_images/1004174097390100480/Vazfjcvb_400x400.jpg" ,Channel 5 
+#EXTINF:-1 tvg-group="MALAYSIA/SGP" tvg-logo="src="https://pbs.twimg.com/profile_images/1004174097390100480/Vazfjcvb_400x400.jpg"  group-title="MALAYSIA/SGP",Channel 5 
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
 #EXTINF:-1 ch-id="Channel 8" tvg-logo="https://www.loveexpress.com.sg/wp-content/uploads/2017/02/channel-8-logo.jpg" group-title="MALAYSIA/SGP",Channel 8
