@@ -721,7 +721,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.
 https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1 ch-id="Astro Awani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="MALAYSIA/SGP",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-#EXTINF:-1 ch-id="NTV7" tvg-logo="https://www.xtra.com.my/img/logo/ntv7.png" group-title="MALAYSIA/SGP",NTV7
+#EXTINF:-1 ch-id="NTV7" tvg-logo="https://pbs.twimg.com/profile_images/1080737074590887938/4tBnrq18_400x400.jpg" group-title="MALAYSIA/SGP",NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 #EXTINF:-1 ch-id="8TV" tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="MALAYSIA/SGP",8TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
