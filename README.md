@@ -114,15 +114,15 @@ http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MOVIE",MBC 2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
-#EXTINF:-1,MBC MAX
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/6sZBCTS9n8HdEhjUCtMMW1M_ga61XrtE8kUzWGAQ4Oaef9o0svl2hmEjotbI5ck6ECsekaQsA3bNVRG6G7lQseuapWMDB-Y",MBC MAX
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/id/AXN.id.png" group-title="MOVIE", AXN -BACKUP-
 http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="MOVIE",AMC
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR MOVIES FHD
+#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png",STAR MOVIES FHD
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
-#EXTINF:-1,STAR WORLD FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png",STAR WORLD FHD
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/movies_now.png" group-title="MOVIE",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
