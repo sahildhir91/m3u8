@@ -114,7 +114,7 @@ http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MOVIE",MBC 2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/6sZBCTS9n8HdEhjUCtMMW1M_ga61XrtE8kUzWGAQ4Oaef9o0svl2hmEjotbI5ck6ECsekaQsA3bNVRG6G7lQseuapWMDB-Y",MBC MAX
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/6sZBCTS9n8HdEhjUCtMMW1M_ga61XrtE8kUzWGAQ4Oaef9o0svl2hmEjotbI5ck6ECsekaQsA3bNVRG6G7lQseuapWMDB-Y" ,MBC MAX
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/id/AXN.id.png" group-title="MOVIE", AXN -BACKUP-
 http://210.210.155.66/h/h141/02.m3u8
@@ -128,12 +128,12 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" group-title="MOVIE",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/movies_now.png" group-title="MOVIE",Movies Now
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MOVIE" ,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-id="Rai Premium IT" tvg-name="Rai Premium IT" tvg-logo="https://i.imgur.com/s5CnlRh.jpg" group-title="MOVIE",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" grouptitle="MOVIE",Romedy Now
-#EXTINF:-1,NBC
+#EXTINF:-1 tvg-logo= "https://www.beaconcouncil.com/wp-content/uploads/2018/09/Roar-MediaLogos-CNBC-Square.jpg" ,NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="MOVIE",HBO
 http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
@@ -143,7 +143,7 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 #EXTINF:-1 tvg-logo="http://pluspng.com/img-png/movie-png-hd-file-sky-cinema-family-hd-2016-png-1445.png" group-title="MOVIE", FAMILY MOVIES 2
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:0, RAI MOVIE
+#EXTINF:0 tvg-logo= "https://www.televisione10.it/wp-content/uploads/2011/03/rai-movie.png" , RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1,Stephen Chow Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
