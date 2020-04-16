@@ -603,7 +603,7 @@ http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
 http://216.144.250.174/Star_VIjay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/222_300.png" group-title="TAMIL",Raj TV
 http://45.120.188.184/hdmi
-#EXTINF:-1 tvg-logo="https://www.jaytv.in/wp-content/uploads/2018/06/Jay-TV-Transparant-Logo.png" group-title="TAMIL",Jay
+#EXTINF:-1 tvg-logo="https://content.jdmagicbox.com/comp/chennai/56/044p3024356/catalogue/jaya-tv-ekkaduthangal-chennai-satellite-channels-0lfo6bzsbu.jpg" group-title="TAMIL",Jay
 http://livematrix.in:1935/live/jay/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.kalaignartv.co.in/logo.jpg" group-title="TAMIL", KalaignarTV
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
