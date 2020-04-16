@@ -611,7 +611,7 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 #EXTINF:-1 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="TAMIL",MK Six
 http://streamidvo.multitvsolution.in/MKSix-b/playlist.m3u8
-#EXTINF:-1 tvg-logo= "https://i.ytimg.com/vi/p9cPI6YkJng/hqdefault.jpg" group-title="TAMIL",Palar TV
+#EXTINF:-1 tvg-logo= "https://i.ytimg.com/vi/qhoBRt_R7Fo/hqdefault.jpg" group-title="TAMIL",Palar TV
 http://209.58.178.82/palartvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/chennai/s7/044pxx44.xx44.151130105318.q5s7/catalogue/sangamam-tv-chetpet-chennai-satellite-channels-blzqpyjjzf-250.jpg" group-title="TAMIL",Sangamam
 http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
