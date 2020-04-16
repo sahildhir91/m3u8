@@ -114,7 +114,7 @@ http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MOVIE",MBC 2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/6sZBCTS9n8HdEhjUCtMMW1M_ga61XrtE8kUzWGAQ4Oaef9o0svl2hmEjotbI5ck6ECsekaQsA3bNVRG6G7lQseuapWMDB-Y" ,MBC MAX
+#EXTINF:-1 tvg-logo= "https://ae.heytv.org/wp-content/uploads/2019/03/MBC_MAX-1.jpg" ,MBC MAX
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/id/AXN.id.png" group-title="MOVIE", AXN -BACKUP-
 http://210.210.155.66/h/h141/02.m3u8
