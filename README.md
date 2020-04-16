@@ -625,7 +625,7 @@ http://santhora.de.flash.glb.ipercast.net/santhora.de-live/tamilmtv/tamilmtv/chu
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png" group-title="TAMIL",Thanthi TV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.vasanth.tv/img/logo.png" group-title="TAMIL",Vasanth TV
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQExV3rO4EteZA/company-logo_200_200/0?e=2159024400&v=beta&t=vPGssHBTvfJFOCHW3lTTq6hhthH8P1gnglRsidRsl2A" group-title="TAMIL",Vasanth TV
 http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836bc39f96d0a9a958a659dfc1d&bgsecuredir=1
 #EXTINF:-1 tvg-logo="http://www.vaanaviltelevision.com/wp-content/uploads/2018/07/Vaanavil-Logo-Corrected-246x300.png" group-title="TAMIL",Vanavil
 http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
