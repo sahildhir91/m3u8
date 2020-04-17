@@ -771,7 +771,7 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/BrighamYoungUniversity.us.png" group-title="MY/SG",BYUtv
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/04/logo.png" group-title="MY/SG",American Horrors
+#EXTINF:-1 tvg-logo="https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-tv/american-horror-story-poster.jpg?itok=6pVXXeJs" group-title="MY/SG",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MoviesNow.in.png" group-title="MY/SG",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
