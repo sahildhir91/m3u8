@@ -773,7 +773,6 @@ https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/04/logo.png" group-title="MY/SG",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MoviesNow.in.png" group-title="MY/SG",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 ch-id="HOLLYWOOD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="MY/SG",HOLLYWOOD
@@ -858,7 +857,7 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 http://stream.tapmad.com:1935/pitvlive2/aplus3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c5c22a32014609.Y3JvcCw1NjYsNDQyLDI1Miw4.jpg" group-title="PAK TV",AAJ ENT
 https://stream.simpaisa.com/pitvlive2/aajentnew/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://lh3.googleusercontent.com/7A_TvzWR-kp-6rzR-cvtcYsq77dzvez1IAZVFe4TmTVWops2xYyjuAvSmVIp-rIJAv8" group-title="PAK TV",ALQURAN LIVE
+#EXTINF:0 tvg-country="PK" tvg-logo="https://lh3.googleusercontent.com/FnNwVBThm3x98g---z0y6SVUC-M2o9pegd99i-fyYVpZ-W6qWUtrD7ps9reGRS5DG_Lx=h300" group-title="PAK TV",ALQURAN LIVE
 https://stream.simpaisa.com/pitvlive2//makkah_360p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/1280px-2018_animal_planet_logo.svg_.png?r0EbXBEWkDBy904iN3h1Dff35te8jZRk&itok=3yKMpvZX" group-title="PAK TV",ANIMAL PLANET
 https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby:iptvcat.com
