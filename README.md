@@ -906,7 +906,7 @@ https://5a6ada4d8f439.streamlock.net/expressdigital/livestream/playlist.m3u8?che
 http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://banner2.cleanpng.com/20180807/oup/kisspng-filmazia-television-channel-osn-streaming-televisi-watch-online-movies-watch-online-movies-channels-5b6a5806066be2.4503649415336960060263.jpg" group-title="PAK TV",FILMAZIA
 https://stream.simpaisa.com/pitvlive2/filmazia3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsPMWYbasUDvxhqo8LD-8Hhx3nFQ0_34Rm9lCfMU34bsFF1LC7&usqp=CAU" group-title="PAK TV",Film World Global
+#EXTINF:0 tvg-country="PK" tvg-logo="https://pbs.twimg.com/profile_images/443332760820666369/7bZZAUrN.jpeg" group-title="PAK TV",Film World Global
 http://stream.tapmad.com:1935/pitvlive2/filmworld3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="PAK TV",Geo News
 http://95.211.211.168/live/geonews0011/playlist.m3u8?checkedby:iptvcat.com
