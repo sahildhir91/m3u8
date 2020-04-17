@@ -858,7 +858,7 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 http://stream.tapmad.com:1935/pitvlive2/aplus3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c5c22a32014609.Y3JvcCw1NjYsNDQyLDI1Miw4.jpg" group-title="PAK TV",AAJ ENT
 https://stream.simpaisa.com/pitvlive2/aajentnew/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.ytimg.com/vi/Lw51srAs2wg/hqdefault.jpg" group-title="PAK TV",ALQURAN LIVE
+#EXTINF:0 tvg-country="PK" tvg-logo="https://lh3.googleusercontent.com/7A_TvzWR-kp-6rzR-cvtcYsq77dzvez1IAZVFe4TmTVWops2xYyjuAvSmVIp-rIJAv8" group-title="PAK TV",ALQURAN LIVE
 https://stream.simpaisa.com/pitvlive2//makkah_360p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/1280px-2018_animal_planet_logo.svg_.png?r0EbXBEWkDBy904iN3h1Dff35te8jZRk&itok=3yKMpvZX" group-title="PAK TV",ANIMAL PLANET
 https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby:iptvcat.com
