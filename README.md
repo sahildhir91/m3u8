@@ -850,13 +850,13 @@ https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 https://stream.simpaisa.com/pitvlive2/news92/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="PAK TV",92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="PAK TV",92 News
+#EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-mKFcmJXnj_DcIgJbBT_JYxtDc7Sl5AQRclXMnRKzTz4G5oMk&usqp=CAU" group-title="PAK TV",92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="PAK TV",92 News UK
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://pluspng.com/img-png/a-plus-logo-png--310.png" group-title="PAK TV",A Plus
+#EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREqhe5JgD_sAFUtoDHU9tKArmQ9yaKCJFEbq7r8MhHphcksRMf&usqp=CAU" group-title="PAK TV",A Plus
 http://stream.tapmad.com:1935/pitvlive2/aplus3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://myshowtime.net/mobitv/channels/AAJ-ENTERTAINMENT-HD.png" group-title="PAK TV",AAJ ENT
+#EXTINF:0 tvg-country="PK" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c5c22a32014609.Y3JvcCw1NjYsNDQyLDI1Miw4.jpg" group-title="PAK TV",AAJ ENT
 https://stream.simpaisa.com/pitvlive2/aajentnew/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.ytimg.com/vi/Lw51srAs2wg/hqdefault.jpg" group-title="PAK TV",ALQURAN LIVE
 https://stream.simpaisa.com/pitvlive2//makkah_360p/playlist.m3u8?checkedby:iptvcat.com
@@ -979,7 +979,7 @@ https://stream.simpaisa.com/pitvlive2/sindhtv3/playlist.m3u8?checkedby:iptvcat.c
 http://216.144.250.174/Sony_Mix_HD/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN;PK" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/b2/f8/e2/b2f8e27c-2a61-0111-5c31-0a585cb5173d/App_Icon_-_Small-marketing.lsr/1200x630bb.png" group-title="PAK TV",Subrang TV,Subrang TV
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-tvone-png-7.png" group-title="PAK TV",TV ONE
+#EXTINF:0 tvg-country="PK" tvg-logo="src="https://www.tvonepk.tv/wp-content/uploads/2015/08/live-banner.jpg"" group-title="PAK TV",TV ONE
 https://stream.simpaisa.com/pitvlive2/tvone3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/One_News_Philippines_logo.svg/1200px-One_News_Philippines_logo.svg.png" group-title="PAK TV",TV ONE NEWS
 https://stream.simpaisa.com/pitvlive2/tvonenews3/playlist.m3u8?checkedby:iptvcat.com
