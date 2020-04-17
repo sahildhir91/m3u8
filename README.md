@@ -665,20 +665,21 @@ http://31.14.40.58:8080/ZEETELUGU_h264/index.m3u8
 
 #EXTINF:-1 ch-id="Channel 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/MediaCorp_Channel5.jpg/revision/latest/scale-to-width-down/340?cb=20151215100539" group-title="MY/SG",Channel 5
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
-
 #EXTINF:-1 tvg-group="MALAYSIA/SGP" tvg-logo="src="https://pbs.twimg.com/profile_images/1004174097390100480/Vazfjcvb_400x400.jpg"  group-title="MY/SG",Channel 5 
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-
 #EXTINF:-1 ch-id="Channel 8" tvg-logo="https://www.loveexpress.com.sg/wp-content/uploads/2017/02/channel-8-logo.jpg" group-title="MY/SG",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 ch-id="Channel U" tvg-logo="https://unitechmech.com/wp-content/uploads/2018/05/image14.jpeg" group-title="MY/SG",Channel U
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 #EXTINF:-1 ch-id="Channel NewsAsia" tvg-logo="https://www.themangrovelab.com/x/cdn/?https://storage.googleapis.com/wzukusers/user-29321638/images/5970749b5306f2CegOlQ/download.png" group-title="MY/SG",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 #EXTINF:-1 ch-id="Astro Awani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="MY/SG",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+
 #EXTINF:-1 ch-id="RTM BES" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MY/SG",Berita RTM
 https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+
 #EXTINF:-1 ch-id="Suria" tvg-logo="https://artefakts.sg/wp02/wp-content/uploads/2019/10/events-logo-suria.jpg" group-title="MY/SG",Suria
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1 ch-id="Vasantham" tvg-logo="https://pbs.twimg.com/profile_images/1004034269088366592/zHE8qF69.jpg" group-title="MY/SG",Vasantham
