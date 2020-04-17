@@ -894,13 +894,13 @@ https://stream.simpaisa.com/pitvlive2/dawnnews3/playlist.m3u8?checkedby:iptvcat.
 https://stream.simpaisa.com/pitvlive2/dinnews3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="PAK TV",Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://4.bp.blogspot.com/-if9ImzP_YPs/W5tYswVvfCI/AAAAAAAAECo/QE3lZYcLeO81yfaSc958bgoOrs8ZWMGWwCLcBGAs/s1600/Capture.PNG" group-title="PAK TV",EXPRESS ENT
+#EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvcJa3agC303wybKPslsMw8kweJNc3QNkp0Y5B8dn8TEW3gFS_&usqp=CAU" group-title="PAK TV",EXPRESS ENT
 https://stream.simpaisa.com/pitvlive2/express3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.pinimg.com/originals/9f/d3/60/9fd3603b79349e8a25b973b709999ef2.png" group-title="PAK TV",EXPRESS NEWS
 https://stream.simpaisa.com/pitvlive2/expressnews3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/PbDBky1.png" group-title="PAK TV",Eawaz TV (CA)
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/ti3KObC.png" group-title="PAK TV",Express TV
+#EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqsKsBqFLbRJoUMxIgpxp0aa098EjNK6IzgrpPCKZvtpDqEdEp&usqp=CAU" group-title="PAK TV",Express TV
 https://5a6ada4d8f439.streamlock.net/expressdigital/livestream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/sZqDIem.png" group-title="PAK TV",Eye 95 America (US)
 http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
