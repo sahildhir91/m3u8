@@ -477,10 +477,16 @@ http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ManoranjanMovies.in.png" group-title="HINDI",Manoranjan
 https://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8
+
 #EXTINF:-1 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/305dd81edfeaee86.jpg" group-title="HINDI",Star G0ld HD
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeClassic.in.png" group-title="HINDI",Zee Classic
 http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6ipo8EXfWP39a5G5o7Q_Twi44apCkRP1dhYVaSiSJ3gTH7VBh&usqp=CAU", group-title="HINDI", ENTER 10
+http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NhcsJ9p.png" group-title="HINDI",Bollywood TV
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="HINDI" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040633.jpg" group-title="HINDI",Zee Action
