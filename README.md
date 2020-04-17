@@ -979,7 +979,7 @@ https://stream.simpaisa.com/pitvlive2/sindhtv3/playlist.m3u8?checkedby:iptvcat.c
 http://216.144.250.174/Sony_Mix_HD/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN;PK" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/b2/f8/e2/b2f8e27c-2a61-0111-5c31-0a585cb5173d/App_Icon_-_Small-marketing.lsr/1200x630bb.png" group-title="PAK TV",Subrang TV,Subrang TV
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="src="https://www.tvonepk.tv/wp-content/uploads/2015/08/live-banner.jpg"" group-title="PAK TV",TV ONE
+#EXTINF:0 tvg-country="PK" tvg-logo="https://www.tvonepk.tv/wp-content/uploads/2015/08/live-banner.jpg"" group-title="PAK TV",TV ONE
 https://stream.simpaisa.com/pitvlive2/tvone3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/One_News_Philippines_logo.svg/1200px-One_News_Philippines_logo.svg.png" group-title="PAK TV",TV ONE NEWS
 https://stream.simpaisa.com/pitvlive2/tvonenews3/playlist.m3u8?checkedby:iptvcat.com
