@@ -543,6 +543,10 @@ https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S5DxAU8.png" group-title="HINDI",B4U Plus 
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQPfiG55vyL1Gd7qVuGLHbEeejWvkHNTYhEGu6PgEuedtmAZE_3&usqp=CAU", group-title="HINDI", MBC BOLLYWOOD
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+
 #EXTINF:-1 tvg-id="B4U Music-IN" tvg-name="B4U Music-IN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="HINDI",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kPUTNBo.png" group-title="HINDI",Kadak Hits
