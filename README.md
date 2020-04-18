@@ -508,7 +508,7 @@ https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201901/shemaroo-logo.png.jpg" group-title="HINDI",Shemaroo Hindi
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201901/shemaroo-logo.png.jpg" group-title="HINDI",Shemaroo Bollywood Premier
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201901/shemaroo-logo.png.jpg" group-title="HINDI",Shemaroo  Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1100737961501458433/wpaOvQVd_400x400.png" group-title="HINDI",Bollywood TV
