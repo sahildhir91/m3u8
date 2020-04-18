@@ -490,7 +490,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.the-ba-group.com/wp-content/uploads/2018/03/b4u-movies-logo.png" group-title="HINDI",B4U Movies ((New!)
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S5DxAU8.png" group-title="HINDI",B4U Plus 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/994889981847105536/2IFtV2Cf_400x400.jpg" group-title="HINDI",B4U Plus 
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="HINDI",B4U Music
