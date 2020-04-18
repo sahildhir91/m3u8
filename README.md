@@ -506,7 +506,7 @@ http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjx
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NhcsJ9p.png" group-title="HINDI",Bollywood TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1100737961501458433/wpaOvQVd_400x400.png" group-title="HINDI",Bollywood TV
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Zee_Aflam.png/revision/latest/scale-to-width-down/340?cb=20190308103452" group-title="HINDI",Zee Aflam
