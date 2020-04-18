@@ -496,7 +496,7 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="HINDI",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kPUTNBo.png" group-title="HINDI",Kadak Hits
+#EXTINF:-1 tvg-logo="https://jio-tv.com/uploads/tv_image/kadak-hits.jpg" group-title="HINDI",Kadak Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6ipo8EXfWP39a5G5o7Q_Twi44apCkRP1dhYVaSiSJ3gTH7VBh&usqp=CAU", group-title="HINDI", ENTER 10
