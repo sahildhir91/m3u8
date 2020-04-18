@@ -484,6 +484,12 @@ http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeClassic.in.png" group-title="HINDI",Zee Classic
 http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="HINDI",B4U Kadak (New!)
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D5vloip.png" group-title="HINDI",B4U Movies ((New!)
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6ipo8EXfWP39a5G5o7Q_Twi44apCkRP1dhYVaSiSJ3gTH7VBh&usqp=CAU", group-title="HINDI", ENTER 10
 http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
 
