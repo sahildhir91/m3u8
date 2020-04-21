@@ -956,7 +956,7 @@ https://stream.simpaisa.com/pitvlive2/k23/playlist.m3u8?checkedby:iptvcat.com
 https://stream.simpaisa.com/pitvlive2/khybernews3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://avtchannels.com/wp-content/uploads/2015/02/khyebr-tv.png" group-title="PAK TV",KHYBER TV
 https://stream.simpaisa.com/pitvlive2/khyber3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PK" tvg-logo="https://apprecs.org/gp/images/app-icons/300/d5/com.kohenoor.tv.news.jpg" group-title="PAK TV",KOHENOOR NEWS
+#EXTINF:0 tvg-country="PK" tvg-logo="https://pbs.twimg.com/profile_images/1109531647207190529/OfCz9kR_.png" group-title="PAK TV",KOHENOOR NEWS
 https://stream.simpaisa.com/pitvlive2/kohenoor3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/7NQ2aC6.png" group-title="PAK TV",Khyber Middle East
 https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8?checkedby:iptvcat.com
