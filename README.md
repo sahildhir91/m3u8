@@ -1018,7 +1018,7 @@ https://stream.simpaisa.com/pitvlive2/tvonenews3/playlist.m3u8?checkedby:iptvcat
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://arymusik.tv/wp-content/uploads/2018/01/ARY_Musik.png" group-title="PAK TV",ARY Musik
 https://stream.arylive.com/MusikLive/index.m3u8
-#EXTINF:0 tvg-country="PK" tvg-logo="https://yt3.ggpht.com/a/AGF-l79xAILmsRlfmJtegiVZQvoUPib2U0EuBdb7=s900-c-k-c0xffffffff-no-rj-mo" group-title="PAK TV",VISH
+#EXTINF:0 tvg-country="PK" tvg-logo="/logo/tv/vv/vsh_news.png" group-title="PAK TV",VISH
 https://stream.simpaisa.com/pitvlive2/vsh3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://pbs.twimg.com/profile_images/1059772628355944448/AJ9ZimRO.jpg" group-title="PAK TV",WASEEB
 https://stream.simpaisa.com/pitvlive2/waseeb3/playlist.m3u8?checkedby:iptvcat.com
