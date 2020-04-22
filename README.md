@@ -502,7 +502,8 @@ http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://jio-tv.com/uploads/tv_image/kadak-hits.jpg" group-title="HINDI",Kadak Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbC-IcI9_rOnay00dq3fDr_eSBqipDHwO-3_1-laglWDy23DJ3&usqp=CAU" group-title="HINDI" ,UTV MOVIES
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbC-IcI9_rOnay00dq3fDr_eSBqipDHwO-3_1-laglWDy23DJ3&usqp=CAU" group-title="HINDI",UTV MOVIES
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/utvmoviesint/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6ipo8EXfWP39a5G5o7Q_Twi44apCkRP1dhYVaSiSJ3gTH7VBh&usqp=CAU", group-title="HINDI", ENTER 10
@@ -577,12 +578,8 @@ https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/359-3595110_b4u-movies-logo-b4u-movies-channel-logo.png" group-title="HINDI",B4U Movies 
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQPfiG55vyL1Gd7qVuGLHbEeejWvkHNTYhEGu6PgEuedtmAZE_3&usqp=CAU", group-title="HINDI", MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="HINDI",Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE
 #EXTINF:-1,BollyWood Hd
