@@ -511,7 +511,7 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 #EXTINF:-1 tvg-logo="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png" group-title="HINDI",ASIA: HBO
 http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo"https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-hd-logo-300x300.jpg"  group-title="HINDI" ,STAR MOVIE
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-hd-logo-300x300.jpg"  group-title="HINDI" ,STAR MOVIES
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbC-IcI9_rOnay00dq3fDr_eSBqipDHwO-3_1-laglWDy23DJ3&usqp=CAU" group-title="HINDI",UTV MOVIES
