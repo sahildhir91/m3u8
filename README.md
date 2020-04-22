@@ -537,8 +537,9 @@ http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_list/pictureshd386x3_1451631172.png" group-title="HINDI",& Pictures
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/AndTV.in.png" group-title="HINDI",& TV
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png" group-title="HINDI",&TV HD
+http://45.120.188.76:8080/0.ts
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Colors.in.png" group-title="HINDI",Colors
 http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg" group-title="HINDI",SONY PIX HD
