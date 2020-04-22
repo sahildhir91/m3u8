@@ -478,6 +478,12 @@ http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ManoranjanMovies.in.png" group-title="HINDI",Manoranjan
 https://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/885865346120503296/GdBDT_xF.jpg" group-title="HINDI", SONY MAX
+http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmJlc3RzZXJ2aWNlc2FwcHN3b3JsZC5zdGFyZ29sZF9zY3JlZW5fMF8xNTI2MzU1Mzk5XzAwMQ/screen-0.jpg?fakeurl=1&type=.jpg" group-title="HINDI" ,STAR GOLD HD
+http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/305dd81edfeaee86.jpg" group-title="HINDI",Star G0ld HD
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 
