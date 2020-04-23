@@ -1043,8 +1043,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/05.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.ytimg.com/vi/iqTe3iKGd4c/hqdefault.jpg" group-title="PAK TV",Nazrana TV
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://afghanlive.net/wp-content/uploads/2018/12/pashto-1-300x300-1280x720.png" group-title="PAK 
-TV",PASHTO 1
+#EXTINF:0 tvg-logo="https://afghanlive.net/wp-content/uploads/2018/12/pashto-1-300x300-1280x720.png" group-title="PAK TV" ,PASHTO 1
 https://stream.simpaisa.com/pitvlive2/pushto13/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f3/PlayTV_%282008%29.png/revision/latest/scale-to-width-down/340?cb=20140422192643" group-title="PAK TV",PLAY TV
@@ -1109,9 +1108,6 @@ https://stream.simpaisa.com/pitvlive2/waseeb3/playlist.m3u8?checkedby:iptvcat.co
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://toppng.com/uploads/preview/discovery-channel-eps-logo-vector-free-11574131207yfq2asdbki.png" group-title="PAK TV",discovery channel
 https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/446590946872799232/sLRxtI7j_400x400.png" group-title="PAK TV",PTV SPORTS 
-http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-
 
 
 
