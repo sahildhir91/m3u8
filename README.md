@@ -773,6 +773,10 @@ https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/ID_Logo_Grey.png" group-title="MY/SG",ID HD
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="MY/SG",HBO Chinese
+http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/39196/fx-networks-squarelogo-1426513712700.png" group-title="MY/SG",FX
+http://111.13.111.192/125.227.198.89:8027
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/12/21/5/sci-fi-channel-logo-television-show-png-favpng-kat14QrzbhfqgSqMuyXyPTS2i.jpg" group-title="MY/SG",SciFi 
 http://84.22.33.254/unicast.scifi/index.m3u8
