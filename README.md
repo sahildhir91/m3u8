@@ -993,6 +993,10 @@ https://stream.simpaisa.com/pitvlive2/ptvhome3/playlist.m3u8?checkedby:iptvcat.c
 https://stream.simpaisa.com/pitvlive2/ptvnational3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://www.shaamtv.com/images/25.jpg" group-title="PAK TV",PTV Sports
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1048556098582708224/qPWHnIYD_400x400.jpg" group-title="PAK TV",GEO SPORTS
+https://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d21dcd.sdp/playlist.m3u8
+
 #EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="PAK TV",PTV NEWS
 https://stream.simpaisa.com/pitvlive2/ptvnews3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://image.roku.com/developer_channels/prod/9bea3d40e22b1e1c971c6f418345802ad742d827eebb0abddbfea6435f8dbf55.png" group-title="PAK TV",PTV WORLD
