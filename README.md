@@ -489,6 +489,9 @@ http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeClassic.in.png" group-title="HINDI",Zee Classic
 http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/zee-action.png" group-title="HINDI"" ,ZEE ACTION
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeeaction/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="HINDI",B4U Kadak (New!)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyMax.in.png" group-title="HINDI" ,Sony MaX HD
