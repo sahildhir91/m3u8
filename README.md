@@ -567,10 +567,16 @@ http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 http://216.144.250.174/Sony_Mix_HD/track-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony_Sab_HD_2017.jpg/revision/latest/scale-to-width-down/340?cb=20170614132555" group-title="HINDI",SONY SAB HD
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI",Zee TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9b/Zee-theatre.jpg/revision/latest/scale-to-width-down/340?cb=20190308095505" group-title="HINDI",ZEE THEATER
+http://tamilgo.com/zee5/z5theather.php?c=out&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeBangla.in.png" group-title="HINDI",Zee Bangla
 http://livecdnh1.tvanywhere.ae/hls/zee_bangla/04.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeBusiness.in.png" group-title="HINDI",Zee Business
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebusiness/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeNews.in.png" group-title="HINDI",Zee News
