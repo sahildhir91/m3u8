@@ -1064,7 +1064,8 @@ https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/c
 #EXTINF:0 tvg-country="PK" tvg-logo="https://toppng.com/uploads/preview/discovery-channel-eps-logo-vector-free-11574131207yfq2asdbki.png" group-title="PAK TV",discovery channel
 https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8?checkedby:iptvcat.com
 
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/446590946872799232/sLRxtI7j_400x400.png" group-title="PAK TV",PTV SPORTS 
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 
 #EXTINF:-1,JP: NHK WORLD PREMIUM
 http://122.155.180.8:5021/live/139
@@ -1194,7 +1195,8 @@ http://122.155.180.8:5021/live/219
 http://122.155.180.8:5021/live/58
 
 
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/446590946872799232/sLRxtI7j_400x400.png" group-title="PAK TV",PTV SPORTS 
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 
 
 
