@@ -80,6 +80,9 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/BBCEarth.qa.png" group-title="DOCUMENTARY",BBC Earth
 https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-bbc-earth-hd-logo-300x300.jpg" group-title="DOCUMENTARY",SONY BBC EARTH HD
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png"  group-title="DOCUMENTARY",Nat geo wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png"  group-title="DOCUMENTARY",National Geographic
@@ -477,6 +480,10 @@ http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ManoranjanMovies.in.png" group-title="HINDI",Manoranjan
 https://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p4.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Manoranjan_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20191221191532"  group-title="HINDI",MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/469387440990347264/9TRqEbUo_400x400.jpeg" group-title="HINDI",MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/885865346120503296/GdBDT_xF.jpg" group-title="HINDI", SONY MAX
 http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
