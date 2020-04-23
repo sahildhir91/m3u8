@@ -26,7 +26,8 @@ https://streamer64.ebound.tv/geo/geotezz_abr/geo/geotezz_master/chunks.m3u8
 http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/Jh7thgW.jpg" group-title="Pakistan",ARY QTV
 http://158.69.229.30:8081/qtv_live/livestream/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/446590946872799232/sLRxtI7j_400x400.png" group-title="PAK TV",PTV SPORTS 
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="Pakistan",POP Kids
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/zNjsxA6.jpg" group-title="Pakistan",PTV Home
