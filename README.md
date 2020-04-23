@@ -583,7 +583,7 @@ https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI",Zee TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9b/Zee-theatre.jpg/revision/latest/scale-to-width-down/340?cb=20190308095505" group-title="HINDI",ZEE THEATER
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/988312378507907072/hF1UdC33.jpg group-title="HINDI",ZEE THEATER
 http://tamilgo.com/zee5/z5theather.php?c=out&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeBangla.in.png" group-title="HINDI",Zee Bangla
