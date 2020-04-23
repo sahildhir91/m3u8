@@ -535,6 +535,7 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201901/shemaroo-logo.png.jpg" group-title="HINDI",Shemaroo  Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1027881068236484608/DCGO5dD3_400x400.jpg" group-title="HINDI",SHEMARRO KIDS
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 
