@@ -218,17 +218,23 @@ http://212.47.252.54/hls/stream.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 19/06/2019] suaji
 https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTKb93Y0PNJ6iO9ZCYC1NC0Qq6hRTgzg0pBmuzkvM2BKdiqON_C872ssD5mhasWQ5jg&redirect=0
 
+
+
 #EXTINF:-1 tvg-logo="https://sfbf.org.sg/wp-content/uploads/2017/10/nbc-news-logo-EDDBA8ADC9-seeklogo.com_.png" group-title="NEWS",NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/71101f23643b4d75c8cab426a5c6997a_large-square-sky-news-logo-julian-lennon_400-400.png" group-title="NEWS" ,SKY NEWS
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.survation.com/wp-content/uploads/2014/02/large-square-sky-news-logo.png" group-title="NEWS",Sky News
 https://cdn-laos.workpoint.news/uk-skynews_480/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ir/PressTV.ir.png" group-title="NEWS",IRIB Press TV
 https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="NEWS",Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="NEWS",BBC News
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-logo="http://www.trospercommunications.com/blog/wp-content/uploads/2017/10/logo_abc_news.png" group-title="NEWS",ABC News
