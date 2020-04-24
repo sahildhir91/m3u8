@@ -1121,7 +1121,9 @@ https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8?checkedby:ipt
 
 
 
-#EXTINF:-1,JP: NHK WORLD PREMIUM
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6H--hWchV6ptz9W-9VWqEwxCgC3VP5VE9U9kZJeh6h9MYX3Yr&usqp=CAU" group-title="JAPAN TV",NHK WORLD PREMIUM
 http://122.155.180.8:5021/live/139
 #EXTINF:-1,JP: KANTO - NHK G
 http://122.155.180.8:5021/live/309
