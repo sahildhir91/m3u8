@@ -78,6 +78,11 @@ http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="DOCUMENTARY",English Club
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://cordwhitaker.studiomuse.site/wp-content/uploads/sites/4/2018/10/HistoryLOGO-1.jpg" group-title="DOCUMENTARY",HISTORY
+https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="DOCUMENTARY",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="DOCUMENTARY",Animal Planet
