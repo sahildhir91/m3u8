@@ -1024,7 +1024,7 @@ https://stream.simpaisa.com/pitvlive2/masalanew3/playlist.m3u8?checkedby:iptvcat
 #EXTINF:0 tvg-country="PK" tvg-logo="https://img.favpng.com/19/24/23/pakistan-hum-tv-television-channel-drama-png-favpng-xeE1CTtWhC4Ld2psZ0SmPQmx1.jpg" group-title="PAK TV",HUM TV HD
 http://95.211.211.168/live/humtv0066/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://pbs.twimg.com/profile_images/1029819158622560257/IX7fTqWA_400x400.jpg" group-title="PAK TV",Hum News
+#EXTINF:0 tvg-country="PK" tvg-logo="https://www.mjunoon.tv/uploads/Hum-News-logo.png" group-title="PAK TV",Hum News
 http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pk-k21-news-6125.jpg" group-title="PAK TV",K21 NEWS
