@@ -1,4 +1,86 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="1061" tvg-name="Manoranjan" group-title="Information",Manoranjan
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6014
+#EXTINF:-1, tvg-id="1062" tvg-name="Zing" group-title="Information",Zing
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6017
+#EXTINF:-1, tvg-id="1063" tvg-name="ARY Music" group-title="Information",ARY Music
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6019
+#EXTINF:-1, tvg-id="1064" tvg-name="Osn Cricket" group-title="Information",Osn Cricket
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6024
+#EXTINF:-1, tvg-id="1065" tvg-name="Ten Cricket" group-title="Information",Ten Cricket
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6029
+#EXTINF:-1, tvg-id="1066" tvg-name="Ten Action" group-title="Information",Ten Action
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6034
+#EXTINF:-1, tvg-id="1067" tvg-name="Sony Six" group-title="Information",Sony Six
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6039
+#EXTINF:-1, tvg-id="1068" tvg-name="Star Sports 1" group-title="Information",Star Sports 1
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6042
+#EXTINF:-1, tvg-id="1070" tvg-name="Star Sports 4" group-title="Information",Star Sports 4
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6052
+#EXTINF:-1, tvg-id="1071" tvg-name="Ten Sports" group-title="Information",Ten Sports
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6057
+#EXTINF:-1, tvg-id="1072" tvg-name="Wb India" group-title="Information",Wb India
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6059
+#EXTINF:-1, tvg-id="1073" tvg-name="Zee Cinema" group-title="Information",Zee Cinema
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6062
+#EXTINF:-1, tvg-id="1074" tvg-name="Movies Ok India" group-title="Information",Movies Ok India
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6064
+#EXTINF:-1, tvg-id="1075" tvg-name="HBO India" group-title="Information",HBO India
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6069
+#EXTINF:-1, tvg-id="1076" tvg-name="WOW Cinema" group-title="Information",WOW Cinema
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6074
+#EXTINF:-1, tvg-id="1077" tvg-name="Maha Movie" group-title="Information",Maha Movie
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6077
+#EXTINF:-1, tvg-id="1078" tvg-name="PTC Punjabi" group-title="Information",PTC Punjabi
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6079
+#EXTINF:-1, tvg-id="1079" tvg-name="PTC Chakde" group-title="Information",PTC Chakde
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6082
+#EXTINF:-1, tvg-id="1080" tvg-name="Cinema TV" group-title="Information",Cinema TV
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6087
+#EXTINF:-1, tvg-id="1081" tvg-name="Star Movies" group-title="Information",Star Movies
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6092
+#EXTINF:-1, tvg-id="1082" tvg-name="B4u Movies" group-title="Information",B4u Movies
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6094
+#EXTINF:-1, tvg-id="5" tvg-name="ABC Miami" group-title="Information",ABC Miami
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6114
+#EXTINF:-1, tvg-id="827" tvg-name="Univision" group-title="Entertainments",Univision
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6299
+#EXTINF:-1, tvg-id="159" tvg-name="NBC Sport Network" group-title="Sports",NBC Sport Network
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6302
+#EXTINF:-1, tvg-id="112" tvg-name="HGTV East" group-title="Information",HGTV East
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6307
+#EXTINF:-1, tvg-id="826" tvg-name="Canal De Las Estrellas" group-title="Information",Canal De Las Estrellas
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6354
+#EXTINF:-1, tvg-id="455" tvg-name="Ultimate Events & Sports" group-title="Sports",Ultimate Events & Sports
+http://sttfree.6te.net/tets.php?user=foro&pass=cable&IDE=6394
+#EXTINF:-1, tvg-id="177" tvg-name="Cartoon Network" group-title="Information",Cartoon Network
+http://sttfree.6te.net/tets.php?IDE=421&user=foro&pass=cable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" group-title="Pakistan",[COLOR slateblue]:: Pakistan ::[/COLOR]
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 News 
