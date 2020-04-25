@@ -808,6 +808,9 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="MY/SG",BritCom
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4YoW2Pt.png" group-title="MY/SG",AMC
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/ID_Logo_Grey.png" group-title="MY/SG",ID HD
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="MY/SG",HBO Chinese
