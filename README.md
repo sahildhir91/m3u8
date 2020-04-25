@@ -947,7 +947,6 @@ https://stream.simpaisa.com/pitvlive2/aajentnew/playlist.m3u8?checkedby:iptvcat.
 https://stream.simpaisa.com/pitvlive2//makkah_360p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/1280px-2018_animal_planet_logo.svg_.png?r0EbXBEWkDBy904iN3h1Dff35te8jZRk&itok=3yKMpvZX" group-title="PAK TV",ANIMAL PLANET
 https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR934s0UAhddhw6DJL79KXethcukhNivRSjMWgbSP_k0fJVeBjg&usqp=CAU" group-title="PAK TV",ARY Family
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8?checkedby:iptvcat.com
 
@@ -1091,25 +1090,16 @@ https://stream.simpaisa.com/pitvlive2/ptvnational3/playlist.m3u8?checkedby:iptvc
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/446590946872799232/sLRxtI7j_400x400.png" group-title="PAK TV",PTV SPORTS 
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://www.shaamtv.com/images/25.jpg" group-title="PAK TV",PTV Sports
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1048556098582708224/qPWHnIYD_400x400.jpg" group-title="PAK TV",GEO SPORTS
-https://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d21dcd.sdp/playlist.m3u8
-
 #EXTINF:0 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="PAK TV",PTV NEWS
 https://stream.simpaisa.com/pitvlive2/ptvnews3/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="PK" tvg-logo="https://image.roku.com/developer_channels/prod/9bea3d40e22b1e1c971c6f418345802ad742d827eebb0abddbfea6435f8dbf55.png" group-title="PAK TV",PTV WORLD
 https://stream.simpaisa.com/pitvlive2/ptvworld3/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="PK" tvg-logo="https://secureservercdn.net/198.71.233.141/27r.eed.myftpupload.com/wp-content/uploads/2018/03/cropped-PAKUSTV-1-2-300x300.jpg" group-title="PAK TV",PakUs TV
 https://livestream.5centscdn.com/pakustv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="PK" tvg-logo="https://pbs.twimg.com/profile_images/1103932714028158976/nQ0S8icS.png" group-title="PAK TV",Pitaara
 http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZYb6QMSiuU9MXcZGkEUjt-3LaoSN-fXQYuWhHXB0dWvbhDdDV&usqp=CAU" group-title="PAK TV",SACHTV
 https://stream.simpaisa.com/pitvlive2/sachtv3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://1.bp.blogspot.com/-HmvMQm0C0DU/WB9blhmw19I/AAAAAAAAApk/kGghIWlz7BU0y4yjoZ_f5VbksKyGoSpTgCLcB/w1200-h630-p-k-no-nu/SEE%2BTV%2BHD%2BLIVE%2BSTREAMING.png" group-title="PAK TV",SEETV HD
