@@ -1051,7 +1051,7 @@ https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/index_150_av-p.m3u8?checked
 #EXTINF:0 tvg-country="PK" tvg-logo="" group-title="PAK TV",Khyber News TV
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/jYR0ACG.png" group-title="PAK TV",Lahore News
+#EXTINF:0 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d0/16/d6/d016d606-53ec-aeec-c9a8-bd2c69bf4104/source/512x512bb.jpg" group-title="PAK TV",Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL._SY355_.png" group-title="PAK TV",MADINA LIVE
