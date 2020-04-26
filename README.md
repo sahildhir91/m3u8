@@ -176,6 +176,9 @@ https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
 https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://scrat.hellocoton.fr/img/classic/bein-sport-2-hd-live-streaming-10442510.jpg" group-title="SPORTS",beIN Sports Asia 2
 https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://ndhsaanow.com/uploads/images/bek_sports_LOGO.jpg" group-title="SPORTS",Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="SPORTS",Sky Sports News
 https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="SPORTS",Sky Sports Golf
