@@ -747,9 +747,24 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="MY/SG",BritCom
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4YoW2Pt.png" group-title="MY/SG",AMC
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://codefornepal.org/wp-content/uploads/2015/07/AJE-campaign-logo-239x300.png" group-title="MY/SG",Al Jazeera
+https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/20/20a19643a3c36a2b6d3d4d8de4054cb3.jpeg"  group-title="MY/SG",AXN
+https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fx-hd.png" group-title="MY/SG",FX
+https://cdn-laos.workpoint.news/hd-fx_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_152.png" group-title="MY/SG",FOX CRIME
+https://cdn-laos.workpoint.news/hd-foxcrime_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lamac.org/system/channels_logos/logos/000/000/018/original/pic_foxlife.png?1523887314" group-title="MY/SG",FOX LIFE
+https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kZQuLUpMXfQ/Tz72J6ViqyI/AAAAAAAALGE/VysxbDW4BiA/s400/history+channel+logo+papercraft.png" group-title="MY/SG",HISTORY
+https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/AXN_HD.jpg"  group-title="MY/SG",AXN
+http://gg.gg/lvttaxn1
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/BBC_World_News_2019.svg/revision/latest/scale-to-width-down/340?cb=20191123221705" group-title="MY/SG",BBC WORLD NEWS
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/ID_Logo_Grey.png" group-title="MY/SG",ID HD
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
