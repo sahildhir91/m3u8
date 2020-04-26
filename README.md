@@ -77,8 +77,6 @@ http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://cordwhitaker.studiomuse.site/wp-content/uploads/sites/4/2018/10/HistoryLOGO-1.jpg" group-title="DOCUMENTARY",HISTORY
 https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="DOCUMENTARY",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="DOCUMENTARY",Animal Planet
@@ -143,21 +141,18 @@ http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="MOVIES",iFILM English
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
-
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/MGM.us.png" group-title="MOVIES",MGM Scifi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MoviesNow.in.png" group-title="Movies",MOVIES Now
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MoviesNow.in.png" group-title="MOVIES",MOVIES Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8 
 #EXTINF:-1 tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="MOVIES",Movies Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MNX2.in.png" group-title="MOVIES",MNX Movies
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/RomedyNow.in.png" group-title="MOVIES",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="http://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" group-title="MOVIES",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-
 #EXTINF:0 tvg-logo= "https://www.televisione10.it/wp-content/uploads/2011/03/rai-movie.png"  group-title="MOVIES,RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
