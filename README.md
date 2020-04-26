@@ -141,7 +141,7 @@ http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdA-peqFvfO0FmoqQcnLY1vOfxsWGUbC7z0GPRtH6onlspOU6b&usqp=CAU" group-title="MOVIES",iFILM English
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/MGM.us.png" group-title="MOVIES",MGM Scifi
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/f8408090875313.Y3JvcCw4NjIsNjc0LDI5MzQsMjc2Mw.jpg" group-title="MOVIES",MGM Scifi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/MoviesNow.in.png" group-title="MOVIES",MOVIES Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8 
