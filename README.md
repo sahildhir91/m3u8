@@ -118,7 +118,7 @@ http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="MOVIES",STAR WORLD FHD
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/movies_now.png" group-title="MOVIES",Movies Now
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/12/07/Untitled-1_17.jpg?itok=FNreB2PE" group-title="MOVIES",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" group-title="MOVIES",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
@@ -133,13 +133,13 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/pl/FilmBoxArtHouseEn.pl.png" group-title="MOVIES",Filmbox Arthouse
 http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxExtra.cz.png" group-title="MOVIES",Filmbox Extra
+#EXTINF:-1 tvg-logo="https://i.iinfo.cz/images/659/filmbox-extra-1.jpg" group-title="MOVIES",Filmbox Extra
 http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/FilmboxPlus.cz.png" group-title="MOVIES",Filmbox Plus
+#EXTINF:-1 tvg-logo="https://i.iinfo.cz/images/476/filmbox-plus-1.jpg" group-title="MOVIES",Filmbox Plus
 http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png" group-title="MOVIES",Flim Hub
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Filmhub_Logo_W_Text.png" group-title="MOVIES",Flim Hub
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.ifilmtv.com/Content/Intro/Layer.png" group-title="MOVIES",iFILM English
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdA-peqFvfO0FmoqQcnLY1vOfxsWGUbC7z0GPRtH6onlspOU6b&usqp=CAU" group-title="MOVIES",iFILM English
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/MGM.us.png" group-title="MOVIES",MGM Scifi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
