@@ -901,6 +901,8 @@ https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checke
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://aapnews.pk/wp-content/uploads/2019/03/AAP-LOGO2.png" group-title="PAK TV",Aap News
 http://95.211.211.168/live/aaptvhd0250/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/DwvztcjZNKQGVwPZlO9u0hgNorBY9rUWklsBTe0LC2C8CCNJmdTICYSK9Pwa22qDHgT0xbSIBb8FiXIoEsfamDYzdjz3RLaWvdGv3iRYrlWxdSTbPu-0s999cAGQXVaZlehzMJVDiGZKxGDGZnWZ9HtitBHLlPW3H4zQh2lFdnZNvf-r58gyP-QdNa_JqJdQfyUMuvOR0A3iEL0" group-title="PAK TV",Venus TV
+https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/51/B4U_Kadak_Hai_Boss.jpg/revision/latest/scale-to-width-down/340?cb=20190708144149" group-title="PAK TV",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
