@@ -174,6 +174,10 @@ https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ndhsaanow.com/uploads/images/bek_sports_LOGO.jpg" group-title="SPORTS",Bek Sports West
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="SPORTS",STAR SPORTS SELECT 1
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg/revision/latest/scale-to-width-down/340?cb=20170728104438" group-title="SPORTS",STAR SPORTS SELECT 2
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="SPORTS",Sky Sports News
 https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
