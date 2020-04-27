@@ -910,7 +910,7 @@ https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 https://stream.simpaisa.com/pitvlive2/news92/playlist.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAK TV" BOL NEWS HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAK TV",BOL NEWS HD
 http://163.172.87.166:5432/miunyt/boln/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIwIDEwOjE2OjI3IEFNJmhhc2hfdmFsdWU9VFZLQm5mZVVxb3MxZ0UxQktwMEdtQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="PAK TV",92 News
