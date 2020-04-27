@@ -170,6 +170,10 @@ https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="SPORTS",Fox Sports 3 Asia
 https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest/scale-to-width-down/340?cb=20200107203607" group-title="SPORTS",BEIN SPORTS 1
+http://tv.vodu.me:2052/bein1/1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://scrat.hellocoton.fr/img/classic/bein-sport-2-hd-live-streaming-10442510.jpg" group-title="SPORTS",beIN Sports Asia 2
 https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://ndhsaanow.com/uploads/images/bek_sports_LOGO.jpg" group-title="SPORTS",Bek Sports East
