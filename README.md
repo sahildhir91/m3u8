@@ -497,7 +497,7 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/star-movies-logo-png-1.png" group-title="MIX/CHANNELS",Star Movies ND
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/star-movies-logo-png-1.png" group-title="HINDI",Star Movies ND
 http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/11/23/Star%20World.png?itok=M8eohsgo" group-title="HINDI" ,STAR WORLD ND
