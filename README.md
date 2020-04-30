@@ -171,6 +171,23 @@ https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="SPORTS",Fox Sports 3 Asia
 https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport1.uk.png" group-title="SPORTS",BT Sports 1
+https://cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport2.uk.png" group-title="SPORTS",BT Sports 2
+https://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/BTSport3.uk.png" group-title="SPORTS",BT Sports 3
+https://cdn-laos.workpoint.news/uk-btsport3hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",beIN Sports 3
+https://edgejt6.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",beIN Sports 4
+https://cdnbal1.useetv.com/joss/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Eurosport1.uk.png" group-title="SPORTS",Eurosport 1
+https://cdn-laos.workpoint.news/uk-eurosport_480/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/Eurosport2.uk.png" group-title="SPORTS",Eurosport 2
+https://cdn-laos.workpoint.news/uk-eurosport2_480/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest/scale-to-width-down/340?cb=20200107203607" group-title="SPORTS",BEIN SPORTS 1
 http://tv.vodu.me:2052/bein1/1/tracks-v1a1/mono.m3u8
 
