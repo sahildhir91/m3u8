@@ -233,16 +233,24 @@ https://gma2.blab.email/espnu.m3u8
 https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/IpssJvp.png" tvg-country="US" tvg-url="" group-title="SPORTS",Olympic Channel (HD)
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="SPORTS",NBC Golf
+http://203.154.243.89:1208
+#EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="SPORTS",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tennistv.com/help/wp-content/themes/tennistv-support/dist/images/tennistv-footer.png" group-title="SPORTS",ATP Tennis TV
+http://203.154.243.89:11739
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TennisChannel.us.png" group-title="SPORTS",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-logo="https://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="SPORTS",Tennis Channel+
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-logo="https://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="SPORTS",Tennis Channel+ 2
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
 
 #EXTINF:-1  tvg-name="WWE Network" tvg-id="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png" group-title="SPORTS",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg" group-title="SPORTS",D Sport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="Cricket",Star Sports 1
-http://103.118.76.234:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="Cricket",Sky Sports Cricket
-https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 19/06/2019] suaji
 https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTKb93Y0PNJ6iO9ZCYC1NC0Qq6hRTgzg0pBmuzkvM2BKdiqON_C872ssD5mhasWQ5jg&redirect=0
@@ -345,37 +353,16 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/chunklist.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/94729-dsportMain.jpg" group-title="Cricket",Discovery Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="Cricket",Sky Sports Cricket
+https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/446590946872799232/sLRxtI7j_400x400.png" group-title="Cricket" ,PTV SPORTS 
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyESPN.in.png" group-title="Cricket",Sony ESPN
-https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN1.in.png" group-title="Cricket",Sony Ten 1
-https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN2.in.png" group-title="Cricket",Sony Ten 2
-https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyTEN3.in.png" group-title="Cricket",Sony Ten 3
-https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="Cricket",Sony Six
-https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="Cricket",Star Sports 1
-http://103.118.76.234:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="Cricket",Ads sport cricket
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="Cricket",Fox Sports 501
 http://45.58.62.92:8080
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="SPORTS",NBC Golf
-http://203.154.243.89:1208
-#EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="SPORTS",One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tennistv.com/help/wp-content/themes/tennistv-support/dist/images/tennistv-footer.png" group-title="SPORTS",ATP Tennis TV
-http://203.154.243.89:11739
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TennisChannel.us.png" group-title="SPORTS",Tennis Channel
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 tvg-logo="https://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="SPORTS",Tennis Channel+
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 tvg-logo="https://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="SPORTS",Tennis Channel+ 2
-https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="DOCUMENTARY",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
