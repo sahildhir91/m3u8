@@ -486,13 +486,15 @@ http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/994889981847105536/2IFtV2Cf_400x400.jpg" group-title="HINDI",B4U Plus 
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="HINDI",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://jio-tv.com/uploads/tv_image/kadak-hits.jpg" group-title="HINDI",Kadak Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://logopond.com/logos/e9b985c80c0a0c04b698feed80e5c8f7.png" group-title="HINDI",ASIA: HBO
 http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/star-movies-logo-png-1.png" group-title="MIX/CHANNELS",Star Movies ND
@@ -500,12 +502,9 @@ http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authoriza
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/11/23/Star%20World.png?itok=M8eohsgo" group-title="HINDI" ,STAR WORLD ND
 http://channels.ooguy.com:80/auth?channel=StarWorldHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbC-IcI9_rOnay00dq3fDr_eSBqipDHwO-3_1-laglWDy23DJ3&usqp=CAU" group-title="HINDI",UTV MOVIES
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/utvmoviesint/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6ipo8EXfWP39a5G5o7Q_Twi44apCkRP1dhYVaSiSJ3gTH7VBh&usqp=CAU", group-title="HINDI", ENTER 10
-http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1093986764362895360/7QWK2Px9.jpg" group-title="HINDI",The Q
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201901/shemaroo-logo.png.jpg" group-title="HINDI",Shemaroo Hindi
