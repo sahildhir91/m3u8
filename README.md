@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQljrYNnA5VqLRv8xrua0rfE6r2qM_R0yeyGUD-Bq1lpC-_Th1K&usqp=CAU" group-title="Pakistan",[COLOR slateblue]:: Pakistan ::[/COLOR]
-http://190.2.141.189:9630/toto/warnerbrothers/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDIwIDc6MDE6MTQgUE0maGFzaF92YWx1ZT1aOFZLZG80RjZhMHM2QTVUVzVLczB3PT0mdmFsaWRtaW51dGVzPTI=
-
 
 
 
@@ -927,7 +924,7 @@ https://stream.simpaisa.com/pitvlive2/news92/playlist.m3u8?checkedby:iptvcat.com
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSolgMISKrRqGZgaFG6t0yRV5IT97lDlr33xW1VEPBrX5N6CXlN&usqp=CAU" group-title="PAK TV",ARY NEWS
-http://163.172.85.59:5432/miunyt/aryn/playlist.m3u8
+http://195.154.119.3:5432/miunyt/aryn/l_218566_49381574_1829.ts
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAK TV",BOL NEWS HD
 http://163.172.87.166:5432/miunyt/boln/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIwIDEwOjE2OjI3IEFNJmhhc2hfdmFsdWU9VFZLQm5mZVVxb3MxZ0UxQktwMEdtQT09JnZhbGlkbWludXRlcz0y
