@@ -924,10 +924,10 @@ https://stream.simpaisa.com/pitvlive2/news92/playlist.m3u8?checkedby:iptvcat.com
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSolgMISKrRqGZgaFG6t0yRV5IT97lDlr33xW1VEPBrX5N6CXlN&usqp=CAU" group-title="PAK TV",ARY NEWS
-http://195.154.119.3:5432/miunyt/aryn/l_218566_49381574_1829.ts
+http://ccdn2.jazztv.pk:8085/cast/111M/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAK TV",BOL NEWS HD
-http://163.172.87.166:5432/miunyt/boln/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIwIDEwOjE2OjI3IEFNJmhhc2hfdmFsdWU9VFZLQm5mZVVxb3MxZ0UxQktwMEdtQT09JnZhbGlkbWludXRlcz0y
+http://176.118.198.21:2020/live/flixtv/123456/91.m3u8
 
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="PAK TV",92 News
