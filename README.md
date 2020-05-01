@@ -1,4 +1,13 @@
 #EXTM3U
+
+#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQljrYNnA5VqLRv8xrua0rfE6r2qM_R0yeyGUD-Bq1lpC-_Th1K&usqp=CAU" group-title="Pakistan",[COLOR slateblue]:: Pakistan ::[/COLOR]
+http://190.2.141.189:9630/toto/warnerbrothers/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDIwIDc6MDE6MTQgUE0maGFzaF92YWx1ZT1aOFZLZG80RjZhMHM2QTVUVzVLczB3PT0mdmFsaWRtaW51dGVzPTI=
+
+
+
+
+
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" group-title="Pakistan",[COLOR slateblue]:: Pakistan ::[/COLOR]
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 News 
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
