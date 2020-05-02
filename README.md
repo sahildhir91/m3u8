@@ -1,10 +1,4 @@
 #EXTM3U
-
-
-
-
-
-
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" group-title="Pakistan",[COLOR slateblue]:: Pakistan ::[/COLOR]
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 News 
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
@@ -194,11 +188,8 @@ http://188.93.95.34:80/setanta_georgia/index.m3u8
 http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
 #EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="SPORTS",True Sport 2
 https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest/scale-to-width-down/340?cb=20200107203607" group-title="SPORTS",BEIN SPORTS 1
 http://tv.vodu.me:2052/bein1/1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://scrat.hellocoton.fr/img/classic/bein-sport-2-hd-live-streaming-10442510.jpg" group-title="SPORTS",beIN Sports Asia 2
 https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://ndhsaanow.com/uploads/images/bek_sports_LOGO.jpg" group-title="SPORTS",Bek Sports East
@@ -226,23 +217,16 @@ https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="SPORTS",Sky Sports Mix
 https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="SPORTS",Sky Sports F1
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/nz/ESPN.nz.png" group-title=" SPORTS",ESPN
-http://npse.brots.world/espn2.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/nz/ESPN2.nz.png" group-title="SPORTS",ESPN 2
-https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/ESPNNews.us.png" group-title=" SPORTS",ESPN News
-https://gma2.blab.email/espnews.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="SPORTS",NBA TV
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/ESPNU.us.png" group-title="SPORTS",ESPN U
-https://gma2.blab.email/espnu.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.vsin.com/android-icon-192x192.png" group-title="SPORTS",NFL Network
 https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/IpssJvp.png" tvg-country="US" tvg-url="" group-title="SPORTS",Olympic Channel (HD)
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/GolfChannel.us.png" group-title="SPORTS",NBC Golf
-http://203.154.243.89:1208
+
 #EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="SPORTS",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tennistv.com/help/wp-content/themes/tennistv-support/dist/images/tennistv-footer.png" group-title="SPORTS",ATP Tennis TV
