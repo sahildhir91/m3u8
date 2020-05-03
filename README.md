@@ -911,9 +911,15 @@ https://stream.simpaisa.com/pitvlive2/news92/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://pakistanmediaupdates.com/wp-content/uploads/2015/04/Aaj-News.jpg" group-title="PAK TV",Aaj NEWS
 http://stream.tapmad.com:1935/pitvlive2/aajnews3/chunklist_w802918816.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAK TV",BOL NEWS HD
+#EXTINF:0 tvg-logo="https://images.mjunoon.tv:8181/logo/Public-News-Logo.webp" group-title="PAK TV",PUBLIC TV NEWS HD
 http://78.129.241.19:8554/hera/publicnews/chunks.m3u8?nimblesessionid=46058682&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjAgMTE6MjI6MzcgUE0maGFzaF92YWx1ZT1nY0p3c2ZDS0JqSDhGcVFtclF5dWxBPT0mdmFsaWRtaW51dGVzPTI=
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAK TV",BOL NEWS HD
+http://163.172.58.208:5432/miunyt/boln/l_251190_2660020_1679.ts?nimblesessionid=20993120&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjAgMTE6Mzk6MjkgUE0maGFzaF92YWx1ZT1iSFVjWEMzaUV2bmZnTzdPbGJJZzVBPT0mdmFsaWRtaW51dGVzPTI=
+
+
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="PAK TV",ARY NEWS HD
+http://195.154.119.3:5432/miunyt/aryn/l_252718_4351608_725.ts?nimblesessionid=20042186&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjAgMTE6MzY6MjIgUE0maGFzaF92YWx1ZT1HNW9kZ3BOYnBRbWtQQVpKQUxIbUFnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="PAK TV",92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:iptvcat.com
