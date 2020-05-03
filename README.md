@@ -904,8 +904,10 @@ https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 
 
 
+
 #EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-mKFcmJXnj_DcIgJbBT_JYxtDc7Sl5AQRclXMnRKzTz4G5oMk&usqp=CAU" group-title="PAK TV",92 NEWS
 https://stream.simpaisa.com/pitvlive2/news92/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-logo="https://pakistanmediaupdates.com/wp-content/uploads/2015/04/Aaj-News.jpg" group-title="PAK TV",Aaj NEWS
 http://stream.tapmad.com:1935/pitvlive2/aajnews3/chunklist_w802918816.m3u8
 
@@ -914,7 +916,6 @@ http://78.129.241.19:8554/hera/publicnews/chunks.m3u8?nimblesessionid=46058682&w
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAK TV",BOL NEWS HD
 http://163.172.58.208:5432/miunyt/boln/l_251190_2660020_1679.ts?nimblesessionid=20993120&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjAgMTE6Mzk6MjkgUE0maGFzaF92YWx1ZT1iSFVjWEMzaUV2bmZnTzdPbGJJZzVBPT0mdmFsaWRtaW51dGVzPTI=
-
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="PAK TV",ARY NEWS HD
 http://195.154.119.3:5432/miunyt/aryn/l_252718_4351608_725.ts?nimblesessionid=20042186&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjAgMTE6MzY6MjIgUE0maGFzaF92YWx1ZT1HNW9kZ3BOYnBRbWtQQVpKQUxIbUFnPT0mdmFsaWRtaW51dGVzPTI=
@@ -943,7 +944,7 @@ https://stream.simpaisa.com/pitvlive2/atv3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0s1dREij7oOYJJIXL7zf7XMvXdBXD0fpSJcGzig-KZgeWe4md&usqp=CAU" group-title="PAK TV",AVT KHYBER
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://aapnews.pk/wp-content/uploads/2019/03/AAP-LOGO2.png" group-title="PAK TV",Aap News
+#EXTINF:0  tvg-logo="https://aapnews.pk/wp-content/uploads/2019/03/AAP-LOGO2.png" group-title="PAK TV",Aap News
 http://95.211.211.168/live/aaptvhd0250/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/DwvztcjZNKQGVwPZlO9u0hgNorBY9rUWklsBTe0LC2C8CCNJmdTICYSK9Pwa22qDHgT0xbSIBb8FiXIoEsfamDYzdjz3RLaWvdGv3iRYrlWxdSTbPu-0s999cAGQXVaZlehzMJVDiGZKxGDGZnWZ9HtitBHLlPW3H4zQh2lFdnZNvf-r58gyP-QdNa_JqJdQfyUMuvOR0A3iEL0" group-title="PAK TV",Venus TV
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
