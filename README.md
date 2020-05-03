@@ -912,7 +912,7 @@ https://stream.simpaisa.com/pitvlive2/news92/playlist.m3u8?checkedby:iptvcat.com
 http://stream.tapmad.com:1935/pitvlive2/aajnews3/chunklist_w802918816.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAK TV",BOL NEWS HD
-http://176.118.198.21:2020/live/flixtv/123456/91.m3u8
+http://78.129.241.19:8554/hera/publicnews/chunks.m3u8?nimblesessionid=46058682&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjAgMTE6MjI6MzcgUE0maGFzaF92YWx1ZT1nY0p3c2ZDS0JqSDhGcVFtclF5dWxBPT0mdmFsaWRtaW51dGVzPTI=
 
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="PAK TV",92 News
