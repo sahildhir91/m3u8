@@ -160,6 +160,7 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 
 
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" group-title="SPORTS",TEN 3
@@ -171,8 +172,10 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdn
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1810191660/Super-ENG_reasonably_small_400x400.jpg" group-title="SPORTS",GEO SPORTS
 http://195.154.119.3:5432/xrdctfv/gsuper/chunks.m3u8?nimblesessionid=20042852&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMTI6MDk6MDYgQU0maGFzaF92YWx1ZT1jVTBkYXF6eUdnTmU2VCtKRHU5WmR3PT0mdmFsaWRtaW51dGVzPTI=
 
+
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/01/28/ten_sports%20logo.jpg?itok=Tkia_uJ3" group-title="SPORTS",TEN SPORTS
 http://51.15.1.206:5432/xrdctfv/tens/chunks.m3u8?nimblesessionid=7381435&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMTI6MTQ6NDggQU0maGFzaF92YWx1ZT1iTUdtVmEvQnpRZHpLWmNsZzVub09RPT0mdmFsaWRtaW51dGVzPTI=
+
 
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="SPORTS",Fox Sports 1 Asia
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
