@@ -1267,7 +1267,55 @@ http://122.155.180.8:5021/live/219
 #EXTINF:-1,JP: BS SKY PERFECT
 http://122.155.180.8:5021/live/58
 
+[7:27 AM, 5/4/2020] RAFIQUE MASIH: http://78.129.241.19:8554/hera/publicnews/chunks.m3u8?nimblesessionid=46058682&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjAgMTE6MjI6MzcgUE0maGFzaF92YWx1ZT1nY0p3c2ZDS0JqSDhGcVFtclF5dWxBPT0mdmFsaWRtaW51dGVzPTI=
+[7:37 AM, 5/4/2020] RAFIQUE MASIH: http://195.154.119.3:5432/miunyt/aryn/l_252718_4351608_725.ts?nimblesessionid=20042186&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjAgMTE6MzY6MjIgUE0maGFzaF92YWx1ZT1HNW9kZ3BOYnBRbWtQQVpKQUxIbUFnPT0mdmFsaWRtaW51dGVzPTI=
+[7:42 AM, 5/4/2020] RAFIQUE MASIH: http://163.172.58.208:5432/miunyt/boln/l_251190_2660020_1679.ts?nimblesessionid=20993120&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjAgMTE6Mzk6MjkgUE0maGFzaF92YWx1ZT1iSFVjWEMzaUV2bmZnTzdPbGJJZzVBPT0mdmFsaWRtaW51dGVzPTI=
+[8:10 AM, 5/4/2020] RAFIQUE MASIH: http://195.154.119.3:5432/xrdctfv/gsuper/chunks.m3u8?nimblesessionid=20042852&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMTI6MDk6MDYgQU0maGFzaF92YWx1ZT1jVTBkYXF6eUdnTmU2VCtKRHU5WmR3PT0mdmFsaWRtaW51dGVzPTI=
+[8:15 AM, 5/4/2020] RAFIQUE MASIH: http://51.15.1.206:5432/xrdctfv/tens/chunks.m3u8?nimblesessionid=7381435&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMTI6MTQ6NDggQU0maGFzaF92YWx1ZT1iTUdtVmEvQnpRZHpLWmNsZzVub09RPT0mdmFsaWRtaW51dGVzPTI=
+[8:50 AM, 5/4/2020] RAFIQUE MASIH: http://dpasdl08.tth.cl:8745/eros/mnhd/chunks.m3u8?nimblesessionid=33473612&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMTI6NDk6NTYgQU0maGFzaF92YWx1ZT1vSmhKU1I0ZUNpOEQyOEFIWXl4dU53PT0mdmFsaWRtaW51dGVzPTI=
+[6:42 PM, 5/4/2020] RAFIQUE MASIH: NoUphttp://51.15.189.40:5432/miunyt/suntv/chunks.m3u8?nimblesessionid=15558518&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMTo1Njo0MSBBTSZoYXNoX3ZhbHVlPTY3Wm1uakR3SHE4R1ora0Y0c2NHM0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
+http://78.129.139.44:8554/phobe/suryamovies/chunks.m3u8?nimblesessionid=44402959&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMTo1OTozNiBBTSZoYXNoX3ZhbHVlPVVXUWFybU9zdTB3ZkswY1cyNWVINFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+http://80.243.180.72:5432/eos/urdu1/chunks.m3u8?nimblesessionid=37829683&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjoxNTo0NSBBTSZoYXNoX3ZhbHVlPTlMWUVmRDIrK2UwRElwc3VXTUdXeEE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+http://dpasdl08.tth.cl:8745/eros/utvbindaas/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjoxOToyMCBBTSZoYXNoX3ZhbHVlPVZIZUxIeHgyd2tScnFacys4bWlEenc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+http://190.2.141.189:9630/toto/bigmagic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPTFlTzBnaWdNbWZNY291Wk02R1drc2c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+http://dpasdl08.tth.cl:8745/eros/hbohd/chunks.m3u8?nimblesessionid=33522742&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjoyMjo0OCBBTSZoYXNoX3ZhbHVlPVhpRnpFMCs2aEFKbEp2VE04VkhLa0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+http://dpasdl08.tth.cl:8745/hades/hboasia/chunks.m3u8?nimblesessionid=33526039&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjoyNjoxMiBBTSZoYXNoX3ZhbHVlPUZSdm9KQTBYaXdZbWpqZk1SZGhvYUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://dpasdl08.tth.cl:8745/eros/mnhd/chunks.m3u8?nimblesessionid=33527427&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjoyOTozOCBBTSZoYXNoX3ZhbHVlPUdxbXpNT3pBK1pLRnpuN1ZRa2JZcUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+http://163.172.87.170:5432/miunyt/boln/chunks.m3u8?nimblesessionid=20828503&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjozMjozMSBBTSZoYXNoX3ZhbHVlPUhZMU15NWxLNTVoOGtnUFozMFM2dGc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+http://dyna.livenettv.sx:2086/hera/hbo2/chunks.m3u8?nimblesessionid=17913634&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjo1NzoyNyBBTSZoYXNoX3ZhbHVlPXVSWFZTNFlVb2V3R0RFQmRNdXE3YUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+
+http://dyna.livenettv.sx:2086/hera/movietime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjo1OTo0OCBBTSZoYXNoX3ZhbHVlPU5KeDNxK3dGTTJkVlh0NzZRaWViVUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+http://195.154.108.53:5432/xrdctfv/wwe/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMzowMjo1NCBBTSZoYXNoX3ZhbHVlPTkweDZNTkxNRGdRK3B6eUUxakh4Mmc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+
+http://51.15.189.40:5432/xrdctfv/whd/chunks.m3u8?nimblesessionid=15559721&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMzowNToxMiBBTSZoYXNoX3ZhbHVlPVdyaVpFVUREaHNEQ1ZkRnpleTlSV1E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+
+
+http://195.154.108.53:5432/xrdctfv/astrocric/chunks.m3u8?nimblesessionid=20714268&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMzowNjo0MiBBTSZoYXNoX3ZhbHVlPVQ2eUpGaXdHbmNzaEZUQm5oQ1dibEE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+http://89.163.255.249:5432/xrdctfv/osncric/chunks.m3u8?nimblesessionid=24499795&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMzowOTowOCBBTSZoYXNoX3ZhbHVlPWtiVVpyNGVmSHpLbTRNWWRMeHl6WGc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+
+http://195.154.108.53:5432/miunyt/aryn/chunks.m3u8?nimblesessionid=20714346&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMzoxMToyNyBBTSZoYXNoX3ZhbHVlPUlndjRhS0ZFUElRTEFHMFgzK0NlZFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+http://163.172.87.166:5432/miunyt/boln/chunks.m3u8?nimblesessionid=20816526&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMzoxMzoyMyBBTSZoYXNoX3ZhbHVlPWpEVnlXaGNiSmlMWVJRdkdldEMxTmc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+http://dpasdl08.tth.cl:8745/eros/travelxphindi/chunks.m3u8?nimblesessionid=33095496&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgOTo1MzoyNCBBTSZoYXNoX3ZhbHVlPWx5K05oQkg0ZkVXZm1ZRERsc1dkQXc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+http://190.2.141.189:9630/toto/tlcworldhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgOTo1ODo0OCBBTSZoYXNoX3ZhbHVlPVdOaFg5Sm9DSThQYVVwMGxXRFJQdGc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+http://fhiowh09.joe.dj:30050/dione/natgeowildin/chunks.m3u8?nimblesessionid=301212&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgOTo1OTo0OCBBTSZoYXNoX3ZhbHVlPSt1b2RqV05Rb1hYSjVaazFDUU9YM2c9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 
 
