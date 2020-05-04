@@ -921,13 +921,13 @@ https://stream.simpaisa.com/pitvlive2/news92/playlist.m3u8?checkedby:iptvcat.com
 http://stream.tapmad.com:1935/pitvlive2/aajnews3/chunklist_w802918816.m3u8
 
 #EXTINF:0 tvg-logo="https://images.mjunoon.tv:8181/logo/Public-News-Logo.webp" group-title="PAK TV",PUBLIC TV NEWS HD
-http://78.129.241.19:8554/hera/publicnews/chunks.m3u8?nimblesessionid=46058682&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjAgMTE6MjI6MzcgUE0maGFzaF92YWx1ZT1nY0p3c2ZDS0JqSDhGcVFtclF5dWxBPT0mdmFsaWRtaW51dGVzPTI=
+http://78.129.241.19:8554/hera/publicnews/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAK TV",BOL NEWS HD
-http://163.172.87.170:5432/miunyt/boln/chunks.m3u8?nimblesessionid=20828503&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjozMjozMSBBTSZoYXNoX3ZhbHVlPUhZMU15NWxLNTVoOGtnUFozMFM2dGc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://163.172.87.170:5432/miunyt/boln/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="PAK TV",ARY NEWS HD
-http://195.154.108.53:5432/miunyt/aryn/chunks.m3u8?nimblesessionid=20714346&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMzoxMToyNyBBTSZoYXNoX3ZhbHVlPUlndjRhS0ZFUElRTEFHMFgzK0NlZFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://195.154.108.53:5432/miunyt/aryn/chunks.m3u8
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="PAK TV",92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:iptvcat.com
@@ -1132,190 +1132,6 @@ https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8?checkedby:ipt
 
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6H--hWchV6ptz9W-9VWqEwxCgC3VP5VE9U9kZJeh6h9MYX3Yr&usqp=CAU" group-title="JAPAN TV",NHK WORLD PREMIUM
-http://122.155.180.8:5021/live/139
-#EXTINF:-1,JP: KANTO - NHK G
-http://122.155.180.8:5021/live/309
-#EXTINF:-1,JP: KANTO - NHK E??
-http://122.155.180.8:5021/live/310
-#EXTINF:-1,JP: KANTO - NIPPON TV
-http://122.155.180.8:5021/live/312
-#EXTINF:-1,JP: KANTO - TV ASAHI
-http://122.155.180.8:5021/live/313
-#EXTINF:-1,JP: KANTO - FUJI TV
-http://122.155.180.8:5021/live/316
-#EXTINF:-1,JP: KANTO - TBS
-http://122.155.180.8:5021/live/314
-#EXTINF:-1,JP: KANTO - TV TOKYO
-http://122.155.180.8:5021/live/315
-#EXTINF:-1,JP: KANTO - TOKYO MX
-http://122.155.180.8:5021/live/311
-#EXTINF:-1,JP: KANSAI - NHK G
-http://122.155.180.8:5021/live/317
-#EXTINF:-1,JP: KANSAI - NHK E??
-http://122.155.180.8:5021/live/318
-#EXTINF:-1,JP: KANSAI - ABC ???
-http://122.155.180.8:5021/live/321
-#EXTINF:-1,JP: KANSAI - KANSAI TV
-http://122.155.180.8:5021/live/323
-#EXTINF:-1,JP: KANSAI - TVO
-http://122.155.180.8:5021/live/322
-#EXTINF:-1,JP: KANSAI - YTV
-http://122.155.180.8:5021/live/324
-#EXTINF:-1,JP: KANSAI - SUN
-http://122.155.180.8:5021/live/320
-#EXTINF:-1,JP: KANSAI - MBS
-http://122.155.180.8:5021/live/319
-#EXTINF:-1,JP: NHK BS1
-http://122.155.180.8:5021/live/301
-#EXTINF:-1,JP: NHK BS PREMIUM
-http://122.155.180.8:5021/live/303
-#EXTINF:-1,JP: BS NTV
-http://122.155.180.8:5021/live/304
-#EXTINF:-1,JP: NTV G+
-http://122.155.180.8:5021/live/207
-#EXTINF:-1,JP: NTV PLUS
-http://122.155.180.8:5021/live/208
-#EXTINF:-1,JP: NTV NEWS 24
-http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1,JP: BS ASAHI
-http://122.155.180.8:5021/live/308
-#EXTINF:-1,JP: TV ASAHI 1
-http://122.155.180.8:5021/live/223
-#EXTINF:-1,JP: TV ASAHI 2
-http://122.155.180.8:5021/live/217
-#EXTINF:-1,JP: BS FUJI
-http://122.155.180.8:5021/live/307
-#EXTINF:-1,JP: FUJI TV ONE
-http://122.155.180.8:5021/live/212
-#EXTINF:-1,JP: FUJI TV NEXT
-http://122.155.180.8:5021/live/54
-#EXTINF:-1,JP: BS-TBS
-http://122.155.180.8:5021/live/305
-#EXTINF:-1,JP: TBS 1
-http://122.155.180.8:5021/live/221
-#EXTINF:-1,JP: TBS NEWSBIRD
-http://122.155.180.8:5021/live/220
-#EXTINF:-1,JP: BS JAPAN
-http://122.155.180.8:5021/live/306
-#EXTINF:-1,JP: BS TWELLEV
-http://122.155.180.8:5021/live/302
-#EXTINF:-1,JP: MTV JAPAN
-http://122.155.180.8:5021/live/52
-#EXTINF:-1,JP: SPACE SHOWER
-http://122.155.180.8:5021/live/51
-#EXTINF:-1,JP: MUSIC JAPAN
-http://122.155.180.8:5021/live/495
-#EXTINF:-1,JP: NIHON EIGA (????)
-http://122.155.180.8:5021/live/213
-#EXTINF:-1,JP: FAMILY GEKIJO (????)
-http://122.155.180.8:5021/live/493
-#EXTINF:-1,JP: MOVIE PLUS
-http://122.155.180.8:5021/live/497
-#EXTINF:-1,JP: STAR 1
-http://122.155.180.8:5021/live/326
-#EXTINF:-1,JP: STAR 2
-http://122.155.180.8:5021/live/191
-#EXTINF:-1,JP: STAR 3
-http://122.155.180.8:5021/live/193
-#EXTINF:-1,JP: WOWOW ??? (LIVE)
-http://122.155.180.8:5021/live/205
-#EXTINF:-1,JP: WOWOW ???? (PRIME)
-http://122.155.180.8:5021/live/325
-#EXTINF:-1,JP: ????? WOWOW (CINEFIL WOWOW)
-http://122.155.180.8:5021/live/209
-#EXTINF:-1,JP: J-SPORTS 1
-http://122.155.180.8:5021/live/415
-#EXTINF:-1,JP: J-SPORTS 2
-http://122.155.180.8:5021/live/416
-#EXTINF:-1,JP: J-SPORTS 3
-http://122.155.180.8:5021/live/410
-#EXTINF:-1,JP: J-SPORTS 4
-http://122.155.180.8:5021/live/411
-#EXTINF:-1,JP: EX SPORTS
-http://122.155.180.8:5021/live/414
-#EXTINF:-1,JP: GAORA
-http://122.155.180.8:5021/live/413
-#EXTINF:-1,JP: GOLF NETWORK
-http://122.155.180.8:5021/live/409
-#EXTINF:-1,JP: GREEN
-http://122.155.180.8:5021/live/412
-#EXTINF:-1,JP: TSURI VISION
-http://122.155.180.8:5021/live/55
-#EXTINF:-1,JP: FIGHTING SAMURAI
-http://122.155.180.8:5021/live/408
-#EXTINF:-1,JP: SKY A SPORTS
-http://122.155.180.8:5021/live/210
-#EXTINF:-1,JP: FOX SPORTS ENTERTAINMENT
-http://122.155.180.8:5021/live/57
-#EXTINF:-1,JP: KBS WORLD JAPAN
-http://122.155.180.8:5021/live/216
-#EXTINF:-1,JP: KIDS CHANNEL
-http://122.155.180.8:5021/live/494
-#EXTINF:-1,JP: DISCOVERY CHANNEL
-http://122.155.180.8:5021/live/496
-#EXTINF:-1,JP: HISTORY
-http://122.155.180.8:5021/live/219
-#EXTINF:-1,JP: BS SKY PERFECT
-http://122.155.180.8:5021/live/58
-
-[7:27 AM, 5/4/2020] RAFIQUE MASIH: http://78.129.241.19:8554/hera/publicnews/chunks.m3u8?nimblesessionid=46058682&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjAgMTE6MjI6MzcgUE0maGFzaF92YWx1ZT1nY0p3c2ZDS0JqSDhGcVFtclF5dWxBPT0mdmFsaWRtaW51dGVzPTI=
-[7:37 AM, 5/4/2020] RAFIQUE MASIH: http://195.154.119.3:5432/miunyt/aryn/l_252718_4351608_725.ts?nimblesessionid=20042186&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjAgMTE6MzY6MjIgUE0maGFzaF92YWx1ZT1HNW9kZ3BOYnBRbWtQQVpKQUxIbUFnPT0mdmFsaWRtaW51dGVzPTI=
-[7:42 AM, 5/4/2020] RAFIQUE MASIH: http://163.172.58.208:5432/miunyt/boln/l_251190_2660020_1679.ts?nimblesessionid=20993120&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjAgMTE6Mzk6MjkgUE0maGFzaF92YWx1ZT1iSFVjWEMzaUV2bmZnTzdPbGJJZzVBPT0mdmFsaWRtaW51dGVzPTI=
-[8:10 AM, 5/4/2020] RAFIQUE MASIH: http://195.154.119.3:5432/xrdctfv/gsuper/chunks.m3u8?nimblesessionid=20042852&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMTI6MDk6MDYgQU0maGFzaF92YWx1ZT1jVTBkYXF6eUdnTmU2VCtKRHU5WmR3PT0mdmFsaWRtaW51dGVzPTI=
-[8:15 AM, 5/4/2020] RAFIQUE MASIH: http://51.15.1.206:5432/xrdctfv/tens/chunks.m3u8?nimblesessionid=7381435&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMTI6MTQ6NDggQU0maGFzaF92YWx1ZT1iTUdtVmEvQnpRZHpLWmNsZzVub09RPT0mdmFsaWRtaW51dGVzPTI=
-[8:50 AM, 5/4/2020] RAFIQUE MASIH: http://dpasdl08.tth.cl:8745/eros/mnhd/chunks.m3u8?nimblesessionid=33473612&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMTI6NDk6NTYgQU0maGFzaF92YWx1ZT1vSmhKU1I0ZUNpOEQyOEFIWXl4dU53PT0mdmFsaWRtaW51dGVzPTI=
-[6:42 PM, 5/4/2020] RAFIQUE MASIH: NoUphttp://51.15.189.40:5432/miunyt/suntv/chunks.m3u8?nimblesessionid=15558518&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMTo1Njo0MSBBTSZoYXNoX3ZhbHVlPTY3Wm1uakR3SHE4R1ora0Y0c2NHM0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-http://78.129.139.44:8554/phobe/suryamovies/chunks.m3u8?nimblesessionid=44402959&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMTo1OTozNiBBTSZoYXNoX3ZhbHVlPVVXUWFybU9zdTB3ZkswY1cyNWVINFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-http://80.243.180.72:5432/eos/urdu1/chunks.m3u8?nimblesessionid=37829683&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjoxNTo0NSBBTSZoYXNoX3ZhbHVlPTlMWUVmRDIrK2UwRElwc3VXTUdXeEE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-http://dpasdl08.tth.cl:8745/eros/utvbindaas/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjoxOToyMCBBTSZoYXNoX3ZhbHVlPVZIZUxIeHgyd2tScnFacys4bWlEenc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-http://190.2.141.189:9630/toto/bigmagic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjoyMDo0NyBBTSZoYXNoX3ZhbHVlPTFlTzBnaWdNbWZNY291Wk02R1drc2c9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-http://dpasdl08.tth.cl:8745/eros/hbohd/chunks.m3u8?nimblesessionid=33522742&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjoyMjo0OCBBTSZoYXNoX3ZhbHVlPVhpRnpFMCs2aEFKbEp2VE04VkhLa0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-http://dpasdl08.tth.cl:8745/hades/hboasia/chunks.m3u8?nimblesessionid=33526039&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjoyNjoxMiBBTSZoYXNoX3ZhbHVlPUZSdm9KQTBYaXdZbWpqZk1SZGhvYUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-http://dpasdl08.tth.cl:8745/eros/mnhd/chunks.m3u8?nimblesessionid=33527427&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjoyOTozOCBBTSZoYXNoX3ZhbHVlPUdxbXpNT3pBK1pLRnpuN1ZRa2JZcUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-http://163.172.87.170:5432/miunyt/boln/chunks.m3u8?nimblesessionid=20828503&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjozMjozMSBBTSZoYXNoX3ZhbHVlPUhZMU15NWxLNTVoOGtnUFozMFM2dGc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-http://dyna.livenettv.sx:2086/hera/hbo2/chunks.m3u8?nimblesessionid=17913634&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjo1NzoyNyBBTSZoYXNoX3ZhbHVlPXVSWFZTNFlVb2V3R0RFQmRNdXE3YUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-
-http://dyna.livenettv.sx:2086/hera/movietime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMjo1OTo0OCBBTSZoYXNoX3ZhbHVlPU5KeDNxK3dGTTJkVlh0NzZRaWViVUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-http://195.154.108.53:5432/xrdctfv/wwe/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMzowMjo1NCBBTSZoYXNoX3ZhbHVlPTkweDZNTkxNRGdRK3B6eUUxakh4Mmc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-
-http://51.15.189.40:5432/xrdctfv/whd/chunks.m3u8?nimblesessionid=15559721&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMzowNToxMiBBTSZoYXNoX3ZhbHVlPVdyaVpFVUREaHNEQ1ZkRnpleTlSV1E9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-
-
-http://195.154.108.53:5432/xrdctfv/astrocric/chunks.m3u8?nimblesessionid=20714268&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMzowNjo0MiBBTSZoYXNoX3ZhbHVlPVQ2eUpGaXdHbmNzaEZUQm5oQ1dibEE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-http://89.163.255.249:5432/xrdctfv/osncric/chunks.m3u8?nimblesessionid=24499795&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMzowOTowOCBBTSZoYXNoX3ZhbHVlPWtiVVpyNGVmSHpLbTRNWWRMeHl6WGc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-
-http://195.154.108.53:5432/miunyt/aryn/chunks.m3u8?nimblesessionid=20714346&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMzoxMToyNyBBTSZoYXNoX3ZhbHVlPUlndjRhS0ZFUElRTEFHMFgzK0NlZFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-http://163.172.87.166:5432/miunyt/boln/chunks.m3u8?nimblesessionid=20816526&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMzoxMzoyMyBBTSZoYXNoX3ZhbHVlPWpEVnlXaGNiSmlMWVJRdkdldEMxTmc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-http://dpasdl08.tth.cl:8745/eros/travelxphindi/chunks.m3u8?nimblesessionid=33095496&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgOTo1MzoyNCBBTSZoYXNoX3ZhbHVlPWx5K05oQkg0ZkVXZm1ZRERsc1dkQXc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-http://190.2.141.189:9630/toto/tlcworldhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgOTo1ODo0OCBBTSZoYXNoX3ZhbHVlPVdOaFg5Sm9DSThQYVVwMGxXRFJQdGc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-
-http://fhiowh09.joe.dj:30050/dione/natgeowildin/chunks.m3u8?nimblesessionid=301212&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgOTo1OTo0OCBBTSZoYXNoX3ZhbHVlPSt1b2RqV05Rb1hYSjVaazFDUU9YM2c9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 
 
