@@ -170,8 +170,7 @@ https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hd
 https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1810191660/Super-ENG_reasonably_small_400x400.jpg" group-title="SPORTS",GEO SPORTS
-http://195.154.119.3:5432/xrdctfv/gsuper/chunks.m3u8?nimblesessionid=20042852&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMTI6MDk6MDYgQU0maGFzaF92YWx1ZT1jVTBkYXF6eUdnTmU2VCtKRHU5WmR3PT0mdmFsaWRtaW51dGVzPTI=
-
+http://0nelive.hjkm.info:13292/minerva/geosuper/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/01/28/ten_sports%20logo.jpg?itok=Tkia_uJ3" group-title="SPORTS",TEN SPORTS
 http://51.15.1.206:5432/xrdctfv/tens/chunks.m3u8?nimblesessionid=7381435&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjAgMTI6MTQ6NDggQU0maGFzaF92YWx1ZT1iTUdtVmEvQnpRZHpLWmNsZzVub09RPT0mdmFsaWRtaW51dGVzPTI=
