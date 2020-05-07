@@ -174,6 +174,8 @@ http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/01/28/ten_sports%20logo.jpg?itok=Tkia_uJ3" group-title="SPORTS",TEN SPORTS
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="SPORTS",Fox Sports 1 Asia
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="SPORTS",Fox Sports 2 Asia
