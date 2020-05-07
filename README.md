@@ -923,13 +923,13 @@ https://stream.simpaisa.com/pitvlive2/news92/playlist.m3u8?checkedby:iptvcat.com
 http://stream.tapmad.com:1935/pitvlive2/aajnews3/chunklist_w802918816.m3u8
 
 #EXTINF:0 tvg-logo="https://images.mjunoon.tv:8181/logo/Public-News-Logo.webp" group-title="PAK TV",PUBLIC TV NEWS HD
-http://0nelive.hjkm.info:13292/ceres/willowhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjAgMTI6NTU6MjcgQU0maGFzaF92YWx1ZT1mYllkdG5YcDdpcThDR2w2a1lCMnF3PT0mdmFsaWRtaW51dGVzPTI=
+http://0nelive.hjkm.info:13292/ceres/willowhd/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAK TV",BOL NEWS HD
-http://163.172.87.170:5432/miunyt/boln/chunks.m3u8
+http://163.172.87.170:5432/miunyt/boln/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="PAK TV",ARY NEWS HD
-http://195.154.108.53:5432/miunyt/aryn/chunks.m3u8
+http://195.154.108.53:5432/miunyt/aryn/chunklist.m3u8
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="PAK TV",92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:iptvcat.com
