@@ -480,7 +480,7 @@ http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeeaction/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-pictures-hd-logo-300x300.jpg" group-title="HINDI",AND PICTURE HD
-http://zer0live.hjkm.info:13292/neptune/andpictureshd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS81LzIwMjAgMjoxNjo1NCBQTSZoYXNoX3ZhbHVlPXRxOXhIS2dtTFg5UjJ6WU0rRm9KRmc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://34.65.69.12:5675/ind2020/andpichd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="HINDI",B4U Kadak (New!)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
