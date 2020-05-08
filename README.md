@@ -21,7 +21,7 @@ http://216.144.250.174/Geo_Kahani_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/DYp5ZUN.png" group-title="Pakistan",Geo News
 http://216.144.250.174/Geo_News_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bQSbZ7j.jpg" group-title="Pakistan",Geo Tez
-https://streamer64.ebound.tv/geo/geotezz_abr/geo/geotezz_master/chunks.m3u8
+http://35.228.216.232:3443/pak2020/geotez/chunks.m3u8?nimblesessionid=541702&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjAgMjozNzo0OSBQTSZoYXNoX3ZhbHVlPTI0ZXlFdm9HdGQ0RUdJRUFjNjdYTXc9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/JoO8hEx.jpg" group-title="Pakistan",Geo TV
 http://216.144.250.174/Geo_Entertainment_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/Jh7thgW.jpg" group-title="Pakistan",ARY QTV
