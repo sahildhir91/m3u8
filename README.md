@@ -29,6 +29,7 @@ http://35.228.216.232:3443/pak2020/apna/chunks.m3u8?nimblesessionid=542379&wmsAu
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="Pakistan",POP Kids
 http://35.228.216.232:3443/pak2020/hbopak/chunks.m3u8?nimblesessionid=543272&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjAgMjo1MTozOSBQTSZoYXNoX3ZhbHVlPVEyMUEvcVl6QUVNYTlOT3NENG1mM3c9PSZ2YWxpZG1pbnV0ZXM9NQ==
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/1162077176411447301/nzfbidzz_400x400.jpg" group-title="Pakistan",PTV Home
 http://35.228.216.232:3443/pak2020/capitaltv/chunks.m3u8?nimblesessionid=543780&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjAgMjo1NTo1MCBQTSZoYXNoX3ZhbHVlPXdFREo1YUJUQmJZV3VYMnVPTVVGNmc9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/zNjsxA6.jpg" group-title="Pakistan",PTV Home
