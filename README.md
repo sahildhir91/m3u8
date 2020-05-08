@@ -28,7 +28,7 @@ http://216.144.250.174/Geo_Entertainment_HD/tracks-v1a1/mono.m3u8
 http://35.228.216.232:3443/pak2020/apna/chunks.m3u8?nimblesessionid=542379&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjAgMjo0NDoxMCBQTSZoYXNoX3ZhbHVlPUlZMUhhYURYM2tTNGZ2dTRsVTNwemc9PSZ2YWxpZG1pbnV0ZXM9NQ==
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="Pakistan",POP Kids
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
+http://35.228.216.232:3443/pak2020/hbopak/chunks.m3u8?nimblesessionid=543272&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjAgMjo1MTozOSBQTSZoYXNoX3ZhbHVlPVEyMUEvcVl6QUVNYTlOT3NENG1mM3c9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/zNjsxA6.jpg" group-title="Pakistan",PTV Home
 http://67.231.248.131:1935/live/PTVhome/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/zNjsxA6.jpg" group-title="Pakistan",PTV Home
