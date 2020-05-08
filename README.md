@@ -33,7 +33,7 @@ http://35.228.216.232:3443/pak2020/hbopak/chunks.m3u8?nimblesessionid=543272&wms
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/1162077176411447301/nzfbidzz_400x400.jpg" group-title="Pakistan",PTV Home
 http://35.228.216.232:3443/pak2020/capitaltv/chunks.m3u8?nimblesessionid=543780&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjAgMjo1NTo1MCBQTSZoYXNoX3ZhbHVlPXdFREo1YUJUQmJZV3VYMnVPTVVGNmc9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/zNjsxA6.jpg" group-title="Pakistan",PTV Home
-http://67.231.248.131:1935/live/PTVhome/chunklist_w1961087555.m3u8
+http://35.228.216.232:3443/pak2020/ptvhome/chunks.m3u8?nimblesessionid=544848&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjAgMzowMjo1NiBQTSZoYXNoX3ZhbHVlPUtpUU5hMGIrZXE5V1l5amJNSXQzTGc9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png" tvg-country="IN" tvg-url="" group-title="Pakistan",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
