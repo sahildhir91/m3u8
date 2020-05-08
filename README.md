@@ -931,7 +931,7 @@ http://0nelive.hjkm.info:13292/ceres/willowhd/playlist.m3u8
 http://163.172.87.170:5432/miunyt/boln/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="PAK TV",ARY NEWS HD
-http://195.154.108.53:5432/miunyt/aryn/chunklist.m3u8
+http://35.228.216.232:3443/pak2020/arynews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjAgMTA6MDY6MzQgQU0maGFzaF92YWx1ZT1ScEErOWUxdk9YOUt3SDRQL3pvT2dnPT0mdmFsaWRtaW51dGVzPTU=
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="PAK TV",92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:iptvcat.com
