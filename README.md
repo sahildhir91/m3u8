@@ -25,7 +25,7 @@ http://35.228.216.232:3443/pak2020/geotez/chunks.m3u8?nimblesessionid=541702&wms
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/JoO8hEx.jpg" group-title="Pakistan",Geo TV
 http://216.144.250.174/Geo_Entertainment_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/Jh7thgW.jpg" group-title="Pakistan",ARY QTV
-http://158.69.229.30:8081/qtv_live/livestream/chunks.m3u8
+http://35.228.216.232:3443/pak2020/apna/chunks.m3u8?nimblesessionid=542379&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjAgMjo0NDoxMCBQTSZoYXNoX3ZhbHVlPUlZMUhhYURYM2tTNGZ2dTRsVTNwemc9PSZ2YWxpZG1pbnV0ZXM9NQ==
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="Pakistan",POP Kids
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
