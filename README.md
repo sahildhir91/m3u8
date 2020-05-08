@@ -173,10 +173,8 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdn
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1810191660/Super-ENG_reasonably_small_400x400.jpg" group-title="SPORTS",GEO SPORTS
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/01/28/ten_sports%20logo.jpg?itok=Tkia_uJ3" group-title="SPORTS",TEN SPORTS
-http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
+http://speciallive.hjkm.info:13292/mars/nbcgolf/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjAgMzoxODoyMCBQTSZoYXNoX3ZhbHVlPUlJbUZqdEVOZGZSbHFQSFR0UnRicXc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="SPORTS",Fox Sports 1 Asia
