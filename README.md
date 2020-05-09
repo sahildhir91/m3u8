@@ -925,7 +925,7 @@ http://stream.tapmad.com:1935/pitvlive2/aajnews3/chunklist_w802918816.m3u8
 http://0nelive.hjkm.info:13292/ceres/willowhd/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAK TV",BOL NEWS HD
-http://163.172.87.170:5432/miunyt/boln/chunklist.m3u8
+"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1589041485/ei/7YS2XrmFCMSxwgPPk5fgAg/ip/124.13.215.89/id/77Gjim__sZ8.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIhAN-mT_kIcH5g6MVTWdDvBLhJFph83Vjn9NghOOYPE5ZVAiBLiqnSPXuh6hcFNfZBmS-oCkqCEfnCqjAXiIBuiyxgGQ%3D%3D/file/index.m3u8
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="PAK TV",ARY NEWS HD
 http://35.228.216.232:3443/pak2020/arynews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjAgMTA6MDY6MzQgQU0maGFzaF92YWx1ZT1ScEErOWUxdk9YOUt3SDRQL3pvT2dnPT0mdmFsaWRtaW51dGVzPTU=
