@@ -21,24 +21,21 @@ http://216.144.250.174/Geo_Kahani_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/DYp5ZUN.png" group-title="Pakistan",Geo News
 http://216.144.250.174/Geo_News_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bQSbZ7j.jpg" group-title="Pakistan",Geo Tez
-http://35.228.216.232:3443/pak2020/geotez/chunks.m3u8?nimblesessionid=541702&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjAgMjozNzo0OSBQTSZoYXNoX3ZhbHVlPTI0ZXlFdm9HdGQ0RUdJRUFjNjdYTXc9PSZ2YWxpZG1pbnV0ZXM9NQ==
+http://35.228.216.232:3443/pak2020/geotez/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/JoO8hEx.jpg" group-title="Pakistan",Geo TV
 http://216.144.250.174/Geo_Entertainment_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/Jh7thgW.jpg" group-title="Pakistan",ARY QTV
-http://35.228.216.232:3443/pak2020/apna/chunks.m3u8?nimblesessionid=542379&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjAgMjo0NDoxMCBQTSZoYXNoX3ZhbHVlPUlZMUhhYURYM2tTNGZ2dTRsVTNwemc9PSZ2YWxpZG1pbnV0ZXM9NQ==
+http://35.228.216.232:3443/pak2020/apna/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="Pakistan",POP Kids
-http://35.228.216.232:3443/pak2020/hbopak/chunks.m3u8?nimblesessionid=543272&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjAgMjo1MTozOSBQTSZoYXNoX3ZhbHVlPVEyMUEvcVl6QUVNYTlOT3NENG1mM3c9PSZ2YWxpZG1pbnV0ZXM9NQ==
+http://35.228.216.232:3443/pak2020/hbopak/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/1162077176411447301/nzfbidzz_400x400.jpg" group-title="Pakistan",PTV Home
-http://35.228.216.232:3443/pak2020/capitaltv/chunks.m3u8?nimblesessionid=543780&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjAgMjo1NTo1MCBQTSZoYXNoX3ZhbHVlPXdFREo1YUJUQmJZV3VYMnVPTVVGNmc9PSZ2YWxpZG1pbnV0ZXM9NQ==
+http://35.228.216.232:3443/pak2020/capitaltv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/zNjsxA6.jpg" group-title="Pakistan",PTV Home
-http://35.228.216.232:3443/pak2020/ptvhome/chunks.m3u8?nimblesessionid=544848&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjAgMzowMjo1NiBQTSZoYXNoX3ZhbHVlPUtpUU5hMGIrZXE5V1l5amJNSXQzTGc9PSZ2YWxpZG1pbnV0ZXM9NQ==
+http://35.228.216.232:3443/pak2020/ptvhome/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png" tvg-country="IN" tvg-url="" group-title="Pakistan",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="HINDI",Bollywood Classic
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="Pakistan",Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
@@ -46,6 +43,7 @@ https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/c
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/keluarga_1.png" group-title="DOCUMENTARY",[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="DOCUMENTARY",Discovery Asia
 http://111.13.111.192/125.227.198.89:8028
