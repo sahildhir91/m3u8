@@ -27,8 +27,8 @@ http://216.144.250.174/Geo_Entertainment_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/Jh7thgW.jpg" group-title="Pakistan",ARY QTV
 http://35.228.216.232:3443/pak2020/apna/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="Pakistan",POP Kids
-http://35.228.216.232:3443/pak2020/hbopak/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="Pakistan",SAMA NEWS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1589054325/ei/Fbe2XtXpLpHX3LUPk9y_0Aw/ip/175.139.15.23/id/7oqmANW5Qzs.0/source/yt_live_broadcast/requiressl/yes/tx/23880663/txs/23880663%2C23880664%2C23880665%2C23880666%2C23880667/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgEPgYqMTNfPFupb20TV0qKQfMIbcKAOSAupr-d1QoIRYCIDirLC6R0lr9ZsBPfj5BQWFEkWw3r5swZfAXMeBa7rMc/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/1162077176411447301/nzfbidzz_400x400.jpg" group-title="Pakistan",PTV Home
 http://35.228.216.232:3443/pak2020/capitaltv/chunks.m3u8
@@ -926,7 +926,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1589048934/ei/B
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAK TV",BOL NEWS HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1589041485/ei/7YS2XrmFCMSxwgPPk5fgAg/ip/124.13.215.89/id/77Gjim__sZ8.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIhAN-mT_kIcH5g6MVTWdDvBLhJFph83Vjn9NghOOYPE5ZVAiBLiqnSPXuh6hcFNfZBmS-oCkqCEfnCqjAXiIBuiyxgGQ%3D%3D/file/index.m3u8
-
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="PAK TV",ARY NEWS HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1589047131/ei/-5q2XrnnC_7Iz7sPw6qgsAY/ip/175.139.15.23/id/7oqmANW5Qzs.0/source/yt_live_broadcast/requiressl/yes/tx/23880663/txs/23880663%2C23880664%2C23880665%2C23880666%2C23880667/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1\/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSCNC0vmCatbC7s_lQP3g2RBcovNvYnLO5oCY6-vaoooCIQC_zxDu6P4QhDgFEpR5GQtA6SU7__3EdSthHn8IGaf34A%3D%3D/file/index.m3u8
 
