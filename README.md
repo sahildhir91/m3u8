@@ -25,7 +25,7 @@ http://35.228.216.232:3443/pak2020/geotez/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/JoO8hEx.jpg" group-title="Pakistan",Geo TV
 http://216.144.250.174/Geo_Entertainment_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/Jh7thgW.jpg" group-title="Pakistan",ARY QTV
-http://35.228.216.232:3443/pak2020/apna/chunks.m3u8
+http://stream.tapmad.com:1935/pitvlive2/seetv3/media_w571010863_94085.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/vIQR1Fv.png" group-title="Pakistan",SAMA NEWS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1589054325/ei/Fbe2XtXpLpHX3LUPk9y_0Aw/ip/175.139.15.23/id/7oqmANW5Qzs.0/source/yt_live_broadcast/requiressl/yes/tx/23880663/txs/23880663%2C23880664%2C23880665%2C23880666%2C23880667/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgEPgYqMTNfPFupb20TV0qKQfMIbcKAOSAupr-d1QoIRYCIDirLC6R0lr9ZsBPfj5BQWFEkWw3r5swZfAXMeBa7rMc/file/index.m3u8
