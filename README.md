@@ -920,8 +920,8 @@ https://stream.simpaisa.com/pitvlive2/news92/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://pakistanmediaupdates.com/wp-content/uploads/2015/04/Aaj-News.jpg" group-title="PAK TV",Aaj NEWS
 http://stream.tapmad.com:1935/pitvlive2/aajnews3/chunklist_w802918816.m3u8
 
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1162077176411447301/nzfbidzz_400x400.jpg" group-title="PAK TV",CAPITAL TV 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1589048934/ei/BqK2Xs3nIYy-owPZsbjwBQ/ip/175.139.15.23/id/0P_S6HtxJnk.0/source/yt_live_broadcast/requiressl/yes/tx/23880663/txs/23880663%2C23880664%2C23880665%2C23880666%2C23880667/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgAg9JdYjdEcfa5qoNDWipk7COfdY-QCOQqXm8yHh1GJYCIQCKVR0ogASlzj9WErVytzliAF4dYvoIqAhVV5qYwvGKJg%3D%3D/file/index.m3u8
+#EXTINF:0 tvg-logo="https://www.businessbook.pk/assets/images/listings/logos/urdu1tv_logo_250px_250px.jpg" group-title="PAK TV",URDU 1 TV 
+http://125.209.99.45:43568/BRN/Urdu1.stream/chunklist_w1837739887.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAK TV",BOL NEWS HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1589041485/ei/7YS2XrmFCMSxwgPPk5fgAg/ip/124.13.215.89/id/77Gjim__sZ8.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIhAN-mT_kIcH5g6MVTWdDvBLhJFph83Vjn9NghOOYPE5ZVAiBLiqnSPXuh6hcFNfZBmS-oCkqCEfnCqjAXiIBuiyxgGQ%3D%3D/file/index.m3u8
