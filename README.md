@@ -10,8 +10,8 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 http:/playlive.goonj.pk/bolweb_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="Pakistan",Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/849932336388915200/eWPbuJmH_400x400.jpg" group-title="Pakistan", Kay 2 
-http://livecdnh1.tvanywhere.ae:80/hls/k2/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/849932336388915200/eWPbuJmH_400x400.jpg" group-title="Pakistan",PUBLIC NEWS HD
+http://playlive.goonj.pk/publicnewsweb_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="Pakistan",Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/wY41F5k.png" group-title="Pakistan",Express TV
