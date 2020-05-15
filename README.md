@@ -32,8 +32,8 @@ https://stream.tapmad.com:1935/pitvlive2/sitaraynews3/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/1162077176411447301/nzfbidzz_400x400.jpg" group-title="Pakistan",LTN FAMILY
 http://playlive.goonj.pk/ltnweb_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/zNjsxA6.jpg" group-title="Pakistan",PTV Home
-http://35.228.216.232:3443/pak2020/ptvhome/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://a1tablecloth.com/wp-content/uploads/sites/11/2019/04/A1-Tablecloth-Co-Favicon.png" group-title="Pakistan",A1 TV 
+http://162.250.201.58:6211/uk/A1TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png" tvg-country="IN" tvg-url="" group-title="Pakistan",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
