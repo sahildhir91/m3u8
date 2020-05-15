@@ -924,7 +924,7 @@ http://stream.tapmad.com:1935/pitvlive2/aajnews3/chunklist_w802918816.m3u8
 #EXTINF:0 tvg-logo="https://www.businessbook.pk/assets/images/listings/logos/urdu1tv_logo_250px_250px.jpg" group-title="PAK TV",URDU 1 TV 
 http://125.209.99.45:43568/BRN/Urdu1.stream/chunklist_w1837739887.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAK TV",BOL NEWS HD
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="PAK TV",ARY NEWS
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81nv0DiTGDL._SY355_.png" group-title="PAK TV",SAMA NEWS 
 http://livecdnh1.tvanywhere.ae/hls/samaa/04.m3u8
