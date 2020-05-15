@@ -27,6 +27,9 @@ http://216.144.250.174/Geo_Entertainment_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/Jh7thgW.jpg" group-title="Pakistan",ARY QTV
 http://stream.tapmad.com:1935/pitvlive2/seetv3/chunklist_w571010863.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/Jh7thgW.jpg" group-title="Pakistan",ATN MUSIC
+https://edge4.bioscopelive.com/hls/VwwTxf1QdKj/Mt87S18F0EpJVkaY3Tdc7Q/1589535016/atn_music.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i1.sndcdn.com/artworks-000070633023-fslpfn-t500x500.jpg" group-title="Pakistan",HUM SITARAY
 https://stream.tapmad.com:1935/pitvlive2/sitaraynews3/chunklist.m3u8
 
