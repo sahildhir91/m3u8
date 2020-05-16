@@ -551,7 +551,8 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/StarPlus.png/revision/latest/scale-to-width-down/340?cb=20190208151853" group-title="HINDI",STAR PLUS HD
 http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/im_xjzZrWiY2YeKW6wCGiO3OfvnxKCEClefQhXt4OfEch8gObCN2jRq_d3jzxwZTAA" group-title="HINDI",PRIME BOX OFFICE HD
+http://23.186.192.55:8080/live/primeplus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rOrQj07.png" group-title="HINDI",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="HINDI",Aaj Tak 
