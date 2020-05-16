@@ -32,8 +32,8 @@ http://stream.tapmad.com:1935/pitvlive2/seetv3/chunklist_w571010863.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://www.tunisvista.com/medias/watan-tv-live-online-streaming-direct-egypt.jpg" group-title="Pakistan",WATAN TV
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i1.sndcdn.com/artworks-000070633023-fslpfn-t500x500.jpg" group-title="Pakistan",HUM SITARAY
-https://stream.tapmad.com:1935/pitvlive2/sitaraynews3/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000070633023-fslpfn-t500x500.jpg" group-title="Pakistan",HUM SITARAY
+http://stream.tapmad.com:1935/pitvlive2/sitaraynew3/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/1162077176411447301/nzfbidzz_400x400.jpg" group-title="Pakistan",LTN FAMILY
 http://playlive.goonj.pk/ltnweb_480p/index.m3u8
