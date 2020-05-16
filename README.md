@@ -932,13 +932,13 @@ https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81nv0DiTGDL._SY355_.png" group-title="PAK TV",SAMA NEWS 
 http://livecdnh1.tvanywhere.ae/hls/samaa/04.m3u8
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="PAK TV",92 News
-http://38.96.175.40:1935/liveTrans//channel5_110k/playlist.m3u8
+#EXTINF:0 tvg-country="PK" tvg-logo="https://smarttv.pk/wp-content/uploads/2016/11/Mehran-Tv.jpg" group-title="PAK TV",MEHRAN TV
+http://stream.tapmad.com:1935/pitvlive2/mehran3/chunklist_w1224928261.m3u8
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-mKFcmJXnj_DcIgJbBT_JYxtDc7Sl5AQRclXMnRKzTz4G5oMk&usqp=CAU" group-title="PAK TV",92 News
+#EXTINF:0 tvg-country="PK" tvg-logo="https://www.glookast.com/storage/app/uploads/public/5ca/380/0ab/5ca3800abbe0c539272464.png" group-title="PAK TV",GAAG NEWS
 http://stream.tapmad.com:1935/pitvlive2/jaagtv3/chunklist_w23460543.m3u8
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="PAK TV",92 News UK
+#EXTINF:0 tvg-country="PK" tvg-logo="https://lh3.googleusercontent.com/ay1-b8w8lgmeh4im1R5XTIiH2-7Q1sBS4yIAvfcF_AtJTE1YiljbvZO1YjWQKSb0dUP7" group-title="PAK TV",ARY NEWS
 http://95.211.211.168/live/arynews0012/playlist.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREqhe5JgD_sAFUtoDHU9tKArmQ9yaKCJFEbq7r8MhHphcksRMf&usqp=CAU" group-title="PAK TV",A Plus
 http://stream.tapmad.com:1935/pitvlive2/aplus3/playlist.m3u8?checkedby:iptvcat.com
