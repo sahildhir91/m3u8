@@ -6,8 +6,10 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="Pakistan",92 UK
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="Pakistan",BOL NEWS HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="Pakistan",BOL NEWS
 http:/playlive.goonj.pk/bolweb_480p/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="Pakistan",Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQFbgs24zIVqeg/company-logo_200_200/0?e=2159024400&v=beta&t=NbfkjKKxB-g_idiWKHMQq_z6C5XMaSi8gu8YTgqcIXg" group-title="Pakistan",PUBLIC NEWS
