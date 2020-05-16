@@ -935,7 +935,7 @@ http://livecdnh1.tvanywhere.ae/hls/samaa/04.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="https://smarttv.pk/wp-content/uploads/2016/11/Mehran-Tv.jpg" group-title="PAK TV",MEHRAN TV
 http://stream.tapmad.com:1935/pitvlive2/mehran3/chunklist_w1224928261.m3u8
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://www.glookast.com/storage/app/uploads/public/5ca/380/0ab/5ca3800abbe0c539272464.png" group-title="PAK TV",GAAG NEWS
+#EXTINF:0 tvg-country="PK" tvg-logo="https://www.glookast.com/storage/app/uploads/public/5ca/380/0ab/5ca3800abbe0c539272464.png" group-title="PAK TV",JAAG NEWS
 http://stream.tapmad.com:1935/pitvlive2/jaagtv3/chunklist_w23460543.m3u8
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://lh3.googleusercontent.com/ay1-b8w8lgmeh4im1R5XTIiH2-7Q1sBS4yIAvfcF_AtJTE1YiljbvZO1YjWQKSb0dUP7" group-title="PAK TV",ARY NEWS
