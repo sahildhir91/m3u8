@@ -586,7 +586,7 @@ http://bolly360.xyz:80/zee.php?c=ztvme
 http://tamilgo.com/zee5/z5theather.php?c=out&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeBangla.in.png" group-title="HINDI",Zee Bangla
-http://livecdnh1.tvanywhere.ae/hls/zee_bangla/04.m3u8
+http://zer0live.hjkm.info:13292/juno/cinematv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDIwIDExOjU0OjQxIEFNJmhhc2hfdmFsdWU9bFhjVzRPbGgyMDFFbzFwaDlsY0tMZz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeBusiness.in.png" group-title="HINDI",Zee Business
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebusiness/index.m3u8
