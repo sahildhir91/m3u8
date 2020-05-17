@@ -27,8 +27,8 @@ http://216.144.250.174/Geo_News_HD/tracks-v1a1/mono.m3u8
 http://35.228.216.232:3443/pak2020/geotez/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/JoO8hEx.jpg" group-title="Pakistan",Geo TV
 http://216.144.250.174/Geo_Entertainment_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/Jh7thgW.jpg" group-title="Pakistan",ARY QTV
-http://stream.tapmad.com:1935/pitvlive2/seetv3/chunklist_w571010863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.ytimg.com/vi/9ts2fLPAt7U/hqdefault.jpg" group-title="Pakistan",HUMRAZ TV
+http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://www.tunisvista.com/medias/watan-tv-live-online-streaming-direct-egypt.jpg" group-title="Pakistan",WATAN TV
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u8
