@@ -586,7 +586,7 @@ http://bolly360.xyz:80/zee.php?c=ztvme
 http://tamilgo.com/zee5/z5theather.php?c=out&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeBangla.in.png" group-title="HINDI",Zee Bangla
-http://35.193.13.165:5675/ind2020/utvaction/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDIwIDM6MzE6MDcgUE0maGFzaF92YWx1ZT0wRnVSRURyYnUwNG9lczRPUE1xNUtBPT0mdmFsaWRtaW51dGVzPTI=
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1589817600_0bf2bdba3eaa5eb0da6c30da332a5d2b
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeBusiness.in.png" group-title="HINDI",Zee Business
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebusiness/index.m3u8
