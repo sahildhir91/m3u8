@@ -24,7 +24,7 @@ http://216.144.250.174/Geo_Kahani_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/DYp5ZUN.png" group-title="Pakistan",Geo News
 http://216.144.250.174/Geo_News_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bQSbZ7j.jpg" group-title="Pakistan",Geo Tez
-http://104.198.161.177:4422/pak2020/geotez/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDIwIDQ6MTU6MTIgUE0maGFzaF92YWx1ZT1kQkFTc0pCNG9aR0pVNkpQc2VqbElBPT0mdmFsaWRtaW51dGVzPTU=
+http://104.198.161.177:4422/pak2020/apna/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDIwIDQ6NDE6MDYgUE0maGFzaF92YWx1ZT1VdEUxekxCWEJJNURxSWJobjVTN0Z3PT0mdmFsaWRtaW51dGVzPTU=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/JoO8hEx.jpg" group-title="Pakistan",Geo TV
 http://216.144.250.174/Geo_Entertainment_HD/tracks-v1a1/mono.m3u8
