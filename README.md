@@ -24,15 +24,15 @@ http://216.144.250.174/Geo_Kahani_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/DYp5ZUN.png" group-title="Pakistan",Geo News
 http://216.144.250.174/Geo_News_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bQSbZ7j.jpg" group-title="Pakistan",Geo Tez
-http://104.198.161.177:4422/pak2020/apna/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDIwIDQ6NDE6MDYgUE0maGFzaF92YWx1ZT1VdEUxekxCWEJJNURxSWJobjVTN0Z3PT0mdmFsaWRtaW51dGVzPTU=
+http://playlive.goonj.pk/filmaxweb_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/JoO8hEx.jpg" group-title="Pakistan",Geo TV
 http://216.144.250.174/Geo_Entertainment_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.ytimg.com/vi/9ts2fLPAt7U/hqdefault.jpg" group-title="Pakistan",HUMRAZ TV
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://www.tunisvista.com/medias/watan-tv-live-online-streaming-direct-egypt.jpg" group-title="Pakistan",WATAN TV
-http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://www.tunisvista.com/medias/watan-tv-live-online-streaming-direct-egypt.jpg" group-title="Pakistan",PUNJABI 18
+https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/master.m3u8?hdnea=st=1590296413~exp=1590332413~acl=/*~hmac=8a787e629e6cdfe5078dfb3123b6723badfbbadd1a253c22d186eeb702659143
 
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000070633023-fslpfn-t500x500.jpg" group-title="Pakistan",HUM SITARAY
 http://stream.tapmad.com:1935/pitvlive2/sitaraynew3/chunklist.m3u8
@@ -927,7 +927,7 @@ https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-mKFcmJXnj_DcIgJbBT_JYxtDc7Sl5AQRclXMnRKzTz4G5oMk&usqp=CAU" group-title="PAK TV",92 NEWS
-https://stream.simpaisa.com/pitvlive2/news92/playlist.m3u8?checkedby:iptvcat.com
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
 
 #EXTINF:0 tvg-logo="https://pakistanmediaupdates.com/wp-content/uploads/2015/04/Aaj-News.jpg" group-title="PAK TV",Aaj NEWS
 http://stream.tapmad.com:1935/pitvlive2/aajnews3/chunklist_w802918816.m3u8
