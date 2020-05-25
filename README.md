@@ -925,7 +925,6 @@ https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 
 
 
-
 #EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-mKFcmJXnj_DcIgJbBT_JYxtDc7Sl5AQRclXMnRKzTz4G5oMk&usqp=CAU" group-title="PAK TV",92 NEWS
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
 
