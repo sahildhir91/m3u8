@@ -930,7 +930,7 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
 
 #EXTINF:0 tvg-logo="https://pakistanmediaupdates.com/wp-content/uploads/2015/04/Aaj-News.jpg" group-title="PAK TV",Aaj NEWS
 http://playlive.goonj.pk/aajnewsweb_480p/index.m3u8
-http://stream.tapmad.com:1935/pitvlive2/aajnews3/chunklist_w802918816.m3u8
+
 
 #EXTINF:0 tvg-logo="https://www.businessbook.pk/assets/images/listings/logos/urdu1tv_logo_250px_250px.jpg" group-title="PAK TV",URDU 1 TV 
 http://playlive.goonj.pk/urdu1web_480p/index.m3u8
