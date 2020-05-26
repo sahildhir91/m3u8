@@ -937,6 +937,7 @@ http://playlive.goonj.pk/urdu1web_480p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="PAK TV",ARY NEWS
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81nv0DiTGDL._SY355_.png" group-title="PAK TV",SAMA NEWS 
 http://livecdnh1.tvanywhere.ae/hls/samaa/04.m3u8
 
