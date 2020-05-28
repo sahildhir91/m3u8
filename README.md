@@ -927,11 +927,8 @@ https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-mKFcmJXnj_DcIgJbBT_JYxtDc7Sl5AQRclXMnRKzTz4G5oMk&usqp=CAU" group-title="PAK TV",92 NEWS
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
-
 #EXTINF:0 tvg-logo="https://pakistanmediaupdates.com/wp-content/uploads/2015/04/Aaj-News.jpg" group-title="PAK TV",Aaj NEWS
 http://playlive.goonj.pk/aajnewsweb_480p/index.m3u8
-
-
 #EXTINF:0 tvg-logo="https://www.businessbook.pk/assets/images/listings/logos/urdu1tv_logo_250px_250px.jpg" group-title="PAK TV",URDU 1 TV 
 http://playlive.goonj.pk/urdu1web_480p/index.m3u8
 
