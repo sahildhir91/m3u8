@@ -35,7 +35,8 @@ http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/master.m3u8?hdnea=st=1590296413~exp=1590332413~acl=/*~hmac=8a787e629e6cdfe5078dfb3123b6723badfbbadd1a253c22d186eeb702659143
 
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000070633023-fslpfn-t500x500.jpg" group-title="Pakistan",HUM SITARAY
-http://stream.tapmad.com:1935/pitvlive2/sitaraynew3/chunklist.m3u8
+http://77.83.117.36:25461/live/live:506b419c7ec7c479/RxStPoBPot/5594.m3u8?token=GRdRWUpbQV9BVVsHBVVRAAZZClcEUQcFBlRdUVNQXAJbAA8PAAtaAFARFEQQFxAGVQxnD1YVCVQGWlAeEhZLVBBqUFwbCUFUUQUNUFVQQE8WFVELVxUJUR9BFFtUQQITWwULDhsfQQAbR10UDQIOPFAETg9RUhFbXRYIXhxBV189UVxVWF0HR1kRCERPQQsQREMCCEdbX00RAQ1GQgJMVEAPGwkNBVBHTxFbCRYNFhFNQwJEf24RTREGHEZVDUtYDVsbAhteUBBbERREChA9EVESTBRXVl4EQUFeEAFBFBMPVEFnWlwNCwZQTA8MDRFBDkMJVgIVH0NeDApbRAxKbhJcXRoDEVJWUQIKRB4=
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/1162077176411447301/nzfbidzz_400x400.jpg" group-title="Pakistan",LTN FAMILY
 http://playlive.goonj.pk/ltnweb_480p/index.m3u8
