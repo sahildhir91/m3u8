@@ -585,7 +585,7 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 http://bolly360.xyz:80/zee.php?c=ztvme
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/988312378507907072/hF1UdC33_400x400.jpg" group-title="HINDI",ZEE THEATER
-http://tamilgo.com/zee5/z5theather.php?c=out&e=.m3u8
+http://216.144.250.174/Zee_Cinema_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeBangla.in.png" group-title="HINDI",Zee Bangla
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1589817600_0bf2bdba3eaa5eb0da6c30da332a5d2b
