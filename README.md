@@ -505,7 +505,7 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/star-movies-logo-png-1.png" group-title="HINDI",Star Movies ND
-http://35.193.13.165:5675/ind2020/starmovieshd/playlist.m3u8
+line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5641.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/11/23/Star%20World.png?itok=M8eohsgo" group-title="HINDI" ,STAR WORLD ND
 https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
