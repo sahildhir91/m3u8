@@ -482,7 +482,7 @@ https://itpolly.iptv.digijadoo.net/live/housefull_action/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeClassic.in.png" group-title="HINDI",Zee Classic
 http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/zee-action.png" group-title="HINDI"" ,ZEE ACTION
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeeaction/playlist.m3u8
+http://216.144.250.174/Zee_Action_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/47/Zee_Anmol_2017.jpg/revision/latest/scale-to-width-down/340?cb=20171015193242" group-title="HINDI",ZEE ANMOL
 http://216.144.250.174/Zee_Anm0l_HD/tracks-v1a1/mono.m3u8
@@ -582,7 +582,7 @@ http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tv-hd-logo-300x300.jpg"group-title="HINDI",ZEE TV HD
-http://bolly360.xyz:80/zee.php?c=ztvme
+http://216.144.250.174/Zee_TV_HD_01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/988312378507907072/hF1UdC33_400x400.jpg" group-title="HINDI",ZEE THEATER
 http://216.144.250.174/Zee_Cinema_HD/tracks-v1a1/mono.m3u8
