@@ -9,6 +9,9 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="Pakistan",BOL NEWS
 http:/playlive.goonj.pk/bolweb_480p/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://image.winudf.com/v2/image/Y29tLm15ZXV0di5odW10dmxpdmVfc2NyZWVuXzBfMTUxNDg1MjUwMF8wNjU/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Pakistan",HUM TV HD
+http://185.59.220.88:25461/live/live:506b419c7ec7c479/RxStPoBPot/5593.m3u8?token=GRdRWUpbQV9BAw1fUgUAVFEAClQEVFBVB1cABABXCVUAAl8ODApRXVoRFEQQFxAGVQxnD1YVCVQGWlceEhZLVBBqUFwbCUFUUQUNUFVQQE8WFVELVxUJUR9BFFtUQQITWwYLDAERT0cGS0wDEQ0DD2sFXRBbVFZDCQ0RXlxPGl4Mal1dVFINAUEJGlZBT0AKRxEaXFxCXw0fQQZbRBFZRQcXAxoIBlBUQR8aBQwWDBdGGBpcEHpqQx9BAUpEBlZCC1pXGgMRDlYWCxpKQQoRPEYESxJAUlIMVhFGCBJSGh1AWFhAZlAMCw1WWxIKDAwQFlsaVwIHEU0RDgtcWRdXQz1FUFwbCUFUUQoKV1NBHw==
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgbG_pz18CsZvZb3OZD65jw1w2cW_H2vweVFb0Ob65PIZDAW-k&usqp=CAU" group-title="Pakistan",BOL ENT
 http://playlive.goonj.pk/bolentweb_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="Pakistan",Lahore News
