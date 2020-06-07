@@ -16,7 +16,7 @@ http://185.59.220.88:25461/live/live:506b419c7ec7c479/RxStPoBPot/5593.m3u8?token
 http://playlive.goonj.pk/bolentweb_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="Pakistan",Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQFbgs24zIVqeg/company-logo_200_200/0?e=2159024400&v=beta&t=NbfkjKKxB-g_idiWKHMQq_z6C5XMaSi8gu8YTgqcIXg" group-title="Pakistan",PUBLIC NEWS
+#EXTINF:-1 tvg-logo="https://images.mjunoon.tv:8181/logo/Public-News-Logo.webp" group-title="Pakistan",PUBLIC NEWS
 http://playlive.goonj.pk/publicnewsweb_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="Pakistan",Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
