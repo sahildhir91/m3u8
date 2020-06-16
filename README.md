@@ -279,6 +279,9 @@ https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sfbf.org.sg/wp-content/uploads/2017/10/nbc-news-logo-EDDBA8ADC9-seeklogo.com_.png" group-title="NEWS",NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 
+#EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7043c038-5072-4a91-adc3-af58fdd76a66/d95lf2f-39f28780-e2ee-420b-95a8-7a4ac222349f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNzA0M2MwMzgtNTA3Mi00YTkxLWFkYzMtYWY1OGZkZDc2YTY2XC9kOTVsZjJmLTM5ZjI4NzgwLWUyZWUtNDIwYi05NWE4LTdhNGFjMjIyMzQ5Zi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.jDWgYopzF4TpNV-ccPvjSZFYkdLcEDqZxJWAniEQcHY" group-title="NEWS",Channel NewsAsia,CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/71101f23643b4d75c8cab426a5c6997a_large-square-sky-news-logo-julian-lennon_400-400.png" group-title="NEWS" ,SKY NEWS
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
