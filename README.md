@@ -625,7 +625,7 @@ http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2019/07/09/Star-Vijay.jpg?itok=9rdzbDS6" group-title="TAMIL",STAR VIJAY
-http://216.144.250.174/Star_VIjay_HD/tracks-v1a1/mono.m3u8
+http://216.144.250.174/Star_Vijay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/222_300.png" group-title="TAMIL",Raj TV
 http://45.120.188.184/hdmi
 #EXTINF:-1 tvg-logo="https://content.jdmagicbox.com/comp/chennai/56/044p3024356/catalogue/jaya-tv-ekkaduthangal-chennai-satellite-channels-0lfo6bzsbu.jpg" group-title="TAMIL",Jay
