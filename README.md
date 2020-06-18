@@ -943,7 +943,7 @@ http://playlive.goonj.pk/urdu1web_480p/index.m3u8
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81nv0DiTGDL._SY355_.png" group-title="PAK TV",SAMA NEWS 
-http://livecdnh1.tvanywhere.ae/hls/samaa/04.m3u8
+http://playlive.goonj.pk/samaaweb_480p/index.m3u8
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://smarttv.pk/wp-content/uploads/2016/11/Mehran-Tv.jpg" group-title="PAK TV",MEHRAN TV
 http://stream.tapmad.com:1935/pitvlive2/mehran3/chunklist_w1224928261.m3u8
