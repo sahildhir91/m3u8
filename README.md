@@ -9,7 +9,7 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="Pakistan",BOL NEWS
 http:/playlive.goonj.pk/bolweb_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/443341166327517184/RF5VJboh.jpeg" group-title="Pakistan",ARUG TV 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/443341166327517184/RF5VJboh.jpeg" group-title="Pakistan",ARUJ TV 
 http://playlive.goonj.pk/arujtvweb_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgbG_pz18CsZvZb3OZD65jw1w2cW_H2vweVFb0Ob65PIZDAW-k&usqp=CAU" group-title="Pakistan",BOL ENT
