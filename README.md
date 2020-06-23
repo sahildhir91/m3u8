@@ -41,6 +41,8 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5594.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61oLBxI2FOL._SY355_.png" group-title="Pakistan",Ibaadat tv
 http://livechannel.shemaroome.com/linearplayout/ibaadat-linear-channel/chunklist_640x360_cf.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Pakistan",Q TV
+https://stream.arylive.com/QtvLive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/1162077176411447301/nzfbidzz_400x400.jpg" group-title="Pakistan",LTN FAMILY
 http://playlive.goonj.pk/ltnweb_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://a1tablecloth.com/wp-content/uploads/sites/11/2019/04/A1-Tablecloth-Co-Favicon.png" group-title="Pakistan",A1 TV 
