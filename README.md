@@ -34,8 +34,8 @@ http://216.144.250.174/Geo_Entertainment_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.ytimg.com/vi/9ts2fLPAt7U/hqdefault.jpg" group-title="Pakistan", STAR MOVIES
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5641.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://www.tunisvista.com/medias/watan-tv-live-online-streaming-direct-egypt.jpg" group-title="Pakistan",PUNJABI 18
-https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/master.m3u8?hdnea=st=1590296413~exp=1590332413~acl=/*~hmac=8a787e629e6cdfe5078dfb3123b6723badfbbadd1a253c22d186eeb702659143
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://www.tunisvista.com/medias/watan-tv-live-online-streaming-direct-egypt.jpg" group-title="Pakistan", Peace Tv Urdu
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000070633023-fslpfn-t500x500.jpg" group-title="Pakistan",HUM SITARAY
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5594.m3u8
@@ -559,6 +559,7 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/StarPlus.png/revision/latest/scale-to-width-down/340?cb=20190208151853" group-title="HINDI",STAR PLUS HD
 http://103.115.159.37:8080/starplus/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/im_xjzZrWiY2YeKW6wCGiO3OfvnxKCEClefQhXt4OfEch8gObCN2jRq_d3jzxwZTAA" group-title="HINDI",PRIME BOX OFFICE HD
 http://23.186.192.55:8080/live/primeplus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rOrQj07.png" group-title="HINDI",ABP News
