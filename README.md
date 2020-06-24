@@ -375,12 +375,20 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="Cricket",Sky Sports Cricket
 https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="Cricket",WILLOW SPORTS
+http://82.165.158.231:8080/wIllow-cricket-NiaziTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://kcltv.com/software/images/uploads/Star_Sports_HD_1.jpg" group-title="Cricket", STAR SPORTS 1
+http://82.165.158.231:8080/StarSports1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/94729-dsportMain.jpg" group-title="Cricket", STAR SPORTS 2
+http://82.165.158.231:8080/StarSports-2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/446590946872799232/sLRxtI7j_400x400.png" group-title="Cricket" ,PTV SPORTS 
 http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="Cricket",Ads sport cricket
 http://212.47.252.54/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="Cricket",Fox Sports 501
 http://45.58.62.92:8080
 
