@@ -119,9 +119,11 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MOVIES",MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
+https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="MOVIES",MBC Action HD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
 #EXTINF:-1 tvg-logo= "https://ae.heytv.org/wp-content/uploads/2019/03/MBC_MAX-1.jpg" group-title="MOVIES",MBC MAX
-http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/id/AXN.id.png" group-title="MOVIES", AXN -BACKUP-
 http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="MOVIES",AMC
