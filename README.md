@@ -642,7 +642,8 @@ http://210.210.155.69/s/s62/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="HINDI",Bollywood Now
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Zing.in.png" group-title="HINDI",Zing
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zingusa/index.m3u8
+https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Zoom.in.png" group-title="HINDI",Zoom
 http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
 
