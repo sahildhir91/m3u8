@@ -380,8 +380,8 @@ https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="Cricket",WILLOW SPORTS
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
-#EXTINF:-1 tvg-logo="https://kcltv.com/software/images/uploads/Star_Sports_HD_1.jpg" group-title="Cricket", STAR SPORTS 1
-http://82.165.158.231:8080/StarSports1/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRURhy8CvWGlaXfwBWkH3CUNewagN-7o-a1Dw&usqp=CAU" group-title="Cricket", CBC SPORTS
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/94729-dsportMain.jpg" group-title="Cricket", STAR SPORTS 2
 http://82.165.158.231:8080/StarSports-2/index.m3u8
