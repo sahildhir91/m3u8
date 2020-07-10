@@ -506,7 +506,7 @@ http://103.115.159.37:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmJlc3RzZXJ2aWNlc2FwcHN3b3JsZC5zdGFyZ29sZF9zY3JlZW5fMF8xNTI2MzU1Mzk5XzAwMQ/screen-0.jpg?fakeurl=1&type=.jpg" group-title="HINDI" ,STAR GOLD HD
 http://216.144.250.174/Star_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/305dd81edfeaee86.jpg" group-title="HINDI",Star G0ld HD
-https://itpolly.iptv.digijadoo.net/live/housefull_action/playlist.m3u8
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeClassic.in.png" group-title="HINDI",Zee Classic
 http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/zee-action.png" group-title="HINDI"" ,ZEE ACTION
