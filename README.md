@@ -125,6 +125,8 @@ https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
 #EXTINF:-1 tvg-logo= "https://ae.heytv.org/wp-content/uploads/2019/03/MBC_MAX-1.jpg" group-title="MOVIES",MBC MAX
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+#EXTINF:-1 tvg-logo= "https://tylerclementi.org/wp-content/uploads/2019/06/71-717908_hbo-logo-png-download-hbo-logo-high-res.jpg" group-title=" HBO
+http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/id/AXN.id.png" group-title="MOVIES", AXN -BACKUP-
 http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="MOVIES",AMC
