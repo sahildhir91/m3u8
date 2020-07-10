@@ -542,6 +542,8 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/wow-cinema-logo-300x300.jpg" group-title="HINDI" ,WOW CINEMA
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/839941568865964033/Ns4Kofqx_400x400.jpg" group-title="HINDI" , MA TV
+https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1093986764362895360/7QWK2Px9.jpg" group-title="HINDI",The Q
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
