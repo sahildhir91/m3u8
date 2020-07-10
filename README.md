@@ -893,7 +893,7 @@ https://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/TuBtNQEwrVWXoZWKR_-FiDezZPJChY1sxPUJa-0ICsVwRYxn0fWOR3BZJA68JUE9nA.png" group-title="PUNJABI",SADA PUNJAB
 http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w1969180433.m3u8
 #EXTINF:-1,tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/6a9318aa-4cba-4ecf-b09e-7f172fb07fcb.jpg" group-title="PUNJABI",ANKHILA PUNJAB
-http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 #EXTINF:0,tvg-logo="https://i.imgur.com/6SGZIJ2.png" group-title="PUNJABI",Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 #EXTINF:0,tvg-logo="https://i.imgur.com/vypvOj8.png" group-title="PUNJABI",Jhanjar Music
