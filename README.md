@@ -61,8 +61,8 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="DOCUMENTARY",Discovery Asia
 http://111.13.111.192/125.227.198.89:8028
-#EXTINF:-1 tvg-logo="https://www.upcdirectrendeles.eu/upload_files/chanels/aphd.jpg" group-title="DOCUMENTARY",Animal Planet Hindi
-https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
+#EXTINF:-1 tvg-logo="https://www.upcdirectrendeles.eu/upload_files/chanels/aphd.jpg" group-title="DOCUMENTARY",Animal Planet
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY",Discovery India
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY",Discovery
