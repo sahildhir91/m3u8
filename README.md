@@ -379,7 +379,7 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="Cricket",WILLOW SPORTS
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-http://82.165.158.231:8080/wIllow-cricket-NiaziTV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://kcltv.com/software/images/uploads/Star_Sports_HD_1.jpg" group-title="Cricket", STAR SPORTS 1
 http://82.165.158.231:8080/StarSports1/index.m3u8
 
