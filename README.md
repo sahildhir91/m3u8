@@ -963,6 +963,7 @@ http://playlive.goonj.pk/samaaweb_480p/index.m3u8
 http://stream.tapmad.com:1935/pitvlive2/mehran3/chunklist_w1224928261.m3u8
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://www.glookast.com/storage/app/uploads/public/5ca/380/0ab/5ca3800abbe0c539272464.png" group-title="PAK TV",JAAG NEWS
+http://playlive.goonj.pk/gnnweb_360p/index.m3u8
 https://rtmp.smartstream.video/gulistannews/gulistannews/playlist.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="https://lh3.googleusercontent.com/ay1-b8w8lgmeh4im1R5XTIiH2-7Q1sBS4yIAvfcF_AtJTE1YiljbvZO1YjWQKSb0dUP7" group-title="PAK TV",ARY NEWS
 http://95.211.211.168/live/arynews0012/playlist.m3u8
