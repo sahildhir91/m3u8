@@ -129,8 +129,8 @@ https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 tvg-logo= "https://tylerclementi.org/wp-content/uploads/2019/06/71-717908_hbo-logo-png-download-hbo-logo-high-res.jpg" group-title=", HBO China
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/id/AXN.id.png" group-title="MOVIES", AXN -BACKUP-
-http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_ElectricNow.png" group-title="MOVIES", Electric Now
+https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="MOVIES",AMC
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="MOVIES",STAR MOVIES FHD
@@ -902,7 +902,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/TuBtNQEwrVWXoZWKR_-FiDezZPJChY1sxPUJa-0ICsVwRYxn0fWOR3BZJA68JUE9nA.png" group-title="PUNJABI",SADA PUNJAB
 http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w1969180433.m3u8
-#EXTINF:-1,tvg-logo="https://i.pinimg.com/originals/3b/0a/82/3b0a822bd695e97f1466b7ef1524ed9c.jpg" group-title="PUNJABI", PTC PUNJABI
+#EXTINF:-1,tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/roku/images/skyworth/v5/ptc_punjabi_roku.jpg" group-title="PUNJABI", PTC PUNJABI
 http://13.232.161.202:1935/PUNJABIIN/smil:Live.smil/chunklist_w329593915_b296000_sleng.m3u8
 #EXTINF:0,tvg-logo="https://i.imgur.com/6SGZIJ2.png" group-title="PUNJABI",Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
