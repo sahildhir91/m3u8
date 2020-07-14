@@ -512,7 +512,8 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/zee-action.png" group-title="HINDI"" ,ZEE ACTION
 http://216.144.250.174/Zee_Action_HD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI"" ,ZEE SMILE
+http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/47/Zee_Anmol_2017.jpg/revision/latest/scale-to-width-down/340?cb=20171015193242" group-title="HINDI", ZEE ANMOL
 http://216.144.250.174/Zee_Anmol_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="HINDI",B4U Kadak (New!)
@@ -529,8 +530,6 @@ http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jio-tv.com/uploads/tv_image/kadak-hits.jpg" group-title="HINDI",Kadak Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="HINDI" ,STAR MOVIES
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5641.m3u8
