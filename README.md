@@ -294,6 +294,8 @@ https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZO
 
 #EXTINF:-1 tvg-logo="https://www.survation.com/wp-content/uploads/2014/02/large-square-sky-news-logo.png" group-title="NEWS",Sky News
 https://cdn-laos.workpoint.news/uk-skynews_480/index.m3u8
+#EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="NEWS",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ir/PressTV.ir.png" group-title="NEWS",IRIB Press TV
 https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
@@ -469,8 +471,10 @@ http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/BabyFirstTV.pl.png" group-title="KIDS",BabyFirst
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Boomerang.de.png" group-title="KIDS",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
+#EXTINF:-1 tvg-ID="ACC.AU" tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/acctv-logo-web.png" group-title="KIDS",ACC
+http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
+#EXTINF:-1 tvg-id="CBE.UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="KIDS",CBeebies
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/823.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/CartoonNetwork.de.png" group-title="KIDS",Cartoon Network
 http://fr-c.movply.stream/hls/Carton_Network.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="KIDS",Disney Channel
