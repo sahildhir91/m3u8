@@ -131,6 +131,15 @@ http://136.243.177.164/HBO/playlist.m3u8
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_ElectricNow.png" group-title="MOVIES", Electric Now
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="CH4.UK" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="MOVIES",Channel 4
+http://178.132.3.162:88/Channel_4_HD/video.m3u8?token=test
+#EXTINF:-1 tvg-id="CE4.UK" tvg-logo="https://static.epg.best/gb/E4.uk.png" group-title="MOVIES",E4
+http://178.132.3.162:88/E4/video.m3u8?token=test
+#EXTINF:-1 tvg-id="FM4.UK" tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="MOVIES",Film 4
+http://178.132.3.162:88/Film_4/video.m3u8?token=test
+#EXTINF:-1 tvg-id="CH5.UK" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="MOVIES",Channel 5 UK
+http://178.132.3.162:88/Channel_5/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="MOVIES",AMC
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="MOVIES",STAR MOVIES FHD
