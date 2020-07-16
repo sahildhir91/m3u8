@@ -196,7 +196,10 @@ https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hd
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-six-hd-logo-300x300.jpg" group-title="SPORTS",Sony Six
 https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORTS",ESPN
+http://stream-e30453a4b.nmbs.top/m3u/Sports/d2a914c6da.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="SPORTS",ESPN 2
+http://stream-e30453a4b.nmbs.top/m3u/Sports/cbf3099988.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1810191660/Super-ENG_reasonably_small_400x400.jpg" group-title="SPORTS",GEO SPORTS
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 
@@ -949,7 +952,10 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/637936076590440448/mmN3Fnsa_400x400.jpg" group-title="PUNJABI",FASTWAY NEWS
 http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
-
+#EXTINF:-1 tvg-id="BAL.IN" tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="PUNJABI",Balle Balle
+https://live.wmncdn.net/balleballe/dfe65ad07232e060b007d2483602c06a.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="CKT.IN" tvg-logo="http://live.timetv.news/uploads/tv_image/time-tv-live.png" group-title="PUNJABI",Chardik Time
+http://radio.lapunjabiradio.com/hls/chardikalatimetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="PUNJABI" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Ytv_1994.png/revision/latest/top-crop/width/300/height/300?cb=20130901071257" group-title="PUNJABI",Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rStIuAU.png" group-title="PUNJABI",DD Punjabi 
