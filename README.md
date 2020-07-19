@@ -93,7 +93,6 @@ http://216.144.250.174/Zee_Cinema_HD/tracks-v1a1/mono.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/ZeeCinemaEn.sa.png" group-title="HINDI",Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeClassic.in.png" group-title="HINDI",Zee Classic
 http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/zee-action.png" group-title="HINDI"" ,ZEE ACTION
@@ -102,6 +101,10 @@ http://216.144.250.174/Zee_Action_HD/tracks-v1a1/mono.m3u8
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/47/Zee_Anmol_2017.jpg/revision/latest/scale-to-width-down/340?cb=20171015193242" group-title="HINDI", ZEE ANMOL
 http://216.144.250.174/Zee_Anmol_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI"" , COLORS HD
+
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Manoranjan_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20191221191532"  group-title="HINDI",MANORANJAN MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/469387440990347264/9TRqEbUo_400x400.jpeg" group-title="HINDI",MAHA MOVIE
