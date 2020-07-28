@@ -181,7 +181,8 @@ https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Zoom.in.png" group-title="HINDI",Zoom
-http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
+https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
+
 
 
 
