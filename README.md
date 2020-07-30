@@ -109,14 +109,12 @@ http://216.144.250.174/Zee_Anmol_HD/tracks-v1a1/mono.m3u8
 http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="HINDI",And Pictures
 http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://b4utv.com/b4uadmin/uploads/link_images/0_43557100_1522757901.png"  group-title="HINDI",B4U Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI"" , COLORS HD
-
+#EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI" , COLORS HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpnVwUp6AO4R9wNI4woFZUjt_RHOKC9IuJcA&usqp=CAU" group-title="HINDI"" ,BFLIX MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Manoranjan_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20191221191532"  group-title="HINDI",MANORANJAN MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/469387440990347264/9TRqEbUo_400x400.jpeg" group-title="HINDI",MAHA MOVIE
