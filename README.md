@@ -946,7 +946,7 @@ https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 http://z5amshls.akamaized.net/punjabi/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5lLRKyWMDacXykm4NJWVeZni578nOIgBcRywa4i4-fZwImFADXol0wsh-W5SaU4f9Lb3" group-title="PUNJABI",PTN 24
 http://cdn.samtv.ca/ptv24/index.m3u8
-#EXTINF:-1 tvg-logo="http://primeasia.tv/assets/front/images/logo-new1.png" group-title="??????",Prime Asia
+#EXTINF:-1 tvg-logo="http://primeasia.tv/assets/front/images/logo-new1.png" group-title="PUNJABI",Prime Asia
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 
 
