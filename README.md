@@ -62,13 +62,14 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/StarPlus.png/revision/latest/scale-to-width-down/340?cb=20190208151853" group-title="HINDI",STAR PLUS HD
 http://216.144.250.174/Star_Plus_HD_IndIa/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="HINDI",Star Plus(India)
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/305dd81edfeaee86.jpg" group-title="HINDI",Star G0ld HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmJlc3RzZXJ2aWNlc2FwcHN3b3JsZC5zdGFyZ29sZF9zY3JlZW5fMF8xNTI2MzU1Mzk5XzAwMQ/screen-0.jpg?fakeurl=1&type=.jpg" group-title="HINDI" ,STAR GOLD HD
 http://216.144.250.174/Star_Gold_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Enterr_10.png" group-title="HINDI",Enterr10
+https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtube/images/6/6c/SET_India.jpg/revision/latest/top-crop/width/360/height/450?cb=20180626130237" group-title="HINDI",Sony 
 http://216.144.250.174/Sony_TV_HD_o2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7d/SET_Max_UK.jpg/revision/latest/scale-to-width-down/340?cb=20171109134225" group-title="HINDI",Sony Max 
