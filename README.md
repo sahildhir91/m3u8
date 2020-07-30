@@ -152,8 +152,6 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://js.newsx.com/wp-content/themes/newsxlite/images/india-news-logo.png" group-title="HINDI",India News MPC
 https://streamidvo.multitvsolution.in/IndiaNewsMP-a/playlist.m3u8
-#EXTINF:-1 tvg-logo"" , group-title="NEWS",ZEE NEWS
-http://pockettv.xyz/api/zee.m3u8?c=zeenews
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1613540835/2692806976_fd7ec89a46.png" group-title="HINDI",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-VcrQXRcR-_g/VNUlDcyJjQI/AAAAAAAAATc/XKT-cXJM_Yo/s1600/sonytv.png" group-title="HINDI",Sony ETV
@@ -163,14 +161,6 @@ https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1041178171117264898/5pGfFugz_400x400.jpg" group-title="HINDI",N TV MOVIES
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeBangla.in.png" group-title="HINDI",Zee Bangla
-https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1589817600_0bf2bdba3eaa5eb0da6c30da332a5d2b
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeBusiness.in.png" group-title="HINDI",Zee Business
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebusiness/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeNews.in.png" group-title="HINDI",Zee News
-http://216.144.250.174/Zee_NeWs_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="HINDI",Anjan
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/359-3595110_b4u-movies-logo-b4u-movies-channel-logo.png" group-title="HINDI",B4U Movies 
@@ -431,6 +421,7 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/ariana.jpg" group-title="UPDATED",[UPDATED 19/06/2019] suaji
 https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTKb93Y0PNJ6iO9ZCYC1NC0Qq6hRTgzg0pBmuzkvM2BKdiqON_C872ssD5mhasWQ5jg&redirect=0
+
 
 
 
@@ -898,6 +889,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/StarWorld.sa.png" group-title="MY/SG",Star World
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
+
 #EXTINF:0, tvg-logo="https://i.imgur.com/SUKfC0I.png" group-title=" PUNJABI",Pitaara
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/TuBtNQEwrVWXoZWKR_-FiDezZPJChY1sxPUJa-0ICsVwRYxn0fWOR3BZJA68JUE9nA.png" group-title="PUNJABI",SADA PUNJAB
@@ -950,6 +942,9 @@ http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
 http://cdn.samtv.ca/hamdard/index.m3u8
 #EXTINF:0,ttvg-logo="https://i.imgur.com/PB7QMfb.png"" group-title="PUNJABI",Amar Ujala 
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/170x120/09zeepunjabharyanahimazeep.png" group-title="PUNJABI", Zee Punjabi
+http://z5amshls.akamaized.net/punjabi/tracks-v1a1/index.m3u8
+
 
 
 
