@@ -944,6 +944,8 @@ http://cdn.samtv.ca/hamdard/index.m3u8
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/170x120/09zeepunjabharyanahimazeep.png" group-title="PUNJABI", Zee Punjabi
 http://z5amshls.akamaized.net/punjabi/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.ptn24.com/wp-content/themes/streaminfo/images/logo.png" group-title="PUNJABI",PTN 24
+http://cdn.samtv.ca/ptv24/index.m3u8
 
 
 
