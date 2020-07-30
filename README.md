@@ -103,6 +103,11 @@ http://216.144.250.174/Zee_Action_HD/tracks-v1a1/mono.m3u8
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/47/Zee_Anmol_2017.jpg/revision/latest/scale-to-width-down/340?cb=20171015193242" group-title="HINDI", ZEE ANMOL
 http://216.144.250.174/Zee_Anmol_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="HINDI",Zee Cafe
+http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="HINDI",And Pictures
+http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI"" , COLORS HD
 
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
