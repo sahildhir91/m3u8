@@ -338,6 +338,8 @@ http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/01/28/ten_sports%20logo.jpg?itok=Tkia_uJ3" group-title="SPORTS",TEN SPORTS
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1876894388.m3u8
+#EXTINF:-1 tvg-id="GOF.Int" tvg-logo="https://static02.astro.com.my/astro/media/astromain/golfchannel/golf_logo_1.png" group-title="SPORTS",Golf Channel
+http://190.122.109.218:8888/http/010
 
 http://125.209.99.45:43568/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="SPORTS",Fox Sports 1 Asia
