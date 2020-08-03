@@ -267,6 +267,12 @@ http://178.132.3.162:88/E4/video.m3u8?token=test
 http://178.132.3.162:88/Film_4/video.m3u8?token=test
 #EXTINF:-1 tvg-id="CH5.UK" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="MOVIES",Channel 5 UK
 http://178.132.3.162:88/Channel_5/index.m3u8?token=test
+#EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="MOVIES",Comedy Central US
+https://e10.cdn4.us/ingest666/cc/c.m3u8|Referer=https://espn-live.stream/stream/68072.html
+#EXTINF:-1 tvg-id="COM.ID" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="MOVIES",Comedy Central Asia
+https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
+
+
 #EXTINF:-1 tvg-id="HAL.US" tvg-logo="https://static.epg.best/us/Hallmark.us.png" group-title="MOVIES",Hallmark Channel
 http://live.highstream.club/live/Hallmark/playlist.m3u8
 
