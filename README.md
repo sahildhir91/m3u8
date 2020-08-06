@@ -70,6 +70,7 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 http://216.144.250.174/Star_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Enterr_10.png" group-title="HINDI",Enterr10
 https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtube/images/6/6c/SET_India.jpg/revision/latest/top-crop/width/360/height/450?cb=20180626130237" group-title="HINDI",Sony 
 http://216.144.250.174/Sony_TV_HD_o2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7d/SET_Max_UK.jpg/revision/latest/scale-to-width-down/340?cb=20171109134225" group-title="HINDI",Sony Max 
