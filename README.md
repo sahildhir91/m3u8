@@ -599,7 +599,10 @@ http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist.m3u8
 
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png" group-title="KIDS",[COLOR green]:: KIDS ::[/COLOR]
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9lqB76hRcuA/hqdefault.jpg" group-title="KIDS",NICK
+https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="KIDS",TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/DiscoveryKids.br.png" group-title="KIDS",Discovery Kids
