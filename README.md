@@ -13,7 +13,7 @@ http://95.211.211.168/live/humnews0189/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/443341166327517184/RF5VJboh.jpeg" group-title="Pakistan",ARUJ TV 
 http://playlive.goonj.pk/arujtvweb_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/1162131406245552128/V98fwad8_400x400.jpg" group-title="Pakistan",EXPRESS NEWS
-http:// niazitv.tk:8080/Express-News-13/index.m3u8
+http://niazitv.tk:8080/Express-News-13/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgbG_pz18CsZvZb3OZD65jw1w2cW_H2vweVFb0Ob65PIZDAW-k&usqp=CAU" group-title="Pakistan",BOL ENT
 http://playlive.goonj.pk/bolentweb_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="Pakistan",Lahore News
