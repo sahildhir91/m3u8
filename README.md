@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/berita_1.png" group-title="Pakistan",[COLOR slateblue]:: Pakistan ::[/COLOR]
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 News 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/8c/e7/d4/8ce7d458-caee-6cdd-d2ba-bd134dd1cea6/source/512x512bb.jpg" group-title="Pakistan" ,BARKAT TV
+https://streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8?720p
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 News 
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan",92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/chunks.m3u8
