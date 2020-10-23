@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1432758606/Logo_Isaac_400x400.jpg" group-title="Pakistan" ,ISAAC TV
+https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmRzdHJlYW1vbmUuYmFya2F0dHZfaWNvbl8xNTk4Mjg3NzMwXzA3MA/icon.png?w=170&fakeurl=1" group-title="Pakistan" ,BARKAT TV
 https://streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8?720p
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 News 
