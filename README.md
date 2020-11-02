@@ -18,6 +18,7 @@ https://cdn6.mjunoon.tv:8087/web/AWAZ-120/live/120M/chunks.m3u8?nimblesessionid=
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/46A_n9pZJUy3BUAHNC-8K37Oveu8r3fYC1hPbGSVBgfRH0jrlLGq9_lnSSYsbi0OhA" group-title="Pakistan" ,JC TV
 https://streamer12.vdn.dstreamone.net/jctv/jctv/chunks.m3u8?nimblesessionid=21288675&720p
+https://streamer12.vdn.dstreamone.net/jctv/jctv/chunks.m3u8?nimblesessionid=60915611&720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1432758606/Logo_Isaac_400x400.jpg" group-title="Pakistan" ,ISAAC TV
 https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmRzdHJlYW1vbmUuYmFya2F0dHZfaWNvbl8xNTk4Mjg3NzMwXzA3MA/icon.png?w=170&fakeurl=1" group-title="Pakistan" ,BARKAT TV
