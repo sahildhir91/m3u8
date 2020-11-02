@@ -1,8 +1,6 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1251214552584380417/wcBqAsB5_400x400.jpg" group-title="Pakistan" ,PTV HOME
 https://live.ptv.com.pk/live/stream/ptvhome/chunklist_w216329551.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1251214552584380417/wcBqAsB5_400x400.jpg" group-title="Pakistan" ,PTV NEWS
 https://live.ptv.com.pk/live/stream/ptvhome/chunklist_w216329551.m3u8
 
