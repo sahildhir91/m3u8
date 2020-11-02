@@ -1,4 +1,19 @@
 #EXTM3U
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b564000.m3u8
+https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b364000.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVTg7XpOGyogE-cz-foRaiE)/dm/3/x6qp375/d/live-2.m3u8
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8
+https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+https://origin.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8?nimblesessionid=23967607
+https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0omAowE47HgCUvPFdxIt9rI)/dm/3/x6zvnex/s/live-2.m3u8
+https://live.ptv.com.pk/live/ptvnews/chunklist_w866594239.m3u8
+https://live.ptv.com.pk/live/stream/ptvhome/chunklist_w216329551.m3u8
+https://live.ptv.com.pk/live/stream/ptvhome/chunklist_w216329551.m3u8
+https://live.ptv.com.pk/live/ptvworld/chunklist_w984639085.m3u8
+https://cdn6.mjunoon.tv:8087/web/ApnaChannel-134/live/134M/chunks.m3u8?nimblesessionid=9072152&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIwIDExOjI1OjA1IEFNJmhhc2hfdmFsdWU9VHZvbi9L
+K2hoQXdUU0Q3WVk5c0lXUT09JnZhbGlkbWludXRlcz0x
+https://cdn6.mjunoon.tv:8087/web/AWAZ-120/live/120M/chunks.m3u8?nimblesessionid=9072243&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIwIDExOjI2OjU2IEFNJmhhc2hfdmFsdWU9WDY2b0daejVDcy9oWDhpRWF2WVlqdz09JnZhbGlkbWludXRlcz0x
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1251214552584380417/wcBqAsB5_400x400.jpg" group-title="Pakistan" ,KING TV
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/46A_n9pZJUy3BUAHNC-8K37Oveu8r3fYC1hPbGSVBgfRH0jrlLGq9_lnSSYsbi0OhA" group-title="Pakistan" ,JC TV
