@@ -4,10 +4,10 @@ https://live.ptv.com.pk/live/stream/ptvhome/chunklist_w216329551.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1251214552584380417/wcBqAsB5_400x400.jpg" group-title="Pakistan" ,PTV NEWS
 https://live.ptv.com.pk/live/stream/ptvhome/chunklist_w216329551.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1251214552584380417/wcBqAsB5_400x400.jpg" group-title="Pakistan" ,PTV BOLAN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1251214552584380417/wcBqAsB5_400x400.jpg" group-title="Pakistan" ,PTV WORLD
 https://live.ptv.com.pk/live/ptvworld/chunklist_w984639085.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1251214552584380417/wcBqAsB5_400x400.jpg" group-title="Pakistan" ,PTV WORLD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1251214552584380417/wcBqAsB5_400x400.jpg" group-title="Pakistan" ,PTV BOLAN
 https://cdn6.mjunoon.tv:8087/web/ApnaChannel-134/live/134M/chunks.m3u8?nimblesessionid=9072152&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDIwIDExOjI1OjA1IEFNJmhhc2hfdmFsdWU9VHZvbi9L
 K2hoQXdUU0Q3WVk5c0lXUT09JnZhbGlkbWludXRlcz0x
 
