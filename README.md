@@ -1,6 +1,5 @@
 #EXTM3U
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="92 NEWS" , 92 NEWS HD
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1251214552584380417/wcBqAsB5_400x400.jpg" group-title="Pakistan" ,KING TV
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/46A_n9pZJUy3BUAHNC-8K37Oveu8r3fYC1hPbGSVBgfRH0jrlLGq9_lnSSYsbi0OhA" group-title="Pakistan" ,JC TV
@@ -42,13 +41,11 @@ http://216.144.250.174/Geo_News_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bQSbZ7j.jpg" group-title="Pakistan",Geo Tez
 http://playlive.goonj.pk/filmaxweb_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i1.sndcdn.com/avatars-000039901620-0v4330-t500x500.jpg" group-title="Pakistan",HUM TV HD
-
 http://125.209.99.45:43568/BRN/HumTV.stream/chunklist_w1902845131.m3u8
-
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="92 NEWS" , 92 NEWS HD
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/JoO8hEx.jpg" group-title="Pakistan",Geo TV
 http://216.144.250.174/Geo_Entertainment_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.ytimg.com/vi/9ts2fLPAt7U/hqdefault.jpg" group-title="Pakistan", STAR MOVIES
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5641.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/1131554149/peacetv_400x400.jpg" group-title="Pakistan", Peace Tv Urdu
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
