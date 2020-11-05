@@ -42,8 +42,10 @@ http://216.144.250.174/Geo_News_HD/tracks-v1a1/mono.m3u8
 http://playlive.goonj.pk/filmaxweb_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i1.sndcdn.com/avatars-000039901620-0v4330-t500x500.jpg" group-title="Pakistan",HUM TV HD
 http://125.209.99.45:43568/BRN/HumTV.stream/chunklist_w1902845131.m3u8
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="92 NEWS" , 92 NEWS HD
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" , 92 NEWS HD
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/JoO8hEx.jpg" group-title="Pakistan",Geo TV
 http://216.144.250.174/Geo_Entertainment_HD/tracks-v1a1/mono.m3u8
 
