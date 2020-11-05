@@ -249,8 +249,8 @@ https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="DOCUMENTARY",Animal Planet
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/BBCEarth.qa.png" group-title="DOCUMENTARY",BBC Earth
-https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/BBCEarth.qa.png" group-title="DOCUMENTARY",BBC Earth HINDI
+https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_sony_bbc_earthPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-bbc-earth-hd-logo-300x300.jpg" group-title="DOCUMENTARY",SONY BBC EARTH HD
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
