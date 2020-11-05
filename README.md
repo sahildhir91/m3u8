@@ -23,9 +23,6 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/chunks.m3u8
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="Pakistan",BOL NEWS
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/1029819158622560257/IX7fTqWA_400x400.jpg" group-title="Pakistan" ,Hum News
 http://95.211.211.168/live/humnews0189/playlist.m3u8
