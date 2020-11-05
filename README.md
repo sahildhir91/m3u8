@@ -254,8 +254,8 @@ https://tv4.chang55.com/live2/tv4ch41.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-bbc-earth-hd-logo-300x300.jpg" group-title="DOCUMENTARY",SONY BBC EARTH HD
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png"  group-title="DOCUMENTARY",Nat geo wild HD
-https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png"  group-title="DOCUMENTARY",Nat Geo Wild HD
+https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_nat_geo_wildPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png"  group-title="DOCUMENTARY",National Geographic
 http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/NatGeoPeople.id.png" group-title="DOCUMENTARY",National Geo People
