@@ -57,7 +57,8 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5641.m3u8
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000070633023-fslpfn-t500x500.jpg" group-title="Pakistan",HUM SITARAY
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5594.m3u8
+https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_hum_sitarayPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61oLBxI2FOL._SY355_.png" group-title="Pakistan",Ibaadat tv
 http://livechannel.shemaroome.com/linearplayout/ibaadat-linear-channel/chunklist_640x360_cf.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Pakistan",Q TV
@@ -68,8 +69,10 @@ http://playlive.goonj.pk/ltnweb_480p/index.m3u8
 http://162.250.201.58:6211/uk/A1TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/dd_national.png" tvg-country="IN" tvg-url="" group-title="Pakistan",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.vimeocdn.com/portrait/11750117_640x640" group-title="Pakistan",PTV HOME
-http://stream.ptv.com.pk:1935/ptvhome/myStream/chunklist_w2068314170.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.vimeocdn.com/portrait/11750117_640x640" group-title="Pakistan",PTV WORLD
+https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_ptv_worldPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="Pakistan",Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/B5YD4pD.png" group-title="Pakistan",Subrang TV (USA)
