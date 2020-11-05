@@ -214,8 +214,8 @@ https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/keluarga_1.png" group-title="DOCUMENTARY",[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="DOCUMENTARY",TLC India
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="DOCUMENTARY",Discovery Asia
-https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="DOCUMENTARY",Discovery HINDI
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 #EXTINF:-1 tvg-logo="https://www.upcdirectrendeles.eu/upload_files/chanels/aphd.jpg" group-title="DOCUMENTARY",Animal Planet
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="DOCUMENTARY",Discovery India
