@@ -1,5 +1,11 @@
 #EXTM3U
 
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 NEWS (HD)
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1251214552584380417/wcBqAsB5_400x400.jpg" group-title="Pakistan" ,KING TV
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/46A_n9pZJUy3BUAHNC-8K37Oveu8r3fYC1hPbGSVBgfRH0jrlLGq9_lnSSYsbi0OhA" group-title="Pakistan" ,JC TV
@@ -61,8 +67,6 @@ http://playlive.goonj.pk/ltnweb_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://a1tablecloth.com/wp-content/uploads/sites/11/2019/04/A1-Tablecloth-Co-Favicon.png" group-title="Pakistan",A1 TV 
 http://162.250.201.58:6211/uk/A1TV/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" , 92 NEWS HD
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.vimeocdn.com/portrait/11750117_640x640" group-title="Pakistan",PTV WORLD
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_ptv_worldPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
