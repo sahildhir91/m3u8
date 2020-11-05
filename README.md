@@ -264,8 +264,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="DOCUMENTARY",National Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:0 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" ,NASA
-http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" ,HISTORY18 HINDI
+https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_history_tv_hdPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Travel_Channel_HD_Logo.png" ,Travel Channel 
 http://fr01.spr24.net/24180/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/History.de.png" group-title="DOCUMENTARY",History
