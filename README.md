@@ -76,8 +76,8 @@ http://starshare.live:8080/live/ceap9915/ceap9915/3744.m3u8
 http://starshare.live:8080/live/ceap9915/ceap9915/9366.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="HINDI",STAR PLUS HD2
 http://starshare.live:8080/live/ceap9915/ceap9915/17737.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="HINDI",STAR PLUS HD
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="HINDI",STAR PLUS FHD
+http://starshare.live:8080/live/ceap9915/ceap9915/221.m3u8
 #EXTINF:-1 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/305dd81edfeaee86.jpg" group-title="HINDI",Star G0ld HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
