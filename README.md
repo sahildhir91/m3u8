@@ -174,14 +174,10 @@ https://e10.cdn4.us/ingest666/cc/c.m3u8|Referer=https://espn-live.stream/stream/
 https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:-1 tvg-ID="AB3.AU" tvg-logo="https://static.epg.best/au/ABCME.au.png" group-title="MOVIES",ABC ME
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
-
-
 #EXTINF:-1 tvg-id="HAL.US" tvg-logo="https://static.epg.best/us/Hallmark.us.png" group-title="MOVIES",Hallmark Channel
 http://live.highstream.club/live/Hallmark/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="MOVIES",AMC
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/12/07/Untitled-1_17.jpg?itok=FNreB2PE" group-title="MOVIES",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" group-title="MOVIES",MNX
@@ -195,7 +191,6 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="MOVIES",AMC
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdA-peqFvfO0FmoqQcnLY1vOfxsWGUbC7z0GPRtH6onlspOU6b&usqp=CAU" group-title="MOVIES",iFILM English
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/f8408090875313.Y3JvcCw4NjIsNjc0LDI5MzQsMjc2Mw.jpg" group-title="MOVIES",MGM Scifi
@@ -208,6 +203,8 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/RomedyNow.in.png" group-title="MOVIES",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/RomedyNow.in.png" group-title="MOVIES",Andprive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" group-title="MOVIES",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:0 tvg-logo= "https://www.televisione10.it/wp-content/uploads/2011/03/rai-movie.png"  group-title="MOVIES,RAI MOVIE
