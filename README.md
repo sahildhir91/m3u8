@@ -70,64 +70,20 @@ https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/c
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="HINDI",STAR PLUS HD
-http://starshare.live:8080/live/ceap9915/ceap9915/3744.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="HINDI",STAR PLUS 4K
-http://starshare.live:8080/live/ceap9915/ceap9915/9366.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="HINDI",STAR PLUS FHD
-http://starshare.live:8080/live/ceap9915/ceap9915/221.m3u8
-#EXTINF:-1 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/305dd81edfeaee86.jpg" group-title="HINDI",Star G0ld HD
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmJlc3RzZXJ2aWNlc2FwcHN3b3JsZC5zdGFyZ29sZF9zY3JlZW5fMF8xNTI2MzU1Mzk5XzAwMQ/screen-0.jpg?fakeurl=1&type=.jpg" group-title="HINDI" ,STAR GOLD HD
-http://216.144.250.174/Star_Gold_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Enterr_10.png" group-title="HINDI",Enterr10
 http://streamitv.multitvsolution.in/idvo/enter10bangla.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtube/images/6/6c/SET_India.jpg/revision/latest/top-crop/width/360/height/450?cb=20180626130237" group-title="HINDI",Sony 
-http://216.144.250.174/Sony_TV_HD_o2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7d/SET_Max_UK.jpg/revision/latest/scale-to-width-down/340?cb=20171109134225" group-title="HINDI",Sony Max 
-http://216.144.250.174/Sony_Max_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyMax2.in.png" group-title="HINDI",Sony Max 2
-http://216.144.250.174/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyMIX.in.png" group-title="HINDI",Sony WAAH
-http://216.144.250.174/Sony_MIx_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony_Sab_HD_2017.jpg/revision/latest/scale-to-width-down/340?cb=20170614132555" group-title="HINDI",SONY SAB HD
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/StarBharat.in.png" group-title="HINDI",Star Bharat
-https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="HINDI",Star Jalsha
-http://ddn.amrbd.com:8081/live/starjalsha/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="HINDI",Star Jalsha Movies
-https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI",Zee TV
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tv-hd-logo-300x300.jpg"group-title="HINDI",ZEE TV HD
-http://216.144.250.174/Zee_TV_HD_01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/988312378507907072/hF1UdC33_400x400.jpg" group-title="HINDI",ZEE CINEMA
-http://216.144.250.174/Zee_Cinema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.zeebioskop.com/wp-content/uploads/sites/38/2019/06/76x50_R.png" group-title="HINDI",ZEE BOLLYWOOD
-https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/ZeeCinemaEn.sa.png" group-title="HINDI",Zee Cinema
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeClassic.in.png" group-title="HINDI",Zee Classic
-http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/zee-action.png" group-title="HINDI"" ,ZEE ACTION
-http://216.144.250.174/Zee_Action_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI"" ,ZEE SMILE
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/47/Zee_Anmol_2017.jpg/revision/latest/scale-to-width-down/340?cb=20171015193242" group-title="HINDI", ZEE ANMOL
-http://216.144.250.174/Zee_Anmol_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="HINDI",Zee Cafe
 http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="HINDI",And Pictures
 http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://b4utv.com/b4uadmin/uploads/link_images/0_43557100_1522757901.png"  group-title="HINDI",B4U Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI" , COLORS HD
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpnVwUp6AO4R9wNI4woFZUjt_RHOKC9IuJcA&usqp=CAU" group-title="HINDI"" ,BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Manoranjan_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20191221191532"  group-title="HINDI",MANORANJAN MOVIES
@@ -142,23 +98,14 @@ http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/wow-cinema-logo-300x300.jpg" group-title="HINDI" ,WOW CINEMA
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/839941568865964033/Ns4Kofqx_400x400.jpg" group-title="HINDI" , MA TV
-https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1093986764362895360/7QWK2Px9.jpg" group-title="HINDI",The Q
-https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201901/shemaroo-logo.png.jpg" group-title="HINDI",Shemaroo Hindi
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201901/shemaroo-logo.png.jpg" group-title="HINDI",Shemaroo  Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1027881068236484608/DCGO5dD3_400x400.jpg" group-title="HINDI",SHEMARRO KIDS
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png" group-title="HINDI",&TV HD
-http://45.120.188.76:8080/0.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Colors.in.png" group-title="HINDI",Colors
 http://fr-c.movply.stream/hls/Colors.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/im_xjzZrWiY2YeKW6wCGiO3OfvnxKCEClefQhXt4OfEch8gObCN2jRq_d3jzxwZTAA" group-title="HINDI",PRIME BOX OFFICE HD
 http://23.186.192.55:8080/live/primeplus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rOrQj07.png" group-title="HINDI",ABP News
