@@ -82,8 +82,6 @@ http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925599258s.png" group-title="HINDI",Filmy
 http://210.210.155.69/s/s62/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="HINDI",Bollywood Now
-https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Zing.in.png" group-title="HINDI",Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Zoom.in.png" group-title="HINDI",Zoom
@@ -156,12 +154,7 @@ https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MOVIES",MBC 2 HD
-https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="MOVIES",MBC Action HD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
-#EXTINF:-1 tvg-logo= "https://ae.heytv.org/wp-content/uploads/2019/03/MBC_MAX-1.jpg" group-title="MOVIES",MBC MAX
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+
 #EXTINF:-1 tvg-logo= "https://tylerclementi.org/wp-content/uploads/2019/06/71-717908_hbo-logo-png-download-hbo-logo-high-res.jpg" group-title=", HBO HD
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_hboPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1 tvg-logo= "https://tylerclementi.org/wp-content/uploads/2019/06/71-717908_hbo-logo-png-download-hbo-logo-high-res.jpg" group-title=", HBO China
