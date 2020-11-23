@@ -872,22 +872,11 @@ http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-mKFcmJXnj_DcIgJbBT_JYxtDc7Sl5AQRclXMnRKzTz4G5oMk&usqp=CAU" group-title="PAK TV",92 NEWS
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
-#EXTINF:0 tvg-logo="https://pakistanmediaupdates.com/wp-content/uploads/2015/04/Aaj-News.jpg" group-title="PAK TV",Aaj NEWS
-http://playlive.goonj.pk/aajnewsweb_480p/index.m3u8
-#EXTINF:0 tvg-logo="https://www.businessbook.pk/assets/images/listings/logos/urdu1tv_logo_250px_250px.jpg" group-title="PAK TV",URDU 1 TV 
-http://playlive.goonj.pk/urdu1web_480p/index.m3u8
+
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="PAK TV",ARY NEWS
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81nv0DiTGDL._SY355_.png" group-title="PAK TV",SAMA NEWS 
-http://playlive.goonj.pk/samaaweb_480p/index.m3u8
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://smarttv.pk/wp-content/uploads/2016/11/Mehran-Tv.jpg" group-title="PAK TV",MEHRAN TV
-http://stream.tapmad.com:1935/pitvlive2/mehran3/chunklist_w1224928261.m3u8
-
-#EXTINF:0 tvg-country="PK" tvg-logo="https://www.glookast.com/storage/app/uploads/public/5ca/380/0ab/5ca3800abbe0c539272464.png" group-title="PAK TV",JAAG NEWS
-http://playlive.goonj.pk/gnnweb_360p/index.m3u8
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.pinimg.com/236x/10/9d/2e/109d2e3f530f35858feab83dd3e54857.jpg" group-title="PAK TV",GULISTAN NEWS
 https://rtmp.smartstream.video/gulistannews/gulistannews/playlist.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="https://lh3.googleusercontent.com/ay1-b8w8lgmeh4im1R5XTIiH2-7Q1sBS4yIAvfcF_AtJTE1YiljbvZO1YjWQKSb0dUP7" group-title="PAK TV",ARY NEWS
 http://95.211.211.168/live/arynews0012/playlist.m3u8
