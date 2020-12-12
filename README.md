@@ -8,6 +8,8 @@ https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/2bPzLw1F6D1d9gIxOmb9hyYoCRdyU5cmPfjE1JeKBh8hsbL6zcVfXIiLkpRPkEMdqA" group-title="Pakistan" ,BARKAT TV
 https://streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8?720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/0-Oh2Ivj9-xFAy8jOkVaalqG31ZdOz2B2BE04MIrpr2x9dyl-ba_1C7jrON4xoCm7fU" group-title="Pakistan" ,StarShine TV
+https://5e74ff08e631e.streamlock.net/ShineStarTV/mp4:ShineStarTV/chunklist_w804518484.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 News 
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan",92 News
