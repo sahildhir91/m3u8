@@ -13,6 +13,9 @@ https://5e74ff08e631e.streamlock.net/ShineStarTV/mp4:ShineStarTV/chunklist_w8045
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.btl-tv.com/wp-content/uploads/2020/04/BTL_Tv_Logo-removebg-preview.png" group-title="Pakistan" ,BTL TV
 https://livecdn.live247stream.com/btl/tv/btl/stream1/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/2d/cf/06/2dcf0608-4b76-0a11-df33-b8d838fa6e45/source/512x512bb.jpg" group-title="Pakistan" ,JAIRUS TV
+https://livecdn.live247stream.com/jairus/tv/jairus/stream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 News 
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan",92 News
