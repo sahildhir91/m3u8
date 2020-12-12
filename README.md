@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 NEWS (HD)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1251214552584380417/wcBqAsB5_400x400.jpg" group-title="Pakistan" ,KING TV
@@ -10,8 +9,10 @@ https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
 https://streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8?720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/0-Oh2Ivj9-xFAy8jOkVaalqG31ZdOz2B2BE04MIrpr2x9dyl-ba_1C7jrON4xoCm7fU" group-title="Pakistan" ,StarShine TV
 https://5e74ff08e631e.streamlock.net/ShineStarTV/mp4:ShineStarTV/chunklist_w804518484.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.btl-tv.com/wp-content/uploads/2020/04/BTL_Tv_Logo-removebg-preview.png" group-title="Pakistan" ,BTL TV
 https://livecdn.live247stream.com/btl/tv/btl/stream1/chunks.m3u8?nimblesessionid=93364830
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 News 
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan",92 News
