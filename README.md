@@ -11,7 +11,7 @@ https://streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8?720p
 https://5e74ff08e631e.streamlock.net/ShineStarTV/mp4:ShineStarTV/chunklist_w804518484.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.btl-tv.com/wp-content/uploads/2020/04/BTL_Tv_Logo-removebg-preview.png" group-title="Pakistan" ,BTL TV
-https://livecdn.live247stream.com/btl/tv/btl/stream1/chunks.m3u8?nimblesessionid=93364830
+https://livecdn.live247stream.com/btl/tv/btl/stream1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 News 
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
