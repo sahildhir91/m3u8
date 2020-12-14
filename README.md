@@ -48,8 +48,8 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI"" ,STAR PLUS
-http://zer0live.hjkm.info:11991/juno/starplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMCAyOjMwOjU4IFBNJmhhc2hfdmFsdWU9Z3p6V1d3azdXSXkvazk1cFF4Y3hzZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="HINDI"" ,STAR PLUS
+https://ott.bingebd.com/live/ngrp:star_plus_hd_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI"" ,ZEE SMILE
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="HINDI",Zee Cafe
