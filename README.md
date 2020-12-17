@@ -53,8 +53,6 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="HINDI"" ,STAR PLUS HD
-http://rv.therevenge.co:80/live/307231131727/307231131727/83709.m3u8
 
 #EXTINF:-1 tvg-logo="src="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg"" group-title="HINDI"" ,SONY TV HD
 http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/29116.m3u8
