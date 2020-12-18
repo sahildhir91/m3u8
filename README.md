@@ -55,11 +55,12 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="src="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg"" group-title="HINDI"" ,SONY TV HD
-http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/29116.m3u8
-#EXTINF:-1 tvg-logo="src="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg"" group-title="HINDI"" ,SONY MAX TV HD
+#EXTINF:-1 tvg-logo="src="https://img2.pngio.com/star-plus-logo-transparent-png-clipart-free-download-yawd-star-plus-png-412_478.png"" group-title="HINDI",STAR PLUS HD
+http://rv.therevenge.co:80/live/307231131727/307231131727/83709.m3u8
+
+#EXTINF:-1 tvg-logo="src="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg"" group-title="HINDI",SONY MAX TV HD
 http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/29117.m3u8
-#EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI"" ,ZEE SMILE
+#EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI" ,ZEE SMILE
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="HINDI",Zee Cafe
 http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
