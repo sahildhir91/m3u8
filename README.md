@@ -362,8 +362,8 @@ https://cdn-laos.workpoint.news/uk-skynews_480/index.m3u8
 #EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="NEWS",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ir/PressTV.ir.png" group-title="NEWS",IRIB Press TV
-https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/05/CNN-Logo.jpg" group-title="NEWS",CNN
+http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/791.m3u8
 
 #EXTINF:-1 tvg-logo="https://sfbf.org.sg/wp-content/uploads/2017/10/nbc-news-logo-EDDBA8ADC9-seeklogo.com_.png" group-title="NEWS",NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
