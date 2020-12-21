@@ -57,8 +57,6 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="src="https://img2.pngio.com/star-plus-logo-transparent-png-clipart-free-download-yawd-star-plus-png-412_478.png"" group-title="HINDI",STAR PLUS HD
 http://rv.therevenge.co:80/9372941246/5108585674/83709
-
-
 #EXTINF:-1 tvg-logo="src="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg"" group-title="HINDI",SONY MAX TV HD
 http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/29117.m3u8
 #EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI" ,ZEE SMILE
@@ -173,10 +171,13 @@ https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
 
+
 #EXTINF:-1 tvg-logo= "https://tylerclementi.org/wp-content/uploads/2019/06/71-717908_hbo-logo-png-download-hbo-logo-high-res.jpg" group-title="MOVIES", HBO HD
 http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/907.m3u8
+
 #EXTINF:-1 tvg-logo= "https://image.flaticon.com/icons/png/512/870/870885.png" group-title="MOVIES, AXN MOVIE
 http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/907.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_ElectricNow.png" group-title="MOVIES", Electric Now
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
  
