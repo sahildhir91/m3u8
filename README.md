@@ -157,8 +157,9 @@ https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png"  group-title="DOCUMENTARY",Nat Geo Wild HD
 http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/4912.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png"  group-title="DOCUMENTARY",National Geographic
-http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/29004.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png"  group-title="DOCUMENTARY",National Geographic HD
+http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/4911.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/NatGeoPeople.id.png" group-title="DOCUMENTARY",National Geo People
 
 #EXTINF:0 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" ,HISTORY18 HINDI
