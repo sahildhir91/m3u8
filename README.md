@@ -173,13 +173,14 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/af/ee/7f/afee7f902e65a98c2c2c5537f4d45b45.png" group-title="MOVIES",FOX MOVIES
 http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/898.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi3mQ8FKtbjc7zQFSh_atKO2V9qvoGYhplXQ&usqp=CAU" group-title="MOVIES",FOX LIFE HD
 http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/908.m3u8
 #EXTINF:-1 tvg-logo= "https://image.flaticon.com/icons/png/512/870/870885.png" group-title="MOVIES, AXN MOVIE
 http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/907.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQn02Ag_BixTzce2rb2PwwEyfVE1BU1mO33w&usqp=CAU" group-title="MOVIES",HOLLYWOOD
 http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/4864.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_ElectricNow.png" group-title="MOVIES", Electric Now
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
  
