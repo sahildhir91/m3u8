@@ -138,7 +138,7 @@ http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="DOCUMENTARY",Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="DOCUMENTARY",Discovery Turbo
-http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/28996.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/DocuBox.pl.png" group-title="DOCUMENTARY",Docubox
 https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="DOCUMENTARY",English Club
@@ -180,6 +180,9 @@ http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/907.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQn02Ag_BixTzce2rb2PwwEyfVE1BU1mO33w&usqp=CAU" group-title="MOVIES",HOLLYWOOD
 http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/4864.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/870/870934.png" group-title="MOVIES" ,AMC
+http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/4866.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_ElectricNow.png" group-title="MOVIES", Electric Now
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
