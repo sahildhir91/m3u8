@@ -174,8 +174,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
 
 #EXTINF:-1 tvg-logo= "https://tylerclementi.org/wp-content/uploads/2019/06/71-717908_hbo-logo-png-download-hbo-logo-high-res.jpg" group-title="MOVIES", HBO HD
-
-
+http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/907.m3u8
 #EXTINF:-1 tvg-logo= "https://image.flaticon.com/icons/png/512/870/870885.png" group-title="MOVIES, AXN MOVIE
 http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/907.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_ElectricNow.png" group-title="MOVIES", Electric Now
