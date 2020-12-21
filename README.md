@@ -171,9 +171,9 @@ https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/af/ee/7f/afee7f902e65a98c2c2c5537f4d45b45.png" group-title="MOVIES",FOX MOVIES
+http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/898.m3u8
 
-#EXTINF:-1 tvg-logo="https://tylerclementi.org/wp-content/uploads/2019/06/71-717908_hbo-logo-png-download-hbo-logo-high-res.jpg" group-title="MOVIES", HBO HD
-http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/907.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi3mQ8FKtbjc7zQFSh_atKO2V9qvoGYhplXQ&usqp=CAU" group-title="MOVIES",FOX LIFE HD
 http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/908.m3u8
 #EXTINF:-1 tvg-logo= "https://image.flaticon.com/icons/png/512/870/870885.png" group-title="MOVIES, AXN MOVIE
