@@ -24,7 +24,8 @@ https://livecdn.live247stream.com/jairus/tv/jairus/stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000855520832/9e9fcd7285efa896097d022b41b57021_400x400.png" group-title="Pakistan",GAWAHI TV
 https://livecdn.live247stream.com/gawahi/tv/gawahi/stream1/chunks.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/921297810397499392/Po46lM8-_400x400.jpg" group-title="Pakistan" ,URDU 1
+https://cdn5.mjunoon.tv:8087/web/Urdu1-158-4/live/158-4M/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Logo_awaz.jpg/220px-Logo_awaz.jpg" group-title="Pakistan" ,AWAZ TV
 https://cdn5.mjunoon.tv:8087/web/AWAZ-120/live/120M/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 News 
