@@ -25,6 +25,8 @@ https://livecdn.live247stream.com/jairus/tv/jairus/stream/chunks.m3u8
 https://cdn6.mjunoon.tv:8087/web/public-115/live/115M/chunks.m3u8?nimblesessionid=16288005&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIxIDQ6MDE6MDEgQU0maGFzaF92YWx1ZT01aVdxOHQrdXRHL1ZxZEtyb3VpdHp3PT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000855520832/9e9fcd7285efa896097d022b41b57021_400x400.png" group-title="Pakistan",GAWAHI TV
 https://livecdn.live247stream.com/gawahi/tv/gawahi/stream1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img0cf.b8cdn.com/images/logo/01/435801_logo_1562572192_n.png" group-title="Pakistan",SAMA NEWS
+https://cdn5.mjunoon.tv:8087/web/Urdu1-158-4/live/158-4L/chunks.m3u8?nimblesessionid=306112428&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIxIDQ6MDY6MTcgQU0maGFzaF92YWx1ZT1LQ00xcHY2RGw4ay91SUN4Z2FWRFNBPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/921297810397499392/Po46lM8-_400x400.jpg" group-title="Pakistan" ,URDU 1
 https://cdn6.mjunoon.tv:8087/web/public-115/live/115L/chunks.m3u8?nimblesessionid=16288005&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIxIDQ6MDE6MDEgQU0maGFzaF92YWx1ZT01aVdxOHQrdXRHL1ZxZEtyb3VpdHp3PT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Logo_awaz.jpg/220px-Logo_awaz.jpg" group-title="Pakistan" ,AWAZ TV
@@ -39,8 +41,12 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 http://95.211.211.168/live/humnews0189/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="Pakistan",Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://icon2.cleanpng.com/20180516/ftw/kisspng-pakistan-television-channel-channel-5-news-5afc179adec3f1.9301649415264705549125.jpg" group-title="Pakistan",Dunya News
+https://cdn6.mjunoon.tv:8087/web/Channel5-159-4/live/159-4M/l_482694844_41057.ts?nimblesessionid=16288686&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIxIDQ6MTM6MDIgQU0maGFzaF92YWx1ZT1iMW1GeFBsbmc0S3grT3RXdlJzOEpBPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="Pakistan",Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/378800000190837578/591640e8446171ab493e8ff662577052_400x400.jpeg" group-title="Pakistan",ABTAKK NEWS
+https://cdn6.mjunoon.tv:8087/web/AbbTakNews-133/live/133H/chunks.m3u8?nimblesessionid=16289081&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIxIDQ6MjA6MTggQU0maGFzaF92YWx1ZT1HZ0k4aStENzZxVUFQa0RueHhiSFR3PT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i1.sndcdn.com/avatars-000039901620-0v4330-t500x500.jpg" group-title="Pakistan",HUM TV HD
 http://125.209.99.45:43568/BRN/HumTV.stream/chunklist_w1902845131.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/1131554149/peacetv_400x400.jpg" group-title="Pakistan", Peace Tv Urdu
