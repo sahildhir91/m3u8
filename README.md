@@ -63,9 +63,10 @@ http://162.250.201.58:6211/uk/A1TV/tracks-v1a1/mono.m3u8
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/B5YD4pD.png" group-title="Pakistan",Subrang TV (USA)
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://images.mjunoon.tv:8181/logo/Waseb.webp" group-title="Pakistan",WASEB NEWS
+https://cdn6.mjunoon.tv:8087/web/WASEB-130/live/130M/chunks.m3u8?nimblesessionid=16291740&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIxIDU6MDY6MzEgQU0maGFzaF92YWx1ZT1JZHlMWTdFYXFNamg5cWZSbUFndnZnPT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/One_News_PH_logo_2020.png/revision/latest/scale-to-width-down/340?cb=20200308023054" group-title="Pakistan",ONE NEWS
+https://cdn5.mjunoon.tv:8087/web/NEWS1-128/live/128M/chunks.m3u8?nimblesessionid=306116045&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIxIDU6MTc6MDAgQU0maGFzaF92YWx1ZT1KTnBoMzBPZi9KQ055Q0dNMDBwaFZRPT0mdmFsaWRtaW51dGVzPTE=
 
 
 
