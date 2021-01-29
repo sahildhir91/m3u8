@@ -29,6 +29,8 @@ https://livecdn.live247stream.com/gawahi/tv/gawahi/stream1/chunks.m3u8
 https://cdn5.mjunoon.tv:8087/web/Urdu1-158-4/live/158-4L/chunks.m3u8?nimblesessionid=306112428&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIxIDQ6MDY6MTcgQU0maGFzaF92YWx1ZT1LQ00xcHY2RGw4ay91SUN4Z2FWRFNBPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/921297810397499392/Po46lM8-_400x400.jpg" group-title="Pakistan" ,URDU 1
 https://cdn6.mjunoon.tv:8087/web/public-115/live/115L/chunks.m3u8?nimblesessionid=16288005&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIxIDQ6MDE6MDEgQU0maGFzaF92YWx1ZT01aVdxOHQrdXRHL1ZxZEtyb3VpdHp3PT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/3c/a9/7c/3ca97c883a39531ad34c8341c926fc4f.jpg" group-title="Pakistan" ,APNA TV 
+https://cdn6.mjunoon.tv:8087/web/ApnaChannel-134/live/134M/chunks.m3u8?nimblesessionid=16289337&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIxIDQ6MjQ6NTIgQU0maGFzaF92YWx1ZT1aT1RDVDl5MzNNNlNwekpMeHlVQ2dnPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Logo_awaz.jpg/220px-Logo_awaz.jpg" group-title="Pakistan" ,AWAZ TV
 https://cdn6.mjunoon.tv:8087/web/public-115/live/115L/chunks.m3u8?nimblesessionid=16288005&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIxIDQ6MDE6MDEgQU0maGFzaF92YWx1ZT01aVdxOHQrdXRHL1ZxZEtyb3VpdHp3PT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 News 
