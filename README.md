@@ -21,13 +21,14 @@ https://livecdn.live247stream.com/btl/tv/btl/stream1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/2d/cf/06/2dcf0608-4b76-0a11-df33-b8d838fa6e45/source/512x512bb.jpg" group-title="Pakistan" ,JAIRUS TV
 https://livecdn.live247stream.com/jairus/tv/jairus/stream/chunks.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/2d/cf/06/2dcf0608-4b76-0a11-df33-b8d838fa6e45/source/512x512bb.jpg" group-title="Pakistan" ,PUBLIC NEWS
+https://cdn6.mjunoon.tv:8087/web/public-115/live/115M/chunks.m3u8?nimblesessionid=16288005&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIxIDQ6MDE6MDEgQU0maGFzaF92YWx1ZT01aVdxOHQrdXRHL1ZxZEtyb3VpdHp3PT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000855520832/9e9fcd7285efa896097d022b41b57021_400x400.png" group-title="Pakistan",GAWAHI TV
 https://livecdn.live247stream.com/gawahi/tv/gawahi/stream1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/921297810397499392/Po46lM8-_400x400.jpg" group-title="Pakistan" ,URDU 1
-https://cdn5.mjunoon.tv:8087/web/Urdu1-158-4/live/158-4M/chunks.m3u8
+https://cdn6.mjunoon.tv:8087/web/public-115/live/115L/chunks.m3u8?nimblesessionid=16288005&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIxIDQ6MDE6MDEgQU0maGFzaF92YWx1ZT01aVdxOHQrdXRHL1ZxZEtyb3VpdHp3PT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Logo_awaz.jpg/220px-Logo_awaz.jpg" group-title="Pakistan" ,AWAZ TV
-https://cdn5.mjunoon.tv:8087/web/AWAZ-120/live/120M/chunks.m3u8
+https://cdn6.mjunoon.tv:8087/web/public-115/live/115L/chunks.m3u8?nimblesessionid=16288005&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIxIDQ6MDE6MDEgQU0maGFzaF92YWx1ZT01aVdxOHQrdXRHL1ZxZEtyb3VpdHp3PT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 News 
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan",92 News
