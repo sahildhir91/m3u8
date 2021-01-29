@@ -71,10 +71,10 @@ https://cdn5.mjunoon.tv:8087/web/NEWS1-128/live/128M/chunks.m3u8?nimblesessionid
 https://cdn5.mjunoon.tv:8087/web/movie-one-176/live/176M/chunks.m3u8?nimblesessionid=306116176&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIxIDU6MjE6MzYgQU0maGFzaF92YWx1ZT0xS0gzR2tub3BobUN6cHlsM2x3dTRBPT0mdmFsaWRtaW51dGVzPTE=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="PAKISTAN",Tag TV (Opt-1)
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="PAKISTAN",Tag TV (Opt-2)
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/039vs9H.png" group-title="PAKISTAN",Shrrang TV
+http://dcunilive15-lh.akamaihd.net/i/dclive_1@27006/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="src="https://img2.pngio.com/star-plus-logo-transparent-png-clipart-free-download-yawd-star-plus-png-412_478.png"" group-title="HINDI",STAR PLUS HD
