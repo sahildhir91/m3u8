@@ -16,7 +16,8 @@ https://5e74ff08e631e.streamlock.net/ShineStarTV/mp4:ShineStarTV/chunklist_w8045
 https://f-tx-edge-86.christianworldmedia.com/ShineStarTV/mp4:ShineStarTV/chunklist_w857080909.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1313930296975388674/M9LiN7b1_400x400.jpg" group-title="Pakistan" ,JC TV
 https://streamer12.vdn.dstreamone.net/jctv/jctv/chunks.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_NL8GcG09glZSQk9jP2dokvBzzb_8xpbiw&usqp=CAU" group-title="Pakistan" ,PRAISE TV
+https://livecdn.live247stream.com/praise/tv/praise/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.btl-tv.com/wp-content/uploads/2020/04/BTL_Tv_Logo-removebg-preview.png" group-title="Pakistan" ,BTL TV
 https://livecdn.live247stream.com/btl/tv/btl/stream1/chunks.m3u8
 
