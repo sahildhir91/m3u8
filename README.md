@@ -7,7 +7,8 @@ https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMBaZRjFQ6CiX8b-DJwcmjWAKrdkJrVZMJQ&usqp=CAU" group-title="Pakistan" ,FAZAL TV
 https://livecdn.live247stream.com/fazal/tv/fazal/stream1/chunks.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71SgJT0%2BjwL.png" group-title="Pakistan" ,EMMANUEL TV
+http://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.barkat.tv/images/index%20images/p1.jpg" group-title="Pakistan" ,BARKAT TV
 https://streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8?720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pk-shine-star-tv-2229.jpg" group-title="Pakistan" ,StarShine TV
