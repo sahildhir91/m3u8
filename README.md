@@ -917,13 +917,6 @@ http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 
 
 
-
-
-
-
-
-
-
 #EXTINF:0 tvg-country="PK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-mKFcmJXnj_DcIgJbBT_JYxtDc7Sl5AQRclXMnRKzTz4G5oMk&usqp=CAU" group-title="PAK TV",92 NEWS
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
 
@@ -946,3 +939,11 @@ https://stream.simpaisa.com/pitvlive2/animal_360p/playlist.m3u8?checkedby:iptvca
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/DwvztcjZNKQGVwPZlO9u0hgNorBY9rUWklsBTe0LC2C8CCNJmdTICYSK9Pwa22qDHgT0xbSIBb8FiXIoEsfamDYzdjz3RLaWvdGv3iRYrlWxdSTbPu-0s999cAGQXVaZlehzMJVDiGZKxGDGZnWZ9HtitBHLlPW3H4zQh2lFdnZNvf-r58gyP-QdNa_JqJdQfyUMuvOR0A3iEL0" group-title="PAK TV",Venus TV
 https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/cine5tv-hdtvler-3s0c.png" group-title="TEST",CINE5 TV
+http://win1.yayin.com.tr/cine5/cine5/playlist.m3u8
+
