@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pakistani.pk/wp-content/uploads/2016/08/Dunya20News20Live20TV20Streaming20Logo-40-1471993977.jpg" group-title="Pakistan" ,DUNYA NEWS (HD)
+https://intl.dunyanews.tv/live/dunya.smil/chunklist_w1861095086_b200000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1225405516593188865/yXpmlBW4_400x400.jpg" group-title="Pakistan" ,LAHORE NEWS (HD)
+http://mlive.lahorenews.tv/lahorelive/ngrp:lnews_1_all/chunklist_w1311176151_b1200128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 NEWS (HD)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1251214552584380417/wcBqAsB5_400x400.jpg" group-title="Pakistan" ,KING TV
