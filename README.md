@@ -11,7 +11,7 @@ https://livecdn.live247stream.com/fazal/tv/fazal/stream1/chunks.m3u8
 http://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.barkat.tv/images/index%20images/p1.jpg" group-title="Pakistan" ,BARKAT TV
 https://streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8?720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pk-shine-star-tv-2229.jpg" group-title="Pakistan" ,JOYSTAR TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/uawXUu-dt2x78zIPHxJ8rvei4lrqYgFIlPyO8QivUGTtenugxE5_TN9SIzWY7sZ46tbt" group-title="Pakistan" ,JOYSTAR TV
 http://alphabetagama.ddns.net/religious2019/joystartv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIxIDQ6MzU6MDggQU0maGFzaF92YWx1ZT0yeTVjcnVQZmNtejdRcDdaTkttTEtRPT0mdmFsaWRtaW51dGVzPTEy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www03.hoshana.com/assets/img/tv_icon/shinetv.jpg" group-title="Pakistan" ,StarShine TV(NEW)
 https://f-tx-edge-86.christianworldmedia.com/ShineStarTV/mp4:ShineStarTV/chunklist_w857080909.m3u8
