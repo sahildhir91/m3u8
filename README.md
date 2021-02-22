@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1225405516593188865/yXpmlBW4_400x400.jpg" group-title="Pakistan" ,NEWS ONE (HD)
-https://cdn6.mjunoon.tv:8087/web/NEWS1-128/live/128M/chunks.m3u8
+https://cdn5.mjunoon.tv:8087/web/8XM-131/live/131H/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pakistani.pk/wp-content/uploads/2016/08/Dunya20News20Live20TV20Streaming20Logo-40-1471993977.jpg" group-title="Pakistan" ,DUNYA NEWS (HD)
 https://intl.dunyanews.tv/live/dunya.smil/chunklist_w1861095086_b200000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1225405516593188865/yXpmlBW4_400x400.jpg" group-title="Pakistan" ,LAHORE NEWS (HD)
