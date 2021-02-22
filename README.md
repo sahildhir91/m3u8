@@ -39,6 +39,8 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/chunks.m3u8
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/1029819158622560257/IX7fTqWA_400x400.jpg" group-title="Pakistan" ,Hum News
 http://95.211.211.168/live/humnews0189/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://www.parsatv.com/index_files/channels/expressnews.png" group-title="Pakistan" ,EXPRESS News
+https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/chunklist_w1782001223.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="Pakistan",Lahore News
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://icon2.cleanpng.com/20180516/ftw/kisspng-pakistan-television-channel-channel-5-news-5afc179adec3f1.9301649415264705549125.jpg" group-title="Pakistan",Dunya News
