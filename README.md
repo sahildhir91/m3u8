@@ -85,8 +85,8 @@ http://dcunilive15-lh.akamaihd.net/i/dclive_1@27006/master.m3u8
 
 #EXTINF:-1 tvg-logo="src="https://img2.pngio.com/star-plus-logo-transparent-png-clipart-free-download-yawd-star-plus-png-412_478.png"" group-title="HINDI",STAR PLUS HD
 http://rv.therevenge.co:80/9372941246/5108585674/83709
-#EXTINF:-1 tvg-logo="src="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg"" group-title="HINDI",STAR PLUS UK
-http://live5.bali2proxy.iptv8k.org/live/starplushindixiong/s.m3u8
+#EXTINF:-1 tvg-logo="src="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg"" group-title="HINDI",Q TV
+https://cdn.live.shemaroome.com/qyoutv/selqyoutv/chunklist_w464068904.m3u8?hdnts=st%3D1614852554%7Eexp%3D1614863354%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D9a305055951717fd1d7a35cde492d8cea65920698be55f2f76437c581967c5aa
 #EXTINF:-1 tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" group-title="HINDI" ,ZEE SMILE
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="HINDI",Zee Cafe
