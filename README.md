@@ -19,8 +19,8 @@ http://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
 https://streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8?720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/uawXUu-dt2x78zIPHxJ8rvei4lrqYgFIlPyO8QivUGTtenugxE5_TN9SIzWY7sZ46tbt" group-title="Pakistan" ,JOYSTAR TV
 https://cdn.live247stream.com/joystar/tv/joystar/stream2/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bibletvglobal.com/wp-content/uploads/2019/02/logo-1.png" group-title="Pakistan" ,BIBLE TV
-http://alphabetagama.ddns.net/religious2019/bibletv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIxIDQ6MzY6MDAgQU0maGFzaF92YWx1ZT03SzdxT0NjRXBVbUZ3L3FNeHM4cGp3PT0mdmFsaWRtaW51dGVzPTEy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMfJt9aogMqufUMenBtKFt0sQf9J5k6_vZMA&usqp=CAU" group-title="Pakistan" ,YESHUAA TV
+http://cdn15.live247stream.com/yeshuaa/ls/yeshuaa/stream/chunks.m3u8?nimblesessionid=132689336
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www03.hoshana.com/assets/img/tv_icon/shinetv.jpg" group-title="Pakistan" ,StarShine TV(NEW)
 https://f-tx-edge-86.christianworldmedia.com/ShineStarTV/mp4:ShineStarTV/chunklist_w857080909.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1313930296975388674/M9LiN7b1_400x400.jpg" group-title="Pakistan" ,JC TV
