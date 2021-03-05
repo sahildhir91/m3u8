@@ -958,6 +958,6 @@ https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
 #EXTINF:-1 tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/cine5tv-hdtvler-3s0c.png" group-title="TEST",CINE5 TV
 http://win1.yayin.com.tr/cine5/cine5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/cine5tv-hdtvler-3s0c.png" group-title="TEST",7 WONDER
-https://shemaroomeseventv.shemaroo.com/sevenwonderstvhls/live.m3u8?hdnts=st=1614852890~exp=1614863690~acl=*~data=testdata~hmac=6a1e6c7463634bd1c2ce5dfd6b2082da4e24658c35b60f8e6b287c1526c308fc
+https://shemaroomeseventv.shemaroo.com/sevenwonderstvhls/live.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBA1NSa7QaIYQXhk-0NIym8qXyFQRG8jxyNA&usqp=CAU" group-title="TEST",PURE PUNJABI TV
-http://livestream.unlimitedcdn.com/agm-pp/pure-punjabi/chunks.m3u8?nimblesessionid=24964172
+http://livestream.unlimitedcdn.com/agm-pp/pure-punjabi/chunks.m3u8
