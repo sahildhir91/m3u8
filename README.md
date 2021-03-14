@@ -733,7 +733,7 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.
 #EXTINF:-1 ch-id="TV 2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="MY/SG",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8 
 #EXTINF:-1 ch-id="TV 2" tvg-logo="https://d1marr3m5x4iac.cloudfront.net/images/edpborder500/I0-001/004/341/688-1.jpeg_/tv3-malaysia-88.jpeg" group-title="MY/SG",TV3
-https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
+http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
 
 #EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="MY/SG",Astro Ria
 http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
