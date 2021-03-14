@@ -719,7 +719,7 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 #EXTINF:-1 ch-id="Channel NewsAsia" tvg-logo="https://www.themangrovelab.com/x/cdn/?https://storage.googleapis.com/wzukusers/user-29321638/images/5970749b5306f2CegOlQ/download.png" group-title="MY/SG",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 ch-id="Astro Awani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="MY/SG",Astro Awani
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 ch-id="RTM BES" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MY/SG",Berita RTM
 https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1 ch-id="Suria" tvg-logo="https://artefakts.sg/wp02/wp-content/uploads/2019/10/events-logo-suria.jpg" group-title="MY/SG",Suria
