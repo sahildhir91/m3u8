@@ -751,7 +751,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.
 #EXTINF:-1 tvg-group="Entertainment" tvg-logo="https://www.contv.com/static/media/ConTV-Logo.a1d15e62.png" group-title="MY/SG",CONtv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_756000/chunklist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8" group-title="MY/SG",Astro Awani
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 ch-id="NTV7" tvg-logo="https://pbs.twimg.com/profile_images/1080737074590887938/4tBnrq18_400x400.jpg" group-title="MY/SG",NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 #EXTINF:-1 ch-id="8TV" tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="MY/SG",8TV
