@@ -989,5 +989,11 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="ASTRO TEST",AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 group-title="ASTRO TEST" tvg-logo="http://dusktill.masuk.web.id/img/assp.png", Astro Supersports 1
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 group-title="ASTRO TEST" tvg-logo="http://dusktill.masuk.web.id/img/assp2.png", Astro Supersports 2
 
+#EXTINF:-1 group-title="ASTRO TEST" tvg-logo="http://dusktill.masuk.web.id/img/assp3.png", Astro Supersports 3
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1 group-title="ASTRO TEST" tvg-logo="http://dusktill.masuk.web.id/img/assp4.png", Astro Supersports 4
 
