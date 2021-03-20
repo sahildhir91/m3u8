@@ -996,4 +996,11 @@ http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO TEST" tvg-logo="http://dusktill.masuk.web.id/img/assp3.png", Astro Supersports 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO TEST" tvg-logo="http://dusktill.masuk.web.id/img/assp4.png", Astro Supersports 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movies",HBO HD
+https://gratismkctv.net/film/hbo.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="ASTRO TEST", FOX MOVIES
+https://gratismkctv.net/film/foxmovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="ASTRO TEST", FOX ACTION MOVIES
+https://gratismkctv.net/film/foxactionmovies.m3u8
