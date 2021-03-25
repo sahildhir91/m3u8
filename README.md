@@ -41,6 +41,8 @@ https://livecdn.live247stream.com/gawahi/tv/gawahi/stream1/chunks.m3u8
 https://livecdn.live247stream.com/missionasia/tv/missionasia/stream2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 News 
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ptv.com.pk/user/assets/images/History/ptvworld.png" group-title="Pakistan" ,PTV WORLD
+https://live.ptv.com.pk/live/ptvworld/chunklist_w1311361788.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan",92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="Pakistan",92 UK
