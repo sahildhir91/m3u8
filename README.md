@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1225405516593188865/yXpmlBW4_400x400.jpg" group-title="Pakistan" ,92 NEWS PLUS
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist_w511566512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pakistani.pk/wp-content/uploads/2016/08/Dunya20News20Live20TV20Streaming20Logo-40-1471993977.jpg" group-title="Pakistan" ,DUNYA NEWS (HD)
-https://intl.dunyanews.tv/live/dunya.smil/chunklist_w1861095086_b200000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logolynx.com/images/logolynx/s_c7/c79cc3ec72d0d91cd8b28de2833c12de.png" group-title="Pakistan" ,BOL NEWS HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1616693483/ei/i3RcYOXTKrWGmgeMi7vQBQ/ip/60.50.51.243/id/uXBO91Ih2sI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/24010698/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgMJF0jf2ANv5en_oDxxPkY56PySc-w2exD9TUF-MQcLwCICwFmaB17Is6L6-SUcutHXOa74RHsFJh1MmZuZyEMKXf/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1225405516593188865/yXpmlBW4_400x400.jpg" group-title="Pakistan" ,LAHORE NEWS (HD)
 http://mlive.lahorenews.tv/lahorelive/ngrp:lnews_1_all/chunklist_w1311176151_b1200128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 NEWS (HD)
